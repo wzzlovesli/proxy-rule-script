@@ -1,8 +1,8 @@
-+.bard.google.com
-makersuite.google.com
-+.deepmind.google
-+.generativeai.google
 alkalimakersuite-pa.clients6.google.com
 +.deepmind.com
-ai.google.dev
++.deepmind.google
++.bard.google.com
 generativelanguage.googleapis.com
++.generativeai.google
+makersuite.google.com
+ai.google.dev
