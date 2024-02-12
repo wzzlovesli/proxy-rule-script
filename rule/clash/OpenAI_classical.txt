@@ -1,4 +1,4 @@
-IP-ASN,20473,no-resolve
-IP-ASN,14061,no-resolve
-DOMAIN-KEYWORD,openaicom-api
 DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,openaicom-api
+IP-ASN,14061,no-resolve
+IP-ASN,20473,no-resolve
