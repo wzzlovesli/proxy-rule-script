@@ -4,18 +4,11 @@ DOMAIN-KEYWORD,-logging.nextmedia.com
 DOMAIN-KEYWORD,-s2s.sensic.net
 DOMAIN-KEYWORD,-spiky.clevertap-prod.com
 DOMAIN-KEYWORD,-tracker.biliapi.net
-DOMAIN-KEYWORD,.engage.3m.
-DOMAIN-KEYWORD,.estream.
-DOMAIN-KEYWORD,.freecontent.
-DOMAIN-KEYWORD,.net.daraz.
-DOMAIN-KEYWORD,.nimiq.
-DOMAIN-KEYWORD,.zooplus.
 DOMAIN-KEYWORD,112wan
 DOMAIN-KEYWORD,789htbet
 DOMAIN-KEYWORD,_vmind.qqvideo.tc.qq.com
 DOMAIN-KEYWORD,ad.ixigua.com
 DOMAIN-KEYWORD,adform
-DOMAIN-KEYWORD,adjust.
 DOMAIN-KEYWORD,admarvel
 DOMAIN-KEYWORD,admaster
 DOMAIN-KEYWORD,admdfs
@@ -43,7 +36,6 @@ DOMAIN-KEYWORD,advert
 DOMAIN-KEYWORD,adwords
 DOMAIN-KEYWORD,allyes
 DOMAIN-KEYWORD,analysys
-DOMAIN-KEYWORD,anybest.
 DOMAIN-KEYWORD,applovin
 DOMAIN-KEYWORD,appsflyer
 DOMAIN-KEYWORD,asewlfjqwlflkew
@@ -57,9 +49,7 @@ DOMAIN-KEYWORD,dfkj8
 DOMAIN-KEYWORD,dlads
 DOMAIN-KEYWORD,dnserror
 DOMAIN-KEYWORD,domob
-DOMAIN-KEYWORD,doubleclick.
 DOMAIN-KEYWORD,dtscout
-DOMAIN-KEYWORD,dubester.
 DOMAIN-KEYWORD,duomeng
 DOMAIN-KEYWORD,dwtrack
 DOMAIN-KEYWORD,e2wysbacctt1
@@ -78,7 +68,6 @@ DOMAIN-KEYWORD,haowanyou
 DOMAIN-KEYWORD,histats
 DOMAIN-KEYWORD,hostingcloud
 DOMAIN-KEYWORD,httpdns-
-DOMAIN-KEYWORD,httpdns.
 DOMAIN-KEYWORD,in-page-push
 DOMAIN-KEYWORD,inmobi
 DOMAIN-KEYWORD,jads
@@ -105,9 +94,7 @@ DOMAIN-KEYWORD,pangolin.snssdk.com
 DOMAIN-KEYWORD,partnerad
 DOMAIN-KEYWORD,pglstatp-toutiao
 DOMAIN-KEYWORD,pingfore
-DOMAIN-KEYWORD,safebrowsing.
 DOMAIN-KEYWORD,securepubads
-DOMAIN-KEYWORD,smetrics.marketing.
 DOMAIN-KEYWORD,socdm
 DOMAIN-KEYWORD,stsdk.vivo.com.cn
 DOMAIN-KEYWORD,stsdk.vivoglobal.com
