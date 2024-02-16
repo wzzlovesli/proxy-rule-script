@@ -265,7 +265,9 @@
 +.4kup.net
 +.4mydomain.com
 +.4myminicard.com
++.4pcdn.org
 +.4pig.com
++.4plebs.org
 +.4porn.com
 +.4porn4.com
 +.4pu.com
@@ -732,6 +734,7 @@
 +.advertisercommunity.com
 +.adx.promo
 +.ae
++.ae-ad-1.myhuaweicloud.com
 +.ae.hao123.com
 +.ae.org
 +.aeasyshop.com
@@ -768,6 +771,7 @@
 +.ag
 +.aga-expo.com
 +.agakhan
++.agedm.org
 +.agendaweek.com
 +.agnesb.fr
 +.agoogleaday.com
@@ -858,6 +862,7 @@
 +.akadns.net
 +.akadns6.net
 +.akadns88.net
++.akadns99.net
 +.akaeai.com
 +.akafms.net
 +.akagtm.org
@@ -1309,6 +1314,7 @@
 +.ap-southeast-1.myhuaweicloud.com
 +.ap-southeast-2.myhuaweicloud.com
 +.ap-southeast-3.myhuaweicloud.com
++.ap-southeast-4.myhuaweicloud.com
 +.ap-tokyo.myqcloud.com
 +.ap.org
 +.ap0le.com
@@ -6181,6 +6187,7 @@
 +.eu-frankfurt.myqcloud.com
 +.eu-moscow.myqcloud.com
 +.eu-west-0.myhuaweicloud.com
++.eu-west-101.myhuaweicloud.com
 +.eu.org
 +.eubluecardvisa.com
 +.eucasino.com
@@ -11775,6 +11782,7 @@
 +.mdpi.com
 +.mdpj-mov.shop
 +.mdpjoin.buzz
++.me-east-1.myhuaweicloud.com
 +.me-gay.com
 +.me.com
 +.me.me
@@ -18087,6 +18095,7 @@
 +.tpi.org.tw
 +.tpornstars.com
 +.tr
++.tr-west-1.myhuaweicloud.com
 +.tr.com
 +.tracfone.com
 +.tracking-location.com
