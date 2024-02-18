@@ -2699,6 +2699,7 @@
 +.bingapis.com
 +.bingapistatistics.com
 +.bingo
++.bingparachute.com
 +.bingsandbox.com
 +.bingvisualsearch.com
 +.bingworld.com
@@ -7896,6 +7897,7 @@
 +.globalriskregulator.com
 +.globalsecurity.org
 +.globalsign-media.com
++.globalsign.cloud
 +.globalsign.com
 +.globalsign.net
 +.globalspec.com
@@ -19466,6 +19468,8 @@
 +.wetplace.com
 +.wetpussygames.com
 +.wetsextube.com
++.wetv.vip
++.wetvinfo.com
 +.wexiaobo.org
 +.wezhiyong.org
 +.wezone.net
@@ -21267,6 +21271,7 @@ vscode.blob.core.windows.net
 vscode.search.windows.net
 vsmarketplacebadge.apphb.com
 weblive-hamivideo.cdn.hinet.net
+wetv.qq.com
 widgets.stripst.com
 wip.adobe.com
 wip1.adobe.com
