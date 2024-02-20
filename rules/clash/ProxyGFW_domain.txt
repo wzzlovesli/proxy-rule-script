@@ -9434,6 +9434,7 @@
 +.huluteam.com
 +.hulutv.com
 +.huluusa.com
++.humanparty.me
 +.humanrightspressawards.org
 +.humblebundle.com
 +.humoron.com
@@ -17557,6 +17558,7 @@
 +.tenbyfotolia.com
 +.tencent.design
 +.tennic
++.tenor.com
 +.tensorflow.org
 +.tenzinpalmo.com
 +.terabox.com
