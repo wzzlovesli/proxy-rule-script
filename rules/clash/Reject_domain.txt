@@ -1932,6 +1932,7 @@
 +.4kmovies.online
 +.4l903.com
 +.4link.it
++.4lke.online
 +.4luckyf.com
 +.4mads.com
 +.4mlhn1ocg4.com
@@ -12104,7 +12105,6 @@
 +.am.g.ireader.com
 +.am.siemensplmevents.com
 +.am.szhome.com
-+.am.titsx.com
 +.am.yahoo.co.jp
 +.am.zdnet.com.cn
 +.am0624.com
@@ -13220,7 +13220,6 @@
 +.andmlb.kshwtj.com
 +.andmlbf.tj.ijinshan.com
 +.andohs.net
-+.andoldifiscqa.com.ua
 +.andoldifiscqak.xyz
 +.andomedia.com
 +.andomediagroup.com
@@ -14530,7 +14529,6 @@
 +.app.ticketleader.ca
 +.app.ticketstaronline.com
 +.app.tippp.io
-+.app.titsx.com
 +.app.truconversion.com
 +.app.tulanegreenwave.com
 +.app.tysoncenter.com
@@ -15185,6 +15183,7 @@
 +.arpxs.com
 +.arqsafhutlam.com
 +.arquilavaan.com
++.arqvm.cn
 +.arqznlwzkkaev.top
 +.arqznlwzkkjla.top
 +.arragouts.com
@@ -41831,7 +41830,6 @@
 +.fxfhjs.com
 +.fxggbfjfi.com
 +.fxgoaeplst.com
-+.fxhngjdubf.xyz
 +.fxipca.americanexpress.ca
 +.fxipreferral.americanexpress.com
 +.fxiuuaa.com
@@ -56644,6 +56642,7 @@
 +.ktnukmtsbfko.com
 +.ktnwxhjv.xyz
 +.ktobedirectu.xyz
++.ktoioo.xyz
 +.ktoloto.com
 +.ktqiyjojiya.com
 +.ktrackdata.com
@@ -61132,6 +61131,7 @@
 +.lunyfallace.com
 +.lunylarynx.uno
 +.luodiye01.cn
++.luofk.xyz
 +.luolikong.net
 +.luolitang.com
 +.luomanzhubao.cn
@@ -75351,6 +75351,7 @@
 +.partishion.com
 +.partlytrouble.com
 +.partner-ads.com
++.partner-app.softwareselect.com
 +.partner-earning.com
 +.partner-safe.men
 +.partner-staging.miso.kr
@@ -75677,6 +75678,7 @@
 +.pbhrwhehnyibit.com
 +.pbid.iforex.com
 +.pbino.com
++.pbjs-stream.bydata.com
 +.pbjs.sskzlabs.com
 +.pbkqidejmes.ru
 +.pblcpush.com
@@ -77252,6 +77254,7 @@
 +.pjyvgdpvjp.com
 +.pjzgggywd.com
 +.pjzmbhf.cn
++.pjzxdl.xyz
 +.pk1u.melanielyne.com
 +.pk840.com
 +.pk910324e.com
@@ -89737,6 +89740,7 @@
 +.sizmek.com
 +.sizzlerisoflor.com
 +.sj1.3987.com
++.sjaaquj.cn
 +.sjaidu.com
 +.sjalipa.cn
 +.sjarvis.taobao.com
@@ -94114,6 +94118,7 @@
 +.srwww1.com
 +.srxy.xyz
 +.srzirmlql.com
++.srzpsbf.xyz
 +.srzzohlms.com
 +.ss.azuremagazine.com
 +.ss.cnczjy.com
@@ -99250,6 +99255,7 @@
 +.tbm09.com
 +.tbmgyz.centerparcs.de
 +.tbmwkwbdcryfhb.xyz
++.tbpot.com
 +.tbppfktchj.com
 +.tbradshedm.org
 +.tbsjkaorxwuchyb.com
@@ -109591,6 +109597,7 @@
 +.video-adblocker.com
 +.video-ads-module.ad-tech.nbcuni.com
 +.video-ads.a2z.com
++.video-analytics-api.cloudinary.com
 +.video-bazis.com
 +.video-invest.net
 +.video-link.ru
@@ -111903,6 +111910,7 @@
 +.wbupbv.com
 +.wbusiness.fr
 +.wbuurzutrhmlsz.com
++.wbvfj.xyz
 +.wbvjhlaljp.com
 +.wbzfybvl.com
 +.wc4.net
@@ -116075,6 +116083,7 @@
 +.xn--shptruongstar-4w2g.com
 +.xn--tst552fo5s.xyz
 +.xn--wcsy74a6d835f5lf.com
++.xn--wgvp78a61swpe6zdozj.cn
 +.xn--wxt79hbyb675a.online
 +.xn--wxtr44c.video
 +.xn--wxtr9fwyxk9c.art
@@ -116816,6 +116825,7 @@
 +.ydbmeagwyakdfl.com
 +.ydcksa.certideal.com
 +.yddbysa.xyz
++.yddjmpjo.xyz
 +.yddtah.takingshape.com
 +.ydenknowled.com
 +.ydeprint.com
@@ -119167,6 +119177,7 @@
 +.zutcqppwm.com
 +.zutodu.cn
 +.zuugfj.cn
++.zuvbzl.xyz
 +.zuyejecgb.com
 +.zuzodoad.com
 +.zv.7vid.net
