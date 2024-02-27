@@ -8039,6 +8039,7 @@
 +.adnext.co
 +.adnext.fr
 +.adnext.it
++.adnext.pl
 +.adnexus.net
 +.adngin.com
 +.adnico.jp
@@ -10767,6 +10768,7 @@
 +.affiliates.a2hosting.com
 +.affiliates.allposters.com
 +.affiliates.arvixe.com
++.affiliates.audiobooks.com
 +.affiliates.babylon.com
 +.affiliates.cdkeys.com
 +.affiliates.cupidplc.com
@@ -18674,6 +18676,7 @@
 +.bestadload.com
 +.bestadmax.com
 +.bestadultaction.com
++.bestandgreatests.com
 +.bestapplandever.com
 +.bestaryua.com
 +.bestaybuzzed.website
@@ -23089,6 +23092,7 @@
 +.cdn.assets.craveonline.com
 +.cdn.atlassbx.com
 +.cdn.axphotoalbum.top
++.cdn.b2.ai
 +.cdn.banners.scubl.com
 +.cdn.batmobi.net
 +.cdn.bescore.com
@@ -36992,7 +36996,6 @@
 +.enzav.xyz
 +.enzymsucuuba.com
 +.eo.pearlinsurance.com
-+.eo.sdahxz.xyz
 +.eo62cocntx.com
 +.eoafgbgyebbcy.com
 +.eoaktaposh.com
@@ -38101,6 +38104,7 @@
 +.ex.newsland.com
 +.ex.puata.info
 +.ex6.ru
++.exaapi.com
 +.exaccess.ru
 +.exacdn.com
 +.exactag.com
@@ -39884,6 +39888,7 @@
 +.finder.cox.net
 +.finderlocator.com
 +.findgoodfood.co
++.findgreatnews.com
 +.findicaterperty.site
 +.findicons.com
 +.finding.hardwareheaven.com
@@ -41286,6 +41291,7 @@
 +.fresh.inlinkz.com
 +.fresh.techdirt.com
 +.fresh8.co
++.freshalldaynews.com
 +.freshannouncement.com
 +.freshcounter.com
 +.freshendueshealth.com
@@ -43366,6 +43372,8 @@
 +.ghland.site
 +.ghmproperties.com
 +.ghnmg.top
++.ghnn11.com
++.ghnn22.com
 +.ghnn33.com
 +.ghnwss.fmsstores.gr
 +.ghostedridotto.com
@@ -44221,7 +44229,6 @@
 +.go.getcyclique.com
 +.go.getreadyforthefuture.com
 +.go.ginmon.de
-+.go.gotourls.bid
 +.go.gpcom.com
 +.go.greenlee.emerson.com
 +.go.gridwise.io
@@ -46914,6 +46921,7 @@
 +.hemaglnkrvdcgxe.com
 +.hemblx.vans.cl
 +.hembrandsteppe.com
++.hemenindir.to
 +.hemhiveoccasion.com
 +.hemineedunks.com
 +.hemingway-dries-i-207.site
@@ -48248,6 +48256,7 @@
 +.howtotroll.org
 +.howtubray.com
 +.hoydenlooms.website
++.hozatr.xyz
 +.hozoaxan.com
 +.hp-china.biz
 +.hp.myway.com
@@ -49469,6 +49478,7 @@
 +.ieicbkjmmqkcmgq.com
 +.ieiukkwfqhwuvwy.com
 +.ielgag.top
++.ielmzzm.com
 +.iemiq.com
 +.iemufbuvehrjo.xyz
 +.iendoo.com
@@ -53615,6 +53625,7 @@
 +.jesgoo.com
 +.jessieemys.com
 +.jessieu.fr
++.jessunews.com
 +.jestbiases.com
 +.jestinquire.com
 +.jestinvaderspeedometer.com
@@ -54587,7 +54598,6 @@
 +.js.stroeermediabrands.de
 +.js.syosetu.top
 +.js.szande.com.cn
-+.js.tianmel.xyz
 +.js.ubaike.cn
 +.js.union123.me
 +.js.users.51.la
@@ -61537,7 +61547,6 @@
 +.m.d11.io
 +.m.dbaiz.com
 +.m.delltechnologies.com
-+.m.dglscm.cn
 +.m.doodlemobile.com
 +.m.dq.ca
 +.m.dq.com
@@ -61678,7 +61687,6 @@
 +.m.staging.plateiq.com
 +.m.suda.io
 +.m.symac.cn
-+.m.szyuke.cn
 +.m.tcksbz888.com
 +.m.topya.com
 +.m.tot166.com
@@ -61715,7 +61723,6 @@
 +.m.zaoss.com
 +.m.zedcdn.me
 +.m.zeiaa.com
-+.m.zwsteel.cn
 +.m03dv.xyz
 +.m05ib.xyz
 +.m0hcppadsnq8.com
@@ -69206,6 +69213,7 @@
 +.nairapp.com
 +.naisoops.net
 +.naissaance.fr
++.naitive.pl
 +.naive-skin.pro
 +.naivegirlie.com
 +.naivescorries.com
@@ -69545,6 +69553,7 @@
 +.nativemedia.rs
 +.nativendo.com
 +.nativendo.de
++.nativeone.pl
 +.nativepu.sh
 +.nativerent.ru
 +.nativeroll.tv
@@ -69803,6 +69812,7 @@
 +.nebabrop.com
 +.nebadu.com
 +.nebsefte.net
++.nebulacrescent.com
 +.nebulouslostpremium.com
 +.nebulousripple.com
 +.neburn.com
@@ -80426,7 +80436,6 @@
 +.pv.funshion.com
 +.pv.hd.sohu.com
 +.pv.kuaizhan.com
-+.pv.ldlwdsx.com
 +.pv.ltn.com.tw
 +.pv.partenaires-verisure.fr
 +.pv.sogou.com
@@ -80694,7 +80703,6 @@
 +.qandfmfgdmfogw.com
 +.qanduan.com
 +.qange.com
-+.qaops.jgwsmqx.com
 +.qaou.top
 +.qaqact.cn
 +.qaqqihlho.com
@@ -80720,6 +80728,7 @@
 +.qbhjokk.xyz
 +.qbhmz3.com
 +.qbhyczr5hw.ru
++.qbhzghb.xyz
 +.qbittorrent.com
 +.qbjqpopv.com
 +.qbkvksakslhgek.com
@@ -81222,6 +81231,7 @@
 +.qqied.xyz
 +.qqjar.ru
 +.qqkcmafkxossru.com
++.qqkkpos.com
 +.qqkzjpupluv.com
 +.qqlnvwjtjhve.com
 +.qqlogo.qq.com
@@ -81269,6 +81279,7 @@
 +.qring-tms.qq.com
 +.qrirud.xyz
 +.qrius.me
++.qrkhwe.xyz
 +.qrlsx.com
 +.qroagwadndwy.com
 +.qrprobopassor.com
@@ -81278,6 +81289,7 @@
 +.qrstes.com
 +.qrtjwa.cn
 +.qrtqsy.freshlycosmetics.com
++.qrttfmo.cn
 +.qrwkkcyih.xyz
 +.qrxmgfz.cn
 +.qrzlaatf.xyz
@@ -84730,7 +84742,6 @@
 +.rqytqq.com
 +.rqyxdk.myanimelist.net
 +.rqz4.supdigital.fr
-+.rr.pochengweiyuan.com
 +.rrdtjj.top
 +.rreauksofthecom.xyz
 +.rrentlysearchi.info
@@ -85241,6 +85252,7 @@
 +.rwtujypxp.xyz
 +.rwuannaxztux.com
 +.rwusvej.com
++.rwwmbymwbzbea.top
 +.rwwoqcjefc.com
 +.rwxgorjgvcfirtx.com
 +.rwzexfzoyqf.com
@@ -86644,6 +86656,7 @@
 +.scatteredquiver.com
 +.scatteredstream.com
 +.scavelbuntine.life
++.scb.nanghanmucthenganhangvisa.com
 +.scbvydod.xyz
 +.scc.0.0.0.0.cn
 +.sccpnd.xyz
@@ -93795,6 +93808,7 @@
 +.splut.com
 +.splyt.com
 +.spmaeu.gumtree.com.au
++.spmail88.com
 +.spmyma.moscowfresh.ru
 +.spn-twr-14.com
 +.spn.ee
@@ -98066,6 +98080,7 @@
 +.szmdp.cn
 +.szmkr.cn
 +.szmmb.cn
++.szmnd.cn
 +.szmnf.cn
 +.szmns.cn
 +.szmpc.cn
@@ -101020,6 +101035,7 @@
 +.tindung188.com
 +.tindung24h-vietcombank.online
 +.tindung24h.com
++.tindungcanhan.online
 +.tindungnganhang-vietnam247.online
 +.tindungnganhang-vietnam365.online
 +.tindungnganhang.biz
@@ -102121,6 +102137,7 @@
 +.toyosbullpen.com
 +.toysrestrictcue.com
 +.tozoruaon.com
++.tozqvor.com
 +.tozuoi.xyz
 +.tozwrqnq.xyz
 +.tp.ackermann.ch
@@ -109541,6 +109558,7 @@
 +.vhuay.com
 +.vhutitpu.icu
 +.vhvmiinx.com
++.vhvwlb.xyz
 +.vi-mayman.com
 +.vi-serve.com
 +.vi.5.p2l.info
@@ -110153,6 +110171,7 @@
 +.vingroupinvest.com
 +.vingroupinvestment.com
 +.vingroupventures.shop
++.vinideal-sale.pro
 +.vinkelvej12.dk
 +.vinlens.com
 +.vinoscout.fr
@@ -112766,6 +112785,7 @@
 +.welt-der-links.de
 +.weltercampe.com
 +.welved.com
++.wemakebestnews.com
 +.wemdsm.com
 +.wemfpbtd.xyz
 +.wemine.pro
@@ -114480,6 +114500,7 @@
 +.www-banner.chat.ru
 +.www-ebis.384.co.jp
 +.www-google-analytics.l.google.com
++.www-icloud.com
 +.www-icloudid.com
 +.www-mfacebook.com.vn
 +.www-orbit-promo.ru
@@ -115953,6 +115974,7 @@
 +.xkjmjj.com
 +.xkjnvehk.com
 +.xkjxgt.com
++.xklofoz.cn
 +.xkmwxwy.cn
 +.xknhwv.mobile01.com
 +.xkpbcd.com
@@ -116508,7 +116530,6 @@
 +.xwuad.com
 +.xwxqdfmlsgir.com
 +.xx.m.gxwztv.com
-+.xx.shaque.vip
 +.xxad.cc
 +.xxaparfuel.xyz
 +.xxbeyqowtdjgqr.com
