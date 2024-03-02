@@ -6,7 +6,6 @@
 +.2mdn.net
 +.466453.com
 +.abc.xyz
-+.accounts.googlers.com
 +.adgoogle.net
 +.admeld.com
 +.admob-cn.com
@@ -257,7 +256,6 @@
 +.g3doc.corp.google.com
 +.gateway.dev
 +.gcp.gvt2.com
-+.gcpnode.com
 +.gcr.io
 +.gerritcodereview.com
 +.get.app
@@ -762,8 +760,6 @@
 +.uberproxy4.corp.google.com
 +.uberproxy6.corp.google.com
 +.unfiltered.news
-+.up.corp.goog
-+.up.gcp.googlers.com
 +.update.crashlytics.com
 +.update.googleapis.com
 +.urchin.com

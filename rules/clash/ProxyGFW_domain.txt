@@ -1628,6 +1628,7 @@
 +.apkmonk.com
 +.apkplz.com
 +.apkpure.com
++.apkpure.net
 +.aple.com
 +.aplestore.com
 +.aplleipods.com
@@ -5543,6 +5544,8 @@
 +.coobay.com
 +.cooer.su
 +.cookiechoices.org
++.cookielaw.org
++.cookiepro.com
 +.cookingchannel
 +.cool-comics.com
 +.cool18.com
@@ -5607,6 +5610,7 @@
 +.covid19-rx.org
 +.covid19rx.org
 +.cowboom.com
++.coze.com
 +.cozydrdrebeats.com
 +.cp44.net
 +.cpan.org
@@ -6310,7 +6314,6 @@
 +.disney-asia.com
 +.disney-discount.com
 +.disney-plus.net
-+.disney-portal.my.onetrust.com
 +.disney-studio.com
 +.disney-studio.net
 +.disney.asia
@@ -16628,6 +16631,7 @@
 +.onepornlist.com
 +.onesiterip.com
 +.onestore.ms
++.onetrust.com
 +.oneworldmanystories.com
 +.onindiansex.com
 +.oninstagram.com
