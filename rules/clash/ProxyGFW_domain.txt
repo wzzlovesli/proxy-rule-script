@@ -17576,6 +17576,7 @@
 +.playstation
 +.playstation.com
 +.playstation.net
++.playstationnetwork.com
 +.playvalorant.com
 +.playvids.com
 +.playwarcraft3.com
