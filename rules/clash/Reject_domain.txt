@@ -249,6 +249,7 @@
 +.0nin.cn
 +.0oaqgsk54hm5.com
 +.0op8kh.cn
++.0oqt9i.cn
 +.0ozo.cn
 +.0p1ohj2f5f.ru
 +.0pengl.com
@@ -858,7 +859,6 @@
 +.1lan.tv
 +.1lbk62l5c.de
 +.1lib.cn
-+.1link2020.com
 +.1lj11b2ii.de
 +.1lo0.net
 +.1look.tv
@@ -1139,7 +1139,6 @@
 +.24newstech.com
 +.24ora.eu
 +.24plexus.com
-+.24pm-affiliation.com
 +.24productions.info
 +.24s1b0et1.de
 +.24smi.net
@@ -8967,7 +8966,6 @@
 +.ads.paymonex.net
 +.ads.pdbarea.com
 +.ads.peel.com
-+.ads.pennyweb.com
 +.ads.people.com.cn
 +.ads.periodistadigital.com
 +.ads.persgroep.net
@@ -10826,7 +10824,6 @@
 +.affiliates.allposters.com
 +.affiliates.arvixe.com
 +.affiliates.audiobooks.com
-+.affiliates.babylon.com
 +.affiliates.cdkeys.com
 +.affiliates.cupidplc.com
 +.affiliates.de
@@ -17727,7 +17724,6 @@
 +.banners.outpersonals.com
 +.banners.passion.com
 +.banners.payserve.com
-+.banners.pennyweb.com
 +.banners.playocio.com
 +.banners.prikol.ru
 +.banners.resultonline.com
@@ -21690,8 +21686,6 @@
 +.bungalowsimply.com
 +.bungarovet.com
 +.bunintruder.com
-+.bunkr.si
-+.bunkrr.su
 +.bunnimide.com
 +.bunny-net.com
 +.bunnymediaserver.com
@@ -38984,7 +38978,6 @@
 +.explosionsubdueguidance.com
 +.explosivegleameddesigner.com
 +.expmediadirect.com
-+.expmediadirect1.com
 +.expo.ads.ramsalt.com
 +.expo123.net
 +.expobarrio.com
@@ -44730,6 +44723,7 @@
 +.gmaakjrmpc.com
 +.gmads.net
 +.gmasrjx.cn
++.gmawlljasi.com
 +.gmbopxcfbwg.com
 +.gmcdxivnqegrnl.com
 +.gmcoanceqoymws.com
@@ -48508,6 +48502,7 @@
 +.hk9600.com
 +.hkaiedb.icu
 +.hkbpt.com
++.hkbumv.icu
 +.hkctmldg.icu
 +.hkdbitexchange.com
 +.hkdyys.cn
@@ -50052,7 +50047,6 @@
 +.iads.vision
 +.iads.xinmin.cn
 +.iadsdk.apple.com
-+.iadsdk.apple.comX
 +.iadv.biz
 +.iadvert.net
 +.iaheyftbsn.re
@@ -57463,6 +57457,7 @@
 +.koopheen.com
 +.koora2live.com
 +.koosaipiph.com
++.kootovouz.com
 +.kootzjkz.com
 +.koovapou.xyz
 +.koovaubi.xyz
@@ -57677,6 +57672,7 @@
 +.ksrgsc.xyz
 +.ksrsy.com
 +.ksrtmgoym.com
++.kssolo.com
 +.kssvsjfhxpzwfd.com
 +.kstj.baidu.com
 +.kstjqjuaw.xyz
@@ -58779,6 +58775,7 @@
 +.ldforeyesheha.info
 +.ldfr-cloud.net
 +.ldgjhd.net
++.ldgjwdohqbi.xyz
 +.ldglob01.adtech.fr
 +.ldglob01.adtech.us
 +.ldglob02.adtech.fr
@@ -73881,6 +73878,7 @@
 +.ofhappinyer.com
 +.ofhypnoer.com
 +.ofitstefukste.org
++.ofkcww.xyz
 +.ofkqiy.knowfashionstyle.com
 +.ofkvdwqimwxnm.com
 +.ofleafeona.com
@@ -74224,6 +74222,7 @@
 +.olmsoneenh.info
 +.olmvkq.cn
 +.olnjitvizo.com
++.olnkpexujhuw.com
 +.olnoklmuxo.com
 +.ololen.pw
 +.ololenopoteretol.info
@@ -76638,6 +76637,7 @@
 +.parecyrclame.com
 +.parentapp.byjus.com
 +.parentelement.ml
++.parentingcalculated.com
 +.parentlargevia.com
 +.parentpensionvolunteer.com
 +.parentpicture.com
@@ -77038,6 +77038,7 @@
 +.pb3.pstatp.com
 +.pbacijttzozq.com
 +.pbamjgga.com
++.pbbhhxm.xyz
 +.pbbl.co
 +.pbbqzqi.com
 +.pbc.programbrokerage.com
@@ -83888,7 +83889,6 @@
 +.rdxmjgp.com
 +.re-captha-version-3-29.top
 +.re-captha-version-3-33.top
-+.re-directme.com
 +.re.m.taobao.com
 +.re.stjude.org
 +.re.taobao.com
@@ -98397,6 +98397,7 @@
 +.stotoowu.net
 +.stougnee.com
 +.stouksom.xyz
++.stouphou.net
 +.stoursas.xyz
 +.stoushgowds.com
 +.stovearmpitagreeable.com
@@ -103449,6 +103450,7 @@
 +.tnfhxszj.xyz
 +.tngmn.com
 +.tnhaebl.com
++.tnifdlai.top
 +.tniujy.natura.com.br
 +.tniupjzpmb.com
 +.tnjsbbt.com
@@ -108814,6 +108816,7 @@
 +.uduhytyllobm.com
 +.udwgzninhil.com
 +.udxdkdirwabx.com
++.udykkl.cn
 +.ue.flipboard.com
 +.ue.yeyoucdn.com
 +.ue8im.com
@@ -115761,6 +115764,7 @@
 +.wodycaha.com
 +.woeefpxz.com
 +.woeentre.guru
++.woefifty.com
 +.woejh.com
 +.woespoke.com
 +.wofan.net
@@ -118347,6 +118351,7 @@
 +.xrcembm.cn
 +.xrchmz.mobafire.com
 +.xrcksn.vvf-villages.fr
++.xrdqdd.xyz
 +.xref.io
 +.xrewo.xyz
 +.xrkxapomphh.com
@@ -127093,7 +127098,6 @@ frameptp.com
 frcinpdv.com
 frclyody.com
 free-adult-games.com
-free-aos-cdn-image.amap.com
 free-crochet-pattern.com
 free.babynameready.com
 freecontent.download
