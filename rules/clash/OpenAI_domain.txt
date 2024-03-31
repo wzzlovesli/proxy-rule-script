@@ -2,7 +2,6 @@
 +.algolia.net
 +.api.statsig.com
 +.auth0.com
-+.cdn.cloudflare.net
 +.challenges.cloudflare.com
 +.chatgpt.com
 +.chatgpt.livekit.cloud

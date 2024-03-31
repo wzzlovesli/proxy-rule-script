@@ -9125,7 +9125,6 @@
 +.ads.prospect.org
 +.ads.pruc.org
 +.ads.psd2html.com
-+.ads.quasaraffiliates.com
 +.ads.queendom.com
 +.ads.quoka.de
 +.ads.radialserver.com
@@ -10321,7 +10320,6 @@
 +.adv.hwupgrade.it
 +.adv.jxnews.com.cn
 +.adv.lampsplus.com
-+.adv.livedoor.com
 +.adv.merlin.co.il
 +.adv.mpvc.it
 +.adv.mxmcdn.net
@@ -13122,6 +13120,7 @@
 +.analytics.meaww.com
 +.analytics.media-proweb.de
 +.analytics.meituan.net
++.analytics.mercadolibre.com
 +.analytics.midwesternmac.com
 +.analytics.mindjolt.com
 +.analytics.ml.homedepot.ca
@@ -22478,6 +22477,7 @@
 +.bytogeticr.com
 +.bytupkvc.xyz
 +.byujf.cn
++.byuwkbv.top
 +.byvhtcpfoom.com
 +.byvlph.xyz
 +.byvmvfllobup.com
@@ -32649,6 +32649,7 @@
 +.deployads.com
 +.deploymentblessedheir.com
 +.deposit-cra2023.com
++.deposit-et-1interac.help
 +.depositgreetingscommotion.com
 +.depositnostrilverge.com
 +.depositpastel.com
@@ -35669,6 +35670,7 @@
 +.dwabissw.com
 +.dwadwere.xyz
 +.dwaterverya.xyz
++.dwbfqmz.cn
 +.dwbogv.com
 +.dwbotr.ssg.com
 +.dwclick.com
@@ -49020,6 +49022,7 @@
 +.hf.forevernetworks.com
 +.hf5rbejvpwds.com
 +.hfajdjhicjcchhbeaeh.ru
++.hfbfbvmjdmxc.com
 +.hfc195b.com
 +.hfeoveukrn.info
 +.hffdjxnyxckf.xyz
@@ -51498,6 +51501,7 @@
 +.ienkdaccessible.cn
 +.ienkdaged.cn
 +.ienkdago.cn
++.ientent.stre4mplay.one
 +.ientent.streampiay.fun
 +.ientrymail.com
 +.ieo8qjp3x9jn.pro
@@ -54471,6 +54475,7 @@
 +.iononetravoy.com
 +.ionrefreshotsev.info
 +.ionscormationwind.info
++.iontent.powzerz.lol
 +.ionthatco.cfd
 +.ionvictoriesin.cfd
 +.ionwindonpetropic.info
@@ -57948,6 +57953,7 @@
 +.kfngvuu.com
 +.kfocoq.xyz
 +.kfpicimage.xyz
++.kfpnqug.cn
 +.kftfhp.furusato-tax.jp
 +.kfuih.cn
 +.kfvjdvjzhddhc.com
@@ -59982,6 +59988,7 @@
 +.lby2kd27c.com
 +.lbylqeravmowq.top
 +.lbypewrshxl.com
++.lbyx.xyz
 +.lc1b2.cn
 +.lc2ads.ru
 +.lc442.com
@@ -59990,6 +59997,7 @@
 +.lcdqtakgispg.xyz
 +.lcdsyj.daily.co.jp
 +.lcdtilth.uno
++.lcefsf.icu
 +.lcefua.timberland.ru
 +.lcentntel.com
 +.lcfooiqhro.com
@@ -81699,6 +81707,7 @@
 +.pr.blogflux.com
 +.pr.comet.yahoo.com
 +.pr.ikovrov.ru
++.pr.nss.netease.com
 +.pr.rusmed.ru
 +.pr.yokohama-chokin.com
 +.pr00001.com
@@ -82823,6 +82832,7 @@
 +.pseidpmubwu.com
 +.psensuds.net
 +.psestwotothr.cfd
++.pseudonym.cn
 +.psfgobbet.com
 +.psfq.gou.sogou.com
 +.psgch.xyz
@@ -84029,6 +84039,7 @@
 +.qdrmui.com
 +.qdsfzz.cn
 +.qdtjjxr.xyz
++.qdtzbbh.xyz
 +.qdvavs.trademax.se
 +.qdvducltjswp.com
 +.qdxzpcytii.com
@@ -84509,6 +84520,7 @@
 +.qrkhwe.xyz
 +.qrlsx.com
 +.qroagwadndwy.com
++.qrovwu.xyz
 +.qrpenodnn.com
 +.qrprobopassor.com
 +.qrrhvh.propertyfinder.ae
@@ -84576,6 +84588,7 @@
 +.qtuopsqmunzo.com
 +.qtuxulczymu.com
 +.qtycwy.modivo.cz
++.qtyusiy.top
 +.qu96.com
 +.qua-tang.vn
 +.quackexclusfdfjd.com
@@ -87851,6 +87864,7 @@
 +.roeyecdn.com
 +.rof77skt5zo0.com
 +.rofant.com
++.rofmjd.xyz
 +.rog4.com
 +.rogbhbxvqe.com
 +.rogueschedule.com
@@ -112513,6 +112527,7 @@
 +.utubepwhml.com
 +.utwwzqdx.xyz
 +.utwyyrjdwgmynu.com
++.utxmb.cn
 +.utzwgittihhvn.com
 +.uu.domainforlite.com
 +.uu.feipukeplus.com
@@ -120988,6 +121003,7 @@
 +.xyjcpcb.cn
 +.xylaoppress.com
 +.xylenylyetapa.uno
++.xylhwdu.com
 +.xylkpj.xyz
 +.xyly2016.com
 +.xymahuxv.xyz
