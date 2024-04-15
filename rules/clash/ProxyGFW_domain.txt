@@ -3415,7 +3415,6 @@
 +.bloglovin.com
 +.blogoverflow.com
 +.blogs.com
-+.blogs.icerocket.com
 +.blogs.libraryinformationtechnology.com
 +.blogs.tampabay.com
 +.blogs.yahoo.co.jp
@@ -11305,6 +11304,7 @@
 +.icashpassport.com.mx
 +.ice
 +.ice.audionow.com
++.icedrive.net
 +.icegay.tv
 +.icegaytube.tv
 +.iceporn.com
