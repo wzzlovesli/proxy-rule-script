@@ -203,6 +203,7 @@
 +.228.net.tw
 +.233abc.com
 +.2371tom.com
++.249dw7.cn
 +.24hjav.com
 +.24hrs.ca
 +.24porn.com
@@ -1387,6 +1388,7 @@
 +.amcnetworks.com
 +.amcplus.com
 +.amd.com
++.amd.com.cn
 +.amdfanstore.com
 +.amdigital.co.uk
 +.ameba.jp
@@ -2056,6 +2058,7 @@
 +.armovs.com
 +.army.mil
 +.arphic.com
++.arphic.com.cn
 +.arphic.com.tw
 +.art1lib.com
 +.art4tibet1998.org
@@ -5245,6 +5248,7 @@
 +.clickserve.cc-dt.com
 +.clickserver.googleads.com
 +.clien.net
++.clincha.cn
 +.cling.omy.sg
 +.clinica-tibet.ru
 +.clinical-videos.com
@@ -6777,7 +6781,9 @@
 +.dumb1.com
 +.dump.xxx
 +.dumpxxx.net
++.dungeonkeeper.cn
 +.dungeonkeeper.com
++.dungeonkeeper.com.cn
 +.dunlop
 +.duns
 +.dunyabulteni.net
@@ -6875,6 +6881,7 @@
 +.dykycl.com
 +.dynacw.co.jp
 +.dynacw.com
++.dynacw.com.cn
 +.dynacw.com.hk
 +.dynacw.com.tw
 +.dynafleetonline.com
@@ -7029,6 +7036,7 @@
 +.ebayanunsios.net
 +.ebayauction.com
 +.ebayaustralia.com
++.ebayauthenticate.com.cn
 +.ebaybags.com
 +.ebaybank.com
 +.ebaybenefits.com
@@ -8264,6 +8272,7 @@
 +.fgmtv.org
 +.fhreports.net
 +.fi
++.fi11.cn
 +.fi11.com
 +.fi11av1.com
 +.fi11tv1.com
@@ -11593,6 +11602,7 @@
 +.illusionas.com
 +.illusionchn.com
 +.illusionfactory.com
++.illusionfb.cn
 +.illusiongw.com
 +.illusionh.com
 +.illusionl.com
@@ -13601,10 +13611,13 @@
 +.logiqx.com
 +.logitech.biz
 +.logitech.com
++.logitech.com.cn
 +.logitech.fr
 +.logitech.io
 +.logitechg.com
++.logitechg.com.cn
 +.logitechg.fr
++.logitechio.com.cn
 +.logmein.com
 +.logos.com.hk
 +.loholidayhk.com
@@ -15216,8 +15229,10 @@
 +.muchomasporno.com
 +.muchosucko.com
 +.mucinex.ca
++.mucinex.cn
 +.mucinex.co.nz
 +.mucinex.com
++.mucinex.com.cn
 +.mucinex.net
 +.mucinex.tv
 +.mucinexprofessional.com
@@ -18427,6 +18442,7 @@
 +.qualcommlabs.com
 +.qualcommmea.com
 +.qualcommretail.com
++.qualcommventures.cn
 +.qualcommventures.com
 +.qualphone.com
 +.qualysapi.qatp1.net
@@ -18813,6 +18829,7 @@
 +.reut.rs
 +.reuters.com
 +.reuters.tv
++.reutersagency.cn
 +.reutersmedia.net
 +.revenue-performance-management.com
 +.revleft.com
@@ -19372,6 +19389,7 @@
 +.serveusers.com
 +.services-apple.net
 +.services-exchange.com
++.services.googleapis.cn
 +.serviceshp.com
 +.servicetalk.io
 +.serviporno.com
@@ -20006,6 +20024,7 @@
 +.snap.com
 +.snapchat.com
 +.snapcraft.io
++.snapdragon.cn
 +.snapdragonbooth.com
 +.snapkit.co
 +.snapseed.com
@@ -20222,6 +20241,7 @@
 +.sourcegraph.com
 +.sourcehut.org
 +.sourcewadio.com
++.sourcingforebay.com.cn
 +.sourcingforebay.net
 +.sourcingforebay.tv
 +.south-plus.net
@@ -21353,6 +21373,7 @@
 +.thlib.org
 +.thomasbernhard.org
 +.thomsonreuters.ca
++.thomsonreuters.cn
 +.thomsonreuters.co.jp
 +.thomsonreuters.co.kr
 +.thomsonreuters.co.nz
@@ -22617,6 +22638,7 @@
 +.verisign.com
 +.verisign.com.au
 +.verisign.com.br
++.verisign.com.cn
 +.verisign.com.es
 +.verisign.com.hk
 +.verisign.com.sg
@@ -24413,6 +24435,7 @@
 +.xn--yfro4i67o
 +.xn--ygbi2ammx
 +.xn--yt8h.la
++.xn--ztsq84g.cn
 +.xnalgas.com
 +.xnertv.shop
 +.xnostars.com
@@ -24547,6 +24570,7 @@
 +.xvxx.stream
 +.xvxxtube.com
 +.xx-map.com
++.xx159.com.cn
 +.xx9.app
 +.xxbay.com
 +.xxbbx.com
@@ -24968,6 +24992,7 @@
 +.yinya.shop
 +.yipub.com
 +.yiqiedoushiganggangkaishi.org
++.yiqilai99.cn
 +.yiyechat.com
 +.yizhihongxing.com
 +.yjcontentdelivery.com
@@ -25280,6 +25305,7 @@
 +.yyfb.cyou
 +.yyii.org
 +.yyjlymb.xyz
++.yyyzgdl.cn
 +.yzld188.top
 +.yzzk.com
 +.z-lib.org
@@ -25445,6 +25471,7 @@
 +.zoogvpn.com
 +.zoohun.com
 +.zoom.com
++.zoom.com.cn
 +.zoom.us
 +.zoomgov.com
 +.zoomingin.tv
