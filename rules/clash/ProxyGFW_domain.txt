@@ -4772,6 +4772,7 @@
 +.cdn.angruo.com
 +.cdn.assets.lfpcontent.com
 +.cdn.helixstudios.net
++.cdn.jwplayer.com
 +.cdn.printfriendly.com
 +.cdn.seatguru.com
 +.cdn.segment.com
@@ -5669,6 +5670,7 @@
 +.crisp.chat
 +.cristyli.com
 +.crit-staging.com
++.crittercism.com
 +.crmdynint-gcc.com
 +.crmdynint.com
 +.crocotube.com
@@ -7566,6 +7568,7 @@
 +.etherdelta.com
 +.ethereum.foundation
 +.ethereum.org
++.ethermine.org
 +.etherscan.io
 +.etisalat
 +.etizer.org
@@ -7681,6 +7684,7 @@
 +.f-dro1d.org
 +.f-droid.com
 +.f-droid.org
++.f2pool.com
 +.f5pf.com
 +.f6988.com
 +.f8.com
@@ -7691,6 +7695,7 @@
 +.faapy.com
 +.faasbook.com
 +.fabhairypussy.com
++.fabric.io
 +.fabuye.top
 +.fabuyemian.com
 +.facbebook.com
@@ -11078,6 +11083,7 @@
 +.hrea.org
 +.hrecords.jp
 +.hrichina.org
++.hrntt.org
 +.hrsaz.com
 +.hrtsea.com
 +.hrw.org
@@ -16248,6 +16254,7 @@
 +.npa.go.jp
 +.npa.gov.tw
 +.npm.community
++.npm.gov.tw
 +.npmjs.com
 +.npmjs.org
 +.npnt.me
@@ -18075,6 +18082,7 @@
 +.potato.im
 +.potenza.jp
 +.potvpn.com
++.pourquoi.tw
 +.povpornonly.com
 +.povr.com
 +.power.com
@@ -25319,6 +25327,7 @@
 +.zacebook.com
 +.zakzak.co.jp
 +.zalmos.com
++.zamimg.com
 +.zannel.com
 +.zaobao.com
 +.zaobao.com.sg
