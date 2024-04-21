@@ -3179,7 +3179,6 @@
 +.369785.com
 +.3699.cc
 +.3699wan.com
-+.369gkd.com
 +.369wenku.com
 +.369xxw.com
 +.369y.cc
@@ -3780,6 +3779,7 @@
 +.500cache.com
 +.500d.me
 +.500doc.com
++.500du.com
 +.500fd.com
 +.500gm.com
 +.500hj.com
@@ -3936,7 +3936,6 @@
 +.51banban.com
 +.51banhui.com
 +.51baocan.com
-+.51baoku.com
 +.51baoshui.com
 +.51baoxiu.com
 +.51bbo.com
@@ -4207,7 +4206,6 @@
 +.51pao.net
 +.51papers.com
 +.51passion.com
-+.51pec.com
 +.51peptide.com
 +.51pgzs.com
 +.51photo.vip
@@ -5850,7 +5848,6 @@
 +.72link.com
 +.72qq.com
 +.72whys.com
-+.72xf.com
 +.72xit.com
 +.72xuan.com
 +.72yun.com
@@ -15048,6 +15045,7 @@
 +.chawo.com
 +.chaxinyu.net
 +.chaxunfapiao.com
++.chayanfamily.com
 +.chayangge.com
 +.chaye.com
 +.chayeo.com
@@ -16452,7 +16450,6 @@
 +.ci800.com
 +.ciallo.cc
 +.ciaoca.com
-+.ciatcm.org
 +.cibaike.com
 +.cibawl.com
 +.cibfintech.com
@@ -18061,7 +18058,6 @@
 +.coolbcloud.com
 +.coolbuy.com
 +.coolccloud.com
-+.coolchuan.com
 +.coolcode.org
 +.coolcode.tech
 +.coolcoolcloud.com
@@ -20790,7 +20786,6 @@
 +.diyosl.com
 +.diypda.com
 +.diyring.cc
-+.diyvinylcutters.com
 +.diywoju.com
 +.diyyh.com
 +.dizhuche.com
@@ -25342,6 +25337,7 @@
 +.fubaofei.com
 +.fubonplastic.com
 +.fuchaoqun.com
++.fuchengshicai.com
 +.fuckingdata.com
 +.fucnm.com
 +.fucol.club
@@ -25841,6 +25837,7 @@
 +.gamemcu.com
 +.gamemei.com
 +.gamememories.net
++.gamenao.com
 +.gameol.com
 +.gamepf.com
 +.gamepingce.com
@@ -26432,7 +26429,6 @@
 +.getui.vip
 +.getulab.com
 +.getvidi.co
-+.gewai-cnc.com
 +.gewala.com
 +.gewara.com
 +.gewu.vc
@@ -26785,6 +26781,7 @@
 +.glorze.com
 +.glosku.com
 +.glowapp.fun
++.glowmem.com
 +.glqh.com
 +.glreading.com
 +.glshimg.com
@@ -27749,7 +27746,6 @@
 +.guoluonews.com
 +.guolv.com
 +.guomai.cc
-+.guomii.com
 +.guomu.com
 +.guonongdai.com
 +.guopc.com
@@ -28267,6 +28263,7 @@
 +.h0758.net
 +.h12.net
 +.h128.com
++.h13.mobi
 +.h1bz.com
 +.h231.com
 +.h2ex.com
@@ -28501,7 +28498,6 @@
 +.haishengfrp.com
 +.haishui.cc
 +.haishun.com
-+.haishun6688.com
 +.haitaibrowser.com
 +.haitaichina.com
 +.haitakuajing.com
@@ -29839,6 +29835,7 @@
 +.heyuanstone.com
 +.heyunnet.com
 +.heyuyhw.com
++.heywhale.com
 +.heywoodsminiprogram.com
 +.heywow.net
 +.hez70.com
@@ -30689,7 +30686,6 @@
 +.homecloud-lab.com
 +.homed.me
 +.homedo.com
-+.homedt.net
 +.homeinframes.com
 +.homeinmists.com
 +.homeinns.com
@@ -31926,7 +31922,6 @@
 +.huntkeydiy.com
 +.hunuo.com
 +.hunyinyiyuan.com
-+.huo-cun.com
 +.huoban.com
 +.huobanhuyu.com
 +.huobanjs.com
@@ -33279,7 +33274,6 @@
 +.igetui.com
 +.igevin.info
 +.igexin.com
-+.ignitewealthsc.com
 +.igo180.com
 +.igome.com
 +.igomkt.com
@@ -35934,7 +35928,6 @@
 +.jingdongjinrong.com
 +.jingdongyouxuan.com
 +.jingdw.com
-+.jingfanshidai.com
 +.jingfentui.com
 +.jingguan.ai
 +.jinggui.com
@@ -35969,7 +35962,6 @@
 +.jingniukeji.com
 +.jingoal.com
 +.jingos.com
-+.jingp.com
 +.jingpai.com
 +.jingpaidang.com
 +.jingpinhui.com
@@ -38538,7 +38530,6 @@
 +.kkmh.com
 +.kkmicro.com
 +.kkmop.com
-+.kknn.com
 +.kknss.com
 +.kkoot.com
 +.kkpan.com
@@ -40067,7 +40058,6 @@
 +.lehuoing.com
 +.lei001.com
 +.leibei.cc
-+.leida310.com
 +.leidianip.com
 +.leiduhuaya.com
 +.leifengshi120.com
@@ -44319,6 +44309,7 @@
 +.modashi.net
 +.modb.cc
 +.modb.pro
++.modelwhale.com
 +.modeng178.com
 +.modernavenue.com
 +.moderno2.com
@@ -47215,6 +47206,7 @@
 +.opencloudos.org
 +.opencloudos.tech
 +.opencourt.vip
++.opendatalab.com
 +.opendns123.com
 +.opendrivers.com
 +.openeda.com
@@ -47238,6 +47230,7 @@
 +.openluat.com
 +.openlyenter.com
 +.openmidas.com
++.openmmlab.com
 +.openmv.cc
 +.openos.org
 +.openqa.com
@@ -47807,7 +47800,6 @@
 +.paopaozd.com
 +.paovn.com
 +.paoxq.com
-+.paoying.net
 +.papa21.com
 +.papa91.com
 +.papaao.com
@@ -47896,6 +47888,7 @@
 +.pay-news.com
 +.paydxm.com
 +.payeco.com
++.payititi.com
 +.paykwai.com
 +.paylf.com
 +.paymax.cc
@@ -50439,6 +50432,7 @@
 +.qqaiqin.com
 +.qqaku.com
 +.qqan.com
++.qqb.pub
 +.qqba.com
 +.qqbiaoqing.com
 +.qqbibile.com
@@ -53411,7 +53405,6 @@
 +.sh8y.com
 +.sh9130.com
 +.sh9156.com
-+.sha-cun.com
 +.sha-steel.com
 +.sha2777.com
 +.sha990.com
@@ -54212,6 +54205,7 @@
 +.shkuangjing.com
 +.shkypump.com
 +.shl56.com
++.shlab.tech
 +.shlawserve.com
 +.shlcxby.com
 +.shld.com
@@ -55489,6 +55483,7 @@
 +.smzdmimg.com
 +.smzdwan.com
 +.smzjy.cc
++.smzrmyy.com
 +.smzwgk.com
 +.smzy.com
 +.sn-epe.com
@@ -56853,6 +56848,7 @@
 +.sw996.com
 +.swaeab.com
 +.swakopuranium.com
++.swanchemical.com
 +.swang8.com
 +.swangwx.com
 +.swaqds.com
@@ -59570,6 +59566,7 @@
 +.tpsxs.com
 +.tpszw.com
 +.tpturang.com
++.tpumlir.org
 +.tpy100.com
 +.tpy119.com
 +.tpyboard.com
@@ -65560,7 +65557,6 @@
 +.xf119.xin
 +.xf120.com
 +.xf1233.com
-+.xf1433.com
 +.xf3z.com
 +.xf4hs.com
 +.xf5z.com
@@ -67822,6 +67818,7 @@
 +.xwshensuofeng.com
 +.xwtex.com
 +.xwuad.com
++.xwx.mobi
 +.xwxguan.com
 +.xwyun.net
 +.xwz999.com
@@ -73802,7 +73799,6 @@
 +.zoogooy.com
 +.zookingsoft.com
 +.zookparts.com
-+.zoom-china.com
 +.zoom3g.com
 +.zoomerstudio.com
 +.zoomeye.org
@@ -74522,6 +74518,7 @@
 +.zzqiyou.com
 +.zzqklm.com
 +.zzqss.com
++.zzquan9.com
 +.zzqxs.com
 +.zzqzz.com
 +.zzrbl.com
