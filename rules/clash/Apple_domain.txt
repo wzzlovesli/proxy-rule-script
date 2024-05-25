@@ -1501,6 +1501,7 @@
 +.nicesshop.net
 +.ocsp-lb.apple.com.akadns.net
 +.ocsp.apple.com
++.ocsp2-lb.apple.com.akadns.net
 +.ocsp2.apple.com
 +.offerairjordanlebron.com
 +.officialbeatsbydreshop.com
@@ -1722,6 +1723,7 @@ appleworldwidedeveloper.hb-api.omtrdc.net
 appleworldwidedeveloper.sc.omtrdc.net
 beatselectronicsllc.tt.omtrdc.net
 e16991.b.akamaiedge.net
+edge.apple
 icons.axm-usercontent-apple.com
 lookup-api.apple.com.edgekey.net
 p-events-delivery.akamaized.net
