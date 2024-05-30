@@ -26199,6 +26199,7 @@ client-teamviewer-com.trafficmanager.net
 clients1.google.com
 cloud.oracle.com
 cloudsync-prod.s3.amazonaws.com
+copilot.microsoft.com
 courier-push-apple.com.akadns.net
 crl.microsoft.com
 crl.versign.net
@@ -26290,6 +26291,7 @@ live-patreon-marketing.pantheonsite.io
 lm.licenses.adobe.com
 lmlicenses.wip4.adobe.com
 location.microsoft.com
+login.microsoftonline.com
 lolstatic-a.akamaihd.net
 m1.ppy.sh
 mdn.mozillademos.org
@@ -26418,6 +26420,7 @@ scholar.google.si
 scholar.google.sk
 scholar.googleusercontent.com
 scholar.l.google.com
+self.events.data.microsoft.com
 sentry.ppy.sh
 sni1dcb6gl.wpc.edgecastcdn.net
 spectator.ppy.sh

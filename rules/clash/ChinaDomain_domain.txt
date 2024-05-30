@@ -28844,6 +28844,7 @@
 +.haluoha.com
 +.hamedal.com
 +.hamir.net
++.hamu.site
 +.han-ju.cc
 +.hanamichi.wiki
 +.hanboshi.com
@@ -34413,6 +34414,7 @@
 +.ipanta.com
 +.ipaomi.com
 +.ipaotuan.com
++.ipapark.com
 +.ipason.com
 +.ipay.so
 +.ipcfun.com
@@ -38450,6 +38452,7 @@
 +.kd9000.com
 +.kdadj.com
 +.kdatacenter.com
++.kdatu.com
 +.kdclub.net
 +.kdige.com
 +.kdmedic.com
@@ -41185,6 +41188,7 @@
 +.lingwh.com
 +.lingwu66.com
 +.lingxi360.com
++.lingxianfund.com
 +.lingxicloud.com
 +.lingxigames.com
 +.lingxmall.com
@@ -54973,6 +54977,7 @@
 +.shuajizhijia.net
 +.shuame.com
 +.shuanghui.net
++.shuangken.com
 +.shuangkuai.co
 +.shuangle888.com
 +.shuangmatbs.com
@@ -62635,6 +62640,8 @@
 +.vstart.net
 +.vstecs.com
 +.vstmv.com
++.vstonefund.com
++.vstonewealth.com
 +.vstou.com
 +.vsuch.com
 +.vsun.com
@@ -69904,6 +69911,7 @@
 +.yiqisou.net
 +.yiqistore.com
 +.yiqitp.com
++.yiqituodan.com
 +.yiqiu.org
 +.yiqiuu.com
 +.yiqiwang.net
