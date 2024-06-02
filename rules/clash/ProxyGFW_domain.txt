@@ -18855,6 +18855,7 @@
 +.qattdh1.cc
 +.qattdh2.cc
 +.qattdh6.top
++.qbittorrent.org
 +.qbmengmei6.mom
 +.qcmod.xyz
 +.qctconnect.com
