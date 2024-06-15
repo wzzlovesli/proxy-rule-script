@@ -10201,13 +10201,11 @@
 +.adserver1.adtech.com.tr
 +.adserver1.hookyouup.com
 +.adserver1.mediainsight.de
-+.adserver1.mindshare.de
 +.adserver1.sonymusiceurope.com
 +.adserver1.wmads.com
 +.adserver2.atman.pl
 +.adserver2.creative.com
 +.adserver2.mediainsight.de
-+.adserver2.mindshare.de
 +.adserver9.contextad.com
 +.adserverplus.com
 +.adserverpub.com
@@ -20150,6 +20148,7 @@
 +.behoppipan.com
 +.behowlcapa.com
 +.behtarinseo.ir
++.behvgsik.icu
 +.bei7.clewx.com
 +.beibeigoudai.com
 +.beifmu.com
@@ -21076,6 +21075,7 @@
 +.bing009.shop
 +.binga01.shop
 +.binga03.shop
++.binga07.shop
 +.bingads.microsoft.com
 +.bingdianhuanyuan.cn
 +.bingdiantao.com
@@ -25529,6 +25529,7 @@
 +.cdn.pranmcpkx.com
 +.cdn.preciso.net
 +.cdn.puata.info
++.cdn.pubnub.com
 +.cdn.pushalert.co
 +.cdn.pushmaster-cdn.xyz
 +.cdn.qc24h.com
@@ -26004,6 +26005,7 @@
 +.cgbmjsasm.xyz
 +.cgbswl.icu
 +.cgctsw.mytour.vn
++.cgczuu.xyz
 +.cgeckmydirect.biz
 +.cghc87.cn
 +.cghfqbwdkuemcn.com
@@ -30937,6 +30939,7 @@
 +.crockerycrowdedincidentally.com
 +.crockuncomfortable.com
 +.crocopop.com
++.crodfnyk.xyz
 +.croea.com
 +.croissieres.fr
 +.crojikenatic.tech
@@ -31015,6 +31018,7 @@
 +.crumbs.robinhood.com
 +.crumbtypewriterhome.com
 +.crumbumgristly.space
++.crummerexisted.com
 +.crummygoddess.com
 +.crumpet.xxxpornhd.pro
 +.crumplylenient.com
@@ -33532,6 +33536,7 @@
 +.daskm.com
 +.daslethv.com
 +.dasljfoq.top
++.daslkdlqk.top
 +.dasperdolus.com
 +.daspic.top
 +.dasterx.ru
@@ -43316,6 +43321,7 @@
 +.f3udfa7nfguhni.com
 +.f4.p0y.com
 +.f40f89d54b8.com
++.f417a726.xyz
 +.f4235693e4.com
 +.f43f5a2390.com
 +.f459fdc403a6.78a5254f.ap-northeast-1.token.awswaf.com
@@ -48836,6 +48842,7 @@
 +.gimavpojtqa.com
 +.gimg.baidu.com
 +.gimg.bitauto.com
++.gimmalscutches.com
 +.gimme-promo.com
 +.gimnsr.com
 +.gimohhfzvmpdt.com
@@ -50345,6 +50352,7 @@
 +.goohimom.net
 +.goolaptaugab.com
 +.goole20.shop
++.goole24.shop
 +.goolgueule.fr
 +.goolpter.com
 +.goomaphy.com
@@ -54932,6 +54940,7 @@
 +.hwmonitor-ru.ru
 +.hwmwin.com
 +.hwnod.xyz
++.hwnojj.xyz
 +.hwof.info
 +.hwosl.cloud
 +.hwpnocpctu.com
@@ -63992,6 +64001,7 @@
 +.ksnbiepnvjdi.com
 +.ksnbtmz.com
 +.ksnooastqr.xyz
++.kspl48j.xyz
 +.kspotson.de
 +.ksrgsc.xyz
 +.ksrsy.com
@@ -67393,6 +67403,7 @@
 +.liufenghua.com
 +.liugaohao.com
 +.liuguoyu.wang
++.liuhui111.top
 +.liujiahao6.cn
 +.liujiaqi.top
 +.liuliguo.com
@@ -72558,6 +72569,7 @@
 +.mcizas.com
 +.mckbpe.united-arrows.co.jp
 +.mckensecuryr.info
++.mckgmkh.icu
 +.mckiey.thun.com
 +.mcleaks.fr
 +.mclick.mobi
@@ -113997,6 +114009,7 @@
 +.tdgtkqtluuhjcfw.com
 +.tdhlmto.cn
 +.tdhnxf.xyz
++.tdhserg.cn
 +.tdid.m.qq.com
 +.tdjdpyrt.xyz
 +.tdjvod.chevignon.com.co
@@ -122291,6 +122304,7 @@
 +.ufhdumnkhgk.com
 +.ufiledsit.com
 +.ufinkln.com
++.ufjslit.top
 +.uflfhl.mercci22.com
 +.uflowx.com
 +.uflybplr.xyz
@@ -135476,6 +135490,7 @@
 +.zivbxion.ru
 +.zivtux.com
 +.ziwane.uno
++.ziwelatum.com
 +.ziwewm.tecovas.com
 +.zixuyi.xyz
 +.ziye8.com
@@ -135986,6 +136001,7 @@
 +.zusepe.xyz
 +.zussrbh.com
 +.zutcqppwm.com
++.zutevd.xyz
 +.zutodu.cn
 +.zuugfj.cn
 +.zuvbzl.xyz
