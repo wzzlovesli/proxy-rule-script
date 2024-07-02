@@ -6582,6 +6582,7 @@
 +.acloud.com
 +.acloudimages.com
 +.acloudvideos.com
++.aclsx.cn
 +.acm.dzwww.com
 +.acmaknoxwo.com
 +.acme.vidox.net
@@ -21194,6 +21195,7 @@
 +.binhchon-gionghatvietnhi-vong1-nam2022.weebly.com
 +.binhchonanhduthicuabe2022.weebly.com
 +.binhchoncuocthivetranhsinhvien2024.wee
++.binhchoncuocthivetranhsinhvien2024.weebly.com
 +.binhchonduthitainang2022mua3.weebly.com
 +.binhchongionghatviet2019.weebly.com
 +.binhchongionghatvietnhi2021vietnames.weebly.com
@@ -25485,6 +25487,8 @@
 +.cdhvrrlyrawrxqd.xyz
 +.cdiah.com
 +.cdiklrgwisnu.com
++.cdilm.cn
++.cdipsumf.top
 +.cdj-dap.s3-ap-northeast-1.amazonaws.com
 +.cdj99d.cn
 +.cdjchpojgifwc.ru
@@ -36667,6 +36671,7 @@
 +.dizzyshe.pro
 +.dj-updates.com
 +.dj.renren.com
++.dj2550.com
 +.dj4odketdva9s.cloudfront.net
 +.dj930.cn
 +.djadoc.com
@@ -50389,6 +50394,7 @@
 +.goingtoothachemagician.com
 +.goingup.com
 +.gointhe.space
++.gojsmanager.com
 +.gokedoas.xyz
 +.goksuxauks.com
 +.golbxjhofipyv.com
@@ -52711,6 +52717,7 @@
 +.hdfoweey.com
 +.hdhkwl.com
 +.hdicsm.autoscout24.be
++.hdipsumu.top
 +.hditers.com
 +.hdj.baidu.com
 +.hdjfeed.top
@@ -53011,6 +53018,7 @@
 +.helmetregent.com
 +.helmfireworkssauce.com
 +.helmregardiso.com
++.heloisessa.com
 +.helove.xyz
 +.help.adtech.fr
 +.help.adtech.us
@@ -54781,6 +54789,7 @@
 +.htplayground.com
 +.htqfxh.vuch.cz
 +.htrace.wetvinfo.com
++.htrurb.xyz
 +.htseca.top
 +.htsysxlupdqe.com
 +.http-icloud.com
@@ -60521,6 +60530,7 @@
 +.jazzlowness.com
 +.jazzmoist.com
 +.jazzspeechlessarena.com
++.jazzyzest.cfd
 +.jb.4hw.com.cn
 +.jb.asqql.com
 +.jb.dianshu119.com
@@ -82268,6 +82278,7 @@
 +.ocggec.xyz
 +.ochaugly.net
 +.ocheebou.xyz
++.ochoawhou.com
 +.ochre-app.hotdoc.com.au
 +.ochredhistory.com
 +.ochringtensor.com
@@ -92228,6 +92239,7 @@
 +.qkfwiylmib.com
 +.qkhhjm.autoscout24.nl
 +.qkhvongctffugm.com
++.qkikkg.xyz
 +.qkjjuhs.com
 +.qkodjvdsm.com
 +.qkoio.cyou
@@ -122061,6 +122073,7 @@
 +.tw.spiriteq.com
 +.tw13b093.sandai.net
 +.twads.gg
++.twamjb.cn
 +.twandli.top
 +.twaonhcjwoaouj.com
 +.twazzyoidwlfe.com
@@ -122868,6 +122881,7 @@
 +.ui37.net
 +.ui8l2.xyz
 +.ui91q.cn
++.uiakq.top
 +.uib.ff.avast.com
 +.uibjhqwkl.com
 +.uid.ksosoft.com
@@ -125022,6 +125036,7 @@
 +.vatrack.hinet.net
 +.vattingbalak.com
 +.vattingpliable.top
++.vatzxd.xyz
 +.vaugaiva.net
 +.vaugroar.com
 +.vault-encryption.com
@@ -132850,6 +132865,7 @@
 +.xkejsns.com
 +.xkena.com
 +.xkesalwueyz.com
++.xkesqbp.icu
 +.xketil.com
 +.xkfigjh.cn
 +.xkfogxtamlnn.com
@@ -136557,7 +136573,6 @@
 +.zv.7vid.net
 +.zvasuzb.icu
 +.zvay.online
-+.zvbkyrbwrlqll.top
 +.zvbldrth.com
 +.zvbqvqbabllrj.top
 +.zvbqvqbabllzq.top
@@ -136587,15 +136602,12 @@
 +.zwaar.net
 +.zwaar.org
 +.zwatgf.megaknihy.cz
-+.zwbbkjvzqbyba.top
 +.zwbjpkurb.com
 +.zwdtvx.xyz
 +.zwfkxb.xyz
 +.zwinqi.spartoo.pt
 +.zwiucp.ohmynews.com
-+.zwjezmzbyerkj.top
 +.zwkssb.com
-+.zwmvyzyrlvava.top
 +.zwnhufcwhaw.com
 +.zwnoeqzsuz.com
 +.zwokia.aigle.com
@@ -136705,7 +136717,6 @@
 +.zzaoea.costacrociere.it
 +.zzaqqwecd.lat
 +.zzbaowen.com
-+.zzbmanavblkaw.top
 +.zzbmxl.xyz
 +.zzbya.xyz
 +.zzbyb.xyz
@@ -136720,7 +136731,6 @@
 +.zzhszj.com
 +.zzhyebbt.com
 +.zzisnvb.cn
-+.zzjwblqbwlrnj.top
 +.zzkfs.xyz
 +.zzkoubei.com
 +.zzkwsosixkdu.com
