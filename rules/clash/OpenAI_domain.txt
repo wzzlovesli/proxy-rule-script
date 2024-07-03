@@ -28,6 +28,7 @@ browser-intake-datadoghq.com
 cdn.openai.com
 chat.openai.com
 chat.openai.com.cdn.cloudflare.net
+gemini.google.com
 ios.chat.openai.com
 o33249.ingest.sentry.io
 openai-api.arkoselabs.com
