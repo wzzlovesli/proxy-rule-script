@@ -11116,6 +11116,7 @@
 +.baidu123.com
 +.baidu521.com
 +.baiduads.com
++.baiduapp.com
 +.baidubaidubaidu.com
 +.baidubaidubaidu.net
 +.baidubce.com
@@ -19336,6 +19337,7 @@
 +.coyotebio-lab.com
 +.coyuk.com
 +.coyuns.net
++.cp.cloudflare.com
 +.cp127w.com
 +.cp365.org
 +.cpa100.com
@@ -21485,6 +21487,7 @@
 +.destoon.com
 +.desunpv.com
 +.detailseast.com
++.detectportal.firefox.com
 +.detion.com
 +.detu.com
 +.detuyun.com
@@ -23390,8 +23393,10 @@
 +.duwenxue.com
 +.duwenz.com
 +.duwenzhang.com
++.duxiaoman-int.com
 +.duxiaoman.com
 +.duxiaomanfintech.com
++.duxiaomantech.com
 +.duxiaoshuo.com
 +.duxiu.com
 +.duyandb.com
@@ -23472,10 +23477,15 @@
 +.dxjh.net
 +.dxjs.com
 +.dxlfile.com
++.dxm-cdn.com
++.dxm-int.com
 +.dxm-yibai.com
 +.dxmjinr.com
++.dxmlcf.com
++.dxmlcfintech.com
 +.dxmpay.com
 +.dxmstatic.com
++.dxmyqh.com
 +.dxnky.com
 +.dxpmedia.com
 +.dxqyy.com
@@ -40143,6 +40153,7 @@
 +.juejinqifu.com
 +.juemei.com
 +.juemuren4449.com
++.juequling.com
 +.juesheng.com
 +.juewei.com
 +.juexiang.com
@@ -52448,6 +52459,7 @@
 +.pinfangw.com
 +.ping-jia.net
 +.ping-qu.com
++.ping.archlinux.org
 +.ping.ubnt.com
 +.ping99.com
 +.pingan.com
@@ -53287,6 +53299,7 @@
 +.purewhite.io
 +.puronglong.com
 +.pusa123.com
++.push.services.mozilla.com
 +.push2u.com
 +.pushauction.com
 +.pushcfg.com
@@ -80947,6 +80960,7 @@ cnappinstall.googleadapis.com
 communities.apple.com
 configuration.apple.com
 configuration.apple.com.akadns.net
+connect.rom.miui.com
 connectivitycheck.gstatic.com
 content.googleadapis.com
 cp.cloudflare.com
@@ -81138,6 +81152,7 @@ msgruser.dlservice.microsoft.com
 music.apple.com
 myvs.download.prss.microsoft.com
 o.pki.goog
+oasisauth.h3c.com
 ocsp-lb.apple.com.akadns.net
 ocsp.apple.com
 ocsp.pki.goog
@@ -81303,6 +81318,8 @@ techstop.corp.google.com
 tesla-cdn.thron.cn
 test.bugs-qa.chromium.org
 test.gbugs-qa.chromium.org
+time.izatcloud.net
+time.xtracloud.net
 tj-pod1-smp-device.apple.com
 tools.google.com
 tools.l.google.com
@@ -81322,7 +81339,6 @@ updates-http.cdn-apple.com
 updates-http.cdn-apple.com.akadns.net
 updates.cdn-apple.com
 uplaypc-s-ubisoft.cdn.ubi.com
-upos-hz-mirrorakam.akamaized.net
 upp.itunes.apple.com
 valid.apple.com
 valid.origin-apple.com.akadns.net

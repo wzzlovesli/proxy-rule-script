@@ -1177,6 +1177,8 @@
 +.alicejapan.co.jp
 +.alicloud.com
 +.aliengu.com
++.aliexpress.ru
++.alihealth.hk
 +.alipay.hk
 +.alipaymo.com
 +.alive.bar
@@ -4924,6 +4926,8 @@
 +.ccav69.me
 +.ccav691api.com
 +.ccavb.tv
++.ccbintl.com.hk
++.ccbseoul.com
 +.cccat.cc
 +.cccat.co
 +.cccat.io
@@ -5232,11 +5236,15 @@
 +.chinasocialdemocraticparty.com
 +.chinasoul.org
 +.chinasucks.net
++.chinatelecomglobal.com
++.chinatelecomhk.com
 +.chinatimes.com
 +.chinatimes.com.tw
 +.chinatopsex.com
 +.chinatown.com.au
 +.chinatweeps.com
++.chinaunicom.com.hk
++.chinaunicomglobal.com
 +.chinaview.wordpress.com
 +.chinaway.org
 +.chinaworker.info
@@ -5529,6 +5537,8 @@
 +.clzz2.xyz
 +.cm
 +.cmail19.com
++.cmbi.com.hk
++.cmbwinglungbank.com
 +.cmcn.org
 +.cmhalq.com
 +.cmi.org.tw
@@ -5914,11 +5924,23 @@
 +.ctan.org
 +.ctao.org
 +.ctee.com.tw
++.ctexcel.ca
++.ctexcel.com
++.ctexcel.com.hk
++.ctexcel.fr
++.ctexcel.us
 +.ctfassets.net
 +.ctfriend.net
 +.ctitv.com.tw
 +.ctotires.com
 +.ctowc.org
++.ctrip.co.id
++.ctrip.co.kr
++.ctrip.co.th
++.ctrip.com.hk
++.ctrip.my
++.ctrip.sg
++.ctripbuy.hk
 +.cts.com.tw
 +.ctv.com.tw
 +.ctwant.com
@@ -5960,6 +5982,7 @@
 +.cumswappingsis.com
 +.cumteenporn.com
 +.cunhua.pics
++.cuniq.com
 +.cuntempire.com
 +.cuntwars.com
 +.cup.com.hk
@@ -6409,7 +6432,11 @@
 +.dictate.ms
 +.didce.com
 +.diddykongracing.com
++.didi-food.com
++.didiaustralia.blog
++.didiglobal.com
 +.didilist.com
++.didimobility.co.jp
 +.dierectv.com
 +.difangwenge.org
 +.digicert-cn.com
@@ -6727,6 +6754,7 @@
 +.docleradn.com
 +.doclercdn.com
 +.docs.com
++.docs.new
 +.docs.rs
 +.doctor-videos.com
 +.doctorvoice.org
@@ -6871,6 +6899,7 @@
 +.drdreprobeatssale.com
 +.dreamamateurs.com
 +.dreambmw.ca
++.dreamcast.hk
 +.dreamforce.com
 +.dreammovies.com
 +.dreamteamfc.com
@@ -7547,6 +7576,7 @@
 +.empflix.com
 +.empornium.site
 +.ems-ph.org
++.emsec.hk
 +.emule-ed2k.com
 +.emulefans.com
 +.emuparadise.me
@@ -8315,12 +8345,14 @@
 +.fapcat.com
 +.fapdu.com
 +.fapdude.com
++.fapello.com
 +.faperoni.com
 +.fapforfun.net
 +.faphdporn.com
 +.faphouse.com
 +.fapmovz.com
 +.fapnado.com
++.fapomania.com
 +.fapopedia.net
 +.fappcelebs.com
 +.fappeningbook.com
@@ -8714,6 +8746,7 @@
 +.flickr.net
 +.flickrhivemind.net
 +.flickriver.com
++.fliggy.hk
 +.fling.com
 +.flipboard.com
 +.flipfap.com
@@ -10838,6 +10871,7 @@
 +.hh-content.com
 +.hhdcb3office.org
 +.hhthesakyatrizin.org
++.hhtravel.com.tw
 +.hhvm.com
 +.hi-on.org.tw
 +.hibdontire.com
@@ -12932,6 +12966,10 @@
 +.jburl.top
 +.jcb
 +.jcpenney.com
++.jd.co.th
++.jd.hk
++.jd.id
++.jd.ru
 +.jdav-css.shop
 +.jdavsp.asia
 +.jdavsp.com
@@ -13640,6 +13678,7 @@
 +.leaguesharp.info
 +.leaguoflegends.com
 +.leakedmeat.com
++.leakedzone.com
 +.leaksmodels.com
 +.leakxxx.com
 +.leancloud.com
@@ -13749,6 +13788,7 @@
 +.libgen.rs
 +.libgen.st
 +.liboggirls.net
++.library.lol
 +.library.usc.cuhk.edu.hk
 +.libraryinformationtechnology.com
 +.librarylovefest.com
@@ -16762,6 +16802,7 @@
 +.nudistvoyeurbeach.com
 +.nudity911.com
 +.nudography.com
++.nudostar.tv
 +.nuespournous.com
 +.nuexpo.com
 +.nuget.org
@@ -17862,6 +17903,7 @@
 +.ping.fm
 +.ping.pe
 +.ping.sx
++.pingan.com.hk
 +.pingguotv.xyz
 +.pingxiangpuer.com
 +.pinimg.com
@@ -19156,11 +19198,15 @@
 +.redd.it
 +.reddit.app.link
 +.reddit.com
++.redditblog.com
 +.reddithelp.com
++.redditinc.com
 +.redditlist.com
 +.redditmail.com
 +.redditmedia.com
++.redditspace.com
 +.redditstatic.com
++.redditstatus.com
 +.redfaptube.com
 +.redgifs.com
 +.redhat.com
@@ -20088,6 +20134,7 @@
 +.shaw
 +.shazam.com
 +.shdd.ink
++.sheets.new
 +.sheflix.com
 +.shegg.com
 +.shegods.com
@@ -20404,6 +20451,7 @@
 +.sleazyneasy.com
 +.slheng.com
 +.slickvpn.com
++.slides.new
 +.slideshare.com
 +.slideshare.net
 +.slidesharecdn.com
@@ -21582,8 +21630,12 @@
 +.temetube.xyz
 +.tenacy.com
 +.tenbyfotolia.com
++.tencent-cloud.cn
++.tencent-cloud.com
 +.tencent.co.id
++.tencent.com.hk
 +.tencent.design
++.tencentcloud.com
 +.tenor.com
 +.tensorflow.org
 +.tenzinpalmo.com
@@ -22073,6 +22125,7 @@
 +.tm
 +.tma.co.jp
 +.tmagazine.com
++.tmall.ru
 +.tmblr.co
 +.tmdb.org
 +.tmdfish.com
@@ -22290,6 +22343,7 @@
 +.trikepatrol.com
 +.trimondi.de
 +.triokini.com
++.trip.com
 +.tristatebmw.com
 +.trithucvn.net
 +.trithucvn.org
@@ -24155,6 +24209,7 @@
 +.whatbrowser.org
 +.whatisairwatch.com
 +.whatisworkspaceone.com
++.whats.new
 +.whatsapp-plus.info
 +.whatsapp-plus.me
 +.whatsapp-plus.net
@@ -25008,6 +25063,7 @@
 +.xtapes.to
 +.xtegvk.xyz
 +.xteko.com
++.xtracloud.net
 +.xtube.com
 +.xtubebdsm.com
 +.xtubezoo.com
@@ -26368,6 +26424,7 @@ ubisoft-orbit-savegames.s3.amazonaws.com
 ubisoft-uplay-savegames.s3.amazonaws.com
 ubistatic3-a.akamaihd.net
 ulrichsweb.serialssolutions.com
+upos-hz-mirrorakam.akamaized.net
 ve-dash-uk-live.akamaized.net
 ve-uhd-push-uk-live.akamaized.net
 venmo.s3.amazonaws.com
