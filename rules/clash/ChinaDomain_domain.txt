@@ -80963,7 +80963,6 @@ configuration.apple.com.akadns.net
 connect.rom.miui.com
 connectivitycheck.gstatic.com
 content.googleadapis.com
-cp.cloudflare.com
 crashlyticsreports-pa.googleapis.com
 crl-lb.apple.com.akadns.net
 crl.apple.com
@@ -80977,7 +80976,6 @@ ctldl.windowsupdate.com
 dartsearch-cn.net
 dd-cdn.origin-apple.com.akadns.net
 dejavu.apple.com
-detectportal.firefox.com
 devblogs.microsoft.com
 developer.microsoft.com
 dg-meta.video.google.com

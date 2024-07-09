@@ -5781,6 +5781,11 @@
 +.cordcloud.org
 +.coreduo.com
 +.coreextreme.com
++.corel.com
++.corel.net
++.coreldraw.app
++.coreldraw.com
++.corelstore.com
 +.coreml.net
 +.coreoptics.net
 +.corepublishingsolutions.com
@@ -11099,6 +11104,7 @@
 +.homestylerapp.com
 +.homestylernews.com
 +.hometrack.com.au
++.hominis.media
 +.homo.xxx
 +.honawalaan.com
 +.honda
@@ -13151,6 +13157,8 @@
 +.jr24h.com
 +.js.org
 +.js.revsci.net
++.jsati.com
++.jsatmobile.com
 +.jsbridgestone.com
 +.jsdelivr.com
 +.jsdelivr.net
@@ -20421,6 +20429,8 @@
 +.skype.net
 +.skypeassets.com
 +.skypeassets.net
++.skyperfectjsat.space
++.skyperfectv.co.jp
 +.skyporn.online
 +.skysports.com
 +.skysports.fr
@@ -20768,6 +20778,7 @@
 +.spankred3d.com
 +.spankwire.com
 +.spb.com
++.spcc-sp.com
 +.speakerdeck.com
 +.spearhead.kr
 +.specialtyheadphones.com
@@ -20835,6 +20846,7 @@
 +.sprite.org
 +.sproutcore.com
 +.sproxy.info
++.sptvbroadcast.com
 +.spyjinx.com
 +.sqlite.org
 +.sqlserveronlinux.com
