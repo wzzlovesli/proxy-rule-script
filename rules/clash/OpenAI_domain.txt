@@ -17,6 +17,7 @@
 +.intercomcdn.com
 +.launchdarkly.com
 +.meta.ai
++.mistral.ai
 +.oaistatic.com
 +.oaiusercontent.com
 +.observeit.net
@@ -35,7 +36,9 @@ alkalimakersuite-pa.clients6.google.com
 api.githubcopilot.com
 bard.google.com
 browser-intake-datadoghq.com
+chat.mistral.ai
 chat.openai.com.cdn.cloudflare.net
+console.mistral.ai
 copilot-proxy.githubusercontent.com
 copilot.microsoft.com
 gemini.google.com
