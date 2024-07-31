@@ -1,28 +1,14 @@
 payload:
-- DOMAIN-KEYWORD,360buy
 - DOMAIN-KEYWORD,alicdn
-- DOMAIN-KEYWORD,alimama
 - DOMAIN-KEYWORD,alipay
 - DOMAIN-KEYWORD,aliyun
-- DOMAIN-KEYWORD,appzapp
 - DOMAIN-KEYWORD,aria2
 - DOMAIN-KEYWORD,baidu
-- DOMAIN-KEYWORD,baidupcs
 - DOMAIN-KEYWORD,beplay
-- DOMAIN-KEYWORD,bilibili
-- DOMAIN-KEYWORD,ccgslb
-- DOMAIN-KEYWORD,chinacache
-- DOMAIN-KEYWORD,duobao
-- DOMAIN-KEYWORD,jdpay
 - DOMAIN-KEYWORD,microsoft
-- DOMAIN-KEYWORD,moke
 - DOMAIN-KEYWORD,officecdn
-- DOMAIN-KEYWORD,qhimg
 - DOMAIN-KEYWORD,taobao
 - DOMAIN-KEYWORD,thunder
-- DOMAIN-KEYWORD,vpimg
-- DOMAIN-KEYWORD,xiami
-- DOMAIN-KEYWORD,xiaomi
 - DOMAIN-KEYWORD,xlliveud
 - DOMAIN-KEYWORD,xunlei
 - DOMAIN-KEYWORD,yunpan
@@ -50,6 +36,8 @@ payload:
 - PROCESS-NAME,ThunderVIP.exe
 - PROCESS-NAME,Transmission
 - PROCESS-NAME,Transmission.exe
+- PROCESS-NAME,WeChat
+- PROCESS-NAME,WeCom
 - PROCESS-NAME,WebTorrent
 - PROCESS-NAME,WebTorrent.exe
 - PROCESS-NAME,WebTorrentHelper
