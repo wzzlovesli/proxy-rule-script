@@ -73447,6 +73447,7 @@
 +.uplooking.com
 +.upnb.com
 +.upos-sz-mirrorali.bilivideo.com
++.upos-sz-mirrorbd.bilivideo.com
 +.upos-sz-mirrorbos.bilivideo.com
 +.upos-sz-mirrorcoso1.bilivideo.com
 +.upowerchain.com
