@@ -222,7 +222,6 @@
 +.228.net.tw
 +.233abc.com
 +.2371tom.com
-+.249dw7.cn
 +.24hjav.com
 +.24hrs.ca
 +.24porn.com
@@ -4413,6 +4412,7 @@
 +.brightcove.net
 +.brightcove.services
 +.brightcovecdn.com
++.brightline.tv
 +.briian.com
 +.brill.com
 +.brilliant.org
@@ -4589,6 +4589,7 @@
 +.bwh81.net
 +.bwh88.net
 +.bwh89.net
++.bwhstatus.com
 +.bwin.com
 +.bwsj.hk
 +.bx.in.th
@@ -5940,6 +5941,7 @@
 +.csifund.org
 +.csis.org
 +.csmonitor.com
++.csrankings.org
 +.css.pixnet.in
 +.cstatic.net
 +.csuchen.de
@@ -6557,6 +6559,7 @@
 +.dis.gd
 +.disco-api.com
 +.discoins.com
++.discomax.com
 +.disconnect.me
 +.discord-activities.com
 +.discord.co
@@ -8587,7 +8590,6 @@
 +.fgmtv.org
 +.fhreports.net
 +.fi
-+.fi11.cn
 +.fi11.com
 +.fi11av1.com
 +.fi11tv1.com
@@ -11462,8 +11464,10 @@
 +.hsbc.uk
 +.hsbcamanah.com.my
 +.hsbcinnovationbanking.com
++.hsbcinsurance.com.cn
 +.hsbcnet.com
 +.hsbcprivatebank.com
++.hsbcqh.com.cn
 +.hsbctrinkaus.de
 +.hsex.men
 +.hsex.tv
@@ -17600,6 +17604,7 @@
 +.park-now.com
 +.parkansky.com
 +.parkinfo.com
++.parkvv.com
 +.parler.com
 +.parse.com
 +.parsevideo.com
@@ -18280,6 +18285,7 @@
 +.popcap.com
 +.popjav.tv
 +.popo.tw
++.popo8.com
 +.popporn-world.com
 +.popvote.hk
 +.popxi.click
@@ -25255,8 +25261,8 @@
 +.xvirtual.com
 +.xvxx.stream
 +.xvxxtube.com
++.xwbo.com
 +.xx-map.com
-+.xx159.com.cn
 +.xx9.app
 +.xxbay.com
 +.xxbbx.com
@@ -25989,7 +25995,6 @@
 +.yyii.org
 +.yyjlymb.xyz
 +.yysub.net
-+.yyyzgdl.cn
 +.yzld188.top
 +.yzzk.com
 +.z-lib.org
