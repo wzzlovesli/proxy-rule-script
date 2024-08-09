@@ -5461,7 +5461,6 @@
 +.clickserver.googleads.com
 +.clien.net
 +.climate-server.com
-+.clincha.cn
 +.cling.omy.sg
 +.clinica-tibet.ru
 +.clinical-videos.com
@@ -12044,7 +12043,6 @@
 +.illusionas.com
 +.illusionchn.com
 +.illusionfactory.com
-+.illusionfb.cn
 +.illusiongw.com
 +.illusionh.com
 +.illusionl.com
@@ -25683,7 +25681,6 @@
 +.yinya.shop
 +.yipub.com
 +.yiqiedoushiganggangkaishi.org
-+.yiqilai99.cn
 +.yizhihongxing.com
 +.yjcontentdelivery.com
 +.ymail.com
