@@ -1555,6 +1555,7 @@
 +.2vulkan.com
 +.2vv.cc
 +.2wxb5.cn
++.2x1gratis.com
 +.2xclick.ru
 +.2xmzazd.cn
 +.2yqcaqbfnv.nextgen.shareablee.com
@@ -13662,7 +13663,6 @@
 +.analytics.dealmoon.com
 +.analytics.denimdream.com
 +.analytics.dev.htmedia.in
-+.analytics.dev.springboardvideo.com
 +.analytics.developer.riotgames.com
 +.analytics.digi8.vn
 +.analytics.digitalpfizer.com
@@ -13778,7 +13778,6 @@
 +.analytics.launch.bz
 +.analytics.lekumo.jp
 +.analytics.lemoolah.com
-+.analytics.live.com
 +.analytics.liveact-vault.com
 +.analytics.liveact.cri-mw.jp
 +.analytics.livesense.marketing
@@ -13924,12 +13923,10 @@
 +.analytics.spankbang.com
 +.analytics.sports.ru
 +.analytics.spotta.nl
-+.analytics.springboardvideo.com
 +.analytics.spun.com.br
 +.analytics.stanby.com
 +.analytics.starlink.com
 +.analytics.starmakerstudios.com
-+.analytics.stg.springboardvideo.com
 +.analytics.strangeloopnetworks.com
 +.analytics.studiodesignapp.com
 +.analytics.styria.hr
@@ -14798,6 +14795,7 @@
 +.api.ra2.xlmc.sec.miui.com
 +.api.receptivity.io
 +.api.rees46.com
++.api.rudderstack.com
 +.api.ryanyao.design
 +.api.sec.miui.com
 +.api.setting.intl.miui.com
@@ -22484,6 +22482,7 @@
 +.bowlpromoteintimacy.com
 +.bowlsolicitor.com
 +.bowmoolog.com
++.bowoprf.icu
 +.bowtellwhincow.cfd
 +.box-en.com
 +.box.anchorfree.net
@@ -42221,6 +42220,7 @@
 +.eruthoxup.com
 +.erutinmo.snagajob.com
 +.erutinmos.snagajob.com
++.erutvncw.top
 +.erutxdk.cn
 +.erversarycompa.info
 +.ervqqtdjdxvgh.com
@@ -45733,6 +45733,7 @@
 +.floratelecom.com
 +.floridat.app.ur.gcion.com
 +.floristgathering.com
++.floroonwhun.com
 +.flossdiversebates.com
 +.flossyarrayal.life
 +.flotsanrantan.com
@@ -52539,6 +52540,7 @@
 +.hall3hook.com
 +.hallaert.online
 +.hallalifondish.space
++.hallanjerbil.com
 +.halldata.com
 +.halleyperson.pro
 +.hallothoulap.top
@@ -62415,6 +62417,7 @@
 +.jrilbcd.com
 +.jrilkvjehrjlri.com
 +.jriravntivf.com
++.jrjtibez.icu
 +.jrkbnvkrvamky.top
 +.jrkkcssob.com
 +.jrkkmpeqtlsawgf.com
@@ -84051,7 +84054,6 @@
 +.omnitag.omniscientai.com
 +.omnitagjs.com
 +.omniture.com
-+.omniture.eaeurope.eu
 +.omniture.theglobeandmail.com
 +.omns.crackle.com
 +.omns.murdoch.edu.au
@@ -85413,6 +85415,7 @@
 +.oulvtrip.com
 +.oumainseeba.xyz
 +.oumazg.com
++.oumnxiek.top
 +.oumpashy.net
 +.oumtirsu.com
 +.ounceanalogous.com
@@ -86520,6 +86523,7 @@
 +.panoramicbutter.com
 +.panoramicplane.com
 +.panoramio.com
++.panowiesnarled.click
 +.panoz.xyz
 +.panpant.xyz
 +.pansymerbaby.com
@@ -96860,6 +96864,7 @@
 +.ridwmorfitu.com
 +.rieversfidate.com
 +.rifec.co
++.riffingwiener.com
 +.riffledyanked.click
 +.rifflingo.com
 +.riffsablaze.uno
@@ -101157,7 +101162,6 @@
 +.sentry-cdn.top
 +.sentry.alaatv.com
 +.sentry.alibaba.ir
-+.sentry.arc.io
 +.sentry.bale.sh
 +.sentry.basalam.com
 +.sentry.cafebazaar.org
@@ -102006,6 +102010,7 @@
 +.shbywsd.cn
 +.shbzdkj.cn
 +.shbzegs.cn
++.shbzhkj.cn
 +.shbzikj.cn
 +.shbzjgs.cn
 +.shbzjkj.cn
@@ -103578,6 +103583,7 @@
 +.skiingwights.com
 +.skilfuljealousygeoffrey.com
 +.skilfulrussian.com
++.skilldicier.com
 +.skilleadservices.com
 +.skilledfixedoffers.com
 +.skilledskillemergency.com
@@ -131760,6 +131766,7 @@
 +.wnrrhcyok.xyz
 +.wnrusisedprivatedq.info
 +.wnrvrwabnxa.com
++.wnstug.xyz
 +.wnt-s0me-push.net
 +.wnt-some-psh.net
 +.wnt-some-push.com
@@ -132165,6 +132172,7 @@
 +.wpushorg.com
 +.wpushsdk.com
 +.wpwdf.com
++.wpwserawnuwq.com
 +.wq19w.cn
 +.wq42219.com
 +.wqasioxvqnj.com
@@ -132195,7 +132203,6 @@
 +.wqzyt.net
 +.wqzyxxrrep.com
 +.wr.yiyouliao.com
-+.wranalytics.wildrocket.io
 +.wrangleprickly.com
 +.wrapdime.com
 +.wrappeddimensionimpression.com
@@ -132481,6 +132488,7 @@
 +.wuksaiho.net
 +.wuksosta.com
 +.wuliao.chzsport.cn
++.wuliao.epro.sogou.com
 +.wuliao.ganji.cn
 +.wuliao.juqingba.cn
 +.wuluju.uno
@@ -136921,6 +136929,7 @@
 +.zbwp6ghm.com
 +.zbx01.com
 +.zbxtcwi.xyz
++.zbysshlpgvl.com
 +.zbyynuew9g.ru
 +.zbz.m.qxs.la
 +.zbzbzb.xyz
@@ -137595,6 +137604,7 @@
 +.zlog.zingmp3.vn
 +.zlongad.com
 +.zlp6s.pw
++.zlsdk.1rtb.net
 +.zlsw.nnjxqd.com
 +.zltndp.xyz
 +.zlvlciv.xyz
@@ -142513,7 +142523,6 @@ directxex.com
 discvr.net
 dispatcher.360in.com
 dispatcher.camera360.com
-display.ravm.tv
 displayads-formats.googleusercontent.com
 dissonbegant.info
 distantnews.com
@@ -144530,7 +144539,6 @@ hauphaun.net
 hausly.info
 hauwzm.com
 haviouslyshoutesce.info
-hb-t5u9.raps.ravm.tv
 hbfls.vip
 hbftgh.ibjkqnhjwd.xyz
 hbhcilgdqxt.com
@@ -149713,7 +149721,6 @@ ratrencalrep.com
 raupsooy.net
 rauraich.com
 ravalynn.pw
-ravm.tv
 rawr.at
 raxlextehqhw.com
 rayli.com.cn
