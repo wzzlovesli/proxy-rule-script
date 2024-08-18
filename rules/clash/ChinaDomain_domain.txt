@@ -90540,8 +90540,6 @@ cdn-cn4.apple-mapkit.com
 cdn.ampproject.org
 cdn.angruo.com
 cdn.apple-mapkit.com
-cdn.bootcdn.net
-cdn.bootcss.com
 cdn.globalsigncdn.com.cdn.cloudflare.net
 cdn.marketplaceimages.windowsphone.com
 cdn1.apple-mapkit.com

@@ -2147,7 +2147,6 @@
 +.ashemaletube.com
 +.ashemaletv.com
 +.ashleysageellison.com
-+.asia
 +.asia-gaming.com
 +.asiacrazy.xyz
 +.asiaharvest.org
@@ -2683,7 +2682,6 @@
 +.babestube.com
 +.babosas.com
 +.babushky.club
-+.baby
 +.baby-kingdom.com
 +.babycondom.com
 +.babylonbee.com
@@ -5091,8 +5089,6 @@
 +.charlotte-anime.jp
 +.charmescorts.com
 +.charticulator.com
-+.chase
-+.chat
 +.chat.lmsys.org
 +.chat.openai.com
 +.chatango.com
@@ -13234,7 +13230,6 @@
 +.jpg4.pw
 +.jpg4us.net
 +.jpl.nasa.gov
-+.jpmorgan
 +.jpopforum.net
 +.jprs
 +.jpvhub.com
@@ -18279,7 +18274,6 @@
 +.pokemonultrasunmoon.com
 +.pokemonvgc.com
 +.pokemonwifi.net
-+.poker
 +.pokerstars.com
 +.pokerstars.net
 +.pokerstrategy.com
@@ -19072,7 +19066,6 @@
 +.quatrum.com.br
 +.quay.io
 +.quebec
-+.quest
 +.questvisual.com
 +.quicinc.com
 +.quickiepage.com
@@ -19798,7 +19791,6 @@
 +.savitahd.net
 +.savoycomputing.com
 +.savvyshopper.net.au
-+.saxo
 +.say2.info
 +.saynow.com
 +.sb
@@ -22683,7 +22675,6 @@
 +.tutanota.com
 +.tuvpn.com
 +.tuzaijidi.com
-+.tv
 +.tv.com
 +.tv.google
 +.tv.jtbc.joins.com
@@ -25065,7 +25056,6 @@
 +.xn--hxtr4rozx.xn--czr694b
 +.xn--i2ru8q2qg.com
 +.xn--j1amh
-+.xn--j6w193g
 +.xn--jlq480n2rg
 +.xn--kcrx77d1x4a
 +.xn--kprw13d
