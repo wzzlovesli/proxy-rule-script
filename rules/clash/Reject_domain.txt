@@ -10845,6 +10845,7 @@
 +.adtrader.com
 +.adtraf.pro
 +.adtraff.ru
++.adtrafficquality.google
 +.adtrak.net
 +.adtraxx.de
 +.adtrgt.com
@@ -14826,7 +14827,6 @@
 +.api.tumra.com
 +.api.tw06.xlmc.sec.miui.com
 +.api.uca.cloud.unity3d.com
-+.api.ucheba.ru
 +.api.union.vip.com
 +.api.unthem.com
 +.api.usebutton.com
@@ -14976,7 +14976,6 @@
 +.app.acekuwait.com
 +.app.activityhero.com
 +.app.adjust.io
-+.app.adjust.net.in
 +.app.adjust.world
 +.app.airtrack.jp
 +.app.aksent.ai
@@ -18852,6 +18851,7 @@
 +.baijs06.xyz
 +.baijs07.shop
 +.baijs07.xyz
++.baijs08.shop
 +.baijs08.xyz
 +.baikalize.com
 +.baike.biz
@@ -33446,6 +33446,7 @@
 +.dab.rus-km.ru
 +.dabaicai.cn
 +.dabaicai.com
++.dabajd.xyz
 +.dabaoku.com
 +.dabblercissies.com
 +.dabbyfather.com
@@ -37793,6 +37794,7 @@
 +.doujs06.xyz
 +.doujs07.shop
 +.doujs07.xyz
++.doujs08.shop
 +.doujs08.xyz
 +.doujs09.xyz
 +.doukekan.cn
@@ -53747,6 +53749,7 @@
 +.hewokhn.com
 +.hewomenentail.com
 +.hewonderfulst.info
++.hewrutu.top
 +.hexagon-analytics.com
 +.hexapinow.xyz
 +.hexcan.com
@@ -63182,6 +63185,7 @@
 +.jyjhjopmq.com
 +.jyjhkz.com
 +.jyjmpatmgk.com
++.jyjrbz.xyz
 +.jylemdzkh.com
 +.jylgvkxgfy.com
 +.jynginedoddle.top
@@ -64317,6 +64321,7 @@
 +.kjvnfhdgb.com
 +.kjwx8.com
 +.kjwysxs.cn
++.kjxhd.cn
 +.kjxmcn.eset.com
 +.kjxztu.biz-journal.jp
 +.kjyouhp.com
@@ -77041,6 +77046,7 @@
 +.mixtraff.com
 +.mixxuo.sportys.gr
 +.mixykails.com
++.miycoc.xyz
 +.miyqoyyazdal.com
 +.miyudaquan.top
 +.mizensdisney.com
@@ -81413,6 +81419,7 @@
 +.ningtoldrop.ru
 +.ningxiayy.com
 +.ninja.akamaized.net
++.ninja.data.olxcdn.com
 +.ninja.onap.io
 +.ninjacat.io
 +.ninkorant.online
