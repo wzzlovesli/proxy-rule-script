@@ -90690,6 +90690,7 @@ gspe79-cn-ssl.ls.apple.com
 gspe85-cn-ssl.ls.apple.com
 gstatic-cn.com
 gstaticadssl.l.google.com
+gstore.val.manlaxy.com
 gtm.oasisfeng.com
 guzzoni-apple-com.v.aaplimg.com
 guzzoni.apple.com
@@ -90988,7 +90989,6 @@ www.yxssp.com
 www.ztedevices.com
 www4-static.gog-statics.com
 xb.dlservice.microsoft.com
-xboxlive.cn
 xn--9kr7l.com
 xn--flw351e.com
 xp.apple.com
