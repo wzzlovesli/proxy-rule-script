@@ -864,6 +864,7 @@
 +.cozydrdrebeats.com
 +.cqcorea.com
 +.crashlytics.com
++.crl.apple.com
 +.cstat.apple.com
 +.cstat.cdn-apple.com
 +.cuffiesaldi.com
