@@ -10566,6 +10566,7 @@
 +.apilyzy.com
 +.apim.work
 +.apimkt.net
++.apipost.net
 +.apiseven.com
 +.apispace.com
 +.apistd.com
@@ -18426,6 +18427,7 @@
 +.chncpa.org
 +.chncwds.com
 +.chndesign.com
++.chndoi.org
 +.chndtb.com
 +.chnews.net
 +.chnfi.com
@@ -47141,6 +47143,7 @@
 +.kidbra.xyz
 +.kiddopal.com
 +.kidikidi.net
++.kidsccshow.com
 +.kidscoding8.com
 +.kidsdown.com
 +.kidseq.net
@@ -63653,7 +63656,6 @@
 +.rnhy.net
 +.rnmtb.com
 +.rnpagoc.site
-+.ro.com
 +.ro50.com
 +.road-group.com
 +.roadjava.com
@@ -64218,6 +64220,7 @@
 +.rwb66.com
 +.rwd.hk
 +.rwezk.com
++.rwkv.com
 +.rwtext.com
 +.rwxqfbj.com
 +.rwys.com
@@ -68058,6 +68061,7 @@
 +.smucdn.com
 +.smudc.com
 +.smulink.com
++.smuszh.com
 +.smvip8.com
 +.smwd.tech
 +.smwenxue.com
@@ -69416,6 +69420,7 @@
 +.sunlife-everbright.com
 +.sunlight-tech.com
 +.sunlogin.com
++.sunlogin.net
 +.sunlons.com
 +.sunlordinc.com
 +.sunlune.com
@@ -70938,14 +70943,12 @@
 +.tapdb.net
 +.tapenjoy.com
 +.tapimg.com
-+.tapimg.net
 +.tapotiexie.com
 +.tappile.com
 +.tapque.com
 +.tapsvc.com
 +.taptap-api.com
 +.taptap.com
-+.taptap.io
 +.taptapcode.com
 +.taptapdada.com
 +.taraniss.com
@@ -91009,7 +91012,6 @@ logger-dev.corp.google.com
 logger.corp.google.com
 login.corp.google.com
 lv.queniujq.cn
-manga.bilibili.com
 maps.apple.com
 menu-static.gog-statics.com
 mesu-cdn.apple.com.akadns.net
