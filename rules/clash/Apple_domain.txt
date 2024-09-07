@@ -899,6 +899,7 @@
 +.detaliczny.com
 +.developer-advisor.com
 +.device-manager.us
++.devstreaming-cdn.apple.com
 +.digicert.com
 +.digitalhub.com
 +.discountbeatsbydre-us.com
