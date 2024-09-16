@@ -15705,7 +15705,6 @@
 +.capjoy.com
 +.caplanking.com
 +.capsuleshanghai.com
-+.captive.apple.com
 +.capvision.com
 +.capwhale.com
 +.car-metaverse.com
@@ -20397,7 +20396,6 @@
 +.congzao.com
 +.congzhi.com
 +.conhagroup.com
-+.connectivitycheck.gstatic.com
 +.conoha.vip
 +.conpak.com.hk
 +.conshow.com
@@ -20568,7 +20566,6 @@
 +.coyuk.com
 +.coyuns.net
 +.cp-keji.com
-+.cp.cloudflare.com
 +.cp127w.com
 +.cp365.org
 +.cpa100.com
@@ -22900,7 +22897,6 @@
 +.destoon.com
 +.desunpv.com
 +.detailroi.com
-+.detectportal.firefox.com
 +.detion.com
 +.detu.com
 +.detuyun.com
@@ -50587,7 +50583,6 @@
 +.localhost.ptlogin2.qq.com
 +.localhost.sec.qq.com
 +.localizecdn.com
-+.location.services.mozilla.com
 +.locatran.com
 +.locez.com
 +.lockchat.app
@@ -54647,8 +54642,6 @@
 +.msdprod-ad.download.prss.microsoft.com
 +.msecnd.net
 +.msfpay.com
-+.msftconnecttest.com
-+.msftncsi.com
 +.msgcarry.com
 +.msgtjj.com
 +.msh2020.com
@@ -55895,7 +55888,6 @@
 +.nettvl.net
 +.netvp.net
 +.networkbench.com
-+.networkcheck.kde.org
 +.networkesl.com
 +.netzonesoft.com
 +.neu-reality.com
@@ -59294,7 +59286,6 @@
 +.pinfangw.com
 +.ping-jia.net
 +.ping-qu.com
-+.ping.archlinux.org
 +.ping.ubnt.com
 +.ping99.com
 +.pingan.com
@@ -60167,7 +60158,6 @@
 +.purewhite.io
 +.puronglong.com
 +.pusa123.com
-+.push.services.mozilla.com
 +.push2u.com
 +.pushauction.com
 +.pushcfg.com
@@ -90539,7 +90529,6 @@ cnappinstall.googleadapis.com
 communities.apple.com
 configuration.apple.com
 configuration.apple.com.akadns.net
-connect.rom.miui.com
 connectivitycheck.gstatic.com
 content.googleadapis.com
 crashlyticsreports-pa.googleapis.com
