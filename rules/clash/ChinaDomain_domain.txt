@@ -9303,6 +9303,7 @@
 +.aipgy.com
 +.aipiaxi.com
 +.aipingxiang.com
++.aippt.com
 +.aippt.site
 +.aiprose.com
 +.aipu-waton.com
@@ -26556,6 +26557,7 @@
 +.esinidc.com
 +.esipark.com
 +.esisroldh.org
++.esjlf.com
 +.esjson.com
 +.esk365.com
 +.eskimall.com
@@ -29357,7 +29359,6 @@
 +.g1f5.com
 +.g1yx.com
 +.g2.link
-+.g2g1.com
 +.g2h3.com
 +.g2us.com
 +.g2work.com
@@ -37310,6 +37311,7 @@
 +.hkgol.com
 +.hkinsu.com
 +.hkjapp.com
++.hkjsrent.com
 +.hkklock.com
 +.hkkuaiyixiu.com
 +.hklego.com
@@ -37602,7 +37604,6 @@
 +.hnlyy.com
 +.hnlzhd.com
 +.hnlzw.net
-+.hnlzzq.com
 +.hnmdtv.com
 +.hnmfbw.com
 +.hnmgjr.com
@@ -44322,6 +44323,7 @@
 +.jita.fun
 +.jita.im
 +.jita5.com
++.jitaba.net
 +.jitadaren.com
 +.jitadog.com
 +.jitailian.com
@@ -44517,6 +44519,7 @@
 +.jjbhn.com
 +.jjbisai.com
 +.jjbnews.xyz
++.jjcbw.com
 +.jjccb.com
 +.jjcclt.com
 +.jjcdn.com
@@ -44590,6 +44593,7 @@
 +.jjwxc.net
 +.jjwxc.org
 +.jjxwzk.org
++.jjxxk.com
 +.jjxyls.com
 +.jjy118.com
 +.jjygym.com
@@ -55359,7 +55363,6 @@
 +.n802.com
 +.n8hte.com
 +.n8olw300b.sbs
-+.n99hao.com
 +.n9z.net
 +.na-mexico-1.myhuaweicloud.com
 +.na.ci
@@ -68508,6 +68511,7 @@
 +.srworld.net
 +.srx3.net
 +.srxww.com
++.srxzc.com
 +.srxzz.com
 +.srzc.com
 +.srzdq.com
