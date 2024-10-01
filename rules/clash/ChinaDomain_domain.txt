@@ -462,7 +462,6 @@
 +.0599yx.com
 +.05bk.com
 +.05bq.com
-+.05eg.com
 +.05idc.com
 +.05info.com
 +.05sun.com
@@ -8067,7 +8066,6 @@
 +.99jrk.com
 +.99jypx.com
 +.99kf.com
-+.99kgames.com
 +.99ku.vip
 +.99kypay.com
 +.99lb.net
@@ -11799,7 +11797,6 @@
 +.baixiu.org
 +.baiyang.com
 +.baiyangseo.com
-+.baiyangwang.com
 +.baiyaohy.com
 +.baiycap.net
 +.baiye5.com
@@ -11825,7 +11822,6 @@
 +.baizhan.net
 +.baizhanke.com
 +.baizhanlive.com
-+.baizhenzhu.com
 +.baizhiedu.com
 +.baizhu.cc
 +.baizlink.com
@@ -13877,7 +13873,6 @@
 +.bjyingge.com
 +.bjyingyun.com
 +.bjyirui.com
-+.bjyixiaojian.com
 +.bjyme.com
 +.bjyouth.net
 +.bjyqsj.com
@@ -15897,8 +15892,6 @@
 +.cccc-capital.com
 +.ccccc12kkkkk.com
 +.ccccc33kkkkk.com
-+.ccccccccc.cc
-+.cccccccccc.cc
 +.cccccccccccccccccccccccccccccccccccccccccccccc.cc
 +.cccdun.com
 +.cccf-cloud.com
@@ -16843,7 +16836,6 @@
 +.chacheliang.com
 +.chachexian.com
 +.chacuo.net
-+.chadianhua.net
 +.chadianshang.com
 +.chadoc.com
 +.chadown.com
@@ -18375,9 +18367,7 @@
 +.chongwenwen.com
 +.chongwu.cc
 +.chongwujiaoyi.com
-+.chongya.com
 +.chongya.vip
-+.chongyacdn.com
 +.chongyejia.com
 +.chongyitang.org
 +.chongyunpowu.com
@@ -25939,7 +25929,6 @@
 +.egcmedia.com
 +.egeel.com
 +.egfb2221.com
-+.egg-born.org
 +.egg.htcsense.com
 +.egjqgs.com
 +.egoint.com
@@ -26454,7 +26443,6 @@
 +.ereter.com
 +.ereuiib.com
 +.erfang-ic.com
-+.erfdhiu.com
 +.erg2008.com
 +.ergecdn.com
 +.ergedd.com
@@ -26794,7 +26782,6 @@
 +.eweis.com
 +.ewen.co
 +.ewenyan.com
-+.ewerew.com
 +.ewide.net
 +.ewidecloud.com
 +.ewidewater.com
@@ -27696,7 +27683,6 @@
 +.feijizu.com
 +.feikongbao.com
 +.feiku.com
-+.feilasi.com
 +.feiliao.com
 +.feiliks.com
 +.feilixi888.com
@@ -28863,7 +28849,6 @@
 +.fstrhb.com
 +.fsukj.com
 +.fswchina.com
-+.fswl66.com
 +.fsxchina.com
 +.fsxinfengyi.com
 +.fsxshjz.com
@@ -29876,7 +29861,6 @@
 +.gdjingte.com
 +.gdjiutu.com
 +.gdjktk.com
-+.gdjqwl.com
 +.gdjshd.com
 +.gdjsxh.com
 +.gdjuhan.com
@@ -32171,7 +32155,6 @@
 +.guozhenyi.com
 +.guozhihua.net
 +.guozhivip.com
-+.guozhongxin.com
 +.guozi.org
 +.guoziyx.com
 +.gupang.com
@@ -35689,7 +35672,6 @@
 +.haplat.net
 +.happi123.com
 +.happigo.com
-+.happilyevilafter.com
 +.happy-ti.com
 +.happychang.net
 +.happycodeboy.com
@@ -36193,7 +36175,6 @@
 +.hdhjtz.com
 +.hdhome.org
 +.hdhospital.com
-+.hdht-sc.com
 +.hdhui.com
 +.hdj.me
 +.hdjingwei.com
@@ -43989,7 +43970,6 @@
 +.jinglawyer.com
 +.jingliangad.com
 +.jinglingbiaozhu.com
-+.jinglongyu.link
 +.jinglou8.com
 +.jingluemall.com
 +.jingluole.com
@@ -44071,6 +44051,7 @@
 +.jiniance8.com
 +.jiningjj.com
 +.jiniu.work
++.jiniutech.com
 +.jinjianbio.com
 +.jinjiang-group.com
 +.jinjiang.com
@@ -46914,7 +46895,6 @@
 +.kidulte.com
 +.kidulty.com
 +.kiees.com
-+.kihgwe.com
 +.kiiik.com
 +.kiijoy.com
 +.kiinii.com
@@ -47358,7 +47338,6 @@
 +.kotoo.com
 +.koubei.com
 +.koubeikc.com
-+.koucai365.com
 +.kouchouwang.net
 +.kouclo.com
 +.koudai.com
@@ -56319,7 +56298,6 @@
 +.njtjyq.com
 +.njtrabon.com
 +.njtst.com
-+.njuaplusplus.com
 +.njuftp.org
 +.njustar.com
 +.njw88.com
@@ -56960,7 +56938,6 @@
 +.novastargame.net
 +.novaxinli.com
 +.novel-supertv.com
-+.noveless.com
 +.novelfm.com
 +.novelfmpic.com
 +.novelfmstatic.com
@@ -57662,7 +57639,6 @@
 +.omacloud.com
 +.omarea.com
 +.omaten.com
-+.omayse.com
 +.ombuy.com
 +.omccsh.com
 +.omchain.com
@@ -67557,7 +67533,6 @@
 +.slogra.com
 +.slooti.com
 +.slot4.net
-+.slotwildwest.com
 +.slovakia-visacenter.com
 +.slovenia-visacenter.com
 +.slowdark.com
@@ -73593,6 +73568,7 @@
 +.ubja.vip
 +.ublese.com
 +.ubmconlinereg.com
++.ubnt.com.cn
 +.uboat100.com
 +.uboxol.com
 +.ubs001.com
@@ -85287,7 +85263,6 @@
 +.ysext.com
 +.ysfog.com
 +.ysgang.com
-+.ysgcdns.xyz
 +.ysgfood.com
 +.ysghh.com
 +.ysgtg.com
@@ -85536,7 +85511,6 @@
 +.yubb12.site
 +.yuboinfo.com
 +.yuboqj.com
-+.yubosun.com
 +.yucccc.com
 +.yucekj.com
 +.yucezhijia.com
@@ -85964,7 +85938,6 @@
 +.yunpan1.net
 +.yunpansou.cc
 +.yunpanx.com
-+.yunpanziyuan.com
 +.yunpanziyuan.xyz
 +.yunpei.com
 +.yunpian.com
@@ -86051,7 +86024,6 @@
 +.yunxinfa.com
 +.yunxinfw.com
 +.yunxing168.com
-+.yunxingjituan.com
 +.yunxinshi.com
 +.yunxiren.com
 +.yunxiu.com
@@ -87934,6 +87906,7 @@
 +.zhilianiot.com
 +.zhiliaoke.com
 +.zhilingshidai.com
++.zhilingshop.com
 +.zhilong.me
 +.zhilongtech.com
 +.zhiluo.net
