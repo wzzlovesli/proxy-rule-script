@@ -90598,6 +90598,7 @@ cn.widevine.com
 cn.windowssearch.com
 cnappinstall.googleadapis.com
 communities.apple.com
+config.ubnt.com
 configuration.apple.com
 configuration.apple.com.akadns.net
 connectivitycheck.gstatic.com
@@ -90623,6 +90624,7 @@ distribution.qcpp1.net
 distribution.qpdp1.net
 dl.google.com
 dl.l.google.com
+dl.ubnt.com
 dns.corp.google.com
 docs.microsoft.com
 doubleclick-cn.net
