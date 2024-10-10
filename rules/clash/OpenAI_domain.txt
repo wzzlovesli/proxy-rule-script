@@ -22,6 +22,7 @@
 +.oaiusercontent.com
 +.observeit.net
 +.openai.com
++.openai.com.cdn.cloudflare.net
 +.openaiapi-site.azureedge.net
 +.openaicom.imgix.net
 +.perplexity.ai
