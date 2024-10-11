@@ -19884,6 +19884,8 @@
 +.cnnetsec.com
 +.cnneweragx.com
 +.cnnfootballclub.com
++.cnnic.cn
++.cnnic.com.cn
 +.cnnmol.com
 +.cnnorip.org
 +.cnnot.com
@@ -60682,6 +60684,7 @@
 +.qhgxq.com
 +.qhgy.net
 +.qhimg.com
++.qhimgs.com
 +.qhimgs0.com
 +.qhimgs1.com
 +.qhimgs2.com
@@ -60689,6 +60692,7 @@
 +.qhimgs4.com
 +.qhimgs5.com
 +.qhimgs6.com
++.qhimgs?.com
 +.qhimi.com
 +.qhjyks.com
 +.qhkyfund.com
@@ -60705,13 +60709,7 @@
 +.qhpk.net
 +.qhrcsc.com
 +.qhres.com
-+.qhres0.com
-+.qhres1.com
 +.qhres2.com
-+.qhres3.com
-+.qhres4.com
-+.qhres5.com
-+.qhres6.com
 +.qhrmyy.net
 +.qhscw.net
 +.qhsetup.com
