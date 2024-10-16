@@ -5781,6 +5781,7 @@
 +.5zzbets.com
 +.6-china.com
 +.6.biz
++.6.cn
 +.6000feet.com
 +.600280.com
 +.6006.xin
@@ -54463,7 +54464,6 @@
 +.moefantasy.com
 +.moefou.org
 +.moegirl.org
-+.moegirl.org.cn
 +.moehot.com
 +.moehu.org
 +.moehui.com
@@ -57442,7 +57442,6 @@
 +.ntneuro.org
 +.ntnykj.com
 +.ntp.felixc.at
-+.ntp.org.cn
 +.ntp123.com
 +.ntp8.com
 +.ntptimeserver.com
@@ -58339,6 +58338,7 @@
 +.ordosbank.com
 +.orfactory.com
 +.orfxsoa.com
++.org.cn
 +.orgcc.com
 +.orgleaf.com
 +.oriemac.com
@@ -60128,6 +60128,7 @@
 +.ppkanshu.com
 +.ppkao.com
 +.pplib.net
++.pplive.cn
 +.pplive.com
 +.pplock.com
 +.ppm-htv.com
@@ -60969,7 +60970,6 @@
 +.qhimgs4.com
 +.qhimgs5.com
 +.qhimgs6.com
-+.qhimgs?.com
 +.qhimi.com
 +.qhjyks.com
 +.qhkyfund.com
@@ -74644,7 +74644,6 @@
 +.uritebio.com
 +.uritest.com
 +.uriwh.com
-+.url.cn
 +.url.cy
 +.urlos.com
 +.urology.wiki
@@ -90933,6 +90932,7 @@ a2.mzstatic.com
 a3.mzstatic.com
 a4.mzstatic.com
 a5.mzstatic.com
+acg.tv
 adcdownload.apple.com
 adcdownload.apple.com.akadns.net
 admob-cn.com
@@ -90965,6 +90965,7 @@ asusrouter.com
 auth.music.apple.com
 avail.googleflights.net
 b.c2r.ts.cdn.office.net
+b23.tv
 bag.itunes.apple.com
 bbs.ztedevices.com
 beacons.gcp.gvt2.com
@@ -91406,6 +91407,7 @@ updates-http.cdn-apple.com.akadns.net
 updates.cdn-apple.com
 uplaypc-s-ubisoft.cdn.ubi.com
 upp.itunes.apple.com
+url.cn
 valid.apple.com
 valid.origin-apple.com.akadns.net
 vext.corp.google.com

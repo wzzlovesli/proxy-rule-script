@@ -11,6 +11,7 @@ DOMAIN-KEYWORD,thunder
 DOMAIN-KEYWORD,xlliveud
 DOMAIN-KEYWORD,xunlei
 DOMAIN-KEYWORD,yunpan
+DOMAIN-WILDCARD,*.qhimgs?.com
 PROCESS-NAME,BitComet
 PROCESS-NAME,BitComet.exe
 PROCESS-NAME,BitComet_x64.exe
@@ -35,8 +36,6 @@ PROCESS-NAME,Thunder.exe
 PROCESS-NAME,ThunderVIP.exe
 PROCESS-NAME,Transmission
 PROCESS-NAME,Transmission.exe
-PROCESS-NAME,WeChat
-PROCESS-NAME,WeCom
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,WebTorrent.exe
 PROCESS-NAME,WebTorrentHelper
