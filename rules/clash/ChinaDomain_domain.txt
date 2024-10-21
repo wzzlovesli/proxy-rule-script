@@ -68517,6 +68517,7 @@
 +.souidc.org
 +.soukecheng.net
 +.soukuyou.com
++.soulapp.cn
 +.soulapp.me
 +.souldee.com
 +.soulgame.mobi
@@ -69050,6 +69051,7 @@
 +.steamproxy.net
 +.steampy.com
 +.steamrepcn.com
++.steamserver.net
 +.steamxdf.com
 +.stec.net
 +.steelphone.com
@@ -74091,6 +74093,7 @@
 +.udonmai.com
 +.udows.com
 +.udpwork.com
++.udqqimg.com
 +.udragons.com
 +.udream.com
 +.udrig.com
@@ -90881,6 +90884,8 @@ applemdm.corp.google.com
 apps.mzstatic.com
 apps5.oingo.com
 apptrailers.itunes.apple.com
+assets1.xboxlive.cn
+assets2.xboxlive.cn
 asusrouter.com
 auth.music.apple.com
 avail.googleflights.net
