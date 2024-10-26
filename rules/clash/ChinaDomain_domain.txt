@@ -91031,6 +91031,7 @@ cdn1.apple-mapkit.com
 cdn2.apple-mapkit.com
 cdn3.apple-mapkit.com
 cdn4.apple-mapkit.com
+cdnstatic.tencentcs.com
 cds-cdn.v.aaplimg.com
 cds.apple.com
 cds.apple.com.akadns.net
@@ -91092,10 +91093,8 @@ dl.google.com
 dl.l.google.com
 dl.ubnt.com
 dns.corp.google.com
-dns.pub
 docs.microsoft.com
 doh.pub
-dot.pub
 doubleclick-cn.net
 doubleclick.net
 download.developer.apple.com
