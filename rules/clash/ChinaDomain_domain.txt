@@ -91180,6 +91180,7 @@ login.corp.google.com
 lv.queniujq.cn
 manga.bilibili.com
 maps.apple.com
+media.cdn.queniuqe.com
 menu-static.gog-statics.com
 mesu-cdn.apple.com.akadns.net
 mesu-china.apple.com.akadns.net
