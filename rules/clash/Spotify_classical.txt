@@ -1,3 +1,2 @@
-DOMAIN-KEYWORD,-spotify-
-DOMAIN-KEYWORD,spotify.com
+DOMAIN-KEYWORD,spotify
 PROCESS-NAME,com.spotify.music

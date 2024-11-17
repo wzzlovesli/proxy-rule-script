@@ -15166,7 +15166,6 @@
 +.iproperty.com
 +.iproperty.com.my
 +.iproperty.com.sg
-+.ipstatp.com
 +.iptv.com.tw
 +.iptvbin.com
 +.ipv6.ac.uk
@@ -24709,7 +24708,6 @@
 +.sgp.file.myqcloud.com
 +.sgp1.fun
 +.sgpe.ac.uk
-+.sgpstatp.com
 +.sgsah.ac.uk
 +.sgscol.ac.uk
 +.sgspe.de

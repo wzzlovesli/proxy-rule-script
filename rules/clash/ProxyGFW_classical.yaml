@@ -13,7 +13,6 @@ payload:
 - DOMAIN-KEYWORD,gmail
 - DOMAIN-KEYWORD,google
 - DOMAIN-KEYWORD,instagram
-- DOMAIN-KEYWORD,musical.ly
 - DOMAIN-KEYWORD,onedrive
 - DOMAIN-KEYWORD,paypal
 - DOMAIN-KEYWORD,porn
@@ -21,7 +20,6 @@ payload:
 - DOMAIN-KEYWORD,skydrive
 - DOMAIN-KEYWORD,spotify
 - DOMAIN-KEYWORD,telegram
-- DOMAIN-KEYWORD,tiktok
 - DOMAIN-KEYWORD,ttvnw
 - DOMAIN-KEYWORD,twitter
 - DOMAIN-KEYWORD,uk-live
