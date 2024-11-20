@@ -90989,9 +90989,11 @@ o.pki.goog
 oasisauth.h3c.com
 ocsp-lb.apple.com.akadns.net
 ocsp.apple.com
+ocsp.globalsign.com
 ocsp.pki.goog
 ocsp2-lb.apple.com.akadns.net
 ocsp2.apple.com
+ocsp2.globalsign.com
 oemsoc.download.prss.microsoft.com
 officecdn.microsoft.com
 opencourse.pku.edu.cn
