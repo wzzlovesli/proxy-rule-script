@@ -2580,7 +2580,6 @@
 +.5a8p12.cn
 +.5advertise.com
 +.5ae3a94233.com
-+.5afc476a.xyz
 +.5afc8f3239.com
 +.5b10f288ee.com
 +.5b3fbababb.com
@@ -4486,6 +4485,7 @@
 +.a2pub.com
 +.a2put.chinaz.com
 +.a2tw6yoodsag.com
++.a2wx.icu
 +.a2zapk.com
 +.a3.hotpornfile.org
 +.a3.ikafan.com
@@ -11855,6 +11855,7 @@
 +.af.shozankan-shop.com
 +.af.tosho-trading.co.jp
 +.af6937a2.live
++.af6s.icu
 +.af91c27a8e.com
 +.af9dc9.xyz
 +.afa28048bf78ad9.com
@@ -15134,6 +15135,7 @@
 +.ao1120kas.top
 +.ao1122kas.top
 +.ao1123kas.top
++.ao1201kas.top
 +.aoakss.com
 +.aoalmfwinbsstec23.com
 +.aoao11111iis.top
@@ -15141,6 +15143,7 @@
 +.aoao11121iis.top
 +.aoao11201iis.top
 +.aoao11211iis.top
++.aoao12011iis.top
 +.aobde.com
 +.aobtwv.icu
 +.aod.echovisuals.com
@@ -24026,6 +24029,7 @@
 +.brinstascooter.eccocar.com
 +.brioletredeyes.com
 +.brioscoot.eccocar.com
++.brircel.com
 +.briskeagle.io
 +.briskedmiskept.com
 +.briskpelican.io
@@ -25515,6 +25519,7 @@
 +.caamei.com
 +.caanalytics.com
 +.caapp.levi.com
++.caaqot.com
 +.caardinal.com
 +.cabbagesemestergeoffrey.com
 +.cabbingdandled.com
@@ -41162,6 +41167,7 @@
 +.e822e00470.com
 +.e860045edaecd.com
 +.e89dafb480.com
++.e8d7.icu
 +.e8e2063b.xyz
 +.e8f6c9133b.com
 +.e91c222079.com
@@ -41540,6 +41546,7 @@
 +.ebankingshopee.vn
 +.ebannertraffic.com
 +.ebay.northernhost.com
++.ebayadservices.com
 +.ebayadvertising.com
 +.ebayadvertising.triadretail.net
 +.ebayasean.com
@@ -41872,6 +41879,7 @@
 +.edaightutaitlastwe.info
 +.edalloverwiththinl.info
 +.edallthroughthe.info
++.edamcsw.top
 +.edassiumw.xyz
 +.edavbu.vittz.co.kr
 +.edbehindforhewa.info
@@ -42008,7 +42016,6 @@
 +.edspectsm.fun
 +.edspicuousind.site
 +.edstevermotorie.com
-+.edstrastconversity.org
 +.edsvqciwxxqd.com
 +.edt02.net
 +.edthechildrenandthe.info
@@ -45703,7 +45710,6 @@
 +.extramilefloorcare.ericksonbuilt.com
 +.extraneedlesshoneycomb.com
 +.extrashop.fr
-+.extrasmallpersonal.pro
 +.extrawatch.com
 +.extreme-dm.com
 +.extreme-ip-lookup.com
@@ -48139,7 +48145,6 @@
 +.fly.caljetelite.com
 +.flyads1.com
 +.flycast.com
-+.flyergisants.com
 +.flyerseafood.com
 +.flyerseminarmaintenance.com
 +.flyersquare.com
@@ -64465,6 +64470,7 @@
 +.jcvasagimxyzd.com
 +.jcviltucsmowx.com
 +.jcvty.cyou
++.jcwlsofn.icu
 +.jcwtml.icu
 +.jcwwxn.com
 +.jcyjly.com
@@ -101347,7 +101353,6 @@
 +.reselling-corp.com
 +.resemblanceilluminatedcigarettes.com
 +.resentfulelsewherethoroughfare.com
-+.resertol.co.in
 +.reservationszone.com
 +.reservedoffers.cl
 +.reservedoffers.club
@@ -104839,7 +104844,6 @@
 +.sardineforgiven.com
 +.sardoindkm.top
 +.sare25.com
-+.sarfoman.co.in
 +.sargosvalgus.com
 +.sarinfalun.com
 +.sarinjowel.com
@@ -136354,6 +136358,7 @@
 +.wdadad.cn
 +.wdads.sx.atl.publicus.com
 +.wdakda.cn
++.wdamcse.top
 +.wdasa.top
 +.wdavrzv.com
 +.wdcigo.xyz
@@ -139610,7 +139615,6 @@
 +.www.e-transfer-cra.com
 +.www.eastwood35.idps.co.uk
 +.www.easy2date.net
-+.www.ebayadservices.com
 +.www.ebaybanner.com
 +.www.edv-waldherr.at
 +.www.emadesign.net
@@ -144502,6 +144506,7 @@
 +.zinovu.com
 +.zinrora.pw
 +.zio.xcar.com.cn
++.zio8.icu
 +.zion-telemetry-nonprod.api.cnn.io
 +.zion-telemetry.api.cnn.io
 +.zion.api.cnn.io
