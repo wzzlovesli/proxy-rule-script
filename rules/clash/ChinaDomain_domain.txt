@@ -15934,7 +15934,6 @@
 +.byted.org
 +.bytedance-boe.net
 +.bytedance.com
-+.bytedance.com.com
 +.bytedance.net
 +.bytedance.org
 +.bytedanceapi.com
