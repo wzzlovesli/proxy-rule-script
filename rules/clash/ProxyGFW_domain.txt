@@ -7653,6 +7653,7 @@
 +.decrypt.day
 +.decymru.ac.uk
 +.deed.ac.uk
++.deepai.org
 +.deeper.com
 +.deepfake-porn.com
 +.deepfakeporn.net
@@ -29584,6 +29585,7 @@
 +.vraiesagesse.net
 +.vrbgay.com
 +.vrcams.io
++.vrchat.com
 +.vred-essentials.com
 +.vredessentials.com
 +.vredprofessional.com
