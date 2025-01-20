@@ -32111,7 +32111,6 @@ clients1.google.com
 cloud.oracle.com
 cloudsync-prod.s3.amazonaws.com
 community.oneplus.com
-copilot.microsoft.com
 courier-push-apple.com.akadns.net
 crl.microsoft.com
 crl.versign.net
