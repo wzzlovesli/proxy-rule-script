@@ -1882,7 +1882,6 @@
 +.api-verify.recaptcha.net
 +.api.ai
 +.api.amplitude.com
-+.api.dropboxapi.com
 +.api.linksalpha.com
 +.api.mixpanel.com
 +.api.nebula-emby.com
@@ -4316,6 +4315,7 @@
 +.bm14.ac.uk
 +.bmac.ac.uk
 +.bmc.ac.uk
++.bmdru.com
 +.bme.ac.uk
 +.bmet.ac.uk
 +.bmetc.ac.uk
@@ -18764,6 +18764,7 @@
 +.moefuns.co
 +.moegirl.org
 +.moeimg.net
++.moeshare.cc
 +.moez-m.com
 +.mof.kemomi.me
 +.mofa.gov.tw
@@ -19939,6 +19940,7 @@
 +.newsamerica.com
 +.newsancai.com
 +.newsapi.com.au
++.newsblur.com
 +.newscareers.co.uk
 +.newscdn.com.au
 +.newschinacomment.org
@@ -20462,7 +20464,6 @@
 +.norwichresearchpark.ac.uk
 +.nos.nl
 +.notepad-plus-plus.org
-+.notify.dropboxapi.com
 +.notion-static.com
 +.notion.com
 +.notion.new
@@ -22141,6 +22142,7 @@
 +.pixiv.me
 +.pixiv.net
 +.pixiv.org
++.pixivsketch.net
 +.pixlr-o-matic.com
 +.pixlromatic.com
 +.pixnet.cc
@@ -22159,6 +22161,7 @@
 +.pki-posta.ch
 +.pki-poste.ch
 +.pki.goog
++.pkqjiasu.com
 +.pl
 +.placemix.com
 +.placemyad.com.au
@@ -23096,6 +23099,7 @@
 +.qi-gong.me
 +.qianbai.tw
 +.qiandao.today
++.qianglie.com
 +.qiangwaikan.com
 +.qiangyou.org
 +.qiao-cn.com
@@ -23821,6 +23825,7 @@
 +.robustnessiskey.com
 +.rochdalesfc.ac.uk
 +.rocket-inc.net
++.rocket.chat
 +.rocketbbs.com
 +.rocketfishproducts.com
 +.rockettube.com
@@ -27412,6 +27417,7 @@
 +.tiney.com
 +.tineye.com
 +.ting53.xyz
++.tingtalk.me
 +.tinhduc.org
 +.tinkerboxapp.com
 +.tinkercad.com
@@ -28614,6 +28620,7 @@
 +.uug25.com
 +.uug26.com
 +.uug27.com
++.uujiasu.com
 +.uuk.ac.uk
 +.uuk28.com
 +.uukanshu.com
@@ -29589,6 +29596,7 @@
 +.vpl.bibliocommons.com
 +.vpn.ac
 +.vpn.cmu.edu
++.vpn.net
 +.vpn.sv.cmu.edu
 +.vpn4all.com
 +.vpnaccount.org
@@ -29697,7 +29705,6 @@
 +.wailaike.net
 +.wainao.me
 +.waisongcha.com
-+.waittingfor001.weebly.com
 +.waiwaier.com
 +.wakcoll.ac.uk
 +.wakefield.ac.uk
@@ -29909,6 +29916,7 @@
 +.webwarper.net
 +.webworkerdaily.com
 +.wechatlawsuit.com
++.weebly.com
 +.weekly-economist.com
 +.weeklytimesnow.com.au
 +.weekmag.info
@@ -30133,7 +30141,6 @@
 +.wiki.gamerp.jp
 +.wiki.jqueryui.com
 +.wiki.keso.cn
-+.wiki.moegirl.org
 +.wiki.oauth.net
 +.wiki.phonegap.com
 +.wikia.com
@@ -30669,6 +30676,7 @@
 +.xfockers.com
 +.xfreehd.com
 +.xfuckonline.com
++.xfxssr.me
 +.xgames.zone
 +.xgaytube.com
 +.xgaytube.tv
@@ -30876,6 +30884,7 @@
 +.xn--ngstr-lra8j.com
 +.xn--nnx388a
 +.xn--node
++.xn--noss43i.com
 +.xn--o3cw4h
 +.xn--ogbpf8fl
 +.xn--oiq.cc
