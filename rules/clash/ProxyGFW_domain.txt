@@ -5171,6 +5171,7 @@
 +.btdig.com
 +.btdigg.org
 +.btec.co.uk
++.btguard.com
 +.btku.me
 +.btku.org
 +.btlibrary.me
@@ -8212,6 +8213,7 @@
 +.dm
 +.dm-event.net
 +.dm530.net
++.dma.mil
 +.dmc.nico
 +.dmcdn.net
 +.dmed.technology
@@ -12369,7 +12371,7 @@
 +.googleplay.com
 +.googleplex.com
 +.googleplus.com
-+.googlescholar.comUSA
++.googlescholar.com
 +.googlesile.com
 +.googlesource.com
 +.googlestore.com
@@ -15462,7 +15464,6 @@
 +.izmirautodeskegitimleri.com
 +.j.mp
 +.j2objc.org
-+.ja.wikipedia.org
 +.jabcomix.com
 +.jable.one
 +.jable.org
@@ -28203,6 +28204,7 @@
 +.u9a9.com
 +.u9un.com
 +.ua
++.ua5v.com
 +.ua92.ac.uk
 +.uaa.com
 +.uab.com.mm
@@ -28427,6 +28429,8 @@
 +.ultimaonline.com
 +.ultradonkey.com
 +.ultralab.ac.uk
++.ultrasurf.us
++.ultravpn.com
 +.ultravpn.fr
 +.ultraxs.com
 +.ulyssesapp.com
@@ -28614,6 +28618,7 @@
 +.usatoday.com
 +.usatodaynetworkservice.com
 +.uscardforum.com
++.uscg.mil
 +.uscnpm.org
 +.use-of-mans.ac.uk
 +.uselessjunk.com
@@ -29660,6 +29665,7 @@
 +.vpnpick.com
 +.vpnpop.com
 +.vpnpronet.com
++.vpnproxymaster.com
 +.vpnreactor.com
 +.vpnreviewz.com
 +.vpnsecure.me
@@ -31469,6 +31475,7 @@
 +.yasarang.net
 +.yasni.co.uk
 +.yastatic.net
++.yasukuni.or.jp
 +.yavtube.com
 +.yaya.cyou
 +.yayabay.com
@@ -31850,6 +31857,7 @@
 +.yunlaopo.cc
 +.yunlaopo.com
 +.yunlaopo.net
++.yunomi.tokyo
 +.yusercontent.com
 +.yusjb.com
 +.yuvutu.com
