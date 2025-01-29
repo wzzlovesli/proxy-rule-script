@@ -1,0 +1,9 @@
++.arduino.cc
++.clientservices.googleapis.com
++.dmhy.org
++.googleapis.cn
++.mtalk.google.com
++.platformio.org
++.services.googleapis.cn
++.stun.playstation.net
++.xn--ngstr-lra8j.com

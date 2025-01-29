@@ -1,3 +1,4 @@
++.apis.google.com
 +.bard.google.com
 +.deepmind.com
 +.deepmind.google
@@ -6,5 +7,4 @@
 +.proactivebackend-pa.googleapis.com
 ai.google.dev
 alkalimakersuite-pa.clients6.google.com
-generativelanguage.googleapis.com
 makersuite.google.com
