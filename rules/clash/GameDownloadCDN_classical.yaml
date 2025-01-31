@@ -1,0 +1,9 @@
+payload:
+- DOMAIN-REGEX,^(gog-cdn-fastly(-cp77)?|recommendations-api|sections|galaxy-promos|marketing-sections)\.gog\.com$
+- DOMAIN-REGEX,^(lol|ks-foundation|riot-client|mock-game|valorant|wildrift|ares|bacon|ritoplus|global)?(\.secure)?\.dyn\.riotcdn\.net$
+- DOMAIN-REGEX,^(pf-cdn-content-prod|khmarketcdn|kittyhawk2-prod|cdn-prod-sr-(live-marketplace-endpoint|live-cds-endpoint|weather))\.azureedge\.net$
+- DOMAIN-REGEX,^(xblmodassets2|content[12])\.prod\.catalog\.playfab\.com$
+- DOMAIN-REGEX,^[a-z]{2}\.cdn\.blizzard\.com$
+- DOMAIN-REGEX,^blzdist-[a-z]{2,3}\.necdn\.leihuo\.netease\.com$
+- DOMAIN-REGEX,^cache\d{1,2}-[a-z]{3}\d\.steamcontent\.com$
+- DOMAIN-REGEX,^download[1-9]?\.epicgames\.com$
