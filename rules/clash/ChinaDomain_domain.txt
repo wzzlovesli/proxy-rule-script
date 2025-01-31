@@ -14704,7 +14704,6 @@
 +.blissfulates.com
 +.blissmall.net
 +.blizzard.com
-+.blizzard.gcdn.cloudn.co.kr
 +.blizzardcn.com
 +.blksails.net
 +.bllsbz.com
@@ -28011,7 +28010,6 @@
 +.etzj.net
 +.etzzy.com
 +.eu-west-0.myhuaweicloud.com
-+.eu.cdn.blizzard.com
 +.eu4cn.com
 +.eub-inc.com
 +.euci-software.com
@@ -49774,7 +49772,6 @@
 +.kqzlzx.com
 +.kqzp.net
 +.kr-cell.com
-+.kr.cdn.blizzard.com
 +.kr.com
 +.kr126.com
 +.krahag.com
@@ -51655,7 +51652,6 @@
 +.letyo.com
 +.leuok.com
 +.levect.com
-+.level3.blizzard.com
 +.level8cases.com
 +.levelinfinite.com
 +.levenx.com
@@ -78095,7 +78091,6 @@
 +.urumqi-air.com
 +.ury8n.sbs
 +.us-ex.com
-+.us.cdn.blizzard.com
 +.us0.me
 +.us3gwireless.net
 +.usa-idc.com
