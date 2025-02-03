@@ -2552,6 +2552,7 @@
 +.559gp.com
 +.55cc9d.xyz
 +.55ebf493c42.com
++.55f4605f6d.com
 +.55labs.com
 +.55lotte.com
 +.55lu.com
@@ -6116,6 +6117,7 @@
 +.aaaaa855.com
 +.aaaaa882.com
 +.aaaaaco.com
++.aaaacdn.com
 +.aaacdbf17d.com
 +.aaacompany.net
 +.aaaesme.cn
@@ -7705,7 +7707,6 @@
 +.ad.krutilka.ru
 +.ad.l2b.co.za
 +.ad.land.to
-+.ad.lapa.pub
 +.ad.leadboltapps.net
 +.ad.leap.app
 +.ad.letmeads.com
@@ -7882,7 +7883,6 @@
 +.ad.viewus.co.kr
 +.ad.virtual-nights.com
 +.ad.vkool.net
-+.ad.vkoolzzz.net
 +.ad.vo-media.ru
 +.ad.vrvm.com
 +.ad.vryeye.com
@@ -8102,6 +8102,8 @@
 +.adarutoad.com
 +.adasad.myweb.hinet.net
 +.adasdz.cn
++.adasgmp.cc
++.adasgsts.cc
 +.adash-c.m.taobao.com
 +.adash-c.ut.taobao.com
 +.adash.m.taobao.com
@@ -9960,7 +9962,6 @@
 +.ads.ksl.com
 +.ads.kure.tv
 +.ads.lamchame.vn
-+.ads.laodongbinhduong.org.vn
 +.ads.laodongnghean.vn
 +.ads.leovegas.com
 +.ads.lesbianpersonals.com
@@ -10234,7 +10235,6 @@
 +.ads.thecoolhunter.net
 +.ads.thecrimson.com
 +.ads.thefrisky.com
-+.ads.thegioitiepthi.vn
 +.ads.theindependent.com
 +.ads.themovienation.com
 +.ads.theolympian.com
@@ -10348,7 +10348,6 @@
 +.ads.xbox-scene.com
 +.ads.xedoisong.vn
 +.ads.xemphimso.com
-+.ads.xemtivisohd.net
 +.ads.xhamster.com
 +.ads.xlxtra.com
 +.ads.xtra.ca
@@ -11708,12 +11707,10 @@
 +.adx.chinmedia.vn
 +.adx.chip.de
 +.adx.com.ru
-+.adx.edutimes.com.vn
 +.adx.gayboy.at
 +.adx.groupstate.com
 +.adx.hendersonvillenews.com
 +.adx.hoanggia.net.vn
-+.adx.hongtinnhanh.com
 +.adx.hupu.com
 +.adx.io
 +.adx.kat.ph
@@ -13068,6 +13065,7 @@
 +.aladdinupdate.blackrock.com
 +.alaeshire.com
 +.alagaodealing.com
++.alalos.com
 +.alamortairn.com
 +.alanibelen.com
 +.alanticgecking.uno
@@ -15397,7 +15395,6 @@
 +.api.newbelden.com
 +.api.newsfeed.intl.miui.com
 +.api.open.uc.cn
-+.api.ozui.vn
 +.api.pingstart.com
 +.api.primecaster.net
 +.api.pubfinity.com
@@ -17534,6 +17531,7 @@
 +.assignmentlonesome.com
 +.assimilatecigarettes.com
 +.assinatura.marketingbmg.bancobmg.com.br
++.assisantornus.top
 +.assistads.net
 +.assistancelawnthesis.com
 +.assistancetrack.changehealthcare.com
@@ -17868,6 +17866,7 @@
 +.atonementimmersedlacerate.com
 +.atoplayads.com
 +.atopyawned.uno
++.atoqkcpvmru.com
 +.atorks.xyz
 +.atougnou.com
 +.atoultou.com
@@ -21503,6 +21502,7 @@
 +.bft5.destinia.fr
 +.bftqdd.xyz
 +.bfts.xyz
++.bfvadionchrecq.com
 +.bfvlgp.appstory.co.kr
 +.bfxytxdpnk.com
 +.bfzikn.l-wine.ru
@@ -24111,6 +24111,7 @@
 +.bsriedu.cn
 +.bsrkt.com
 +.bss.pandora.xiaomi.com
++.bssaly.com
 +.bssdl.kugou.com
 +.bssdlbig.kugou.com
 +.bsshw.net
@@ -26480,7 +26481,6 @@
 +.cdn.altitudeplatform.com
 +.cdn.amplitude.com
 +.cdn.amzuu.com
-+.cdn.api-connect.io
 +.cdn.app.kachapt.cn
 +.cdn.app.liuxingyul.cn
 +.cdn.appsmav.com
@@ -29630,6 +29630,7 @@
 +.cognatebenefactor.com
 +.cognateparsley.com
 +.cognateprogrammeteenage.com
++.cognatesyringe.com
 +.cognativex.com
 +.cognitionmesmerize.com
 +.cognitiv.ai
@@ -31506,7 +31507,6 @@
 +.counter.nope.dk
 +.counter.nowlinux.com
 +.counter.ntdvn.com
-+.counter.ntdvn.net
 +.counter.nv.ua
 +.counter.ok.ee
 +.counter.opinion.com.ua
@@ -32387,6 +32387,7 @@
 +.cruiserx.net
 +.cruisetitleclosed.com
 +.cruisingsmallship.com
++.crumberstoa.com
 +.crumbledatabasesmeasure.com
 +.crumblerefunddiana.com
 +.crumbrationally.com
@@ -39376,6 +39377,7 @@
 +.doydplivplr.com
 +.doyenssudsier.click
 +.doyleysstagese.com
++.doyoudi.com
 +.dozard.com
 +.dozenactually.com
 +.dozententag.ni.com
@@ -45587,6 +45589,7 @@
 +.facilityearlyimminent.com
 +.facilitypestilent.com
 +.facinggleg.life
++.facisespess.com
 +.fackeyess.com
 +.faclientirethe.xyz
 +.facsimrunt.space
@@ -46532,6 +46535,7 @@
 +.fernsnerves.uno
 +.feroaptu.xyz
 +.feroffer.com
++.feronyv.com
 +.feroxnestor.space
 +.ferrago.uk.intellitxt.com
 +.ferriesendless.com
@@ -47285,6 +47289,7 @@
 +.flairads.com
 +.flairadscpc.com
 +.flakecontainsgrill.com
++.flakefanwort.shop
 +.flakesaridphysical.com
 +.flakeschopped.com
 +.flakesrental.com
@@ -48325,6 +48330,7 @@
 +.fpghll.rossmann.hu
 +.fpgonuk.icu
 +.fphbwyonnk.com
++.fpialotwhquuw.com
 +.fpida.amphi.jp
 +.fpida.bodybook.jp
 +.fpida.cw-x.jp
@@ -51390,7 +51396,6 @@
 +.girlstretchingsplendid.com
 +.girlwallpaper.pro
 +.girnalnemean.com
-+.girohjalm.com.se
 +.giroud.top
 +.girtijoo.com
 +.gishejuy.com
@@ -53388,6 +53393,7 @@
 +.grebanise.pw
 +.grebibablo.com
 +.grecheer.com
++.grecizing26.fun
 +.greckoaghoate.net
 +.grecmaru.com
 +.gredinatib.org
@@ -54031,6 +54037,7 @@
 +.gumgum.com
 +.gumlahdeprint.com
 +.gummierhedera.life
++.gumnus.com
 +.gumon.site
 +.gunepszy.xyz
 +.gunggo.com
@@ -54140,6 +54147,7 @@
 +.gvxnff.soulara.com.au
 +.gvzsrqp.com
 +.gw-dv.vip
++.gw.conversionsapigateway.com
 +.gw069.com
 +.gw100-10.com
 +.gw1jvhs.com
@@ -57619,6 +57627,7 @@
 +.humiliatemoot.com
 +.humiliating-risk.pro
 +.humiliating-tradition.pro
++.humiliatingregion.com
 +.humilityanytime.com
 +.humilityslammedslowing.com
 +.huminfakt.ru
@@ -58258,6 +58267,7 @@
 +.iaswrwqfy.com
 +.iatoex.kahve.com
 +.iaudienc.com
++.iaukmlastitytyeast.com
 +.iauqwe.com
 +.iauto.wang
 +.iavfta8090.com
@@ -63420,6 +63430,7 @@
 +.javdawn.fun
 +.javgenetic11.fun
 +.javgg.eu
++.javgle.tokyo
 +.javgulf.fun
 +.javguru.gggsss.site
 +.javhd.com
@@ -68140,6 +68151,7 @@
 +.lantodomirus.com
 +.lanver.fun
 +.lanxiangji.com
++.lanyinadiingsin.com
 +.lanzar.publicidadweb.com
 +.lanzonmotlier.click
 +.lao9123.com
@@ -69175,6 +69187,7 @@
 +.lf8q.online
 +.lfapbe.quiksilver.co.jp
 +.lfb.ink
++.lfbfkkkqiza.com
 +.lfbowp.talisa.com
 +.lfcepgb.cn
 +.lfd-media.ru
@@ -69805,7 +69818,6 @@
 +.link.bulbul.tv
 +.link.busuu.app
 +.link.buzzwallet.io
-+.link.cado.pro
 +.link.californiapsychics.com
 +.link.capital-wellness.icanbwell.com
 +.link.captionwriter.app
@@ -71359,6 +71371,7 @@
 +.log-tb.isnssdk.com
 +.log-tb.sgsnssdk.com
 +.log-upload-eur.mihoyo.com
++.log-upload-os.hoyolab.com
 +.log-upload-os.hoyoverse.com
 +.log-upload-os.mihoyo.com
 +.log-upload.mihoyo.com
@@ -73874,6 +73887,7 @@
 +.makeencampmentamoral.com
 +.makeitmedia.fr
 +.makeitworkfaster.life
++.makejav11.fun
 +.makelove.co.il
 +.makemehappy.mom
 +.makemehappy.pro
@@ -74880,7 +74894,6 @@
 +.marketing.irvingtexas.com
 +.marketing.isaless.com
 +.marketing.ismguide.com
-+.marketing.itgeek.vn
 +.marketing.itiball.com
 +.marketing.itsavvy.com
 +.marketing.itshome.com
@@ -76540,7 +76553,6 @@
 +.media.cheshi.com
 +.media.claritylabsolutions.com
 +.media.comeon.com
-+.media.dabong247.com
 +.media.easyads.bg
 +.media.elementsbehavioralhealth.com
 +.media.espace-plus.net
@@ -86434,6 +86446,7 @@
 +.oijkse.com
 +.oijmds.com
 +.oijorfkfwtdswv.xyz
++.oijsncvhg.com
 +.oijzvhzt.com
 +.oikckw.scarosso.com
 +.oikqfwv.cn
@@ -91300,6 +91313,7 @@
 +.pianoassort.com
 +.pianolaweeshee.top
 +.pianolessons.fr
++.pianwela.xyz
 +.pianyi95.top
 +.piaogj.com
 +.piaozhouyyds.com
@@ -96635,6 +96649,7 @@
 +.qmqjvreqwywbk.top
 +.qmqjvreqwywla.top
 +.qmrelvezolbrv.top
++.qmrmcqnktmhn.com
 +.qmrwbzwalrmry.top
 +.qmsdxo.ru
 +.qmtjvq.kuoni.ch
@@ -96994,11 +97009,9 @@
 +.quandangdang.net
 +.quandoi-viettel.com
 +.quangcao.24h.com.vn
-+.quangcao.baovannghe.com.vn
 +.quangcao.fff.com.vn
 +.quangcao.thanhnien.vn
 +.quangcao.tuoitre.vn
-+.quangcao247.com.vn
 +.quangcaococcoc.vn
 +.quangcaodantri.vn
 +.quangnamquetoi.weebly.com
@@ -100030,6 +100043,7 @@
 +.revoirdyingly.digital
 +.revoke-dashboard.com
 +.revoke1266.fun
++.revokejav128.fun
 +.revokejoin.com
 +.revokepolygraph.com
 +.revoketypes.com
@@ -100266,6 +100280,7 @@
 +.ribworkstylus.com
 +.ric-ric-rum.com
 +.ricalsbuildfordg.info
++.ricarvort.com
 +.ricead.com
 +.riceck.cn
 +.ricerets.top
@@ -101232,6 +101247,7 @@
 +.rrvay.com
 +.rrvwvcgnsu.xyz
 +.rrwmyijgm.com
++.rrxapb.icu
 +.rrxddl.xyz
 +.rrxldl.bol.de
 +.rrznha.lanvin-en-bleu.com
@@ -103821,7 +103837,6 @@
 +.sd8015.xyz
 +.sda.seesaa.jp
 +.sda.seksohub.com
-+.sda.tamdiem247.com
 +.sdaaxz.xyz
 +.sdabfw.cn
 +.sdac.lenovomm.com
@@ -107264,6 +107279,7 @@
 +.sjbgyak.cn
 +.sjc.cloud.optable.co
 +.sjczsc.com
++.sjdgkfhwkrkmi.com
 +.sjdjcn.cn
 +.sjetnf-oizyo.buzz
 +.sjevdjqhdmlelo.com
@@ -115215,7 +115231,6 @@
 +.stats.swissotel.com
 +.stats.symbiofest.cz
 +.stats.synedat.io
-+.stats.tamdiem247.com
 +.stats.tarasyarema.com
 +.stats.tax-venture.de
 +.stats.tazeros.com
@@ -119344,6 +119359,7 @@
 +.tcc.qscvli.com
 +.tccbanner.com
 +.tccjxk.123.ru
++.tccnqgnmeveay.com
 +.tcdata.fnac.com
 +.tcdyjyrj.com
 +.tcdypeptz.com
@@ -120354,6 +120370,7 @@
 +.tgwfaz.icu
 +.tgwopez.cn
 +.th-go.experian.com
++.th.tubetruck.com
 +.th21333.com
 +.th7.cn
 +.th700.com
@@ -124122,11 +124139,9 @@
 +.track.kueez.com
 +.track.kyna.vn
 +.track.kyoads.com
-+.track.lapa.pub
 +.track.lc.quark.cn
 +.track.leadhit.io
 +.track.leady.cz
-+.track.lemonnovel.com
 +.track.lesmills.com
 +.track.lettingaproperty.com
 +.track.libii.cn
@@ -124443,7 +124458,6 @@
 +.tracker.financialcontent.com
 +.tracker.gamedock.io
 +.tracker.gamemonkey.org
-+.tracker.gigaphim.com
 +.tracker.gleanview.com
 +.tracker.gpcdn.pl
 +.tracker.grupanya.com
@@ -124948,7 +124962,6 @@
 +.tracking.hiscox.com
 +.tracking.hivecloud.net
 +.tracking.hobbyladies.de
-+.tracking.hongtinnhanh.com
 +.tracking.hot.net.il
 +.tracking.hotel.check24.de
 +.tracking.houzz.com
@@ -125420,7 +125433,6 @@
 +.tracking.vertiv.com
 +.tracking.vertivco.com
 +.tracking.vetlandaposten.se
-+.tracking.vht.com.vn
 +.tracking.vid4u.org
 +.tracking.vietbao.vn
 +.tracking.viewlift.com
@@ -125879,6 +125891,7 @@
 +.transcriptcompassionacute.com
 +.transcriptjeanne.com
 +.transcriptobligegenerations.com
++.transcriptswarm.com
 +.transfer-rate.com
 +.transferamerica-to-vietnammoney.weebly.com
 +.transferkeep.com
@@ -129218,6 +129231,7 @@
 +.unvextcentavo.com
 +.unwartortlean.com
 +.unwelcomegardenerinterpretation.com
++.unwelcomehurry.com
 +.unwice.com
 +.unwieldyhealth.com
 +.unwieldyimpulse.com
@@ -131126,6 +131140,7 @@
 +.ventureclamourtotally.com
 +.venturepeasant.com
 +.venturyremove.info
++.venueartisticdisinterested.com
 +.venueitemmagic.com
 +.venulaeriggite.com
 +.venum.top
@@ -132076,6 +132091,7 @@
 +.vindicosuite.com
 +.vindictivegrabnautical.com
 +.vinegardaring.com
++.vinelethoner.com
 +.vingartistictaste.com
 +.vingroup.fit
 +.vingroup.shop
@@ -135986,6 +136002,7 @@
 +.wipeunauthorized.com
 +.wiphpiqsuheta.com
 +.wipowaxe.com
++.wipzxpbs.com
 +.wirecomic.com
 +.wiredminds.de
 +.wirelessannexwren.com
@@ -137472,7 +137489,6 @@
 +.www.fetisch-pornos.cxa.de
 +.www.ficken-ficken-ficken.cxa.de
 +.www.ficken-xxx.cxa.de
-+.www.filasverigese.com
 +.www.findalgorithm.com
 +.www.fineclicks.com
 +.www.firemouth.plus.com
@@ -140496,6 +140512,7 @@
 +.ylasthepoityelthenl.xyz
 +.ylavjbljpt.com
 +.ylbxaesyjj.com
++.ylcziaipyztvv.com
 +.yldbt.com
 +.yldfkfb.cn
 +.yldmgrimg.net
@@ -142316,6 +142333,7 @@
 +.zkc5.fleurancenature.fr
 +.zkcvb.com
 +.zkczzltlhp6y.com
++.zkdefuiz.icu
 +.zkdkvnzsdxge.info
 +.zkdmdf.xyz
 +.zkebwy.copenhagenstudios.com
@@ -142437,6 +142455,7 @@
 +.znsv.baidu.cn
 +.znsv.baidu.com
 +.znvlfef.com
++.znvmlmsqfseioy.com
 +.znwzcmd.cn
 +.znxblom.cn
 +.znyjmbh.icu
@@ -144321,6 +144340,7 @@ ads.flurry.com
 ads.huan.tv
 ads.icloseli.cn
 ads.icloseli.com
+ads.laodongbinhduong.org.vn
 ads.memob.com
 ads.mobadvent.com
 ads.mojicdn.com
@@ -144477,6 +144497,7 @@ adx.apiok.net
 adx.appsdk.com.cn
 adx.autohome.com.cn
 adx.doumpaq.com
+adx.edutimes.com.vn
 adx.hasmobi.net
 adx.hupu.com
 adx.kuaiyiad.com
@@ -154318,6 +154339,7 @@ quagodex.com
 qualigo.com
 qualitypageviews.com
 quandrer.link
+quangcao.baovannghe.com.vn
 quantomcoding.com
 quatesrevening.info
 qubilou.com
@@ -156416,6 +156438,7 @@ tracking.pandoiq.com
 tracking.rus.miui.com
 tracking.to
 tracking.tomshardware.co.uk
+tracking.vht.com.vn
 tracking.worldmedia.net
 tracking100.com
 tracking11.com
