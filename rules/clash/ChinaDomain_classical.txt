@@ -36,7 +36,6 @@ DOMAIN-KEYWORD,ssl.apple.com
 DOMAIN-KEYWORD,synology
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,thunder
-DOMAIN-KEYWORD,tracker
 DOMAIN-KEYWORD,trip.com
 DOMAIN-KEYWORD,ttcdn-tos.kkimg.cc
 DOMAIN-KEYWORD,vip.ffzy-online
