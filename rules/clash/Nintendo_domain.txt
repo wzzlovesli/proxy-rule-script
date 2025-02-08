@@ -15,6 +15,7 @@
 +.giratina.com
 +.gloryofheracles.com
 +.hackyourconsole.com
++.just-dance.com
 +.kirbysepicyarn.com
 +.kirbysuperstarultra.com
 +.kyurem.com
@@ -124,3 +125,4 @@
 +.xn--mts47c3w9b1qr.cn
 +.xn--mts47c3w9b1qr.net
 +.yoshisnewisland.com
+prod-next.just-dance.com

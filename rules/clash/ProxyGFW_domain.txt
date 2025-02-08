@@ -2346,6 +2346,7 @@
 +.ardenu.ac.uk
 +.ardenuni.ac.uk
 +.ardenuniversity.ac.uk
++.arduino.cc
 +.area120.com
 +.area51.to
 +.areca-backup.org
@@ -6562,6 +6563,7 @@
 +.clickserve.cc-dt.com
 +.clickserver.googleads.com
 +.clien.net
++.clientservices.googleapis.com
 +.cliffcollege.ac.uk
 +.climate-lab-book.ac.uk
 +.climate-server.com
@@ -6646,6 +6648,7 @@
 +.cloudn.me
 +.cloudproxy.app
 +.cloudrobotics.com
++.cloudsync-prod.s3.us-east-1.amazonaws.com
 +.cloudvolumes.com
 +.cloudworks.ac.uk
 +.cloudyzgirl.com
@@ -19135,6 +19138,7 @@
 +.mt
 +.mt.lv
 +.mt0011.site
++.mtalk.google.com
 +.mtao.fun
 +.mtec.ac.uk
 +.mthruf.com
@@ -22212,6 +22216,7 @@
 +.plantsvszombies2.com
 +.plasticlabs.com
 +.plastics-cadcam.com
++.platformio.org
 +.platinumlinks.org
 +.play-asia.com
 +.play-bmm.shop
@@ -26335,6 +26340,7 @@
 +.stuidok110.com
 +.stuk.ac.uk
 +.stumbleupon.com
++.stun.playstation.net
 +.stunnel.org
 +.stupidcams.com
 +.stupidvideos.com
