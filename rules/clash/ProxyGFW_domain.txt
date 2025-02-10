@@ -1096,7 +1096,6 @@
 +.ai-kan.net
 +.ai-wen.net
 +.ai.binwang.me
-+.ai.com
 +.ai.google
 +.ai3sd.ac.uk
 +.ai7995.site
