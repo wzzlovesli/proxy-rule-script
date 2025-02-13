@@ -364,6 +364,7 @@ speedtest-dfw.dish-wireless.com
 speedtest-ebw.optusnet.com.au
 speedtest-engine.primus.ca
 speedtest-eqx-sg1.ixtelecom.net
+speedtest-eqxae1.fsg-hosting.com
 speedtest-fkt-eqx.retn.net
 speedtest-fra.melbicom.net
 speedtest-hob.launtel.net.au
@@ -544,6 +545,7 @@ speedtest.fra01.fusionflare.cloud
 speedtest.fra1.hivelocity.net
 speedtest.gamedoping.com
 speedtest.gatchina.ru
+speedtest.gelicon.ru
 speedtest.getstreamhosting.com
 speedtest.global-layer.com
 speedtest.gosfieldtel.ca
@@ -585,6 +587,7 @@ speedtest.kko.me
 speedtest.kr260.gmp.kr.ctcsci.com
 speedtest.la2.gigabitnow.com
 speedtest.lamasatpro.com
+speedtest.lax.gigenet.com
 speedtest.lax.hivelocity.net
 speedtest.lax01.xfernet.net
 speedtest.lax1.nitelusa.net
