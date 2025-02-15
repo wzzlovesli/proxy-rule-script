@@ -16027,6 +16027,7 @@
 +.kqes.net
 +.kr
 +.kraken.com
++.kraken.onl
 +.krakenjs.com
 +.krhentai.com
 +.kristenbjorn.com
@@ -26634,6 +26635,7 @@
 +.thetimes.co.uk
 +.thetimes.ie
 +.thetinhat.com
++.thetrackernetwork.com
 +.thetranny.com
 +.thetread.com
 +.thetrotskymovie.com
@@ -27080,6 +27082,8 @@
 +.trac.ac.uk
 +.tracfone.com
 +.tracingnetworks.ac.uk
++.tracker.gg
++.tracker.network
 +.tracking-location.com
 +.tradevip1.com
 +.tradingview.com
