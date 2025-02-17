@@ -290,6 +290,7 @@ spd49.claro.com.br
 spd53.claro.com.br
 spdms.twincher.ru
 spdtst.xenyth.net
+spedvae.lodosnet.com.tr
 speed-mel.gigacomm.net.au
 speed-syd.gigacomm.net.au
 speed-test.ukservers.com
@@ -372,6 +373,7 @@ speedtest-intl.xl.co.id
 speedtest-ist-34-node.netzone.com.tr
 speedtest-ist-36-node.netzone.com.tr
 speedtest-ist.hostifox.com
+speedtest-ist.netlen.com
 speedtest-izmir.olfe.tr
 speedtest-jp.tgb-host.com
 speedtest-kix.xtom.info
@@ -897,6 +899,7 @@ st-bursa-1.turksatkablo.com.tr
 st-denizli-1.turksatkablo.com.tr
 st-erzincan-1.turksatkablo.com.tr
 st-eskisehir-1.turksatkablo.com.tr
+st-istanbul-1.corenetwork.com.tr
 st-izmir-1.turksatkablo.com.tr
 st-kayseri-1.turksatkablo.com.tr
 st-kocaeli-1.turksatkablo.com.tr
