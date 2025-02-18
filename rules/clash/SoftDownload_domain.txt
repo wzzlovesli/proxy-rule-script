@@ -435,6 +435,7 @@ cdn-images.orbstack.dev
 cdn-patch.swtor.com
 cdn-updates.orbstack.dev
 cdn.cypress.io
+cdn.fwupd.org
 cdn.hyperbeam.com
 cdn.kagi.com
 cdn.kde.org
