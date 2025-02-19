@@ -91,6 +91,7 @@
 +.oss-us-east-1.aliyuncs.com
 +.oss-us-west-1.aliyuncs.com
 +.pixeldrain.com
++.ports.ubuntu.com
 +.public.blob.vercel-storage.com
 +.r2.dev
 +.releases.hashicorp.com
@@ -539,10 +540,13 @@ ftp.gnu.org
 ftp.gwdg.de
 gamedownloads-rockstargames-com.akamaized.net
 get.pixelexperience.org
+ghfast.top
+ghgo.xyz
 ghp.ci
 go-updater.brave.com
 gog-cdn-fastly-cp77.gog.com
 gog-cdn-fastly.gog.com
+http.kali.org
 install.virtfusion.net
 invent.kde.org
 iterm2.com
@@ -626,6 +630,7 @@ update.code.visualstudio.com
 update.googleapis.com
 update.greasyfork.org
 update.kiwibrowser.com
+update.parallels.com
 update.sleazyfork.org
 updater.snipaste.com
 updates-cdn.bravesoftware.com
