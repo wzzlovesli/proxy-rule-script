@@ -6,6 +6,7 @@
 +.archive.ubuntu.com
 +.artifacts.ui.com
 +.autoupdatesvc.delivery.autodesk.com
++.blob.core.windows.net
 +.catbox.moe
 +.cdimage.debian.org
 +.cdn.blizzard.com
@@ -13,6 +14,7 @@
 +.cdn.nintendo.net
 +.cdn.ubi.com
 +.cdn77-storage.com
++.circle-artifacts.com
 +.cloud-object-storage.appdomain.cloud
 +.cloudflaremirrors.com
 +.cloudflarestorage.com
@@ -52,6 +54,7 @@
 +.dyn.riotcdn.net
 +.egdownload.fastly-edge.com
 +.epicgamescdn.com
++.file.core.windows.net
 +.file.io
 +.filebin.net
 +.files.1drv.com
@@ -66,6 +69,7 @@
 +.ks3-cn-hk-1.ksyuncs.com
 +.ks3-rus.ksyuncs.com
 +.ks3-sgp.ksyuncs.com
++.launchpadlibrarian.net
 +.linodeobjects.com
 +.mega.co.nz
 +.mega.io
@@ -444,17 +448,20 @@ cdn.winget.microsoft.com
 cdn.zoom.us
 ciscobinary.openh264.org
 client.hikarifield.co.jp
+cloudfront.debian.net
 codeload.github.com
 componentupdater.brave.com
 content-origin.steampowered.com
 ctldl.windowsupdate.com
 deb.nodesource.com
+debian-archive.trafficmanager.net
 desktop.parallels.com
 desktop.wifiman.com
 disks.webvm.io
 dist.blizzard.com
 dl-cdn.alpinelinux.org
 dl-portal.iina.io
+dl.circleci.com
 dl.cleverfiles.com
 dl.cloudsmith.io
 dl.devmate.com
