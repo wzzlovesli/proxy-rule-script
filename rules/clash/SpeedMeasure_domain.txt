@@ -215,6 +215,7 @@ ntp1.chtm.hinet.net
 nyc01.screenshot.download
 nyc1-speedtest.webnx.com
 nycny-speedtest-ookla-01.st.charter.com
+o-uk-1.flwc.cc
 ookla-ams.avur.no
 ookla-ita.asanet.tec.br
 ookla-london.briantbroadband.com
@@ -318,6 +319,7 @@ speed.mpvnetworks.com
 speed.msk.avantel.ru
 speed.newclicktelecom.com.br
 speed.radius2online.com.tr
+speed.rnipnet.com.br
 speed.rnp-net.com.br
 speed.sdmnet.com.br
 speed.syd.aussiebroadband.com.au
