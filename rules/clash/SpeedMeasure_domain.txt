@@ -87,6 +87,7 @@ aragonnetspeedtest.com.br
 aus-nperf.verizon.net
 balikesirspeedtest.fixnet.com.tr
 bassoon-sg-1.violin.co.th
+beijing.unicomtest.com
 ber.wsqm.telekom-dienste.de
 brindb2speed1.wireline.com.au
 btestmcp.vocetelecom.vc
@@ -540,6 +541,7 @@ speedtest.dcsi.net.au
 speedtest.ddps.jp
 speedtest.deltacable.com
 speedtest.dgn.net.tr
+speedtest.didimnet.com.tr
 speedtest.dllstx97.metronetinc.com
 speedtest.dongfong.com.tw
 speedtest.drie-host.nl
