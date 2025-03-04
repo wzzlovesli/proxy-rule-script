@@ -268,6 +268,7 @@ seednet-ty1.seed.net.tw
 servidor.speedplay.com.br
 sfosj0096speedtestserver01.wiline.com
 sg-speedtest.fast.net.id
+sg.cloudhost.asia
 sgn-nperf.verizon.net
 sgspeed.chinaunicomglobal.com
 sig-speedtest.moratelindo.io
@@ -383,6 +384,7 @@ speedtest-eqx-sg1.ixtelecom.net
 speedtest-eqxae1.fsg-hosting.com
 speedtest-fkt-eqx.retn.net
 speedtest-fra.melbicom.net
+speedtest-hkg.retn.net
 speedtest-hob.launtel.net.au
 speedtest-intl.xl.co.id
 speedtest-ist-34-node.netzone.com.tr
@@ -490,6 +492,7 @@ speedtest.ams.wd6.net
 speedtest.ams0.nl.as61049.net
 speedtest.ams1.hivelocity.net
 speedtest.ams14.usenet.farm
+speedtest.ank01.edge.kernzen.com
 speedtest.anksoft.net
 speedtest.apnet-rr.com.br
 speedtest.apnic.net
