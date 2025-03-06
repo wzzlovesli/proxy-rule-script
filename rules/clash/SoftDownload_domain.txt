@@ -606,6 +606,7 @@ packagespc.xboxlive.com
 pf-cdn-content-prod.azureedge.net
 pkg-containers.githubusercontent.com
 pkgs.tailscale.com
+playwright-akamai.azureedge.net
 playwright.azureedge.net
 ppa.launchpad.net
 product-downloads.atlassian.com
