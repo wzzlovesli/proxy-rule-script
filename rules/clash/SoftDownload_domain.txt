@@ -412,6 +412,7 @@
 +.vultrobjects.com
 +.wup.eshop.nintendo.net
 +.wup.shop.nintendo.net
+addins.deepl.com
 amupdatedl.microsoft.com
 amupdatedl2.microsoft.com
 amupdatedl3.microsoft.com
