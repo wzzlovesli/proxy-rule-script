@@ -36,7 +36,6 @@
 +.appbridge.ca
 +.appbridge.io
 +.appbridge.it
-+.applemdm.corp.google.com
 +.apps5.oingo.com
 +.appspot.com
 +.apture.com
@@ -131,7 +130,6 @@
 +.blogspot.tw
 +.blogspot.ug
 +.blogspot.vn
-+.borgmon.adz.google.com
 +.brocaproject.com
 +.brotli.org
 +.bumpshare.com
@@ -215,7 +213,6 @@
 +.distribution.qpdp1.net
 +.dl.google.com
 +.dl.l.google.com
-+.dns.corp.google.com
 +.doubleclick-cn.net
 +.doubleclick.com
 +.doubleclick.net
@@ -236,9 +233,7 @@
 +.firebaseio.com
 +.flutter.dev
 +.flutterapp.com
-+.fontfiles.googleadapis.com
 +.fontfiles.googleapis.com
-+.fonts.googleadapis.com
 +.fonts.googleapis.com
 +.fonts.gstatic.com
 +.foofle.com
@@ -253,7 +248,6 @@
 +.g1.gstatic.com
 +.g2.gstatic.com
 +.g3.gstatic.com
-+.g3doc.corp.google.com
 +.gateway.dev
 +.gcp.gvt2.com
 +.gcr.io
@@ -272,7 +266,6 @@
 +.globaledu.org
 +.gmail.com
 +.gmodules.com
-+.gmskiosk-ssl.corp.google.com
 +.go-lang.com
 +.go-lang.net
 +.go-lang.org
@@ -544,9 +537,6 @@
 +.googlr.com
 +.goolge.com
 +.gooogle.com
-+.gorom.corp.google.com
-+.goto.corp.google.com
-+.goto.google.com
 +.gridaware.app
 +.gsrc.io
 +.gstatic-cn.com
@@ -639,7 +629,6 @@
 +.pixate.com
 +.pki-goog.l.google.com
 +.pki.goog
-+.play.1ucrs.com
 +.plus.codes
 +.polymer-project.org
 +.polymerproject.org
@@ -670,10 +659,7 @@
 +.quickoffice.com
 +.quiksee.com
 +.r.cert.corp.google.com
-+.rapture-autopush.corp.google.com
 +.rapture-prod.corp.google.com
-+.rapture-test.corp.google.com
-+.rapture.corp.google.com
 +.recaptcha-cn.net
 +.recaptcha.net
 +.redhotlabs.com
@@ -688,11 +674,11 @@
 +.redirector.offline-maps.gvt1.com
 +.redirector.snap.gvt1.com
 +.redirector.xn--ngstr-lra8j.com
-+.regioninfo-pa.googleapis.com
 +.registry.google
 +.revolv.com
 +.ridepenguin.com
 +.run.app
++.safebrowsing-cache.google.com
 +.safebrowsing.googleapis.com
 +.savethedate.foo
 +.saynow.com
@@ -704,18 +690,15 @@
 +.screenwisetrends.com
 +.screenwisetrendspanel.com
 +.service.urchin.com
-+.settings.xn--9trs65b.com
 +.shattered.io
 +.snapseed.com
 +.solveforx.com
-+.ssh-relay.corp.google.com
 +.ssl-google-analytics.l.google.com
 +.ssl.gstatic.com
 +.sslredirect.corp.google.com
 +.stadia.dev
 +.staging-controlbe.floonet.goog
 +.staging-databe.floonet.goog
-+.staging-regioninfo-pa.googleapis.com
 +.staging.databe.floonet.goog
 +.stcroixmosquito.com
 +.stcroixmosquitoproject.com
@@ -731,14 +714,10 @@
 +.sup-ssh-relay2.corp.google.com
 +.sup.corp.google.com
 +.sup.l.google.com
-+.support.1ucrs.com
-+.supportcenter.corp.google.com
 +.synergyse.com
 +.tac.googleapis.com
 +.teachparentstech.org
-+.techstop.corp.google.com
 +.tensorflow.org
-+.test.bugs-qa.chromium.org
 +.test.gbugs-qa.chromium.org
 +.tfhub.dev
 +.thecleversense.com
@@ -751,14 +730,8 @@
 +.tools.l.google.com
 +.txcloud.net
 +.txvia.com
-+.uberproxy-debug.corp.google.com
 +.uberproxy-debug4.corp.google.com
-+.uberproxy-pen-redirect.corp.google.com
-+.uberproxy-with-cn.l.google.com
-+.uberproxy-with-cn4.l.google.com
-+.uberproxy-with-cn6.l.google.com
 +.uberproxy.corp.google.com
-+.uberproxy4.corp.google.com
 +.uberproxy6.corp.google.com
 +.unfiltered.news
 +.update.crashlytics.com
@@ -775,7 +748,6 @@
 +.verilystudyhub.com
 +.verilystudywatch.com
 +.verilystudywatch.org
-+.vext.corp.google.com
 +.wallet.com
 +.waveprotocol.org
 +.waymo.com
@@ -799,7 +771,6 @@
 +.www-google-analytics.l.google.com
 +.www-googletagmanager.l.google.com
 +.www.destinationurl.com
-+.www.googleadapis.com
 +.www.gstatic.com
 +.www.pxcc.com
 +.x.company
