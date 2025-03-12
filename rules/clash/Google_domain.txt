@@ -19,7 +19,6 @@
 +.adwords-community.com
 +.adwords.com
 +.adwordsexpress.com
-+.ai.ytimg.com
 +.amp.dev
 +.ampproject.com
 +.ampproject.net
@@ -208,9 +207,6 @@
 +.digisfera.com
 +.digitalassetlinks.org
 +.digitalattackmap.com
-+.distribution.qatp1.net
-+.distribution.qcpp1.net
-+.distribution.qpdp1.net
 +.dl.google.com
 +.dl.l.google.com
 +.doubleclick-cn.net
@@ -218,8 +214,6 @@
 +.doubleclick.net
 +.download.mlcc.google.com
 +.download.qatp1.net
-+.download.qcpp1.net
-+.download.qpdp1.net
 +.download.tensorflow.google.com
 +.emmapplecodevice.googleapis.com
 +.episodic.com
@@ -517,7 +511,6 @@
 +.googlepagecreator.com
 +.googlephotos.com
 +.googleplay.com
-+.googleplex.com
 +.googleplus.com
 +.googlescholar.com
 +.googlesource.com
@@ -590,8 +583,6 @@
 +.meet.new
 +.mfg-inspector.com
 +.mobileview.page
-+.monitoring.qatp1.net
-+.monitoring.qcpp1.net
 +.monitoring.qpdp1.net
 +.moodstocks.com
 +.near.by
@@ -642,18 +633,10 @@
 +.proxyconfig.corp.google.com
 +.publishproxy.com
 +.qagpublic.qatp1.net
-+.qagpublic.qcpp1.net
-+.qagpublic.qpdp1.net
-+.qgadmin.qatp1.net
 +.qgadmin.qcpp1.net
-+.qgadmin.qpdp1.net
 +.qiao-cn.com
 +.qpx.googleflights.net
 +.qualysapi.qatp1.net
-+.qualysapi.qcpp1.net
-+.qualysapi.qpdp1.net
-+.qualysguard.qatp1.net
-+.qualysguard.qcpp1.net
 +.qualysguard.qpdp1.net
 +.questvisual.com
 +.quickoffice.com
@@ -682,9 +665,7 @@
 +.safebrowsing.googleapis.com
 +.savethedate.foo
 +.saynow.com
-+.scanservice1.qatp1.net
 +.scanservice1.qcpp1.net
-+.scanservice1.qpdp1.net
 +.schema.org
 +.schemer.com
 +.screenwisetrends.com

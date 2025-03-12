@@ -420,6 +420,7 @@ amupdatedl4.microsoft.com
 amupdatedl5.microsoft.com
 api-updates.orbstack.dev
 app-updates.agilebits.com
+apt.xpipe.io
 artifacts.electronjs.org
 assets1.xboxlive.com
 assets2.xboxlive.com
@@ -621,6 +622,7 @@ releases.whatpulse.org
 repo.carbon.sh
 repo.debiancn.org
 repo.powerdns.com
+rpm.xpipe.io
 security.debian.org
 security.ubuntu.com
 share.riseup.net

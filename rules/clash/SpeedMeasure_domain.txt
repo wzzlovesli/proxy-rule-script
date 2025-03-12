@@ -277,6 +277,7 @@ sky-speedtest.homeplus.net.tw
 sosimhk.datapath.three.com.hk
 sp-thn2.wildanet.com
 sp.merkurnet.com.tr
+sp.pendc.com
 sp01.rbfibra.net.br
 sp1.asthriona.com
 sp1.basinbroadband.ca
@@ -321,6 +322,7 @@ speed.flix.net.tr
 speed.golddata.net
 speed.grinternett.com.br
 speed.lax-1.serverforge.org
+speed.matrixtelecon.com.br
 speed.mel.aussiebroadband.com.au
 speed.mpvnetworks.com
 speed.msk.avantel.ru
@@ -1072,6 +1074,7 @@ tor-speedtest.net.sangoma.net
 toronto-oh-speedtest.brdband.com
 tp-speedtest.homeplus.net.tw
 tp1.chtm.hinet.net
+tpe-speedtest.cloudbase.tw
 tr-ist.orfi.net.tr
 tr-ist.rost.net.tr
 tr-istanbul.elmashost.com
