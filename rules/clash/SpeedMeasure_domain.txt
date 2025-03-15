@@ -326,6 +326,7 @@ speed.matrixtelecon.com.br
 speed.mel.aussiebroadband.com.au
 speed.mpvnetworks.com
 speed.msk.avantel.ru
+speed.navegalo.com
 speed.newclicktelecom.com.br
 speed.radius2online.com.tr
 speed.rnipnet.com.br
@@ -787,6 +788,7 @@ speedtest.viberlink.net
 speedtest.vipnetconexao.com.br
 speedtest.visiontelecom.com.br
 speedtest.vnet.su
+speedtest.vodafone.com.tr
 speedtest.voip-unlimited.net
 speedtest.w-net.us
 speedtest.webdiscount.net
