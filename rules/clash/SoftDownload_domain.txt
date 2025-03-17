@@ -49,6 +49,7 @@
 +.download.cdp.bethesda.net
 +.download.dm.origin.com
 +.download.epicgames.com
++.download.minecraft.net
 +.download.mokeedev.com
 +.download.nvidia.com
 +.download.prss.microsoft.com
@@ -464,6 +465,7 @@ desktop.parallels.com
 desktop.wifiman.com
 disks.webvm.io
 dist.blizzard.com
+dist.creeper.host
 dl-cdn.alpinelinux.org
 dl-portal.iina.io
 dl.circleci.com
@@ -516,6 +518,7 @@ download.mikrotik.com
 download.mlcc.google.com
 download.mozilla.org
 download.nektony.com
+download.nodecdn.net
 download.opensuse.org
 download.parallels.com
 download.pixelexperience.org
@@ -564,6 +567,7 @@ install.virtfusion.net
 invent.kde.org
 iterm2.com
 level3.blizzard.com
+libraries.minecraft.net
 mac-release-static.stash.ws
 mirror-cdn.xtom.com
 mirror.apad.pro
@@ -606,6 +610,8 @@ packages.microsoft.com
 packages.virtfusion.net
 packagespc.xboxlive.com
 pf-cdn-content-prod.azureedge.net
+piston-data.mojang.com
+piston-meta.mojang.com
 pkg-containers.githubusercontent.com
 pkgs.tailscale.com
 playwright-akamai.azureedge.net
@@ -641,6 +647,7 @@ steampipe-partner.akamaized.net
 steampipe.akamaized.net
 store.setapp.com
 store1.gofile.io
+textures.minecraft.net
 this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 u.keka.io
 update.code.visualstudio.com
