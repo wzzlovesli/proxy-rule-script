@@ -843,6 +843,7 @@ speed.coe.ad.jp--
 speed.data.cr
 speed.data.cr-
 speed.data.cr--
+speed.econett.com.br
 speed.econett.com.br--
 speed.fgtelecom.com.br
 speed.fgtelecom.com.br--
@@ -1472,6 +1473,7 @@ speedtest.ddps.jp-
 speedtest.ddps.jp--
 speedtest.deltacable.com
 speedtest.deltacable.com--
+speedtest.deltatelecomam.com.br
 speedtest.dgn.net.tr
 speedtest.dgn.net.tr--
 speedtest.didimnet.com.tr
@@ -1600,6 +1602,7 @@ speedtest.idnet.net.br--
 speedtest.imcloud.tw
 speedtest.imcloud.tw-
 speedtest.imcloud.tw--
+speedtest.infinirc.com
 speedtest.infogamesvr.net.br--
 speedtest.inforr.com.br
 speedtest.inforr.com.br-
@@ -2105,6 +2108,7 @@ speedtest.visiontelecom.com.br--
 speedtest.vnet.su
 speedtest.vnet.su-
 speedtest.vnet.su--
+speedtest.vodafone.com.tr
 speedtest.vodafone.com.tr--
 speedtest.voip-unlimited.net
 speedtest.voip-unlimited.net-
