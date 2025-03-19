@@ -342,6 +342,7 @@ esk1speedtest.turktelekom.com.tr--
 falcon.its.utoronto.ca
 falcon.its.utoronto.ca-
 falcon.its.utoronto.ca--
+fetnt1.seed.net.tw
 fetnt1.seed.net.tw--
 fetyl1.seed.net.tw--
 fetzl1.seed.net.tw
@@ -420,6 +421,7 @@ horizon.sadata.id--
 hoshiyomi.ratatoskr.org
 hoshiyomi.ratatoskr.org-
 hoshiyomi.ratatoskr.org--
+hs14.aratwifi.com.tr
 hs14.aratwifi.com.tr--
 hv1.juce.ca
 hv1.juce.ca--
@@ -788,6 +790,7 @@ sp7.atcc-gns.net-
 sp7.atcc-gns.net--
 spd-tr-istanbul.hostlayici.net--
 spd.basefix.net--
+spd.cndd.net
 spd.fibranet.srv.br--
 spd.flexnetisp.com.br--
 spd.primenetisp.com.br
@@ -955,6 +958,7 @@ speednld.phoenixnap.com--
 speedperf.axione.fr
 speedperf.axione.fr-
 speedperf.axione.fr--
+speedsin.phoenixnap.com
 speedsin.phoenixnap.com--
 speedtest-1.litfibre.com
 speedtest-1.litfibre.com-
@@ -1382,6 +1386,7 @@ speedtest.bmcc.com.cn--
 speedtest.bnsdfw.com
 speedtest.bnsdfw.com-
 speedtest.bnsdfw.com--
+speedtest.bouwhuis.network
 speedtest.bouwhuis.network--
 speedtest.boxbroadband.co.uk
 speedtest.boxbroadband.co.uk-
@@ -2433,6 +2438,7 @@ spt-nyc.as13786.net--
 spt-sjo1.edgeuno.com
 spt-sjo1.edgeuno.com-
 spt-sjo1.edgeuno.com--
+spt.valexcloud.com
 sptch2.taiwanmobile.com
 sptch2.taiwanmobile.com-
 sptch2.taiwanmobile.com--
@@ -2488,16 +2494,19 @@ st-adana-1.turksatkablo.com.tr--
 st-ankara-1.turksatkablo.com.tr
 st-ankara-1.turksatkablo.com.tr-
 st-ankara-1.turksatkablo.com.tr--
+st-atakoy-1.turksatkablo.com.tr
 st-atakoy-1.turksatkablo.com.tr--
 st-balikesir-1.turksatkablo.com.tr
 st-balikesir-1.turksatkablo.com.tr-
 st-balikesir-1.turksatkablo.com.tr--
+st-balikesirbandirma-1.turksatkablo.com.tr
 st-bolu-1.turksatkablo.com.tr
 st-bolu-1.turksatkablo.com.tr-
 st-bolu-1.turksatkablo.com.tr--
 st-bursa-1.turksatkablo.com.tr
 st-bursa-1.turksatkablo.com.tr-
 st-bursa-1.turksatkablo.com.tr--
+st-denizli-1.turksatkablo.com.tr
 st-denizli-1.turksatkablo.com.tr--
 st-erzincan-1.turksatkablo.com.tr--
 st-erzurum-1.turksatkablo.com.tr
@@ -2527,6 +2536,7 @@ st-samsun-1.turksatkablo.com.tr--
 st-tekirdag-1.turksatkablo.com.tr
 st-tekirdag-1.turksatkablo.com.tr-
 st-tekirdag-1.turksatkablo.com.tr--
+st-tekirdagcorlu-1.turksatkablo.com.tr
 st-zonguldakeregli-1.turksatkablo.com.tr
 st-zonguldakeregli-1.turksatkablo.com.tr-
 st-zonguldakeregli-1.turksatkablo.com.tr--
@@ -2888,6 +2898,7 @@ umr1speedtest.turktelekom.com.tr--
 uplinkfibra.brsserver.com.br
 uplinkfibra.brsserver.com.br-
 uplinkfibra.brsserver.com.br--
+uptelecom.brsserver.com.br
 uptelecom.brsserver.com.br--
 vanspeedtest.altimatel.com
 vanspeedtest.altimatel.com--
