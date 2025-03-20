@@ -517,6 +517,7 @@ download.mersenne.ca
 download.mikrotik.com
 download.mlcc.google.com
 download.mozilla.org
+download.mxfast.com
 download.nektony.com
 download.nodecdn.net
 download.opensuse.org
