@@ -664,5 +664,6 @@ updates.edovia.com
 updates.istatmenus.app
 versioncheck-bg.addons.mozilla.org
 versioncheck.addons.mozilla.org
+vfat.classicreload.com
 xvcf1.xboxlive.com
 xvcf2.xboxlive.com

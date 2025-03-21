@@ -17932,6 +17932,7 @@
 +.api-htp.beizi.biz
 +.api-keks.com
 +.api-logdev.sohatv.vn
++.api-notify.markarch.com
 +.api-push.com
 +.api-push.meizu.com
 +.api-shoulei-ssl.xunlei.com
@@ -21038,6 +21039,7 @@
 +.atts.joingorilla.com
 +.atttkaapqvh.com
 +.attunebarberreality.com
++.attuneuvito.com
 +.atuhi.cyou
 +.atumanera.burgerking.com.mx
 +.atvmhb.wordans.ca
@@ -24223,6 +24225,7 @@
 +.bekannt-im-web.de
 +.bekcd.xyz
 +.bekco.xyz
++.bekd.cn
 +.beklefkiom.com
 +.beklinkor.com
 +.bekmhvbb.xyz
@@ -28577,7 +28580,6 @@
 +.c-4fambt.com
 +.c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com
 +.c-adash.m.taobao.com
-+.c-api-bit.shopeemobile.com
 +.c-martinique.fr
 +.c-nfa.jd.com
 +.c-o-u-n-t.com
@@ -60412,6 +60414,7 @@
 +.geneticesteemreasonable.com
 +.geneticocuby.com
 +.genetorhebe.website
++.geneurawipers.com
 +.genfpm.com
 +.gength.com
 +.geniad.net
@@ -65830,6 +65833,7 @@
 +.haksaigho.com
 +.haktrs.nationalpen.co.uk
 +.hakuba.janis.or.jp
++.hakurei.cdnbo.org
 +.hal.courrierinternational.com
 +.halachadivvers.com
 +.halal-place.com
@@ -75008,6 +75012,7 @@
 +.istatistik.trthaber.com
 +.istats.nl
 +.istcs.top
++.isteetashy.com
 +.istkechaukrguk.com
 +.istlandoll.com
 +.istlnkbn.com
@@ -81598,6 +81603,7 @@
 +.lchar.com
 +.lciapi.ninthdecimal.com
 +.lcid.top
++.lcidauv.top
 +.lcjiusbyqfpdo.com
 +.lcjubw.fiksuruoka.fi
 +.lcjyll.xyz
@@ -98421,6 +98427,7 @@
 +.myashot.txxx.com
 +.myatpe.mebelaero.ru
 +.myaudioads.com
++.mybancoschiles.gets-it.net
 +.mybasilsoup.com
 +.mybbc-analytics.files.bbci.co.uk
 +.mybest.app
@@ -113621,6 +113628,7 @@
 +.psoanouy.net
 +.psoansumt.net
 +.psoanufi.com
++.psoaphorsoa.com
 +.psoasusteech.net
 +.psockapa.net
 +.psoftautha.com
@@ -119709,6 +119717,7 @@
 +.ridmvd.dazzystore.com
 +.ridseechiph.com
 +.ridsilry.net
++.riedrused.com
 +.riemutmh.com
 +.rifec.co
 +.riffingwiener.com
@@ -122938,6 +122947,7 @@
 +.saltsabar.openapp.link
 +.saltsarchlyseem.com
 +.saltsleaseholder.com
++.saltsmute.com
 +.saltsupbrining.com
 +.saltwortokra.com
 +.saltyapplepie.com
@@ -125721,6 +125731,7 @@
 +.servevietnam.com
 +.servg1.net
 +.servh.net
++.service-ad-image-ga.prd.pluto.tv
 +.service-api.accesstrade.vn
 +.service-ens.sueddeutsche.de
 +.service-stat.tbn.ru
@@ -133205,6 +133216,7 @@
 +.sodamash.com
 +.sodamidhankie.com
 +.sodaprostitutetar.com
++.sodenneyg.com
 +.sodhef.com
 +.sodiumcupboard.com
 +.sodiumendlesslyhandsome.com
@@ -134437,6 +134449,7 @@
 +.spitzeslamprey.uno
 +.spitzrafting.top
 +.spjysa.only.com
++.spkh.cn
 +.spklds.com
 +.spklmis.com
 +.spl.ztvx8.com
@@ -138736,6 +138749,7 @@
 +.stats.thoughtcatalog.com
 +.stats.tiffany.ie
 +.stats.tijdschrift.zenleven.nl
++.stats.tiktoker.win
 +.stats.time2unfold.com
 +.stats.timkhoury.com
 +.stats.timmo.immo
@@ -142763,6 +142777,7 @@
 +.tags.propertyfinder.eg
 +.tags.propertyfinder.qa
 +.tags.propertyfinder.sa
++.tags.pw.adn.cloud
 +.tags.rabobank.nl
 +.tags.radiofarda.com
 +.tags.radiomarsho.com
@@ -149808,7 +149823,6 @@
 +.track.vbetftn.com
 +.track.vbetua.com
 +.track.veedio.it
-+.track.venatusmedia.com
 +.track.verstolo.com
 +.track.vessi.no
 +.track.vidaemmovimento.site
@@ -152054,6 +152068,7 @@
 +.trickycelery.com
 +.trickynationalityturn.com
 +.trickyneotits.com
++.trickyrock.com
 +.trickyseduction.com
 +.tricolored.ageisms.site
 +.triconsenex.top
@@ -154848,6 +154863,7 @@
 +.uhi02121uik.xyz
 +.uhi02130uik.xyz
 +.uhijmv.cn
++.uhityllhn.com
 +.uhjrjhgthc.com
 +.uhjxitn.xyz
 +.uhlagm.rakurakuseisan.jp
@@ -160408,6 +160424,7 @@
 +.vvadz.cc
 +.vvbox.cz
 +.vvcashpop.com
++.vvdrhe.win
 +.vvdzucs.cn
 +.vvehvch.com
 +.vvelrp.thinkshoes.com
@@ -171317,6 +171334,7 @@
 +.zqmblmebyvkjz.top
 +.zqmmtbwqymhrru.com
 +.zqmwf.xyz
++.zqntbc.top
 +.zqpztal.com
 +.zqtk.net
 +.zquent.com
