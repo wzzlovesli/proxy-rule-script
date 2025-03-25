@@ -221,6 +221,7 @@
 +.s3-fips.us-gov-west-1.amazonaws.com
 +.s3-fips.us-west-1.amazonaws.com
 +.s3-fips.us-west-2.amazonaws.com
++.s3-global.amazonaws.com
 +.s3-me-south-1.amazonaws.com
 +.s3-object-lambda.af-south-1.amazonaws.com
 +.s3-object-lambda.ap-east-1.amazonaws.com
@@ -630,6 +631,7 @@ repo.carbon.sh
 repo.debiancn.org
 repo.powerdns.com
 rpm.xpipe.io
+s3.teckids.org
 security.debian.org
 security.ubuntu.com
 share.riseup.net
