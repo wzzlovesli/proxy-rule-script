@@ -468,6 +468,7 @@ speedtest.cg.shawcable.net
 speedtest.clarkson.edu
 speedtest.cod4-server.com
 speedtest.cogeco.ca
+speedtest.conectaamazonia.com.br
 speedtest.connectbv8.com.br
 speedtest.coopesantos.com
 speedtest.coreix.net
@@ -765,6 +766,7 @@ speedtest3.dal.nxlink.com
 speedtest3.sasknet.sk.ca
 speedtest3.vodafone.com.tr
 speedtest3.westmancom.com
+speedtest4.vodafone.com.tr
 speedtest5.fybercom.net
 speedtest6.vodafone.com.tr
 speedtest8.vodafone.com.tr
