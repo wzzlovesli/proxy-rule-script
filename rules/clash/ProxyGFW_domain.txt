@@ -182,7 +182,9 @@
 +.1mobile.com
 +.1mobile.tw
 +.1monsterbeatsbydreus.com
++.1password.ca
 +.1password.com
++.1password.eu
 +.1point3acres.com
 +.1pondo.tv
 +.1pornlist.com
@@ -219,9 +221,7 @@
 +.21centuryaccess.com
 +.21heise360dh.cc
 +.21hub.com
-+.21join.com
 +.21naturals.com
-+.21pron.com
 +.21sextury.com
 +.21vv.cc
 +.228.net.tw
@@ -621,6 +621,7 @@
 +.aabb1803.com
 +.aacrjournals.org
 +.aadmv.com
++.aadrm.com
 +.aaex.uk
 +.aalah.me
 +.aamacau.com
@@ -1067,6 +1068,7 @@
 +.agemys.org
 +.agendaweek.com
 +.agenet.ac.uk
++.agilebits.com
 +.agnesb.fr
 +.agocg.ac.uk
 +.agoogleaday.com
@@ -2529,7 +2531,6 @@
 +.atandt.com
 +.atc.org.au
 +.atchinese.com
-+.atdmt.com
 +.atdmt2.com
 +.ateam-oracle.com
 +.atgfw.org
@@ -3787,6 +3788,7 @@
 +.biaoqs1.xyz
 +.biaoqs2.xyz
 +.biblesforamerica.org
++.bibliocommons.com
 +.bibliography.ac.uk
 +.bibox.com
 +.bic2011.org
@@ -5113,7 +5115,6 @@
 +.bsw.co.jp
 +.bsw.jp
 +.bsxm1213.pro
-+.bt2mag.com
 +.bt95.com
 +.btaia.com
 +.btas.ac.uk
@@ -5988,6 +5989,7 @@
 +.cfos.de
 +.cfr.org
 +.cfs.ac.uk
++.cfsh99.com
 +.cftfc.com
 +.cfwives.com
 +.cgdepot.org
@@ -6823,6 +6825,7 @@
 +.comefromchina.com
 +.comet-study.ac.uk
 +.cometotheduckside.com
++.comffvpn.com
 +.comic-mega.me
 +.comicbox.xyz
 +.comico.tw
@@ -7392,13 +7395,9 @@
 +.d.pr
 +.d0z.net
 +.d100.net
-+.d1b183sg0nvnuh.cloudfront.net
-+.d1c37gjwa26taa.cloudfront.net
 +.d2bay.com
 +.d2mrry2to5rg.com
 +.d2pass.com
-+.d3c33hcgiwev3.cloudfront.net
-+.d3rhr7kgmtrq1v.cloudfront.net
 +.da-files.com
 +.da3dsoul.dev
 +.daboja18.com
@@ -7525,6 +7524,7 @@
 +.data.gov.tw
 +.datafuturesalphapilot.ac.uk
 +.datagrid.ac.uk
++.datalabour.com
 +.dataliberation.org
 +.datalore.io
 +.datasheets360.com
@@ -7545,7 +7545,6 @@
 +.dawngate.com
 +.dawngatechronicles.com
 +.daxa.cn
-+.dayabook.com
 +.daylenerio.com
 +.daylife.com
 +.dayone.me
@@ -7556,7 +7555,6 @@
 +.dazndn.com
 +.db.tt
 +.dba.dk
-+.dbc.hk
 +.dbgjd.com
 +.dca.ac.uk
 +.dcard.cc
@@ -7850,7 +7848,9 @@
 +.dify.ai
 +.digicert-cn.com
 +.digicert-validation.com
++.digicert.co.jp
 +.digicert.com
++.digicert.eu
 +.digiland.tw
 +.digimap.ac.uk
 +.digisfera.com
@@ -9329,6 +9329,8 @@
 +.enterprisepaging.com
 +.enterpriseresearch.ac.uk
 +.enterprisessl.com
++.entrust.cn
++.entrust.com
 +.entrust.net
 +.entrustdatacard.com
 +.enveast.ac.uk
@@ -9568,8 +9570,6 @@
 +.essexacl.ac.uk
 +.estudio360.com.co
 +.estudiopenthouse.com
-+.esu.dog
-+.esu.im
 +.esurance.com
 +.etaa.org.au
 +.etadult.com
@@ -9615,7 +9615,6 @@
 +.eu-moscow.tencentcos.com.cn
 +.eu-west-0.myhuaweicloud.com
 +.eu-west-101.myhuaweicloud.com
-+.eu.org
 +.eubluecardvisa.com
 +.eucasino.com
 +.eued.ac.uk
@@ -10235,8 +10234,6 @@
 +.favepornmovs.com
 +.favepornvids.com
 +.favjapaneseporn.com
-+.favotter.net
-+.favstar.fm
 +.fawanghuihui.org
 +.faycbok.com
 +.faydao.com
@@ -10281,8 +10278,6 @@
 +.fbwat.ch
 +.fbworkmail.com
 +.fc2.com
-+.fc2blog.net
-+.fc2china.com
 +.fc2cn.com
 +.fc2ppv.tv
 +.fc2web.com
@@ -10298,10 +10293,8 @@
 +.fcww0.com
 +.fda.gov.tw
 +.fdacebook.info
-+.fdbox.com
 +.fdc64.de
 +.fdc64.org
-+.fdc89.jp
 +.fdf.ac.uk
 +.fdiintelligence.com
 +.fdroid.org
@@ -10377,7 +10370,6 @@
 +.ffacebook.com
 +.ffc.ac.uk
 +.fffdm.com
-+.fffff.at
 +.fffucked.com
 +.fflick.com
 +.fflm.ac.uk
@@ -10553,6 +10545,7 @@
 +.firstchancesfife.ac.uk
 +.firstfivefollowers.com
 +.firstgynexam.com
++.firstory.me
 +.firstpelvicexam.com
 +.firstpost.com
 +.firstprivatebank.com.mm
@@ -10625,7 +10618,6 @@
 +.fluidfxapp.com
 +.fluidpreview.com
 +.fluids.ac.uk
-+.flurry.com
 +.flutter.dev
 +.flutterapp.com
 +.flyflv.com
@@ -11203,6 +11195,7 @@
 +.fulltaboo.tv
 +.fullxxxmovies.net
 +.fulue.com
++.funami.tech
 +.fundaiphone5s.com
 +.fundfire.com
 +.fundinginstitutional.com
@@ -11899,7 +11892,6 @@
 +.goagentplus.com
 +.goals.ac.uk
 +.gobeatsye.com
-+.gobet.cc
 +.gobianywhere.com
 +.gobuildx.net
 +.gobuyonlinestore.net
@@ -11967,7 +11959,6 @@
 +.gongm.in
 +.gongmeng.info
 +.gongminliliang.com
-+.gongwt.com
 +.gongyichuangyi.net
 +.gonike.com
 +.gonzo-movies.com
@@ -12554,11 +12545,6 @@
 +.h5dm.com
 +.h5galgame.me
 +.hace.ac.uk
-+.hacg.club
-+.hacg.in
-+.hacg.li
-+.hacg.me
-+.hacg.red
 +.hackday.com.au
 +.hacken.cc
 +.hacker.org
@@ -12681,11 +12667,11 @@
 +.harunyahya.com
 +.hashflow.com
 +.hashicorp.com
-+.hasi.wang
 +.haskell.org
 +.haskellstack.org
 +.hastings.ac.uk
 +.hastingsonline.ac.uk
++.hatena.ne.jp
 +.hath.network
 +.hau.ac.uk
 +.hautelook.com
@@ -15307,6 +15293,7 @@
 +.iwyn138.com
 +.ixnxx.tv
 +.ixquick.com
++.ixsystems.com
 +.ixxx.com
 +.iyalc.com
 +.iyf.tv
@@ -15621,10 +15608,8 @@
 +.jinhai.de
 +.jinpianwang.com
 +.jinrizhiyi.news
-+.jinroukong.com
 +.jintian.net
 +.jinx.com
-+.jiruan.net
 +.jisc-collections.ac.uk
 +.jisc-content.ac.uk
 +.jisc-liberate-migrate1.ac.uk
@@ -15703,7 +15688,6 @@
 +.jobmarket.com.hk
 +.jobnewera.wordpress.com
 +.jobs.ac.uk
-+.jobso.tv
 +.jodic-forum.org
 +.joeswall.com
 +.johnpersons.com
@@ -16972,6 +16956,7 @@
 +.looporn.com
 +.looti.net
 +.lordofultima.com
++.lorenzetti.com.br
 +.loreto.ac.uk
 +.lostbetsgames.com
 +.lotcrap.com
@@ -17851,7 +17836,6 @@
 +.meme111.com
 +.memehk.com
 +.memes.tw
-+.memorybbs.com
 +.memri.org
 +.memrijttm.org
 +.men.com
@@ -17910,6 +17894,7 @@
 +.metacafe.com
 +.metacloud.com
 +.metacpan.org
++.metacubex.one
 +.metadac.ac.uk
 +.metafilter.com
 +.metalpha.finance
@@ -17940,8 +17925,6 @@
 +.mewe.com
 +.mexc.com
 +.mexcsensors.com
-+.meyou.jp
-+.meyul.com
 +.mfg-inspector.com
 +.mfmf.club
 +.mfo.ac.uk
@@ -17972,7 +17955,6 @@
 +.mib.ac.uk
 +.mic.ac.uk
 +.micb.gov.mm
-+.michaelanti.com
 +.michaelmarketl.com
 +.mickey.tv
 +.mickybells.com
@@ -18035,6 +18017,7 @@
 +.microsoftadvertisingregionalawards.com
 +.microsoftaffiliates.com
 +.microsoftapp.net
++.microsoftazuread-sso.com
 +.microsoftazuresponsorships.com
 +.microsoftcloud.com
 +.microsoftcloudsummit.com
@@ -19789,7 +19772,6 @@
 +.newsmax.in
 +.newsmaxtv.com
 +.newsnowfox.com
-+.newspeak.cc
 +.newsprestigenetwork.com.au
 +.newsprinters.co.uk
 +.newssyndication.com
@@ -20340,7 +20322,6 @@
 +.npmjs.org
 +.npnt.me
 +.npr.org
-+.nps.gov
 +.npsboost.com
 +.npsc.ac.uk
 +.nptc.ac.uk
@@ -20354,6 +20335,7 @@
 +.nrooms-dh.sbs
 +.nrp.ac.uk
 +.nrs.ac.uk
++.ns.ci
 +.ns01.biz
 +.ns01.info
 +.ns01.us
@@ -20656,6 +20638,7 @@
 +.nyansa.com
 +.nybooks.com
 +.nydus.ca
++.nyinfor.com
 +.nylon-angel.com
 +.nylonstockingsonline.com
 +.nym97.net
@@ -20871,6 +20854,7 @@
 +.onapp.com
 +.onbeatsbydresale.com
 +.oncars.in
++.one.one
 +.one.one.one
 +.one.one.one.one
 +.one889.app
@@ -21230,6 +21214,9 @@
 +.ozeex.com
 +.ozodi.org
 +.ozodlik.org
++.ozon.ru
++.ozone.ru
++.ozonusercontent.com
 +.ozvoice.org
 +.ozxw.com
 +.ozyoyo.com
@@ -21984,6 +21971,8 @@
 +.playcover.io
 +.player.fm
 +.playerjs.io
++.playfab.com
++.playfabapi.com
 +.playforceone.com
 +.playhearthstone.com
 +.playmation.com
@@ -22568,7 +22557,6 @@
 +.prcleader.org
 +.pre-bmwgroup.jobs
 +.predictivetechnologies.com
-+.premeforwindows7.com
 +.premia.ac.uk
 +.premium-beauty.com
 +.premiumfs.de
@@ -22756,7 +22744,6 @@
 +.psyccareers.com
 +.pt.im
 +.ptapjmp.com
-+.pts.org.tw
 +.ptt.cc
 +.ptt.sex
 +.ptt2.cc
@@ -22827,7 +22814,6 @@
 +.putinho.net
 +.putlocker.com
 +.putty.org
-+.puuko.com
 +.pvp.net
 +.pvp.tv
 +.pvt.sexy
@@ -23116,8 +23102,6 @@
 +.rarbgunblock.org
 +.rarbgunblocked.org
 +.rarbgway.org
-+.raremovie.cc
-+.raremovie.net
 +.rareview.ac.uk
 +.ras.ac.uk
 +.rascal.ac.uk
@@ -23142,7 +23126,6 @@
 +.razerofficial.com
 +.razersupport.com
 +.razerzone.jp
-+.razyboard.com
 +.rb-crisis.com
 +.rb.com
 +.rb.gy
@@ -23400,6 +23383,7 @@
 +.reid-kerr.ac.uk
 +.reidkerr.ac.uk
 +.reigate.ac.uk
++.reimu.net
 +.reiporno.com
 +.relateinstitute.ac.uk
 +.relateiq.com
@@ -23825,7 +23809,7 @@
 +.s1s1s1.com
 +.s2csntp.miz.nao.ac.jp
 +.s2stagehance.com
-+.s3-ap-northeast-1.amazonaws.com
++.s3-ap-*.amazonaws.com
 +.s3-ap-southeast-1.amazonaws.com
 +.s3-ap-southeast-2.amazonaws.com
 +.s3.amazonaws.com
@@ -24324,7 +24308,6 @@
 +.sequence.com
 +.ser7.cc
 +.sera.ac.uk
-+.seraph.me
 +.serbiporno.net
 +.serc.ac.uk
 +.serena.ac.uk
@@ -24597,6 +24580,7 @@
 +.shadowsocks.com
 +.shadowsocks.com.hk
 +.shadowsocks.nl
++.shadowsocks.nu
 +.shadowsocks.org
 +.shadowsocks9.com
 +.shadowverse.jp
@@ -24955,7 +24939,6 @@
 +.sjhsp1.buzz
 +.sjr.ac.uk
 +.sjrt.org
-+.sjum.cn
 +.skate2.com
 +.skebetter.com
 +.skegnesstec.ac.uk
@@ -25798,6 +25781,7 @@
 +.static.shemalez.com
 +.static01.nyt.com
 +.static9.net.au
++.statically.io
 +.staticflickr.com
 +.statistics.ac.uk
 +.statsmakemecry.com
@@ -25959,6 +25943,7 @@
 +.stream-mydirtyhobby.biz
 +.streamable.com
 +.streamate.com
++.streamguys1.com
 +.streamingdisney.net
 +.streamingporn.xyz
 +.streamingthe.net
@@ -26019,7 +26004,6 @@
 +.stroudcol.ac.uk
 +.stroudcollege.ac.uk
 +.sttc.ac.uk
-+.student.tw
 +.studentengagement.ac.uk
 +.studentsforafreetibet.org
 +.studentshows.ac.uk
@@ -26836,8 +26820,6 @@
 +.thehenleycollege.ac.uk
 +.thehentaiworld.com
 +.thehindu.com
-+.thehots.info
-+.thehousenews.com
 +.thehulubraintrust.com
 +.thehun.net
 +.theindianleaks.com
@@ -26928,7 +26910,6 @@
 +.thetibetpost.com
 +.thetimes.co.uk
 +.thetimes.ie
-+.thetinhat.com
 +.thetrackernetwork.com
 +.thetranny.com
 +.thetread.com
@@ -27006,6 +26987,7 @@
 +.thrixxx.com
 +.throughnightsfire.com
 +.thtmod1.com
++.thu.monster
 +.thuhole.com
 +.thumbnailseries.com
 +.thumbzilla.com
@@ -27494,6 +27476,7 @@
 +.truedepth3d.com
 +.truedwg.com
 +.truefi.io
++.truenas.com
 +.trulyergonomic.com
 +.trunest.com
 +.truro-penwith.ac.uk
@@ -28227,6 +28210,7 @@
 +.unknownspace.org
 +.unkoscene.com
 +.unl.ac.uk
++.unlock-music.dev
 +.unlocklimitlesslearning.com
 +.unlocktool.net
 +.unmineable.com
@@ -28939,6 +28923,7 @@
 +.visabank.org
 +.visabg.com
 +.visabusinessinsights.com
++.visaca.com
 +.visacarddesignlab.com
 +.visacards.com
 +.visacheckout.net
@@ -29515,7 +29500,6 @@
 +.wasdj.com
 +.waselpro.com
 +.washa.tv
-+.washeng.net
 +.washingtondcbmw.com
 +.washingtonpost.com
 +.waskucity.com
@@ -29907,7 +29891,6 @@
 +.wikiversity.org
 +.wikivoyage.org
 +.wikiwand.com
-+.wikiwiki.jp
 +.wiktionary.org
 +.wilberforce.ac.uk
 +.wildammo.com
@@ -29958,7 +29941,6 @@
 +.wintermute.com
 +.winticket.jp
 +.winudf.com
-+.winwhispers.info
 +.wionews.com
 +.wipower.com
 +.wire.com
@@ -30316,9 +30298,7 @@
 +.x1337x.ws
 +.x18r.co
 +.x18r.com
-+.x1949x.com
 +.x24hr.com
-+.x365x.com
 +.x3guide.com
 +.x3vid.com
 +.x6av.com
@@ -31758,6 +31738,7 @@ api-p.videomarket.jp
 api.viu.now.com
 api.waqi.info
 apl-hamivideo.cdn.hinet.net
+apple-tv-plus-press.apple.com
 apple.com.akadns.net
 appleworldwidedeveloper.hb-api.omtrdc.net
 appleworldwidedeveloper.sc.omtrdc.net
@@ -31905,6 +31886,8 @@ heads4-ak-spotify-com.akamaized.net
 himalaya-exchange.zendesk.com
 hl2rcv.adobe.com
 hlrcv.stage.adobe.com
+hls-amt.itunes.apple.com
+hls.itunes.apple.com
 homebrew.bintray.com
 hpefonts.s3.amazonaws.com
 hpstore.corpmerchandise.com
@@ -31947,6 +31930,7 @@ netflix.com.edgesuite.net
 notary-submissions-prod.s3-accelerate.amazonaws.com
 notary-submissions-prod.s3.us-west-2.amazonaws.com
 notify.ppy.sh
+np-edge.itunes.apple.com
 ntp-b.nist.gov
 ntp-c.colorado.edu
 ntp-d.nist.gov
@@ -31977,6 +31961,7 @@ p16-tiktokcdn-com.akamaized.net
 paper-attachments.s3.amazonaws.com
 pchomeonline.com.tw
 pki.google.com
+play-edge.itunes.apple.com
 poshtestgallery.cloudapp.net
 pplx-res.cloudinary.com
 practivate.adobe
@@ -32075,7 +32060,6 @@ scholar.google.si
 scholar.google.sk
 scholar.googleusercontent.com
 scholar.l.google.com
-self.events.data.microsoft.com
 sentry.ppy.sh
 servd-anthropic-website.b-cdn.net
 sni1dcb6gl.wpc.edgecastcdn.net
@@ -32134,6 +32118,7 @@ time4.facebook.com
 time4.google.com
 time5.facebook.com
 tmdb-image-prod.b-cdn.net
+tv.applemusic.com
 tvcastlive-hamivideo.cdn.hinet.net
 ubisoft-orbit-savegames.s3.amazonaws.com
 ubisoft-uplay-savegames.s3.amazonaws.com
@@ -32145,6 +32130,7 @@ ut1-wwv.nist.gov
 utcnist.colorado.edu
 utcnist2.colorado.edu
 utcnist3.colorado.edu
+uts-api.itunes.apple.com
 ve-dash-uk-live.akamaized.net
 ve-uhd-push-uk-live.akamaized.net
 venmo.s3.amazonaws.com

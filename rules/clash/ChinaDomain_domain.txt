@@ -60004,7 +60004,6 @@
 +.microrui.net
 +.microsate.com
 +.microsoft-ware.com
-+.microsoft.com
 +.microsoftonline.com
 +.microsoftuwp.com
 +.microstern.com
@@ -84014,6 +84013,7 @@
 +.upchinapro.com
 +.upchinaproduct.com
 +.upd.kaspersky.com
++.update.microsoft.com
 +.updeals.com
 +.updf.com
 +.updrv.com
@@ -87706,6 +87706,7 @@
 +.windows11.pro
 +.windows7en.com
 +.windowsupdate.com
++.windowsupdate.microsoft.com
 +.windowszj.com
 +.winds.red
 +.windsns.com
@@ -103396,6 +103397,7 @@ content.googleadapis.com
 crashlyticsreports-pa.googleapis.com
 crl-lb.apple.com.akadns.net
 crl.apple.com
+crl.globalsign.net
 crl.pki.goog
 crls.pki.goog
 csi.gstatic.com
@@ -103604,6 +103606,7 @@ ntp5.aliyun.com
 ntp5.tencent.com
 ntp6.aliyun.com
 ntp7.aliyun.com
+ntservicepack.microsoft.com
 o.pki.goog
 oasisauth.h3c.com
 ocsp-lb.apple.com.akadns.net
@@ -103833,6 +103836,7 @@ www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.asusrouter.com
 www.destinationurl.com
+www.entrust.cn
 www.googleadapis.com
 www.gstatic.com
 www.intel.cn
