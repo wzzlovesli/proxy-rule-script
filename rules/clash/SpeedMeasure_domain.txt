@@ -67,6 +67,7 @@
 .wifiman.me
 .wifiman.ubncloud.com
 1010.hkspeedtest.com
+383-2speedtest.wightman.ca
 40gspeedtest.mnsi.net
 a-speedtest.brasildigital.net.br
 ab-thn-ookla01.air-band.net
@@ -585,6 +586,7 @@ speedtest.micron21.com
 speedtest.mirror.digitalpacific.com.au
 speedtest.mirror.serversaustralia.com.au
 speedtest.mixam.com.br
+speedtest.mornington.ca
 speedtest.msk.ertelecom.ru
 speedtest.mtnetworks.mn
 speedtest.multicablehn.com
@@ -665,6 +667,7 @@ speedtest.syd.mhn.cloud
 speedtest.syd.netsg.net.au
 speedtest.syd01.launtel.net.au
 speedtest.syscom.manaus.br
+speedtest.systemlifeline.com
 speedtest.taifo.com.tw
 speedtest.te.citywest.ca
 speedtest.team-host.ru
@@ -690,6 +693,7 @@ speedtest.unitelecom.net.br
 speedtest.unlimitedfiber.com
 speedtest.uplinkrr.com.br
 speedtest.upp.com
+speedtest.uptelecom-ro.com.br
 speedtest.us.openinfra.com
 speedtest.us310.lax.us.ctcsci.com
 speedtest.uzmansoft.net
@@ -720,6 +724,7 @@ speedtest.xsnews.nl
 speedtest.yless4u.com.au
 speedtest01.ams6.solcon.nl
 speedtest01.dns-net.de
+speedtest01.ehtel.ca
 speedtest01.o-net.ca
 speedtest01.srv.hcvlny.alticeusa.net
 speedtest01.syd1.spintel.net.au
@@ -859,6 +864,8 @@ st1.scaleway.com
 st1.tbaytel.net
 st2.octopustelecom.co.uk
 st2a.les.net
+stbrampton.netcrawler.ca
+stbrampton.rogers.com
 stbrantford.rogers.com
 stbrantfordwireless.rogers.com
 stcalgarywireless.rogers.com
@@ -877,6 +884,8 @@ sthamilton.netcrawler.ca
 sthamilton.rogers.com
 sthamiltonwireless.rogers.com
 stkelownawireless.rogers.com
+stkingcity.netcrawler.ca
+stkingcity.rogers.com
 stkitchener.rogers.com
 stkitchenerwireless.rogers.com
 stleamingtonwireless.rogers.com
@@ -897,6 +906,8 @@ stnorthyork.netcrawler.ca
 stnorthyork.rogers.com
 stnorthyorkwireless.rogers.com
 stoakville.rogers.com
+storangeville.rogers.com
+storangevillewireless.rogers.com
 stosat-rvlt-01.sys.comcast.net
 streddeerwireless.rogers.com
 stsarniawireless.rogers.com
@@ -913,6 +924,8 @@ stthunderbaywireless.rogers.com
 sttoronto.rogers.com
 sttorontowireless.rogers.com
 stvancouverwireless.rogers.com
+stvaughan.netcrawler.ca
+stvaughan.rogers.com
 stvictoriawireless.rogers.com
 stwaterloo.netcrawler.ca
 stwaterloo.rogers.com
