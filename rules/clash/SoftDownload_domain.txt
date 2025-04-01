@@ -683,6 +683,7 @@ download.opensuse.org
 download.parallels.com
 download.pixelexperience.org
 download.projectbluefin.io
+download.proxyman.com
 download.sketch.com
 download.snipaste.com
 download.tensorflow.google.com

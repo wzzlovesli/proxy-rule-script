@@ -21926,6 +21926,7 @@
 +.clam-itc.com
 +.clamc.com
 +.clamptek.com
++.clangcn.com
 +.clanzx.net
 +.claritywallpaper.com
 +.clarivate.com
@@ -23071,6 +23072,7 @@
 +.cnpowdernet.com
 +.cnpowdertech.com
 +.cnpp100.com
++.cnppa.org
 +.cnprofit.com
 +.cnpsec.com
 +.cnpubg.com
