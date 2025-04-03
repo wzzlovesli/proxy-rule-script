@@ -72,6 +72,7 @@
 a-speedtest.brasildigital.net.br
 ab-thn-ookla01.air-band.net
 acrenettecnologia.brsserver.com.br
+adn1speedtest.turktelekom.com.tr
 afyonspeedtest.fixnet.com.tr
 akrd-speedtest.loni.org
 ams-eq6-tptest1.31173.se
@@ -308,6 +309,7 @@ speed09.gonetspeed.com
 speed1.myascend.ca
 speed1.spitfireuk.net
 speed1.syseleven.net
+speed12.gonetspeed.com
 speed2.dg-sys.net
 speed2.fiberlink.pl
 speed4.snap.net.nz
@@ -373,6 +375,7 @@ speedtest-london.its-tg.net
 speedtest-london.start.ca
 speedtest-lton.launtel.net.au
 speedtest-mel-dn1.empower.net.au
+speedtest-mel.vic.au.hostuniversal.com.au
 speedtest-mel.vocus.net
 speedtest-mel0.encoo.com.au
 speedtest-melbourne.macquarietelecom.com
@@ -627,6 +630,7 @@ speedtest.quadro.net
 speedtest.reconn.ru
 speedtest.redactus.co.uk
 speedtest.redbirdcommunications.ca
+speedtest.reycom.cr
 speedtest.rfchost.net
 speedtest.rfnow.net
 speedtest.rit.edu
@@ -681,6 +685,7 @@ speedtest.tigo.cr
 speedtest.tinp.net.tw
 speedtest.tngnet.com
 speedtest.toob.co.uk
+speedtest.toros.edu.tr
 speedtest.turnkeyinternet.net
 speedtest.tushino.com
 speedtest.twds.com.tw
@@ -697,6 +702,7 @@ speedtest.uptelecom-ro.com.br
 speedtest.us.openinfra.com
 speedtest.us310.lax.us.ctcsci.com
 speedtest.uzmansoft.net
+speedtest.vanciscloud.nl
 speedtest.vc.shawcable.net
 speedtest.vee.com.tw
 speedtest.verimek.com
@@ -943,6 +949,7 @@ syrny-speedtest-ookla-02.st.charter.com
 t4y-tor-sts1.ser.tek4you.ca
 tc1.chtm.hinet.net
 test.accesso.net.br
+test.beamtelecom.com.br
 test.infoconnecttelecom.com.br
 test.internetliontelecom.com.br
 test.slic.com

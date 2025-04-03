@@ -3,6 +3,8 @@ DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,recaptcha
+IP-CIDR,173.194.0.0/16,no-resolve
+IP-CIDR,74.125.0.0/16,no-resolve
 PROCESS-NAME,BackupandSync
 PROCESS-NAME,GoogleDriveFS.exe
 PROCESS-NAME,com.android.vending

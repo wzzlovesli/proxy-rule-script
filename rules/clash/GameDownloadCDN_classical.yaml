@@ -7,3 +7,7 @@ payload:
 - DOMAIN-REGEX,^blzdist-[a-z]{2}([a-z])?\.necdn\.leihuo\.netease\.com$
 - DOMAIN-REGEX,^cache\d(\d)?-[a-z]{3}\d\.steamcontent\.com$
 - DOMAIN-REGEX,^download[1-9]?\.epicgames\.com$
+- IP-CIDR,104.75.169.19/32,no-resolve
+- IP-CIDR,137.221.64.0/24,no-resolve
+- IP-CIDR,8.251.135.126/32,no-resolve
+- IP-CIDR,8.251.246.126/32,no-resolve

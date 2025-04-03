@@ -1064,6 +1064,7 @@ mirrors.xtom.jp
 mirrors.xtom.nl
 mirrors.xtom.sg
 mirrors.xtom.us
+msdl.microsoft.com
 muug.ca
 nobara-images.nobaraproject.org
 objects.githubusercontent.com
@@ -1125,6 +1126,7 @@ steampipe-partner.akamaized.net
 steampipe.akamaized.net
 store.setapp.com
 store1.gofile.io
+su.virtualbuddy.app
 sunsite.icm.edu.pl
 sunsite.informatik.rwth-aachen.de
 textures.minecraft.net
