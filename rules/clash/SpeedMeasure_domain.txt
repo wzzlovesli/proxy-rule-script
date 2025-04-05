@@ -230,6 +230,7 @@ pauseq4vost1.datamossa.cloud
 perf-01.ixn.as42689.net
 perf.keyyo.net
 postapps.com
+pvh.speedtest.vipnetconexao.com.br
 qld-speedtest.spirit.com.au
 reflector.aberythmic.com
 sam1speedtest.turktelekom.com.tr
@@ -271,7 +272,9 @@ spd01-mel.au.superloop.com
 spd03-syd.au.superloop.com
 spd33.claro.com.br
 spd49.claro.com.br
+spd53.claro.com.br
 spdms.twincher.ru
+spdtes.phoenix.net.tr
 spdtst.xenyth.net
 spedvae.lodosnet.com.tr
 speed-mel.gigacomm.net.au
@@ -286,6 +289,7 @@ speed.econett.com.br
 speed.fgtelecom.com.br
 speed.flix.net.tr
 speed.golddata.net
+speed.grinternett.com.br
 speed.lax-1.serverforge.org
 speed.matrixtelecon.com.br
 speed.mel.aussiebroadband.com.au
@@ -519,6 +523,7 @@ speedtest.finovy.com
 speedtest.fixnet.com.tr
 speedtest.fra01.fusionflare.cloud
 speedtest.fra1.hivelocity.net
+speedtest.gamedoping.com
 speedtest.gatchina.ru
 speedtest.gelicon.ru
 speedtest.getstreamhosting.com
@@ -706,6 +711,7 @@ speedtest.unlimitedfiber.com
 speedtest.uplinkrr.com.br
 speedtest.upp.com
 speedtest.uptelecom-ro.com.br
+speedtest.us.mirhosting.net
 speedtest.us.openinfra.com
 speedtest.us310.lax.us.ctcsci.com
 speedtest.uzmansoft.net
