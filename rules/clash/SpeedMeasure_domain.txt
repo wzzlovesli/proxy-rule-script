@@ -477,6 +477,7 @@ speedtest.bri01.launtel.net.au
 speedtest.brightstar.cloud
 speedtest.brooketel.coop
 speedtest.brsk.co.uk
+speedtest.bursabil.com.tr
 speedtest.cadence.net.uk
 speedtest.capti.com.au
 speedtest.cdmsfirst.com
@@ -542,6 +543,7 @@ speedtest.hk210.hkg.cn.ctcsci.com
 speedtest.hk212.hkg.cn.nerocloud.io
 speedtest.honest.net
 speedtest.host.com.tw
+speedtest.hyperwave.uk
 speedtest.hytekcomputers.com
 speedtest.i4networks.nl
 speedtest.idnet.net.br
@@ -590,6 +592,7 @@ speedtest.massivemesh.com
 speedtest.meerfarbig.net
 speedtest.mel.mhn.cloud
 speedtest.mel01.launtel.net.au
+speedtest.meric.net.tr
 speedtest.merlin.mb.ca
 speedtest.mhcable.com
 speedtest.mia.upx.net.br
@@ -829,6 +832,7 @@ speedtestro.vtal.net.br
 speedtestrr.vtal.net.br
 speedtestsantarem.zumtelecom.com.br
 speedtestsgp.fpt.vn
+speedtestspeednet.com.br
 speedtestuk1.cybersmart.co.za
 speedtestus.pvdatanet.com
 spetstmns01.timbrasil.com.br
