@@ -274,6 +274,7 @@ spd03-syd.au.superloop.com
 spd33.claro.com.br
 spd49.claro.com.br
 spd53.claro.com.br
+spdfra.cndd.net
 spdms.twincher.ru
 spdtes.phoenix.net.tr
 spdtst.xenyth.net
@@ -516,6 +517,8 @@ speedtest.embrasnet.com.br
 speedtest.eminnet.com.tr
 speedtest.empireaccess.com
 speedtest.epl.ca
+speedtest.eu-lo.kamatera.com
+speedtest.eu.kamatera.com
 speedtest.execulink.ca
 speedtest.extremanetwork.com.br
 speedtest.fiberlink.net.ua
@@ -610,6 +613,7 @@ speedtest.myaccess.ca
 speedtest.myarena.ru
 speedtest.myrepublic.com.sg
 speedtest.naturalwireless.com
+speedtest.net360.cloud
 speedtest.netcalibre.net
 speedtest.netcrawler.ca
 speedtest.netflash.net
@@ -715,6 +719,7 @@ speedtest.unlimitedfiber.com
 speedtest.uplinkrr.com.br
 speedtest.upp.com
 speedtest.uptelecom-ro.com.br
+speedtest.us-se.kamatera.com
 speedtest.us.mirhosting.net
 speedtest.us.openinfra.com
 speedtest.us310.lax.us.ctcsci.com
@@ -1026,6 +1031,7 @@ velocidade.softtelecom.net.br
 velocimetro-mns.virtua.com.br
 velocimetro-rbo.virtua.com.br
 velocimetro-spt.akto.com.br
+velocimetro.esolution.srv.br
 velocimetro.fibernetwork.com.br
 velocimetro.govistabr.com.br
 velocimetro.proveinter.com.br
