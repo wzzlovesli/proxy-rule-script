@@ -679,6 +679,7 @@ download.nextag.com
 download.nodecdn.net
 download.nus.edu.sg
 download.nust.na
+download.onlyoffice.com
 download.opensuse.org
 download.parallels.com
 download.pixelexperience.org

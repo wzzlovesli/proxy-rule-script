@@ -1811,7 +1811,6 @@
 +.antiwave.net
 +.antpool.com
 +.anudetube.com
-+.anws.gov.tw
 +.anxiangxing.com
 +.anybunny.org
 +.anybunny.tv
@@ -2630,6 +2629,7 @@
 +.audiencenetwork.tv
 +.audiobeatsau.com
 +.audiobeatsbydre.com
++.audiomack.com
 +.audiomonsterbeatsonline.com
 +.audionow.com
 +.aue.ac.uk
@@ -7373,7 +7373,6 @@
 +.cvu.ac.uk
 +.cw.com.tw
 +.cwa.ac.uk
-+.cwb.gov.tw
 +.cwc.ac.uk
 +.cwcams.com
 +.cwcfe.ac.uk
@@ -23980,6 +23979,7 @@
 +.s3-ap-southeast-1.amazonaws.com
 +.s3-ap-southeast-2.amazonaws.com
 +.s3.amazonaws.com
++.s3.eu-central-1.amazonaws.com
 +.s4miniarchive.com
 +.s81c.com
 +.s8ds5gfm.xyz
