@@ -611,6 +611,7 @@ ctan.uib.no
 ctan.um.ac.ir
 ctan.yazd.ac.ir
 ctldl.windowsupdate.com
+d.myani.org
 de.freedif.org
 deb.nodesource.com
 debian-archive.trafficmanager.net

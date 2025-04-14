@@ -99965,6 +99965,7 @@
 +.vultr1.com
 +.vultrcn.com
 +.vultrvps.com
++.vumstar.com
 +.vunion.net
 +.vurl.link
 +.vurl3.vip
