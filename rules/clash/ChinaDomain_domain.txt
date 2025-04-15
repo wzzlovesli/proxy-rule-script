@@ -34743,6 +34743,7 @@
 +.eszzxxz.com
 +.et-api.com
 +.et-fine.com
++.et001.com
 +.et363.com
 +.et59.com
 +.et998.com
@@ -41728,6 +41729,7 @@
 +.guahaowang.com
 +.guaiguai.com
 +.guaihou.com
++.guaiku.com
 +.guaileicp.com
 +.guaili.org
 +.guailuo.com
@@ -70659,6 +70661,7 @@
 +.mingxingbobbin.com
 +.mingxingku.com
 +.mingxinglai.com
++.mingxuan.store
 +.mingxuanxz.com
 +.mingya.mobi
 +.mingyafeng.com
@@ -121489,6 +121492,7 @@ tesla-cdn.thron.cn
 test.bugs-qa.chromium.org
 test.gbugs-qa.chromium.org
 tf-feedback.itunes.apple.com
+time.amazonaws.cn
 time.izatcloud.net
 time.xtracloud.net
 tj-pod1-smp-device.apple.com
