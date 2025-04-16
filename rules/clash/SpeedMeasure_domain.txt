@@ -82,6 +82,7 @@ amsterdam.getstreamhosting.com
 ant1speedtest.turktelekom.com.tr
 aragonnetspeedtest.com.br
 asanet.brsserver.com.br
+au.st.spacecore.pro
 aus-nperf.verizon.net
 balikesirspeedtest.fixnet.com.tr
 bassoon-sg-1.violin.co.th
@@ -109,6 +110,7 @@ dc-spdtst.treas.host
 de-bln2-ookla-01.wemacom.net
 de-ffm1-ookla-01.wemacom.net
 de-fra2-lg1.level66.network
+de.st.spacecore.pro
 denizli.verinomidns.com
 dllstx-ookla1.vyvebroadband.net
 drtvpdspeedtestb.voiped.com
@@ -125,6 +127,7 @@ fra1speedtest01.skylogic.com
 gay1speedtest.turktelekom.com.tr
 gd-speedtest.homeplus.net.tw
 gh-speedtest.homeplus.net.tw
+glconnect.brsserver.com.br
 gun1speedtest.turktelekom.com.tr
 hc1.chtm.hinet.net
 hizaydin.durunet.com.tr
@@ -227,6 +230,7 @@ ookla3.1und1-mobilfunk.de
 ooklaspeedtest-ist1.quickzone.net
 ooklatins.redeconexaonet.com
 open.cachefly.net
+osk.speedtest.love
 par1speedtest01.skylogic.com
 pauseq4vost1.datamossa.cloud
 perf-01.ixn.as42689.net
@@ -245,6 +249,7 @@ servidor.speedplay.com.br
 sfosj0096speedtestserver01.wiline.com
 sg-speedtest.fast.net.id
 sg.cloudhost.asia
+sg.st.spacecore.pro
 sgn-nperf.verizon.net
 sgspeed.chinaunicomglobal.com
 sig-speedtest.moratelindo.io
@@ -403,6 +408,7 @@ speedtest-nxtb2.fsg-hosting.com
 speedtest-nxts1.fsg-hosting.com
 speedtest-nyc.dish-wireless.com
 speedtest-obd.redeconecta.com
+speedtest-ookla-beta.giant.net.uk
 speedtest-ookla-par.as62000.net
 speedtest-ookla-roc1.synoptek.com
 speedtest-prs.vts.bf
@@ -419,6 +425,7 @@ speedtest-sg1.simba.sg
 speedtest-sin.melbicom.net
 speedtest-sjc.acreto.net
 speedtest-sjc.dish-wireless.com
+speedtest-srv01.tut.net
 speedtest-stf.megafon.ru
 speedtest-stm.redeconecta.com
 speedtest-syd-dn1.empower.net.au
@@ -1042,6 +1049,7 @@ velocimetro.govistabr.com.br
 velocimetro.proveinter.com.br
 velocimetro.speednetworks.com.br
 velocimetro.wiretelecom.com.br
+velocity.softtelecom.net.br
 veloteste.mrjomar.com.br
 venusone.horystech.com
 vic-speedtest.spirit.com.au
