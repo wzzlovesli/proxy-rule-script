@@ -679,6 +679,7 @@ downloads.openwrt.org
 downloads.raspberrypi.com
 downloads.sourceforge.net
 downloads.wordpress.org
+downloads.x-wrt.com
 downloads.xiph.org
 downloads.xrite.com
 drive.massgrave.dev
@@ -1022,6 +1023,7 @@ packagecloud.io
 packages.linuxmint.com
 packages.microsoft.com
 packages.oth-regensburg.de
+packages.termux.dev
 packages.virtfusion.net
 packagespc.xboxlive.com
 pf-cdn-content-prod.azureedge.net
