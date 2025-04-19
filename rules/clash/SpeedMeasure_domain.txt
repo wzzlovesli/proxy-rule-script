@@ -162,6 +162,7 @@ la-ookla.geolinks.com
 lax1a-speedtest.webnx.com
 laxla0001speedtestserver01.wiline.com
 ldnspeedtest.rackdog.com
+lg-ams.fdcservers.net
 lg-ffm.aeza.net
 lg-hkg.fdcservers.net
 lg-mia.advinservers.com
@@ -197,6 +198,7 @@ mtcspeedtest.catskill.net
 netservice01.ber01.lwlcom.net
 ntp-speedtest.homeplus.net.tw
 ntp1.chtm.hinet.net
+ny.st.spacecore.pro
 nyc01.screenshot.download
 nyc1-speedtest.webnx.com
 nycny-speedtest-ookla-01.st.charter.com
@@ -296,6 +298,7 @@ speed.ade.aussiebroadband.com.au
 speed.amazonett.com.br
 speed.bne.aussiebroadband.com.au
 speed.coe.ad.jp
+speed.coralis.net.au
 speed.data.cr
 speed.econett.com.br
 speed.fgtelecom.com.br
@@ -618,6 +621,7 @@ speedtest.mirror.digitalpacific.com.au
 speedtest.mirror.serversaustralia.com.au
 speedtest.mixam.com.br
 speedtest.mornington.ca
+speedtest.moscow.gldn.net
 speedtest.msk.ertelecom.ru
 speedtest.mtnetworks.mn
 speedtest.multicablehn.com
@@ -647,6 +651,7 @@ speedtest.orixinet.com.br
 speedtest.pa5.as198831.net
 speedtest.packetworks.net
 speedtest.par1.adky.net
+speedtest.parishbroadband.com
 speedtest.pendc.com
 speedtest.pilotfiber.com
 speedtest.pimcommcorp.com

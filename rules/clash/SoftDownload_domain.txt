@@ -633,6 +633,7 @@ download-installer.cdn.mozilla.net
 download.anydesk.com
 download.bazzite.gg
 download.beeper.com
+download.clashverge.dev
 download.cpuid.com
 download.cypress.io
 download.dlsite.com
@@ -887,7 +888,6 @@ mirror.linux-ia64.org
 mirror.liquidtelecom.com
 mirror.low-orbit.net
 mirror.lyrahosting.com
-mirror.lzu.edu.cn
 mirror.macomnet.net
 mirror.marwan.ma
 mirror.metanet.ch
@@ -952,7 +952,6 @@ mirror.yannic-bonenberger.com
 mirror.yer.az
 mirror.za.web4africa.net
 mirror2.evolution-host.com
-mirrors.163.com
 mirrors.advancedhosters.com
 mirrors.ae-online.de
 mirrors.aliyun.com
@@ -979,9 +978,7 @@ mirrors.namecheap.com
 mirrors.nav.ro
 mirrors.neterra.net
 mirrors.netix.net
-mirrors.neusoft.edu.cn
 mirrors.nic.cz
-mirrors.nju.edu.cn
 mirrors.nxthost.com
 mirrors.ocf.berkeley.edu
 mirrors.rackhosting.com
@@ -989,14 +986,11 @@ mirrors.rit.edu
 mirrors.rpmfusion.org
 mirrors.sarata.com
 mirrors.saswata.cc
-mirrors.sjtug.sjtu.edu.cn
 mirrors.sonic.net
 mirrors.standaloneinstaller.com
-mirrors.tuna.tsinghua.edu.cn
 mirrors.ucr.ac.cr
 mirrors.ukfast.co.uk
 mirrors.up.pt
-mirrors.ustc.edu.cn
 mirrors.whoishostingthis.com
 mirrors.xmissions.com
 mirrors.xservers.ro
@@ -1016,6 +1010,8 @@ nobara-images.nobaraproject.org
 objects.githubusercontent.com
 officecdn-microsoft-com.akamaized.net
 officecdnmac.microsoft.com
+onepluscommunityserver.com
+opfiles.b-cdn.net
 origin-a.akamaihd.net
 os-cdn.virtfusion.net
 osl.ugr.es
