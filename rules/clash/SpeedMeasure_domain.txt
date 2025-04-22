@@ -361,6 +361,7 @@ speedtest-bne-dn1.empower.net.au
 speedtest-bne.vocus.net
 speedtest-bri.optusnet.com.au
 speedtest-brisbane.macquarietelecom.com
+speedtest-brisbane.optusnet.com.au
 speedtest-buffalo.greenlightnetworks.com
 speedtest-ca.pq.hosting
 speedtest-cbr.cdn.on.net
@@ -368,14 +369,18 @@ speedtest-dallas.swyftfiber.com
 speedtest-darwin-nt.optusnet.com.au
 speedtest-de.pq.hosting
 speedtest-dfw.dish-wireless.com
+speedtest-eastburwood.optusnet.com.au
 speedtest-ebw.optusnet.com.au
 speedtest-engine.primus.ca
 speedtest-eqx-sg1.ixtelecom.net
 speedtest-eqxae1.fsg-hosting.com
 speedtest-fkt-eqx.retn.net
 speedtest-fra.melbicom.net
+speedtest-geelong.optusnet.com.au
+speedtest-goldcoast.optusnet.com.au
 speedtest-hkg.retn.net
 speedtest-hob.launtel.net.au
+speedtest-hobart.optusnet.com.au
 speedtest-intl.xl.co.id
 speedtest-ist-34-node.netzone.com.tr
 speedtest-jp.tgb-host.com
@@ -388,6 +393,7 @@ speedtest-lax.perfectip.net
 speedtest-ld8.mindthespeed.co.za
 speedtest-ldn.voxtelecom.co.za
 speedtest-limestonecoast-sa.optusnet.com.au
+speedtest-limestonecoast.optusnet.com.au
 speedtest-lon.retn.net
 speedtest-lon.veloxserv.net
 speedtest-lon06.vorboss.net
@@ -401,7 +407,9 @@ speedtest-mel.vic.au.hostuniversal.com.au
 speedtest-mel.vocus.net
 speedtest-mel0.encoo.com.au
 speedtest-melbourne.macquarietelecom.com
+speedtest-melbourne.optusnet.com.au
 speedtest-mia.dish-wireless.com
+speedtest-moorooka.optusnet.com.au
 speedtest-msk.megafon.ru
 speedtest-msk.melbicom.net
 speedtest-msk.retn.net
@@ -436,6 +444,7 @@ speedtest-sjc.dish-wireless.com
 speedtest-srv01.tut.net
 speedtest-stf.megafon.ru
 speedtest-stm.redeconecta.com
+speedtest-sunshine.optusnet.com.au
 speedtest-syd-dn1.empower.net.au
 speedtest-syd.nsw.au.hostuniversal.com.au
 speedtest-syd.optusnet.com.au
@@ -450,6 +459,7 @@ speedtest-tek.teksavvy.com
 speedtest-tesa.coelhotecnologia.com.br
 speedtest-thn.krystal.uk
 speedtest-tor.beanfield.com
+speedtest-townsville.optusnet.com.au
 speedtest-txg.infinirc.net
 speedtest-utc.northland.net
 speedtest-van.beanfield.com

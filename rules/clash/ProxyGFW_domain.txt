@@ -547,6 +547,7 @@
 +.9001700.com
 +.908taiwan.org
 +.90seconds.asia
++.91-cg.com
 +.91av.one
 +.91avfuli.com
 +.91beiyong.com
@@ -558,6 +559,7 @@
 +.91md.me
 +.91moxiong.com
 +.91oo.xyz
++.91porn.best
 +.91porn.com
 +.91pornplus.com
 +.91porny.com
@@ -571,6 +573,7 @@
 +.91sesex.xyz
 +.91sew.xyz
 +.91sew40.buzz
++.91short.com
 +.91vhome.com
 +.91vps.club
 +.920share.com
@@ -959,7 +962,6 @@
 +.adult-list.com
 +.adult-sex-games.com
 +.adult-web-site.net
-+.adult.contents.fc2.com
 +.adult.friendfinder.com
 +.adult.toonsearch.net
 +.adult3dcomics.com
@@ -8087,7 +8089,6 @@
 +.disney.io
 +.disney.it
 +.disney.my
-+.disney.my.sentry.io
 +.disney.nl
 +.disney.no
 +.disney.ph
@@ -8684,6 +8685,7 @@
 +.dwnews.net
 +.dx9527.cc
 +.dxiong.com
++.dxk4h.com
 +.dxyav.co
 +.dydx.exchange
 +.dyfl1.pw
@@ -9299,6 +9301,7 @@
 +.emuparadise.me
 +.emwprep.ac.uk
 +.en-compass.ac.uk
++.en.favotter.net
 +.en.hao123.com
 +.enablementadobe.com
 +.enanyang.my
@@ -10172,7 +10175,6 @@
 +.fanfox.net
 +.fangbinxing.com
 +.fangeming.com
-+.fangeming.comffvpn.com
 +.fangeqiang.com
 +.fanglizhi.info
 +.fangmincn.org
@@ -12419,6 +12421,7 @@
 +.gotgeeks.com
 +.gothdporn.com
 +.gotporn.com
++.gotquestions.org
 +.gotraffic.net
 +.gotrusted.com
 +.gotw.ca
@@ -12732,6 +12735,7 @@
 +.hanime.me
 +.hanime.tv
 +.hanime.xxx
++.hanime.xyz
 +.hanime1.me
 +.hanminzu.org
 +.hannah.ac.uk
@@ -14294,6 +14298,7 @@
 +.idlcoyote.com
 +.idnike.com
 +.idol-sagasukun.com
++.idope.se
 +.idouga.com
 +.idras.ac.uk
 +.idreamx.com
@@ -21030,7 +21035,6 @@
 +.oncars.in
 +.one.one
 +.one.one.one
-+.one.one.one.one
 +.one889.app
 +.oneapi.com
 +.oneclient.sfx.ms
@@ -22629,6 +22633,7 @@
 +.pornvideotube.online
 +.pornvidhd.club
 +.pornvisit.com
++.pornvr.me
 +.pornwatchers.com
 +.pornwebmasters.com
 +.pornwhite.com
@@ -24018,7 +24023,6 @@
 +.s3-ap-southeast-1.amazonaws.com
 +.s3-ap-southeast-2.amazonaws.com
 +.s3.amazonaws.com
-+.s3.eu-central-1.amazonaws.com
 +.s4miniarchive.com
 +.s81c.com
 +.s8ds5gfm.xyz
@@ -25073,7 +25077,6 @@
 +.sinchew.com.my
 +.sinchew.my
 +.sinet.ac.uk
-+.sing-box.sagernet.org
 +.sing4.lat
 +.sing68.com
 +.singaporepools.com.sg
@@ -26269,6 +26272,7 @@
 +.stxmosquitoproject.org
 +.sub147.com
 +.subacme.rerouted.org
++.subhd.tv
 +.sublimedirectory.com
 +.sublimetext.com
 +.submarin.online
@@ -28664,7 +28668,6 @@
 +.v.gd
 +.v.roucdn
 +.v2.help
-+.v2.hysteria.network
 +.v2ex.co
 +.v2ex.com
 +.v2fly.org
@@ -28985,7 +28988,7 @@
 +.video.aol.co.uk
 +.video.aol.com
 +.video.ap.org
-+.video.fc2.com
++.video.fdbox.com
 +.video.foxbusiness.com
 +.video01.org
 +.videoactive.ac.uk
@@ -32185,6 +32188,7 @@ img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
 impala-media-production.s3.amazonaws.com
 imperial.insendi.com
+ingest.apple-studies.com
 lastfm.freetls.fastly.net
 lazer.ppy.sh
 lgelectronics.122.2o7.net

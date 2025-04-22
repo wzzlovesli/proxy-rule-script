@@ -14873,6 +14873,7 @@
 +.bangthink.com
 +.bangtukj.com
 +.banguanjiabc.com
++.bangumi.tv
 +.bangwo8.com
 +.bangwo8.net
 +.bangwoting.com
@@ -16184,6 +16185,7 @@
 +.bgkj.pro
 +.bgl88.com
 +.bglmzm.com
++.bgm.tv
 +.bgmfans.com
 +.bgnyl.com
 +.bgosp.com
@@ -22103,6 +22105,7 @@
 +.chiheba.com
 +.chiheshan.com
 +.chihm.com
++.chii.in
 +.chiji-h5.com
 +.chiji.app
 +.chikitsatour.com
@@ -38420,6 +38423,7 @@
 +.game-client.com
 +.game-props.com
 +.game-reign.com
++.game.maj-soul.com
 +.game10000.com
 +.game112233.com
 +.game1215.com
@@ -69756,6 +69760,7 @@
 +.melotgroup.com
 +.members.3322.org
 +.memblaze.com
++.memechen.com
 +.memewan.com
 +.memeyin.com
 +.memeyule.com
@@ -83021,6 +83026,7 @@
 +.revolut.ltd
 +.revy.asia
 +.rew65.com
++.rewards.bing.com
 +.rewnat.xyz
 +.reworlder.com
 +.rewrwrt4.fun
@@ -96604,6 +96610,7 @@
 +.tshe.com
 +.tshe.me
 +.tsheducation.net
++.tshell.online
 +.tshengqi888.com
 +.tshmkj.com
 +.tshock.cc
