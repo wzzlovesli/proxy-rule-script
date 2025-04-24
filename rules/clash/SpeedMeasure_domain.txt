@@ -160,6 +160,7 @@ kmlpbcnu-speedtest-01.telus.com
 konya.verinomidns.com
 ks-speedtest.homeplus.net.tw
 la-ookla.geolinks.com
+lax01.screenshot.download
 lax1a-speedtest.webnx.com
 laxla0001speedtestserver01.wiline.com
 ldnspeedtest.rackdog.com
@@ -367,6 +368,7 @@ speedtest-ca.pq.hosting
 speedtest-cbr.cdn.on.net
 speedtest-dallas.swyftfiber.com
 speedtest-darwin-nt.optusnet.com.au
+speedtest-darwin.optusnet.com.au
 speedtest-de.pq.hosting
 speedtest-dfw.dish-wireless.com
 speedtest-eastburwood.optusnet.com.au
@@ -416,6 +418,7 @@ speedtest-msk.retn.net
 speedtest-msk.yota.ru
 speedtest-mtl.beanfield.com
 speedtest-net.mk.de
+speedtest-net.xjtlu.edu.cn
 speedtest-newcastle.optusnet.com.au
 speedtest-nl.cloudlease.co.il
 speedtest-nl.hyperfilter.com
@@ -513,6 +516,7 @@ speedtest.cdmsfirst.com
 speedtest.cenosnetworks.net
 speedtest.cerberusnetworks.co.uk
 speedtest.cg.shawcable.net
+speedtest.citytelecom.ru
 speedtest.clarkson.edu
 speedtest.cod4-server.com
 speedtest.cogeco.ca
@@ -654,6 +658,7 @@ speedtest.nexicom.net
 speedtest.nftctelecom.net
 speedtest.nik.fiber.nl
 speedtest.nikhef.qonnected.net
+speedtest.nl.novoserve.com
 speedtest.nl3.mirhosting.net
 speedtest.nrbn.ca
 speedtest.octaplus.uk
@@ -786,6 +791,7 @@ speedtest01.ehtel.ca
 speedtest01.o-net.ca
 speedtest01.srv.dllstx.alticeusa.net
 speedtest01.srv.hcvlny.alticeusa.net
+speedtest01.srv.snjsca.alticeusa.net
 speedtest01.syd1.spintel.net.au
 speedtest01.tek.net.tr
 speedtest01.wowrack.com
@@ -865,6 +871,7 @@ speedtestlondon.telecom.mu
 speedtestmacapa.webflash.net.br
 speedtestmera.vs.mythic-beasts.com
 speedtestmia.gethotwired.com
+speedtestmiabr.telxius.com
 speedtestmiami.telecablecr.com
 speedtestookla.hya.tw
 speedtestro.vtal.net.br

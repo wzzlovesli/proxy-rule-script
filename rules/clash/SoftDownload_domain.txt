@@ -677,6 +677,7 @@ downloadr2.apkmirror.com
 downloads.1password.com
 downloads.cursor.com
 downloads.lemonsqueezy.com
+downloads.majestic.com
 downloads.openwrt.org
 downloads.raspberrypi.com
 downloads.sourceforge.net
