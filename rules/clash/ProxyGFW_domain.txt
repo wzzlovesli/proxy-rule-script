@@ -962,6 +962,7 @@
 +.adult-list.com
 +.adult-sex-games.com
 +.adult-web-site.net
++.adult.contents.fc2.com
 +.adult.friendfinder.com
 +.adult.toonsearch.net
 +.adult3dcomics.com
@@ -2659,6 +2660,7 @@
 +.auricularesbeatsmarkt.com
 +.auroraoss.com
 +.ausbeatsbydrdre.com
++.auth.openai.com
 +.auth0.com
 +.authorizeddns.net
 +.authorizeddns.org
@@ -9300,7 +9302,6 @@
 +.emuparadise.me
 +.emwprep.ac.uk
 +.en-compass.ac.uk
-+.en.favotter.net
 +.en.hao123.com
 +.enablementadobe.com
 +.enanyang.my
@@ -10174,6 +10175,7 @@
 +.fanfox.net
 +.fangbinxing.com
 +.fangeming.com
++.fangeming.comffvpn.com
 +.fangeqiang.com
 +.fanglizhi.info
 +.fangmincn.org
@@ -19905,6 +19907,7 @@
 +.news.com.au
 +.news.ebc.net.tw
 +.news.msn.com.tw
++.news.mt.co.kr
 +.news.nationalgeographic.com
 +.news.net.au
 +.news.omy.sg
@@ -21034,6 +21037,7 @@
 +.oncars.in
 +.one.one
 +.one.one.one
++.one.one.one.one
 +.one889.app
 +.oneapi.com
 +.oneclient.sfx.ms
@@ -24022,6 +24026,7 @@
 +.s3-ap-southeast-1.amazonaws.com
 +.s3-ap-southeast-2.amazonaws.com
 +.s3.amazonaws.com
++.s3.eu-central-1.amazonaws.com
 +.s4miniarchive.com
 +.s81c.com
 +.s8ds5gfm.xyz
@@ -25076,6 +25081,7 @@
 +.sinchew.com.my
 +.sinchew.my
 +.sinet.ac.uk
++.sing-box.sagernet.org
 +.sing4.lat
 +.sing68.com
 +.singaporepools.com.sg
@@ -28667,6 +28673,7 @@
 +.v.gd
 +.v.roucdn
 +.v2.help
++.v2.hysteria.network
 +.v2ex.co
 +.v2ex.com
 +.v2fly.org
@@ -28987,7 +28994,7 @@
 +.video.aol.co.uk
 +.video.aol.com
 +.video.ap.org
-+.video.fdbox.com
++.video.fc2.com
 +.video.foxbusiness.com
 +.video01.org
 +.videoactive.ac.uk
