@@ -12422,7 +12422,6 @@
 +.gotgeeks.com
 +.gothdporn.com
 +.gotporn.com
-+.gotquestions.org
 +.gotraffic.net
 +.gotrusted.com
 +.gotw.ca
@@ -14299,7 +14298,6 @@
 +.idlcoyote.com
 +.idnike.com
 +.idol-sagasukun.com
-+.idope.se
 +.idouga.com
 +.idras.ac.uk
 +.idreamx.com
@@ -26277,7 +26275,6 @@
 +.stxmosquitoproject.org
 +.sub147.com
 +.subacme.rerouted.org
-+.subhd.tv
 +.sublimedirectory.com
 +.sublimetext.com
 +.submarin.online
