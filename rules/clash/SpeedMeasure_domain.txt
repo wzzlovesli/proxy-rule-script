@@ -519,6 +519,7 @@ speedtest.cerberusnetworks.co.uk
 speedtest.cg.shawcable.net
 speedtest.citytelecom.ru
 speedtest.clarkson.edu
+speedtest.cloudwifi.ca
 speedtest.cod4-server.com
 speedtest.cogeco.ca
 speedtest.conectaamazonia.com.br
@@ -946,6 +947,7 @@ stbrantford.rogers.com
 stbrantfordwireless.rogers.com
 stcalgarywireless.rogers.com
 stchathamwireless.rogers.com
+stczs.norteultrafibra.com.br
 stdal.highlinefast.com
 stedmontonwireless.rogers.com
 stest.ultraconnect.com.br
@@ -1030,6 +1032,7 @@ teste.firenetwork.com.br
 teste.i9va.net.br
 teste.jsnet.manaus.br
 teste.linkonfibra.com.br
+teste.mundialnettelecom.com.br
 teste.mwhtelecom.com.br
 teste.newsolutionnet.com.br
 teste.oriontelecom.link
@@ -1093,3 +1096,5 @@ wh-netspeed.nwtel.ca
 yk-netspeed.nwtel.ca
 yyc-speedtest.xplore.ca
 yyz-speedtest.xplore.ca
+zdt-iptv.highspeed.com.tr
+zeusnet.almotafael.com
