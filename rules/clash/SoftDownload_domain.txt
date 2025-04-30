@@ -634,6 +634,7 @@ download.anydesk.com
 download.bazzite.gg
 download.beeper.com
 download.clashverge.dev
+download.cnet.com
 download.cpuid.com
 download.cypress.io
 download.dlsite.com
@@ -954,6 +955,7 @@ mirror.yannic-bonenberger.com
 mirror.yer.az
 mirror.za.web4africa.net
 mirror2.evolution-host.com
+mirrorbits.lineageos.org
 mirrors.advancedhosters.com
 mirrors.ae-online.de
 mirrors.aliyun.com
