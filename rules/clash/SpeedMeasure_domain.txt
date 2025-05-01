@@ -496,6 +496,7 @@ speedtest.apnic.net
 speedtest.aquitelecom.tv.br
 speedtest.archtopfiber.com
 speedtest.as210667.net
+speedtest.as214199.net
 speedtest.asimonetworks.com
 speedtest.asvt.ru
 speedtest.asymptote.cc
