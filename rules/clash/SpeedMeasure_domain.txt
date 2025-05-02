@@ -112,6 +112,7 @@ de-ffm1-ookla-01.wemacom.net
 de-fra2-lg1.level66.network
 de.st.spacecore.pro
 denizli.verinomidns.com
+diy1speedtest.turktelekom.com.tr
 dllstx-ookla1.vyvebroadband.net
 drtvpdspeedtestb.voiped.com
 east-speedtest.frontiernetworks.ca
@@ -268,6 +269,7 @@ sosimhk.datapath.three.com.hk
 sp-thn2.wildanet.com
 sp.merkurnet.com.tr
 sp.pendc.com
+sp.provedordantasnet.com.br
 sp01.rbfibra.net.br
 sp1.asthriona.com
 sp1.basinbroadband.ca
@@ -858,6 +860,7 @@ speedtest4.vodafone.com.tr
 speedtest5.fybercom.net
 speedtest5.vodafone.com.tr
 speedtest6.vodafone.com.tr
+speedtest7.vodafone.com.tr
 speedtest8.vodafone.com.tr
 speedtest9.vodafone.com.tr
 speedtestac.vtal.net.br
