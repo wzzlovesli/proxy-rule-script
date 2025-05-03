@@ -44,6 +44,7 @@
 +.digitaloceanspaces.com
 +.dl.discordapp.net
 +.dl.dlsite.com
++.dl.dropboxusercontent.com
 +.dl.elementary.io
 +.dl.playstation.net
 +.dl.sourceforge.net

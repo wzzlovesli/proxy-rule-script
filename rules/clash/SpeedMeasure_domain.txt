@@ -134,6 +134,7 @@ gun1speedtest.turktelekom.com.tr
 hc1.chtm.hinet.net
 hizaydin.durunet.com.tr
 hizbalikesir.durunet.com.tr
+hizgaziantep.durunet.com.tr
 hiztesti-ist.codit.com.tr
 hiztesti.codit.com.tr
 hiztesti.fiberim.com.tr
@@ -229,6 +230,7 @@ ookla.moji.fr
 ookla.opticaltel.com
 ookla.playmaisreverso.net.br
 ookla.siditelecom-isp.com.br
+ookla.slimnet.com.br
 ookla.speedtest.cnix.cn
 ookla.sy1.neptune.net.au
 ookla.xponnet.com.br
@@ -328,6 +330,7 @@ speed.udx.icscoe.jp
 speed.uk.lon.m247.ro
 speed.ultranetrr.com.br
 speed.vm.brs.marcusn.co.uk
+speed.x-sy.com
 speed06.gonetspeed.com
 speed07.gonetspeed.com
 speed08.gonetspeed.com
@@ -596,6 +599,7 @@ speedtest.inoc.net
 speedtest.inovewifi.com
 speedtest.internetbolaget.nu
 speedtest.ip-projects.de
+speedtest.isppapagaio.com.br
 speedtest.itel.com
 speedtest.ixirhost.com
 speedtest.japanettelecom.com.br
@@ -692,6 +696,7 @@ speedtest.reconn.ru
 speedtest.redactus.co.uk
 speedtest.redbirdcommunications.ca
 speedtest.redevisualnet.com.br
+speedtest.redewsp.com.br
 speedtest.reycom.cr
 speedtest.rfchost.net
 speedtest.rfnow.net
@@ -740,6 +745,7 @@ speedtest.taifo.com.tw
 speedtest.te.citywest.ca
 speedtest.team-host.ru
 speedtest.techminds.ca
+speedtest.teknosos.com.tr
 speedtest.telecablecr.com
 speedtest.telerys.net
 speedtest.thn.lon.network.as201838.net
@@ -931,6 +937,7 @@ st-bursa-1.turksatkablo.com.tr
 st-denizli-1.turksatkablo.com.tr
 st-erzurum-1.turksatkablo.com.tr
 st-eskisehir-1.turksatkablo.com.tr
+st-gaziantep-1.turksatkablo.com.tr
 st-izmir-1.turksatkablo.com.tr
 st-kayseri-1.turksatkablo.com.tr
 st-kocaeli-1.turksatkablo.com.tr
@@ -1040,6 +1047,7 @@ teste.firenetwork.com.br
 teste.i9va.net.br
 teste.jsnet.manaus.br
 teste.linkonfibra.com.br
+teste.mov.pro.br
 teste.mundialnettelecom.com.br
 teste.mwhtelecom.com.br
 teste.newsolutionnet.com.br
@@ -1084,6 +1092,7 @@ velocidade.idnetttelecom.com.br
 velocidade.impertechtelecom.com.br
 velocidade.phinfortelecom.com.br
 velocidade.softtelecom.net.br
+velocidadestm.amazonett.com.br
 velocimetro-mns.virtua.com.br
 velocimetro-rbo.virtua.com.br
 velocimetro-spt.akto.com.br
@@ -1093,6 +1102,7 @@ velocimetro.govistabr.com.br
 velocimetro.proveinter.com.br
 velocimetro.speednetworks.com.br
 velocimetro.wiretelecom.com.br
+velocimetrostm.interlig.net
 velocity.softtelecom.net.br
 veloteste.mrjomar.com.br
 venusone.horystech.com
