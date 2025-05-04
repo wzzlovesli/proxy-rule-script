@@ -962,7 +962,6 @@
 +.adult-list.com
 +.adult-sex-games.com
 +.adult-web-site.net
-+.adult.contents.fc2.com
 +.adult.friendfinder.com
 +.adult.toonsearch.net
 +.adult3dcomics.com
@@ -9303,6 +9302,7 @@
 +.emuparadise.me
 +.emwprep.ac.uk
 +.en-compass.ac.uk
++.en.favotter.net
 +.en.hao123.com
 +.enablementadobe.com
 +.enanyang.my
@@ -10176,7 +10176,6 @@
 +.fanfox.net
 +.fangbinxing.com
 +.fangeming.com
-+.fangeming.comffvpn.com
 +.fangeqiang.com
 +.fanglizhi.info
 +.fangmincn.org
@@ -12423,6 +12422,7 @@
 +.gotgeeks.com
 +.gothdporn.com
 +.gotporn.com
++.gotquestions.org
 +.gotraffic.net
 +.gotrusted.com
 +.gotw.ca
@@ -14299,6 +14299,7 @@
 +.idlcoyote.com
 +.idnike.com
 +.idol-sagasukun.com
++.idope.se
 +.idouga.com
 +.idras.ac.uk
 +.idreamx.com
@@ -20376,6 +20377,7 @@
 +.nocn.ac.uk
 +.nocs.ac.uk
 +.nodejs.org
++.nodeloc.com
 +.nodes.ac.uk
 +.nodeseek.com
 +.nodesnoop.com
@@ -21038,7 +21040,6 @@
 +.oncars.in
 +.one.one
 +.one.one.one
-+.one.one.one.one
 +.one889.app
 +.oneapi.com
 +.oneclient.sfx.ms
@@ -24027,7 +24028,6 @@
 +.s3-ap-southeast-1.amazonaws.com
 +.s3-ap-southeast-2.amazonaws.com
 +.s3.amazonaws.com
-+.s3.eu-central-1.amazonaws.com
 +.s4miniarchive.com
 +.s81c.com
 +.s8ds5gfm.xyz
@@ -25083,7 +25083,6 @@
 +.sinchew.my
 +.sinet.ac.uk
 +.sing-box.app
-+.sing-box.sagernet.org
 +.sing4.lat
 +.sing68.com
 +.singaporepools.com.sg
@@ -26279,6 +26278,7 @@
 +.stxmosquitoproject.org
 +.sub147.com
 +.subacme.rerouted.org
++.subhd.tv
 +.sublimedirectory.com
 +.sublimetext.com
 +.submarin.online
@@ -28675,7 +28675,6 @@
 +.v.gd
 +.v.roucdn
 +.v2.help
-+.v2.hysteria.network
 +.v2ex.co
 +.v2ex.com
 +.v2fly.org
@@ -28996,7 +28995,7 @@
 +.video.aol.co.uk
 +.video.aol.com
 +.video.ap.org
-+.video.fc2.com
++.video.fdbox.com
 +.video.foxbusiness.com
 +.video01.org
 +.videoactive.ac.uk

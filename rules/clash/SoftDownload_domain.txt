@@ -554,6 +554,7 @@ cdn.zoom.us
 ciscobinary.openh264.org
 clarkson.edu
 client.hikarifield.co.jp
+cloud.daporkchop.net
 cloudfront.debian.net
 codeload.github.com
 componentupdater.brave.com
