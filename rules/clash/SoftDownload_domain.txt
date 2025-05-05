@@ -500,7 +500,6 @@ apache.mesi.com.ar
 apache.miloslavbrada.cz
 apache.mindstudios.com
 apache.mivzakim.net
-apache.osuosl.org
 apache.otenet.gr
 apache.proserve.nl
 apache.rediris.es
@@ -1133,7 +1132,6 @@ u.keka.io
 update.code.visualstudio.com
 update.googleapis.com
 update.greasyfork.org
-update.kiwibrowser.com
 update.parallels.com
 update.sleazyfork.org
 updater.snipaste.com

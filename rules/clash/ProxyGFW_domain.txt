@@ -2659,7 +2659,6 @@
 +.auricularesbeatsmarkt.com
 +.auroraoss.com
 +.ausbeatsbydrdre.com
-+.auth.openai.com
 +.auth0.com
 +.authorizeddns.net
 +.authorizeddns.org
@@ -21139,7 +21138,6 @@
 +.open.ac.uk
 +.open.com.hk
 +.open.firstory.me
-+.open.spotify.com
 +.openai.com
 +.openallweb.com
 +.openamt.com
@@ -25070,6 +25068,7 @@
 +.simplenote.com
 +.simpleproductivityblog.com
 +.simpleswap.io
++.simplex.chat
 +.simplify.com
 +.simplifycommerce.com
 +.simply-hentai.com
@@ -31901,6 +31900,7 @@
 +.zmw.cn
 +.zndsk.com
 +.zodgame.us
++.zodgame.xyz
 +.zoho.com
 +.zoho.com.au
 +.zoho.eu

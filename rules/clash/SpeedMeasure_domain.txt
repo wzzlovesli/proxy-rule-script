@@ -232,6 +232,7 @@ ookla.playmaisreverso.net.br
 ookla.siditelecom-isp.com.br
 ookla.slimnet.com.br
 ookla.speedtest.cnix.cn
+ookla.surnet.com.tr
 ookla.sy1.neptune.net.au
 ookla.xponnet.com.br
 ookla1.ccspublichost.com
@@ -780,6 +781,7 @@ speedtest.vanciscloud.nl
 speedtest.vc.shawcable.net
 speedtest.vee.com.tw
 speedtest.verimek.com
+speedtest.verycloud.fr
 speedtest.viberlink.net
 speedtest.vipnetconexao.com.br
 speedtest.visiontelecom.com.br
