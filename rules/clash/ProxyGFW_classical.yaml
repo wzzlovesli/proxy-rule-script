@@ -6,6 +6,8 @@ payload:
 - DOMAIN-KEYWORD,avtb
 - DOMAIN-KEYWORD,beetalk
 - DOMAIN-KEYWORD,blogspot
+- DOMAIN-KEYWORD,browserleaks
+- DOMAIN-KEYWORD,discord
 - DOMAIN-KEYWORD,dlercloud
 - DOMAIN-KEYWORD,dropbox
 - DOMAIN-KEYWORD,facebook
@@ -15,6 +17,7 @@ payload:
 - DOMAIN-KEYWORD,instagram
 - DOMAIN-KEYWORD,onedrive
 - DOMAIN-KEYWORD,paypal
+- DOMAIN-KEYWORD,pinterest
 - DOMAIN-KEYWORD,porn
 - DOMAIN-KEYWORD,sci-hub
 - DOMAIN-KEYWORD,skydrive
