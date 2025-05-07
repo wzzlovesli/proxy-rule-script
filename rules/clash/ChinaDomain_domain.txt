@@ -48947,6 +48947,7 @@
 +.hf-alu.com
 +.hf-aw.com
 +.hf-iflysse.com
++.hf-mirror.com
 +.hf0779.com
 +.hf10000.com
 +.hf12345.vip
@@ -96267,6 +96268,7 @@
 +.tbankw.com
 +.tbapp.com
 +.tbcache.com
++.tbcdn.cn
 +.tbh5.com
 +.tbhcc.com
 +.tbhelper.com
@@ -105898,6 +105900,7 @@
 +.wosign.com
 +.wosigndoc.com
 +.woskj2.com
++.wosms.cn
 +.woso100.com
 +.wotangka.com
 +.wotaoka.com
@@ -124099,6 +124102,7 @@ guzzoni.smoot.apple.com
 hellofontpreview.oss-cn-beijing.aliyuncs.com
 hellowebfonts.oss-cn-beijing.aliyuncs.com
 hospital.pku.edu.cn
+i.dell.com
 i.pki.goog
 iacc.qq.com
 icloud-cdn.icloud.com.akadns.net
