@@ -12059,6 +12059,7 @@
 +.gmodules.com
 +.gmoney.org
 +.gmozomg.izihost.org
++.gmp4.com
 +.gmsa.ac.uk
 +.gmx.net
 +.gnai-dh.sbs
@@ -14213,6 +14214,7 @@
 +.i-o-u.info
 +.i-part.com.tw
 +.i-scmp.com
++.i.111666.best
 +.i.lithium.com
 +.i.org
 +.i1.hk
@@ -21257,6 +21259,7 @@
 +.one.com
 +.one.one
 +.one.one.one
++.one.one.one.one
 +.one889.app
 +.oneapi.com
 +.oneclient.sfx.ms
@@ -22383,6 +22386,7 @@
 +.play-asia.com
 +.play-bmm.shop
 +.play-bmmer.buzz
++.play.google
 +.play4free.com
 +.playapex.com
 +.playartifact.com
@@ -23224,6 +23228,7 @@
 +.pure18.com
 +.pureapk.com
 +.pureconcepts.net
++.puredns.org
 +.pureinsight.org
 +.purelov5.com
 +.purelyceleb.com
@@ -23336,6 +23341,7 @@
 +.qml.ac.uk
 +.qmov.com
 +.qmov.net
++.qmp4.com
 +.qmpgmc.ac.uk
 +.qmttqg3k.me
 +.qmu.ac.uk
@@ -24194,6 +24200,7 @@
 +.rti.org.tw
 +.rti.tw
 +.rtings.com
++.rtm.tnt-ea.com
 +.rtycminnesota.org
 +.ru
 +.ru-moscow-1.myhuaweicloud.com
@@ -32088,7 +32095,10 @@
 +.yysub.net
 +.yzld188.top
 +.yzzk.com
++.z-lib.fm
++.z-lib.fo
 +.z-lib.gd
++.z-lib.gl
 +.z-lib.gs
 +.z-lib.io
 +.z-lib.org

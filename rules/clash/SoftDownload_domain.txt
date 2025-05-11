@@ -634,6 +634,7 @@ dl.nwjs.io
 dl.pstmn.io
 dl.snipaste.com
 dl.tailscale.com
+dl.thorium.rocks
 dl.ui.com
 dl.wechat.com
 dl2.nwjs.io
