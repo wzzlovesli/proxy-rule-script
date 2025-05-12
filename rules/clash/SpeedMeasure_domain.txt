@@ -740,6 +740,7 @@ speedtest.spd.net.tr
 speedtest.spectrumvoip.com
 speedtest.sptel.com
 speedtest.starlink.ru
+speedtest.steppod.io
 speedtest.sth.tr
 speedtest.sunnysidehosting.net
 speedtest.sunucum.net.tr
