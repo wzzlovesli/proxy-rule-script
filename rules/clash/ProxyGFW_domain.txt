@@ -14204,6 +14204,7 @@
 +.hyread.com.tw
 +.hysbys.ac.uk
 +.hysteria.network
++.hyvor.com
 +.hzmn.net
 +.i-123-hp.com
 +.i-book.com
@@ -20461,6 +20462,7 @@
 +.nikke-jp.com
 +.nikke-kr.com
 +.nikke-sea.com
++.nikke.hotcool.tw
 +.nikkei-cnbc.co.jp
 +.nikkei.co.jp
 +.nikkei.com
@@ -20652,6 +20654,7 @@
 +.norwichresearchpark.ac.uk
 +.nos.nl
 +.note.com
++.notebooklm.google
 +.notepad-plus-plus.org
 +.notion-static.com
 +.notion.com
