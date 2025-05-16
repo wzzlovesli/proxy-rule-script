@@ -2667,7 +2667,6 @@
 +.audiencenetwork.tv
 +.audiobeatsau.com
 +.audiobeatsbydre.com
-+.audiomack.com
 +.audiomonsterbeatsonline.com
 +.audionow.com
 +.aue.ac.uk
@@ -6837,7 +6836,6 @@
 +.coinalyze.net
 +.coinbase.com
 +.coinbene.com
-+.coincarp.com
 +.coindesk.com
 +.coinegg.com
 +.coinex.com
@@ -6918,7 +6916,6 @@
 +.comefromchina.com
 +.comet-study.ac.uk
 +.cometotheduckside.com
-+.comffvpn.com
 +.comic-mega.me
 +.comicbox.xyz
 +.comico.tw
@@ -10267,7 +10264,6 @@
 +.fanhaodian.com
 +.fanhaolou.com
 +.fanhowab.buzz
-+.fani.com
 +.fank.ru
 +.fanleakstoday.com
 +.fanqiang.network
@@ -10382,7 +10378,6 @@
 +.fatbtc.com
 +.fatstube.com
 +.fault-analysis-group.ac.uk
-+.favcomic.com
 +.favebook.com
 +.favelaporno.com
 +.favepornmovs.com
@@ -12078,7 +12073,6 @@
 +.go-lang.net
 +.go-lang.org
 +.go-pki.com
-+.go-to-library.sk
 +.go-to-zlibrary.se
 +.go.com
 +.go.dev
@@ -12769,7 +12763,6 @@
 +.gzm.tv
 +.gzone-anime.info
 +.h-china.org
-+.h-ciyuan.com
 +.h-doujinshi.xyz
 +.h-flash.com
 +.h-moe.com
@@ -14204,7 +14197,6 @@
 +.hyprsense.com
 +.hyread.com.tw
 +.hysbys.ac.uk
-+.hysteria.network
 +.hyvor.com
 +.hzmn.net
 +.i-123-hp.com
@@ -15497,7 +15489,6 @@
 +.itaeromanga.com
 +.itaiwan.gov.tw
 +.italiabeatsbydrdre.com
-+.italian-books.sk
 +.italiatibet.org
 +.itasoftware.com
 +.itcanwait.com
@@ -17729,7 +17720,6 @@
 +.mantochichi.com
 +.manufacturingedc.ac.uk
 +.manurefetish.com
-+.manwa.me
 +.manytoon.com
 +.manyvids.com
 +.manyvoices.news
@@ -21374,7 +21364,6 @@
 +.opencollective.com
 +.opencreate.org
 +.opendemocracy.net
-+.opendesktop.org
 +.opendn.xyz
 +.opendns.com
 +.opendroneid.org
@@ -25866,7 +25855,6 @@
 +.sothebys-institute.ac.uk
 +.soton.ac.uk
 +.sots.ac.uk
-+.sotwe.com
 +.sou-tong.org
 +.soubory.com
 +.souka.xyz
@@ -26131,7 +26119,6 @@
 +.ssl.webpack.de
 +.ssl443.org
 +.sslpaypal.org
-+.ssm.fun
 +.ssmh.ac.uk
 +.sspanel.net
 +.sspanel.org
@@ -27537,7 +27524,6 @@
 +.thotbook.tv
 +.thothub.ru
 +.thothub.to
-+.thotsbay.tv
 +.thottok.com
 +.thotvids.com
 +.threadreaderapp.com
@@ -32104,10 +32090,8 @@
 +.z-lib.fo
 +.z-lib.gd
 +.z-lib.gl
-+.z-lib.gs
 +.z-lib.io
 +.z-lib.org
-+.z-lib.ps
 +.z-library.se
 +.z-library.sk
 +.z.com
