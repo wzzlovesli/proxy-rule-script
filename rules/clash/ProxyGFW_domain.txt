@@ -3277,6 +3277,7 @@
 +.bbs.mikocon.com
 +.bbs.morbell.com
 +.bbs.mychat.to
++.bbs.naixi.net
 +.bbs.netbig.com
 +.bbs.nyinfor.com
 +.bbs.ozchinese.com
@@ -6819,6 +6820,7 @@
 +.codeish.io
 +.codepen.io
 +.codeplex.com
++.coderabbit.ai
 +.codesandbox.io
 +.codeshare.io
 +.codeskulptor.org
@@ -8114,6 +8116,7 @@
 +.disinhe.ac.uk
 +.disk.yandex.com
 +.disk.yandex.ru
++.diskstation.me
 +.disney-asia.com
 +.disney-discount.com
 +.disney-plus.net
@@ -8314,6 +8317,7 @@
 +.docker.io
 +.dockerhub.com
 +.dockerizer.com
++.dockerstatic.com
 +.docleradn.com
 +.doclercdn.com
 +.docs.cfw.lbyczf.com
@@ -8573,6 +8577,9 @@
 +.drweb.ru
 +.drweb.uz
 +.dscis.ac.uk
++.dscloud.biz
++.dscloud.me
++.dscloud.mobi
 +.dscn.info
 +.dses.ac.uk
 +.dsex.to
@@ -8581,6 +8588,9 @@
 +.dslr.net
 +.dslreports.com
 +.dsmtp.com
++.dsmynas.com
++.dsmynas.net
++.dsmynas.org
 +.dssott.com
 +.dst-dtc.ac.uk
 +.dstk.dk
@@ -10223,6 +10233,9 @@
 +.family-simulator.io
 +.family.co.jp
 +.family.com.tw
++.familyds.com
++.familyds.net
++.familyds.org
 +.familyfed.org
 +.familylifestudy.ac.uk
 +.familymart.com.my
@@ -14212,6 +14225,7 @@
 +.i.lithium.com
 +.i.org
 +.i1.hk
++.i234.me
 +.i2p2.de
 +.i2runner.com
 +.i69.com.tw
@@ -14248,6 +14262,7 @@
 +.ibit.am
 +.ibkr.com
 +.iblist.com
++.ibllc.com
 +.iblogserv-f.net
 +.ibm
 +.ibm.com
@@ -16689,6 +16704,8 @@
 +.lcwc.ac.uk
 +.ld.hao123img.com
 +.ldoc-cdt.ac.uk
++.ldplayer.net
++.ldplayer.tw
 +.le-direct.tv
 +.le-vpn.com
 +.le.ac.uk
@@ -19432,6 +19449,7 @@
 +.mydirectvchannels.com
 +.mydirtyhobby.com
 +.mydnsleaktest.com
++.myds.me
 +.myeasytv.com
 +.myebay.com
 +.myeclipseide.com
@@ -26850,6 +26868,7 @@
 +.syncback.com
 +.synergyse.com
 +.synology.com
++.synology.me
 +.synologydownload.com
 +.synologyupdate.com
 +.synsym.ac.uk
@@ -28009,7 +28028,6 @@
 +.trinitysaintdavid.ac.uk
 +.triokini.com
 +.trip.com
-+.tripcdn.com
 +.tristatebmw.com
 +.trithucvn.net
 +.trithucvn.org
@@ -28056,6 +28074,7 @@
 +.trustpilot.com
 +.trustpilot.net
 +.trustsign.ch
++.trustwallet.com
 +.trustwave.com
 +.truth101.co.tv
 +.truthontour.org
@@ -32466,6 +32485,8 @@ discord-attachments-uploads-prd.storage.googleapis.com
 dl.begellhouse.com
 dlgarenanow-a.akamaihd.net
 dlmobilegarena-a.akamaihd.net
+docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
+docker-pinata-support.s3.amazonaws.com
 download.visualstudio.microsoft.com
 dqrpb9wgowsf5.cloudfront.net
 ds-linear-abematv.akamaized.net
@@ -32797,6 +32818,7 @@ vscode-sync.trafficmanager.net
 vscode.blob.core.windows.net
 vscode.search.windows.net
 vsmarketplacebadge.apphb.com
+webchannel-alkalimakersuite-pa.clients6.google.com
 weblive-hamivideo.cdn.hinet.net
 wego.here.com
 wetv.qq.com
