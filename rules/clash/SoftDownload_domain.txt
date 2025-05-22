@@ -525,6 +525,7 @@ aus2-community.mozilla.org
 aus5.mozilla.org
 autoupdate.termius.com
 az764295.vo.msecnd.net
+b2.mcarchive.net
 binaries.prisma.sh
 blizzard.gcdn.cloudn.co.kr
 blzddist1-a.akamaihd.net
@@ -608,6 +609,7 @@ ctan.um.ac.ir
 ctan.yazd.ac.ir
 ctldl.windowsupdate.com
 d.myani.org
+data.gameflare.com
 de.freedif.org
 deb.nodesource.com
 debian-archive.trafficmanager.net
