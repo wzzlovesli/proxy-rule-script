@@ -223,6 +223,7 @@ ookla-speedtest.starverse.network
 ookla.4g5g.co.uk
 ookla.amazoniasat-isp.com.br
 ookla.araujotelecom.com.br
+ookla.as400442.net
 ookla.delhitel.net
 ookla.fullisp.com.br
 ookla.idnet.net
@@ -1126,6 +1127,7 @@ velocidade.impertechtelecom.com.br
 velocidade.niktelecom.com.br
 velocidade.phinfortelecom.com.br
 velocidade.softtelecom.net.br
+velocidade.tecsattelecom.net.br
 velocidadestm.amazonett.com.br
 velocimetro-mns.virtua.com.br
 velocimetro-rbo.virtua.com.br
