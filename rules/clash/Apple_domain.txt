@@ -780,6 +780,7 @@
 +.cds.apple.com
 +.cds.apple.com.akadns.net
 +.cdsassets.apple.com
++.certs.apple.com
 +.cheap-beats-by-dre.net
 +.cheap-beatsbydre.com
 +.cheapbagshoes.com
