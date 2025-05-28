@@ -11714,7 +11714,6 @@
 +.gemfire.net
 +.gemfury.com
 +.gemini.com
-+.gemini.google
 +.gen.lib.rus.ec
 +.gen2.ac.uk
 +.gendai.net
@@ -26883,6 +26882,7 @@
 +.syhacked.com
 +.sylfoundation.org
 +.symantec.com
++.symantecliveupdate.com
 +.symauth.com
 +.symcb.com
 +.symcd.com
