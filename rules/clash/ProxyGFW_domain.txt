@@ -4134,6 +4134,7 @@
 +.blackfridaydrebeatsshop.com
 +.blackhomeporn.com
 +.blacklogic.com
++.blackmagicdesign.com
 +.blackmonsterterror.com
 +.blackpool-acl.ac.uk
 +.blackpool.ac.uk
@@ -10593,6 +10594,7 @@
 +.fi11.com
 +.fi11av1.com
 +.fi11tv1.com
++.fibank.bg
 +.fibre-diffraction.ac.uk
 +.ficeboock.com
 +.ficm.ac.uk
@@ -15408,6 +15410,7 @@
 +.iphoto.wang
 +.ipi.ac.uk
 +.ipicture.ru
++.ipify.org
 +.ipinfo.io
 +.ipjetable.net
 +.ipleadership.org
@@ -18186,6 +18189,7 @@
 +.meadjohnson.net
 +.meansys.com
 +.mearki.com
++.meawallet.app
 +.meb.gov.mm
 +.mebank.ir
 +.medallia.com
@@ -19548,6 +19552,7 @@
 +.myfavoritearcade.com
 +.myfbfans.com
 +.myferrariheadphones.com
++.myfin.bg
 +.myfirstflame.com
 +.myfistingporn.com
 +.myfontastic.com
@@ -27013,6 +27018,7 @@
 +.synsym.ac.uk
 +.syntheticbiology.ac.uk
 +.syosetu.com
++.sysctl-explorer.net
 +.sysinternals.com
 +.sysmic.ac.uk
 +.sysresccd.org
