@@ -1,5 +1,6 @@
 +.1fichier.com
 +.1fichier.info
++.allawnofs.com
 +.androidfilehost.com
 +.apache.si
 +.archive.debian.org
@@ -722,6 +723,7 @@ espejito.fder.edu.uy
 fastly-download.epicgames.com
 fedorapeople.org
 file.chobit.cc
+files2.freedownloadmanager.org
 formulae.brew.sh
 fr2.rpmfind.net
 freedif.org
