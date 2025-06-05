@@ -5957,6 +5957,7 @@
 +.cdn-terapeak.com
 +.cdn.ac.uk
 +.cdn.angruo.com
++.cdn.arstechnica.net
 +.cdn.assets.lfpcontent.com
 +.cdn.helixstudios.net
 +.cdn.jwplayer.com
@@ -6450,6 +6451,7 @@
 +.cias.ac.uk
 +.ciattackers.com
 +.cib.ac.uk
++.cici.com
 +.ciciai.com
 +.cicl.ac.uk
 +.cied.ac.uk
