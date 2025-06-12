@@ -643,8 +643,13 @@ dl.thorium.rocks
 dl.ui.com
 dl.wechat.com
 dl2.nwjs.io
+dl2.osmand.net
 dl2.xmind.net
+dl3.osmand.net
 dl3.xmind.net
+dl4.osmand.net
+dl8.osmand.net
+dl9.osmand.net
 dlcdnets.asus.com
 dlgarenanow-a.akamaihd.net
 docker.cloudsmith.io
@@ -688,6 +693,7 @@ download.nus.edu.sg
 download.nust.na
 download.onlyoffice.com
 download.opensuse.org
+download.osmand.net
 download.parallels.com
 download.pixelexperience.org
 download.projectbluefin.io
@@ -1057,6 +1063,8 @@ origin-a.akamaihd.net
 os-cdn.virtfusion.net
 osl.ugr.es
 oss-binaries.phusionpassenger.com
+ota-cache1.googlezip.net
+ota.googlezip.net
 packagecloud.io
 packages-cf.termux.dev
 packages.httpie.io
