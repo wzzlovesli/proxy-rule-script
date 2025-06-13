@@ -7176,6 +7176,7 @@
 +.cppe.ac.uk
 +.cppr.ac.uk
 +.cptt.ac.uk
++.cpu-monkey.com
 +.cpuid.com
 +.cpz.to
 +.cq99.us
@@ -21625,6 +21626,7 @@
 +.osiri-suki-club.com
 +.osl.com
 +.osm.org
++.osmand.net
 +.osmfoundation.org
 +.osmosis.ac.uk
 +.ospray.net
