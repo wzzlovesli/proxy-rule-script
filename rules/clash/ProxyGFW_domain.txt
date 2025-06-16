@@ -1935,7 +1935,6 @@
 +.api-verify.recaptcha.net
 +.api.ai
 +.api.amplitude.com
-+.api.linksalpha.com
 +.api.mixpanel.com
 +.api.news
 +.api.proxlet.com
@@ -1945,7 +1944,6 @@
 +.api.termius.com
 +.apiary.io
 +.apibay.org
-+.apidocs.linksalpha.com
 +.apigee.com
 +.apina.biz
 +.apis.ac.uk
@@ -9493,7 +9491,6 @@
 +.enveast.ac.uk
 +.environment-health.ac.uk
 +.environment.google
-+.epa.gov.tw
 +.epac.to
 +.epc.ac.uk
 +.epic.ac.uk
@@ -13122,7 +13119,6 @@
 +.hellporno.com
 +.hellven.net
 +.heloa.ac.uk
-+.help.linksalpha.com
 +.helpeachpeople.com
 +.helplinfen.com
 +.helpshift.com
@@ -20882,7 +20878,6 @@
 +.ntp3.jst.mfeed.ad.jp
 +.ntp3.v6.mfeed.ad.jp
 +.ntrfun.com
-+.ntsna.gov.tw
 +.ntten-mg.buzz
 +.ntu.ac.uk
 +.ntu.edu.tw
@@ -28990,7 +28985,6 @@
 +.usembassy.gov
 +.useplannr.com
 +.userapi.com
-+.userapi.nytlog.com
 +.usercontent.dev
 +.usercontent.goog
 +.userpxt.io
@@ -30927,7 +30921,6 @@
 +.www.kindleren.com
 +.www.klip.me
 +.www.lib.virginia.edu
-+.www.linksalpha.com
 +.www.lorenzetti.com.br
 +.www.m-sport.co.uk
 +.www.monlamit.org
