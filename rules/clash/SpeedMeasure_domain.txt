@@ -319,6 +319,7 @@ spdms.twincher.ru
 spdtes.phoenix.net.tr
 spdtst.xenyth.net
 spedvae.lodosnet.com.tr
+speed-br2.gigacomm.net.au
 speed-ist.veganet.com.tr
 speed-mel.gigacomm.net.au
 speed-syd.gigacomm.net.au
@@ -348,6 +349,7 @@ speed.newclicktelecom.com.br
 speed.onlinedersm.xyz
 speed.rnipnet.com.br
 speed.sdmnet.com.br
+speed.sltry.au
 speed.sparcs.net
 speed.syd.aussiebroadband.com.au
 speed.tepenet.com.tr
@@ -608,6 +610,7 @@ speedtest.fibim.com.tr
 speedtest.finovy.com
 speedtest.fiuc.net
 speedtest.fixnet.com.tr
+speedtest.fra.plusnet.de
 speedtest.fra01.datascheune.de
 speedtest.fra01.fusionflare.cloud
 speedtest.fra1.hivelocity.net

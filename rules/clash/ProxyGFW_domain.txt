@@ -15298,6 +15298,7 @@
 +.ipfire.org
 +.ipforesightforum.ac.uk
 +.ipfs-gateway.cloud
++.ipfs.4everland.io
 +.ipfs.anonymize.com
 +.ipfs.best-practice.se
 +.ipfs.eternum.io
@@ -16489,6 +16490,8 @@
 +.kodi.tv
 +.kodi.wiki
 +.kodingen.com
++.komoot.com
++.komoot.net
 +.kompoz.com
 +.kompoz2.com
 +.kompozer.net
@@ -20589,6 +20592,7 @@
 +.niziero.info
 +.nj.com
 +.njactb.org
++.njav.com
 +.njav.tv
 +.njncscotlandscolleges.ac.uk
 +.njuice.com
@@ -26533,6 +26537,7 @@
 +.storj.io
 +.storm.mg
 +.stormmediagroup.com
++.storry.tv
 +.storyful.com
 +.stourbridge.ac.uk
 +.stow.ac.uk
@@ -30100,6 +30105,7 @@
 +.w.wiki
 +.w0512.com
 +.w3.org
++.w3s.link
 +.w3schools.com
 +.w6un.com
 +.wa.me
