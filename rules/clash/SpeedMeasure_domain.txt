@@ -206,6 +206,7 @@ mns.i-systems.com
 mobile.shunicomtest.com
 montsouris3.d2m.c2d.liveservices.fr
 msk-speedtest2.corbina.net
+msk.speedtest.timeweb.ru
 msk3.companion.t2.ru
 mtcspeedtest.catskill.net
 netservice01.ber01.lwlcom.net
@@ -314,6 +315,7 @@ spd33.claro.com.br
 spd49.claro.com.br
 spd53.claro.com.br
 spd76.claro.com.br
+spd79.claro.com.br
 spdfra.cndd.net
 spdms.twincher.ru
 spdtes.phoenix.net.tr
@@ -532,6 +534,7 @@ speedtest.ams1.hivelocity.net
 speedtest.ams1.macarne.com
 speedtest.ams14.usenet.farm
 speedtest.ank01.edge.kernzen.com
+speedtest.anksoft.net
 speedtest.apnet-rr.com.br
 speedtest.apnic.net
 speedtest.aquitelecom.tv.br
@@ -699,6 +702,7 @@ speedtest.moscow.gldn.net
 speedtest.msk.ertelecom.ru
 speedtest.mtnetworks.mn
 speedtest.multicablehn.com
+speedtest.my-infra.ru
 speedtest.myaccess.ca
 speedtest.myarena.ru
 speedtest.myrepublic.com.sg
@@ -987,6 +991,7 @@ srvteste.edntelecom.net.br
 st-4.fibrenest.com
 st-adana-1.turksatkablo.com.tr
 st-ankara-1.turksatkablo.com.tr
+st-antalya-1.turksatkablo.com.tr
 st-atakoy-1.turksatkablo.com.tr
 st-balikesir-1.turksatkablo.com.tr
 st-balikesirbandirma-1.turksatkablo.com.tr

@@ -8298,6 +8298,7 @@
 +.dns1.us
 +.dns2.us
 +.dns2go.com
++.dnschecker.org
 +.dnscrypt.org
 +.dnset.com
 +.dnsimple.com
@@ -17537,6 +17538,7 @@
 +.mac.eu
 +.mac.rs
 +.mac.wang
++.macaddress.io
 +.macappsto.re
 +.macaulay.ac.uk
 +.macbook.co
