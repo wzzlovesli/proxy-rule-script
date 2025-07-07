@@ -30574,7 +30574,6 @@
 +.wiivc.net
 +.wikaba.com
 +.wikawika.xyz
-+.wiki
 +.wiki.esu.im
 +.wiki.gamerp.jp
 +.wiki.jqueryui.com
