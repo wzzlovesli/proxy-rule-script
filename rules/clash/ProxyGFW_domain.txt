@@ -3362,6 +3362,7 @@
 +.bdsmvideos.net
 +.be
 +.beaa.ac.uk
++.beacondb.net
 +.beaconevents.com
 +.bearteach.com
 +.beascoremodel.com
@@ -9602,6 +9603,7 @@
 +.ero-ma-nia.com
 +.ero-manga-platinum.net
 +.ero-mangalife.com
++.ero-video.net
 +.eroan.xyz
 +.erocurves.com
 +.erodaizensyu.com
@@ -14246,6 +14248,7 @@
 +.i91dz.com
 +.iaablog.com
 +.iaac.ac.uk
++.iaea.org
 +.iafd.com
 +.iagp.ac.uk
 +.iah.ac.uk
@@ -21450,6 +21453,7 @@
 +.openengineeringlaboratory.ac.uk
 +.openervpn.in
 +.openfields.ac.uk
++.openfreemap.org
 +.opengraphprotocol.com
 +.opengraphprotocol.org
 +.opengw.net
@@ -24934,6 +24938,7 @@
 +.severeporn.com
 +.severreal.org
 +.sevgikurtulmaz.com
++.sex
 +.sex-11.com
 +.sex-amateur-clips.com
 +.sex-av.com
@@ -25811,6 +25816,7 @@
 +.softmattercdt.ac.uk
 +.softmodels.net
 +.softnology.biz
++.softonic.cn
 +.softonic.com
 +.softsmirror.cf
 +.software.ac.uk
@@ -27029,6 +27035,7 @@
 +.tailwindcss.com
 +.tailwindtraders.com
 +.taiolongdh.sbs
++.taipei
 +.taipei.gov.tw
 +.taipeisociety.org
 +.taipeitimes.com
@@ -30253,6 +30260,7 @@
 +.waveomoney.com.mm
 +.waveprotocol.org
 +.waverleyabbeycollege.ac.uk
++.waybackmachine.org
 +.waybig.com
 +.waymo.com
 +.waze.com
@@ -30582,6 +30590,7 @@
 +.wiki.metacubex.one
 +.wiki.oauth.net
 +.wiki.phonegap.com
++.wiki2.org
 +.wikia.com
 +.wikia.nocookie.net
 +.wikia.org

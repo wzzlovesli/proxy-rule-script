@@ -4692,6 +4692,7 @@
 +.4008618618.com
 +.4008787706.com
 +.4008800016.com
++.4008823823.com
 +.4008824365.com
 +.4008863456.com
 +.4008880999.com
@@ -62180,6 +62181,7 @@
 +.kfang.xin
 +.kfb126.com
 +.kfb163.com
++.kfcapp.cn
 +.kfcbest.com
 +.kfcdn.com
 +.kfchiheng.com
@@ -122011,6 +122013,7 @@ itunesconnect.apple.com
 js-cdn.music.apple.com
 kc.kexinshe.com
 km.support.apple.com
+kms.03k.org
 l2-uberproxy.corp.google.com
 learn.microsoft.com
 logger-dev.corp.google.com
