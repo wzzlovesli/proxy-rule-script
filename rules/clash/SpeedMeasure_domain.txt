@@ -352,6 +352,7 @@ speed.coe.ad.jp
 speed.coralis.net.au
 speed.data.cr
 speed.econett.com.br
+speed.farknet.net
 speed.fgtelecom.com.br
 speed.flix.net.tr
 speed.giganet.com.tr
