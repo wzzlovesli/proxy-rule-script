@@ -80406,6 +80406,7 @@
 +.qiaosidea.com
 +.qiaotu.com
 +.qiaoxuanhong.com
++.qiaoxuesi.com
 +.qiaoyi.org
 +.qiaoyinkg.com
 +.qiaoyue66.com
@@ -86061,6 +86062,7 @@
 +.seedit.com
 +.seedland.cc
 +.seedlandss.com
++.seedpace.com
 +.seedsufe.com
 +.seeed.cc
 +.seegif.com
