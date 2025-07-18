@@ -287,6 +287,7 @@ sc-speedtest.homeplus.net.tw
 sea-speedtest.net.sangoma.net
 sea.st.spacecore.pro
 seednet-tc1.seed.net.tw
+seednet-tn1.seed.net.tw
 seednet-ty1.seed.net.tw
 servidor.speedplay.com.br
 seveninternet.brsserver.com.br
@@ -336,6 +337,7 @@ spd53.claro.com.br
 spd76.claro.com.br
 spd79.claro.com.br
 spdfra.cndd.net
+spdms.mytpn.net
 spdms.twincher.ru
 spdtes.phoenix.net.tr
 spdtst.xenyth.net
@@ -750,6 +752,7 @@ speedtest.nikhef.qonnected.net
 speedtest.nl.novoserve.com
 speedtest.nl3.mirhosting.net
 speedtest.nrbn.ca
+speedtest.nt.net
 speedtest.octaplus.uk
 speedtest.ollatelecom.com.br
 speedtest.omegasul.com.br
