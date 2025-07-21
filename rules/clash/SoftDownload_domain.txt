@@ -474,6 +474,7 @@
 +.wup.eshop.nintendo.net
 +.wup.shop.nintendo.net
 +.yarnpkg.com
+7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 addins.deepl.com
 amupdatedl.microsoft.com
 amupdatedl2.microsoft.com
@@ -641,6 +642,7 @@ dl.snipaste.com
 dl.tailscale.com
 dl.thorium.rocks
 dl.ui.com
+dl.vanadium.app
 dl.wechat.com
 dl2.nwjs.io
 dl2.osmand.net
@@ -1096,6 +1098,8 @@ registry.bower.io
 registry.fedoraproject.org
 registry.npmjs.com
 registry.npmjs.org
+registry.terraform.io
+release-assets.githubusercontent.com
 release.runcloud.io
 releases.arc.net
 releases.grapheneos.org
@@ -1144,7 +1148,6 @@ su.virtualbuddy.app
 sunsite.icm.edu.pl
 sunsite.informatik.rwth-aachen.de
 textures.minecraft.net
-th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe
 tug.ctan.org
 tux.rainside.sk
 u.keka.io

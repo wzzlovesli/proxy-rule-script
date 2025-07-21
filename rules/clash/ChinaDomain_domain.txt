@@ -41549,6 +41549,7 @@
 +.gsfybjy.com
 +.gsfycloud.com
 +.gsfzb.com
++.gsgltz.com
 +.gsgs10086.com
 +.gsgundam.com
 +.gshangju.com
@@ -41563,6 +41564,7 @@
 +.gsidy.com
 +.gsjb.com
 +.gsjie.com
++.gsjkjt.com
 +.gsjqtv.com
 +.gsjt-cn.com
 +.gsjt56.com
@@ -41583,6 +41585,7 @@
 +.gsmpers.com
 +.gsmuban.com
 +.gsmxjy.com
++.gsnhcg.com
 +.gsnytz.com
 +.gsp11-cn.ls.apple.com
 +.gsp12-cn.ls.apple.com
@@ -41610,6 +41613,7 @@
 +.gssltxrmyy.com
 +.gsslxh.com
 +.gsstargroup.com
++.gsstic.com
 +.gsstock.com
 +.gsstsdgs.com
 +.gsswtz.com
@@ -78650,9 +78654,17 @@
 +.plus-space.com
 +.plus3gallery.com
 +.plusco-tech.com
++.plusde1.younoyes.com
 +.plusgantt.com
++.plushk1.younoyes.com
++.plushk2.younoyes.com
++.plushk3.younoyes.com
++.plusjp1.younoyes.com
 +.plusplus7.com
 +.plusplustu.com
++.plusus1.younoyes.com
++.plusus2.younoyes.com
++.plusus3.younoyes.com
 +.plutoer.com
 +.plutuspay.com
 +.pluveto.com
@@ -92439,6 +92451,7 @@
 +.sxlfwl.com
 +.sxlhrj.com
 +.sxlib.com
++.sxlljm.com
 +.sxlottery.net
 +.sxlpd.com
 +.sxls.com
@@ -120732,6 +120745,7 @@
 3geauymtsgrzdrcbzfahue.ourdvsss.com
 3geauymtsgrzdrcbzfahuk.ourdvsss.com
 4go41hcjtgazdoctqge4o.ourdvsss.com
+7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,1-fss24-s0.streamhoster.com
 DOMAIN,1.cache.applinzi.com
 DOMAIN,12371alic.v.myalicdn.com
