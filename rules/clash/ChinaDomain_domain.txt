@@ -13156,6 +13156,7 @@
 +.armourtires.com
 +.armsrock.com
 +.armsword.com
++.armvm.com
 +.armystar.com
 +.arnstbearing.com
 +.arocmag.com
@@ -27234,6 +27235,7 @@
 +.crtdri.com
 +.crtg.com
 +.crtrust.com
++.crtyhr.com
 +.crucg.com
 +.cruelcoding.com
 +.cruhut.com
@@ -32491,6 +32493,7 @@
 +.dusao.vip
 +.dusays.com
 +.dushaofei.com
++.dushe1.app
 +.dushewang.com
 +.dushi118.com
 +.dushicn.com
@@ -43692,6 +43695,7 @@
 +.gxnnhexiexinli.com
 +.gxnnhhdzkjyxgs.com
 +.gxnnip.com
++.gxnnjidingkeji.top
 +.gxnnjn.com
 +.gxnnjqgg.com
 +.gxnnjw.com
@@ -46618,11 +46622,13 @@
 +.hbclqcw.com
 +.hbclzq.com
 +.hbcoal.com
++.hbcof.com
 +.hbcofco.com
 +.hbcourt.org
 +.hbct-wiremesh.com
 +.hbctgs.com
 +.hbcthotels.com
++.hbctic.com
 +.hbctjk.com
 +.hbctjt.com
 +.hbcwt.com
@@ -47877,6 +47883,7 @@
 +.hexindai.com
 +.hexinli.org
 +.hexinwanjia.com
++.hexiny.com
 +.hexinyu.com
 +.hexmeet.com
 +.hexsen.com
@@ -60716,6 +60723,7 @@
 +.jxjee.com
 +.jxjia.net
 +.jxjianwei.com
++.jxjktzjt.com
 +.jxjmzc.com
 +.jxjob.net
 +.jxjrw.com
@@ -64999,6 +65007,7 @@
 +.letabc.com
 +.letang666.com
 +.letao.com
++.letaoedu.com
 +.letaofang.net
 +.letaoren.com
 +.letbonchina.com
@@ -89495,6 +89504,7 @@
 +.sixianggangyin.com
 +.sixiju.com
 +.sixjoy.com
++.sixloy428.top
 +.sixstaredu.com
 +.sixu.life
 +.sixue.tech
@@ -90203,6 +90213,7 @@
 +.snkjol.com
 +.snkshoe.com
 +.snkyat.com
++.snltty.com
 +.snlxgk.com
 +.snmandarin.com
 +.snmi.com
@@ -92164,6 +92175,7 @@
 +.suyujoy.com
 +.suyun.net
 +.suyunj.com
++.suyur.com
 +.suyutech.com
 +.suyuzz.com
 +.suz-vpn.amd.com
@@ -97617,6 +97629,7 @@
 +.tumengtech.com
 +.tumicomm.com
 +.tumormed.com
++.tumukaoyan.com
 +.tumukeji.com
 +.tumuzhe.com
 +.tumyu.com
@@ -106212,6 +106225,7 @@
 +.xiaochi198.com
 +.xiaochixiang.com
 +.xiaochuan010.com
++.xiaochuanyun.com
 +.xiaocifang.com
 +.xiaocms.com
 +.xiaocx.org
@@ -114626,6 +114640,7 @@
 +.yunzuji.vip
 +.yunzujia.com
 +.yunzuowen.com
++.yunzuoye.net
 +.yunzz.net
 +.yuoucn.com
 +.yupao.com
@@ -119340,6 +119355,7 @@
 +.znzncn.com
 +.znznet.net
 +.znztool.com
++.znztv.com
 +.znzyf.com
 +.zo-station.com
 +.zoassetmanagement.com
