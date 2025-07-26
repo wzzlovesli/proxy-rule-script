@@ -7943,6 +7943,7 @@
 +.7road.net
 +.7ronggame.com
 +.7runto.com
++.7sef.com
 +.7sfashion.com
 +.7sj.com
 +.7sodu.net
@@ -29188,6 +29189,7 @@
 +.dcg123.com
 +.dcgqt.com
 +.dcgsi.com
++.dcgstd.com
 +.dchotel.net
 +.dcic-china.com
 +.dcits.com
@@ -39796,6 +39798,7 @@
 +.ghc168.com
 +.ghcec.com
 +.ghcis.com
++.ghcr.io
 +.ghcxzb.com
 +.ghddi.org
 +.ghdoor.com
@@ -84540,6 +84543,7 @@
 +.scatc.net
 +.scavc.com
 +.scbaidu.com
++.scbaijia.com
 +.scbao.com
 +.scbaopo.org
 +.scbgaudio.com
