@@ -6011,6 +6011,7 @@
 +.52mba.com
 +.52meirong.com
 +.52mengdong.com
++.52met.com
 +.52mhw.com
 +.52miji.com
 +.52mip.com
@@ -9349,6 +9350,7 @@
 +.985900.com
 +.985923.com
 +.985dh.com
++.985hezi.com
 +.985ks.com
 +.985ks.net
 +.985sy.com
@@ -12339,6 +12341,7 @@
 +.anpuzx.com
 +.anqingonline.com
 +.anqingwt.com
++.anqingzhiyun.com
 +.anqn.com
 +.anqu.com
 +.anquan.info
@@ -18936,6 +18939,7 @@
 +.c360dn.com
 +.c3acg.com
 +.c3crm.com
++.c3pool.org
 +.c3x.me
 +.c4006.com
 +.c4008.com
@@ -34008,6 +34012,7 @@
 +.engineeringvillage.com
 +.engkoo.com
 +.engley.com
++.englibrary.com
 +.english163.com
 +.englishdict.cc
 +.englishmasterclub.com
@@ -45780,7 +45785,6 @@
 +.haochu.com
 +.haochuguo.com
 +.haocw.com
-+.haodadachina.com
 +.haodai.com
 +.haodanku.com
 +.haodaquan.com
@@ -48521,7 +48525,6 @@
 +.hljrcc.com
 +.hljsdm.com
 +.hljsek.com
-+.hljsfjy.com
 +.hljsjtzy.com
 +.hljsph.com
 +.hljszjxhw.com
@@ -50045,6 +50048,7 @@
 +.hst.com
 +.hst1966.net
 +.hstars.net
++.hstbroker.com
 +.hstczkj.com
 +.hstd.com
 +.hstong.com
@@ -64084,6 +64088,7 @@
 +.lcqixing.com
 +.lcqjsjxxx.com
 +.lcqwdz.com
++.lcrc.ltd
 +.lcrcbank.com
 +.lcrq.net
 +.lcsepu.com
@@ -72192,6 +72197,7 @@
 +.mysemlife.com
 +.myseot.com
 +.myshipjob.com
++.myshopex.com
 +.myshoptago.com
 +.myshou.com
 +.myshow360.net
@@ -76378,7 +76384,6 @@
 +.otm.ink
 +.otms.com
 +.otoeasy.com
-+.otokonocomplex.com
 +.otome.me
 +.otomedream.com
 +.otosaas.com
@@ -95717,6 +95722,7 @@
 +.tnfn.net
 +.tnfno.icu
 +.tngcjx.com
++.tngdigital.com.my
 +.tnkjmec.com
 +.tnodenow.com
 +.tnong.com
@@ -96159,6 +96165,7 @@
 +.touchjoin.com
 +.touchjoint.com
 +.touchmark.art
++.touchngo.com.my
 +.touchpal.com
 +.touchsh.com
 +.touchsprite.com
@@ -98869,6 +98876,9 @@
 +.vbidc.com
 +.vbio-pharma.com
 +.vbiquge.com
++.vbkhk.com
++.vbkr.com
++.vbkrhk.com
 +.vbmnmy.com
 +.vbsemi.com
 +.vc800.com
@@ -98887,6 +98897,8 @@
 +.vcinchina.com
 +.vckbase.com
 +.vclass.com
++.vclbroker.com
++.vclbrokers.com
 +.vcled.com
 +.vcloud-byte.com
 +.vcloudapi.com
@@ -98894,6 +98906,7 @@
 +.vcloudstc.com
 +.vcloudstc.net
 +.vcloudvod.com
++.vcltrade.com
 +.vclusters.com
 +.vcnews.com
 +.vcomic.com
@@ -100889,6 +100902,7 @@
 +.webpowerchina.com
 +.webqxs.com
 +.webrtc.win
++.webs.vc
 +.websaru.net
 +.websbook.com
 +.websem.cc
@@ -104831,7 +104845,6 @@
 +.xcmgmall.com
 +.xcmobi.com
 +.xcmsports.com
-+.xcn457.com
 +.xcnchinese.com
 +.xcncp.com
 +.xcnic.net
@@ -119646,6 +119659,7 @@
 +.zyjymall.com
 +.zyjyxx.com
 +.zyjyyun.com
++.zyka.cc
 +.zykj0668.com
 +.zykjct.com
 +.zykjgame.com
