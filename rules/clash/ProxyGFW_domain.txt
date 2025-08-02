@@ -2938,6 +2938,7 @@
 +.avstar6.com
 +.avstar8.com
 +.avstar9.com
++.avtoday.io
 +.avwong.com
 +.avwto.com
 +.avxde.org
@@ -10911,6 +10912,7 @@
 +.forzaracingchampionship.com
 +.forzarc.com
 +.fosebook.com
++.fosshub.com
 +.fotile.me
 +.fotiolia.com
 +.fotoiia.com
@@ -17109,6 +17111,7 @@
 +.listorious.com
 +.lists.w3.org
 +.litbus-anime.com
++.liteapks.com
 +.litenews.hk
 +.literatumonline.com
 +.literotica.com
@@ -17475,6 +17478,7 @@
 +.luke54.com
 +.luke54.org
 +.lululu.one
++.lumendatabase.org
 +.luminate.ac.uk
 +.luminateeducation.ac.uk
 +.luminateeducationgroup.ac.uk
@@ -26098,6 +26102,7 @@
 +.spcollege.ac.uk
 +.speakerdeck.com
 +.spearhead.kr
++.spec.org
 +.specialtyheadphones.com
 +.spectraltube.com
 +.spectrum.ac.uk
