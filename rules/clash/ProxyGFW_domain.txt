@@ -29372,6 +29372,8 @@
 +.verygoodnike.com
 +.veryladyboy.com
 +.veryshortintroductions.com
++.vesselfinder.com
++.vesselfinder.net
 +.vetgate.ac.uk
 +.vetnetlln.ac.uk
 +.vetschools.ac.uk
@@ -29439,6 +29441,7 @@
 +.viber.com
 +.vica.info
 +.vicarious.ac.uk
++.vice.com
 +.victimsofcommunism.org
 +.victoriacountyhistory.ac.uk
 +.victoriassecret.com
