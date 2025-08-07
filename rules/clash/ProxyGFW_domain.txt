@@ -1197,6 +1197,7 @@
 +.airsextube.com
 +.airsupportapp.com
 +.airtable.com
++.airtableusercontent.com
 +.airtunes.com
 +.airtunes.info
 +.airtunes.net
@@ -27218,6 +27219,7 @@
 +.technics.com
 +.technologyandsociety.org
 +.technorati.com
++.techpowerup.com
 +.techradar.com
 +.techsmith.com
 +.techspot.com
@@ -31209,6 +31211,7 @@
 +.xjavporn.com
 +.xjp.cc
 +.xjtravelguide.com
++.xkcd.com
 +.xkeezmovies.com
 +.xkiwi.tk
 +.xknoop.com
