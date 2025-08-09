@@ -7855,6 +7855,7 @@
 +.desktopmovie.org
 +.desktopmovies.net
 +.desktopmovies.org
++.desmos.com
 +.dessci.com
 +.destinationbim.com
 +.destiny.xfiles.to
@@ -10623,6 +10624,7 @@
 +.find-apple.com
 +.find-cdt.ac.uk
 +.findacard.com
++.findagrave.com
 +.findasians.live
 +.findbare.com
 +.findbook.tw
@@ -17808,6 +17810,7 @@
 +.mappingtheunderworld.ac.uk
 +.mappingwales.ac.uk
 +.mappingwelshmarches.ac.uk
++.maptiler.com
 +.marble.ac.uk
 +.marc.info
 +.marchmont.ac.uk
@@ -28956,6 +28959,7 @@
 +.uos.ac.uk
 +.up01.cc
 +.upa.ac.uk
++.upbit.com
 +.upcitemdb.com
 +.update.crashlytics.com
 +.updates.ac.uk
@@ -30976,7 +30980,6 @@
 +.www.moztw.org
 +.www.msn.com
 +.www.nbc.com
-+.www.nodeloc.com
 +.www.owind.com
 +.www.oxid.it
 +.www.powerpointninja.com
