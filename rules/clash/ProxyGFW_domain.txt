@@ -157,6 +157,7 @@
 +.1984.city
 +.1984bbs.com
 +.1984bbs.org
++.1989report.hkja.org.hk
 +.1991way.com
 +.1992qq.xyz
 +.1994group.ac.uk
@@ -671,6 +672,7 @@
 +.abc-studios.com
 +.abc.com
 +.abc.net.au
++.abc.pp.ru
 +.abc.xyz
 +.abcheadphones.com
 +.abchinese.com
@@ -1985,7 +1987,9 @@
 +.app-store.wang
 +.app.box.com
 +.app.cloudcone.com
++.app.heywire.com
 +.app.smartmailcloud.com
++.app.tutanota.com
 +.app0le.com
 +.app756.com
 +.appadvice.com
@@ -2430,6 +2434,7 @@
 +.arphic.com.tw
 +.arrc.ac.uk
 +.ars.ac.uk
++.arstechnica.net
 +.art1lib.com
 +.art4tibet1998.org
 +.artcam.com
@@ -3293,14 +3298,17 @@
 +.bbs.hanminzu.org
 +.bbs.huasing.org
 +.bbs.junglobal.net
++.bbs.kimy.com.tw
 +.bbs.mikocon.com
 +.bbs.morbell.com
 +.bbs.mychat.to
 +.bbs.naixi.net
 +.bbs.nyinfor.com
++.bbs.qmzdd.com
 +.bbs.sina.com
 +.bbs.skykiwi.com
 +.bbs.sou-tong.org
++.bbs.tuitui.info
 +.bbsdigest.com
 +.bbsfeed.com
 +.bbsland.com
@@ -4074,6 +4082,7 @@
 +.bitbay.net
 +.bitbucket.io
 +.bitbucket.org
++.bitc.bme.emory.edu
 +.bitchesgirls.com
 +.bitchmomporn.com
 +.bitchute.com
@@ -4167,10 +4176,12 @@
 +.blockless.com
 +.blocktempo.com
 +.blog
++.blog.calibre-ebook.com
 +.blog.com
 +.blog.cryptographyengineering.com
 +.blog.de
 +.blog.descargasgay.com
++.blog.exblog.co.jp
 +.blog.excite.co.jp
 +.blog.expofutures.com
 +.blog.fizzik.com
@@ -4180,6 +4191,7 @@
 +.blog.google
 +.blog.jackjia.com
 +.blog.jp
++.blog.kangye.org
 +.blog.lester850.info
 +.blog.martinoei.com
 +.blog.pathtosharepoint.com
@@ -4189,9 +4201,11 @@
 +.blog.reimu.net
 +.blog.sogoo.org
 +.blog.soylent.com
++.blog.syx86.cn
 +.blog.syx86.com
 +.blog.taragana.com
 +.blog.tiney.com
++.blog.workflow.is
 +.blog.youthwant.com.tw
 +.blogblog.com
 +.blogcatalog.com
@@ -4207,6 +4221,7 @@
 +.bloglovin.com
 +.blogoverflow.com
 +.blogs.com
++.blogs.tampabay.com
 +.blogsmithmedia.com
 +.blogspot.ae
 +.blogspot.al
@@ -6092,6 +6107,7 @@
 +.cglas.ac.uk
 +.cgst.edu
 +.ch
++.ch.shvoong.com
 +.ch9.ms
 +.chace.ac.uk
 +.championshipseriesleague.com
@@ -6617,6 +6633,7 @@
 +.climate-server.com
 +.climatechangewales.ac.uk
 +.climb.ac.uk
++.cling.omy.sg
 +.clinica-tibet.ru
 +.clinical-videos.com
 +.clinicalkey.com
@@ -6949,6 +6966,7 @@
 +.commnet.ac.uk
 +.communistcrimes.org
 +.community
++.community.windy.com
 +.communitychoicecu.com
 +.como-hackearfacebook.com
 +.comodo.com
@@ -7086,6 +7104,7 @@
 +.cosfans-tw.com
 +.cosger.myqcloud.com
 +.coshk.myqcloud.com
++.cosmic.monar.ch
 +.cosmosdb.info
 +.cosmosdb.net
 +.cosplay-jav.com
@@ -7799,6 +7818,7 @@
 +.demdex.net
 +.dementianet.ac.uk
 +.dementiaresearchinstitute.ac.uk
++.demo.opera-mini.net
 +.demo.unlock-music.dev
 +.democracy.earth
 +.democrats.org
@@ -10608,6 +10628,7 @@
 +.filmingfortibet.org
 +.filmporno.it
 +.filmsexeporno.com
++.filmy.olabloga.pl
 +.filt-coll.ac.uk
 +.filtercams.com
 +.filthdump.com
@@ -10904,6 +10925,7 @@
 +.forum.baby-kingdom.com
 +.forum.cyberctm.com
 +.forum.mymaji.com
++.forum.omy.sg
 +.forum.palmislife.com
 +.forum.slime.com.tw
 +.forum.tvb.com
@@ -10928,6 +10950,7 @@
 +.foundationdb.org
 +.foundationyear.ac.uk
 +.fountmedia.io
++.fourface.nodesnoop.com
 +.fourthinternational.org
 +.fox
 +.fox-corporation.com
@@ -12108,6 +12131,7 @@
 +.go.com
 +.go.dev
 +.go.jp
++.go.nesnode.com
 +.go.sony.com
 +.go141.com
 +.go2av.com
@@ -12351,6 +12375,7 @@
 +.google.com.tz
 +.google.com.ua
 +.google.com.ug
++.google.com.uk
 +.google.com.uy
 +.google.com.uz
 +.google.com.vc
@@ -13121,6 +13146,7 @@
 +.heinonline.org
 +.heise360181.buzz
 +.heise360182.buzz
++.heix.pp.ru
 +.helf.ac.uk
 +.helixstudios.net
 +.helloandroid.com
@@ -13618,6 +13644,7 @@
 +.home-song.com
 +.home.saxo
 +.home.sina.com
++.home.so-net.net.tw
 +.homealonemilfs.com
 +.homedepot-static.com
 +.homedepot.com
@@ -15229,6 +15256,7 @@
 +.intercomassets.com
 +.intercomcdn.com
 +.international-house-london.ac.uk
++.international-news.newsmagazine.asia
 +.international-union-crystallography.ac.uk
 +.international.ac.uk
 +.internationalcollegedundee.ac.uk
@@ -15466,6 +15494,7 @@
 +.iris.ac.uk
 +.iriss.ac.uk
 +.irna.ir
++.ironbigfools.compython.net
 +.ironna.jp
 +.ironpython.net
 +.ironsocket.com
@@ -16846,6 +16875,7 @@
 +.legacy.ac.uk
 +.legalporno.com
 +.legalscholars.ac.uk
++.legaltech.law.com
 +.legaltracker.com
 +.leggott.ac.uk
 +.legra.ph
@@ -17543,6 +17573,8 @@
 +.m.hkgalden.com
 +.m.me
 +.m.moegirl.org
++.m.plixi.com
++.m.slandr.net
 +.m12.vc
 +.m25lib.ac.uk
 +.m2m.com
@@ -18041,6 +18073,7 @@
 +.maturewomenanal.com
 +.maturexxxvideos.cc
 +.mau.ac.uk
++.maven.neoforged.net
 +.maven.org
 +.max.com
 +.maxgo.com
@@ -19534,6 +19567,7 @@
 +.myfonts.com
 +.myfonts.net
 +.myforum.com.hk
++.myforum.com.uk
 +.myfoxatlanta.com
 +.myfoxaustin.com
 +.myfoxboston.com
@@ -19991,6 +20025,7 @@
 +.nentindo.net
 +.neo-miracle.com
 +.neodaas.ac.uk
++.neoforged.net
 +.neonatalsociety.ac.uk
 +.neotokyo.supertop-100.com
 +.neow.in
@@ -20195,6 +20230,7 @@
 +.news.mt.co.kr
 +.news.nationalgeographic.com
 +.news.net.au
++.news.omy.sg
 +.news.seehua.com
 +.news.sina.com.hk
 +.news.sinchew.com.my
@@ -20736,7 +20772,6 @@
 +.norwichresearchpark.ac.uk
 +.nos.nl
 +.note.com
-+.notebooklm.google
 +.notepad-plus-plus.org
 +.notion-static.com
 +.notion.com
@@ -21111,6 +21146,7 @@
 +.nxta.org
 +.nxtdig.com.hk
 +.nxtdig.com.tw
++.ny.stgloballink.com
 +.nyaa.eu
 +.nyaa.land
 +.nyaa.net
@@ -21193,6 +21229,7 @@
 +.ocry.com
 +.ocsp-certum.com
 +.ocsp-responder.com
++.ocsp.int-x3.letsencrypt.org
 +.october-review.org
 +.ocul.us
 +.oculus-china.com
@@ -21480,7 +21517,6 @@
 +.opensciencelaboratory.ac.uk
 +.opensea.io
 +.opensource.ac.uk
-+.opensource.google
 +.opensource.guide
 +.opensourceinsight.dev
 +.opensourceinsights.dev
@@ -21854,7 +21890,6 @@
 +.passion.com
 +.passiontimes.hk
 +.passport.net
-+.passwords.google
 +.pastahealth.com
 +.paste.ee
 +.pastebin.com
@@ -22299,6 +22334,7 @@
 +.picasaweb.com
 +.picasaweb.net
 +.picasaweb.org
++.picgo.net
 +.pichunter.com
 +.picidae.net
 +.picjs.xyz
@@ -22476,7 +22512,6 @@
 +.play-asia.com
 +.play-bmm.shop
 +.play-bmmer.buzz
-+.play.google
 +.play4free.com
 +.playapex.com
 +.playartifact.com
@@ -24828,6 +24863,7 @@
 +.secure-paypal.info
 +.secure.hustler.com
 +.secure.logmein.com
++.secure.raxcdn.com
 +.secure.shadowsocks.nu
 +.secureharvests.ac.uk
 +.securepaypal.info
@@ -25389,6 +25425,7 @@
 +.shotgunstudio.com
 +.shotgunvfx.com
 +.shotwithgeforce.com
++.showbiz.omy.sg
 +.showhaotu.com
 +.shownote.com
 +.showtime
@@ -25549,6 +25586,7 @@
 +.site90.net
 +.sitebro.tw
 +.sitekreator.com
++.siteks.uk.to
 +.sitemaps.org
 +.sitepoint.com
 +.siterips.org
@@ -26233,6 +26271,7 @@
 +.srttu.edu
 +.sruc.ac.uk
 +.ss-link.com
++.ss.levyhsu.com
 +.ss.pythonic.life
 +.ss2.us
 +.ss7.app
@@ -26700,6 +26739,7 @@
 +.stxmosquitoproject.org
 +.su
 +.sub147.com
++.subacme.rerouted.org
 +.subhd.tv
 +.sublimedirectory.com
 +.sublimetext.com
@@ -26999,7 +27039,6 @@
 +.sysresccd.org
 +.systemicrisk.ac.uk
 +.sytes.net
-+.syx86.cn
 +.syx86.com
 +.syzbj36.xyz
 +.szabadeuropa.hu
@@ -27014,6 +27053,7 @@
 +.t-splines.com
 +.t.co
 +.t.me
++.t.orzdream.com
 +.t35.com
 +.t66y.com
 +.t91y.com
@@ -28205,6 +28245,7 @@
 +.trustsign.ch
 +.trustwallet.com
 +.trustwave.com
++.truth101.co.tv
 +.truthontour.org
 +.truthordarepics.com
 +.truthsocial.com
@@ -28333,6 +28374,7 @@
 +.tudorpartbooks.ac.uk
 +.tufos.com.br
 +.tug.org
++.tui.orzdream.com
 +.tuibeitu.net
 +.tuidang.net
 +.tuidang.org
@@ -28388,7 +28430,6 @@
 +.tuzaijidi.com
 +.tv
 +.tv.com
-+.tv.google
 +.tv.jtbc.joins.com
 +.tvants.com
 +.tvappstore.net
@@ -29237,6 +29278,7 @@
 +.vct.news
 +.vday.io
 +.vdoav.com
++.vds.rightster.com
 +.vecchiescopate.casa
 +.vector.im
 +.veet.at
@@ -30230,6 +30272,7 @@
 +.waplog.com
 +.wapm.io
 +.waranlov.com
++.warbler.iconfactory.net
 +.warddogs.com
 +.warehouse333.com
 +.wariolandshakeit.com
@@ -30602,6 +30645,7 @@
 +.wiivc.net
 +.wikaba.com
 +.wikawika.xyz
++.wiki.cnitter.com
 +.wiki.esu.im
 +.wiki.gamerp.jp
 +.wiki.jqueryui.com
@@ -30752,6 +30796,7 @@
 +.wlpms.ac.uk
 +.wlu.ac.uk
 +.wlv.ac.uk
++.wlx.sowiki.net
 +.wm-air.ac.uk
 +.wm18s.buzz
 +.wma.ac.uk
@@ -30973,6 +31018,7 @@
 +.www.imdb.com
 +.www.kindleren.com
 +.www.klip.me
++.www.lamenhu.com
 +.www.lib.virginia.edu
 +.www.lorenzetti.com.br
 +.www.m-sport.co.uk
@@ -30980,6 +31026,7 @@
 +.www.moztw.org
 +.www.msn.com
 +.www.nbc.com
++.www.orchidbbs.com
 +.www.owind.com
 +.www.oxid.it
 +.www.powerpointninja.com
@@ -30991,6 +31038,7 @@
 +.www.skype.com
 +.www.tablesgenerator.com
 +.www.taiwanonline.cc
++.www.taup.org.tw
 +.www.thechinastory.org
 +.www.wan-press.org
 +.www.websnapr.com
@@ -31136,6 +31184,7 @@
 +.xfemaledom.com
 +.xfiles.to
 +.xfinity.com
++.xfm.pp.ru
 +.xfockers.com
 +.xfreehd.com
 +.xfuckonline.com
@@ -31183,6 +31232,7 @@
 +.xiaoshuobb.life
 +.xiaoyaoge.xyz
 +.xiaxiaoqiang.net
++.xicons.org
 +.xie56.xyz
 +.xiezhua.com
 +.xihua.es

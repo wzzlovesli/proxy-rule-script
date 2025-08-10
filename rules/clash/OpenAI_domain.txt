@@ -21,6 +21,7 @@
 +.openaicom.imgix.net
 +.segment.io
 +.sentry.io
++.sora.com
 +.stripe.com
 +.turn.livekit.cloud
 browser-intake-datadoghq.com
