@@ -541,6 +541,7 @@ c.1password.com
 cache.agilebits.com
 cache.pack.google.com
 cdimage.kali.org
+cdn-builds.paw.cloud
 cdn-images.orbstack.dev
 cdn-patch.swtor.com
 cdn-updates.orbstack.dev
@@ -1132,10 +1133,8 @@ skimdb.npmjs.com
 snt.utwente.nl
 softwareupdate.pilotmoon.com
 sotirov-bg.net
-static-production.npmjs.com
 static.adguard.com
 static.adtidy.org
-static.npmjs.com
 static.redox-os.org
 static.rust-lang.org
 stats.snipaste.com
