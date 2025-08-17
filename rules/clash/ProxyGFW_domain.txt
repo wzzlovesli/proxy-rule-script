@@ -21784,6 +21784,7 @@
 +.panasonic
 +.panasonic.com
 +.panasonic.jp
++.pancakeswap.finance
 +.pancolle-movie.jp
 +.panda.ac.uk
 +.panda30.shop
@@ -22232,6 +22233,7 @@
 +.petiteballerinasfucked.com
 +.petitehdporn.com
 +.petroc.ac.uk
++.pewresearch.org
 +.pfd.org.hk
 +.pggc.ac.uk
 +.pgreen.ac.uk
@@ -23148,6 +23150,7 @@
 +.prisoneralert.com
 +.pritunl.com
 +.privacybox.de
++.privacyguides.org
 +.privacysandbox.com
 +.privacysimplified.com
 +.privacytest.info
