@@ -12471,6 +12471,7 @@
 +.anychem.com
 +.anycoh.com
 +.anycross.com
++.anycubic.com
 +.anye.xyz
 +.anyelse.com
 +.anyew.com
@@ -119892,7 +119893,6 @@
 3geauymtsgrzdrcbzfahue.ourdvsss.com
 3geauymtsgrzdrcbzfahuk.ourdvsss.com
 4go41hcjtgazdoctqge4o.ourdvsss.com
-7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 DOMAIN,1-fss24-s0.streamhoster.com
 DOMAIN,1.cache.applinzi.com
 DOMAIN,12371alic.v.myalicdn.com

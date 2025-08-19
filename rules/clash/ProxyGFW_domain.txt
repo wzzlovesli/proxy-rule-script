@@ -7817,6 +7817,7 @@
 +.dengeamerika.com
 +.dengiamerika.com
 +.deno.com
++.deno.dev
 +.deno.land
 +.dentalhypotheses.com
 +.dentalschoolscouncil.ac.uk
@@ -8345,6 +8346,7 @@
 +.doclercdn.com
 +.docs.cfw.lbyczf.com
 +.docs.com
++.docs.deno.com
 +.docs.new
 +.docs.rs
 +.doctor-videos.com
@@ -11432,6 +11434,7 @@
 +.furinkan.com
 +.furl.net
 +.furness.ac.uk
++.furrybar.com
 +.furrypornvideos.com
 +.furuke.com
 +.fury.blog
@@ -32476,7 +32479,6 @@
 3dns-4.adobe.com
 3dns-5.adobe.com
 3dns.adobe.com
-7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 a.ppy.sh
 a4e8s8k3.map2.ssl.hwcdn.net
 abematv.akamaized.net
