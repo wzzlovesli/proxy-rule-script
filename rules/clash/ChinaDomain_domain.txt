@@ -20633,6 +20633,7 @@
 +.centaland.com
 +.centanet.com
 +.centauriglobal.com
++.centbrowser.net
 +.centec.com
 +.cententcymbals.com
 +.centercmslinks.com
@@ -72067,8 +72068,6 @@
 +.mypian.com
 +.mypiao.com
 +.mypiaojia.com
-+.mypikpak.com
-+.mypikpak.net
 +.mypitaya.com
 +.mypity.com
 +.mypiwik.com
@@ -72338,7 +72337,6 @@
 +.naiveadmin.com
 +.naiveblue.com
 +.naiwch.com
-+.naixi.net
 +.naixuecha.com
 +.naiyouxuexi.com
 +.najingtech.com
@@ -98370,7 +98368,6 @@
 +.ustbtc.com
 +.ustc.edu
 +.ustcers.com
-+.ustclug.org
 +.ustui.com
 +.usuredata.com
 +.usuuu.com
@@ -105669,7 +105666,6 @@
 +.xiaomeng1235.com
 +.xiaomi.cn
 +.xiaomi.com
-+.xiaomi.eu
 +.xiaomi.hk
 +.xiaomi.net
 +.xiaomi.open.qingting.fm
@@ -107464,6 +107460,7 @@
 +.xn--54q23ckxiyx0e.com
 +.xn--54q249denfzw9a.net
 +.xn--54q40czz0g7xp.com
++.xn--55qw42g
 +.xn--55qw7biqf7g3d004h8yuw1ctrt04sep1cjfb.com
 +.xn--55qwa79fh6ku8czve.com
 +.xn--55qx2ag79c1iq.com
