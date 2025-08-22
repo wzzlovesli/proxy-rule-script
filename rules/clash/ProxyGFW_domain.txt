@@ -11951,6 +11951,7 @@
 +.gitbook.io
 +.gitbooks.io
 +.githack.com
++.github.ai
 +.github.blog
 +.github.com
 +.github.community
@@ -15573,6 +15574,7 @@
 +.itgonglun.com
 +.ithelp.ithome.com.tw
 +.ithome.com.tw
++.itiger.com
 +.itlearningspace-scot.ac.uk
 +.itnel.com
 +.itnow.ac.uk
@@ -28691,6 +28693,7 @@
 +.udnbkk.com
 +.udndata.com
 +.udnfunlife.com
++.udomain.hk
 +.udtrucksmeena.com
 +.uea.ac.uk
 +.ueberamazon.de

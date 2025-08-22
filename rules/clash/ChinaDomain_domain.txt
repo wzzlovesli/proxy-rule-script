@@ -18121,6 +18121,7 @@
 +.bsagit.com
 +.bsbgjj.com
 +.bsbkjt.com
++.bsbsb.top
 +.bsbxyy.com
 +.bsbydd.com
 +.bscabank.com
@@ -25804,6 +25805,7 @@
 +.confluxrpc.com
 +.confuciusinstitute.net
 +.conghua.com
++.congmiqq.com
 +.congrongfund.com
 +.congtoo.com
 +.congtoukaishi.com
@@ -31405,6 +31407,7 @@
 +.dotdotnews.com
 +.doteck.com
 +.dotgate.com
++.dothantech.com
 +.doticloud.com
 +.dotsage.com
 +.dotty-china.com
@@ -55105,7 +55108,6 @@
 +.itiankong.net
 +.itianliao.com
 +.itiexue.net
-+.itiger.com
 +.itigergrowth.com
 +.itigergrowtha.com
 +.itigerup.com
@@ -62311,7 +62313,6 @@
 +.kowa-dental.com
 +.kowa103.com
 +.kowloonhospital.com
-+.kox.moe
 +.koyuki.cc
 +.kpblw.com
 +.kpbyd.com
@@ -70001,6 +70002,7 @@
 +.mifanlicdn.com
 +.mifei.com
 +.mifen517.com
++.mifeng.plus
 +.mifengchengshi.com
 +.mifengv.com
 +.mifengvv.com
@@ -71219,7 +71221,6 @@
 +.moweather.com
 +.mowgz.com
 +.mowowo.com
-+.mox.moe
 +.moxfive.xyz
 +.moxiai.com
 +.moxian.com
@@ -75613,6 +75614,7 @@
 +.ok168.com
 +.ok183.com
 +.ok206.com
++.ok321.top
 +.ok3w.net
 +.ok619.com
 +.ok888883.com
@@ -76882,6 +76884,7 @@
 +.paper.tv
 +.paper027.com
 +.paper120.net
++.paperang.com
 +.paperask.com
 +.paperbert.com
 +.paperbus.com
@@ -99421,7 +99424,6 @@
 +.voip366.com
 +.vojs.tv
 +.vokop.com
-+.vol.moe
 +.volc-dns.com
 +.volc-dns.net
 +.volc-dns.pub
