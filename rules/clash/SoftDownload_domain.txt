@@ -514,7 +514,6 @@ apache.tt.co.kr
 apache.uib.no
 apache.uniminuto.edu
 apache.uvigo.es
-apache.volia.net
 apache.website-solution.net
 api-updates.orbstack.dev
 app-updates.agilebits.com
@@ -525,7 +524,6 @@ artifacts.electronjs.org
 assets-production.packagecloud.io
 assets1.xboxlive.com
 assets2.xboxlive.com
-aus2-community.mozilla.org
 aus5.mozilla.org
 autoupdate.termius.com
 az764295.vo.msecnd.net
@@ -585,7 +583,6 @@ cpan.mines-albi.fr
 cpan.mmgdesigns.com.ar
 cpan.noris.de
 cpan.pair.com
-cpan.perl.pt
 cpan.pesat.net.id
 cpan.rinet.ru
 cpan.saix.net
@@ -764,7 +761,6 @@ ftp.cpan.org
 ftp.cs.uu.nl
 ftp.cse.buffalo.edu
 ftp.cvut.cz
-ftp.download-by.net
 ftp.eq.uc.pt
 ftp.eutelia.it
 ftp.fau.de
@@ -802,7 +798,6 @@ ftp.nara.wide.ad.jp
 ftp.nluug.nl
 ftp.ntua.gr
 ftp.osuosl.org
-ftp.panu.it
 ftp.piotrkosoft.net
 ftp.ps.pl
 ftp.rediris.es
@@ -853,8 +848,6 @@ gopkg.in
 gwdg.de
 http.kali.org
 httpd-mirror.sergal.org
-httpupdate118.cpanel.net
-httpupdate127.cpanel.net
 i18n.prismlauncher.org
 icm.edu.pl
 install.virtfusion.net
@@ -1029,7 +1022,6 @@ mirrors.m247.ro
 mirrors.mit.edu
 mirrors.mivocloud.com
 mirrors.myaegean.gr
-mirrors.namecheap.com
 mirrors.nav.ro
 mirrors.neterra.net
 mirrors.netix.net
