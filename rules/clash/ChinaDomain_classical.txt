@@ -15,10 +15,6 @@ DOMAIN-KEYWORD,thunder
 DOMAIN-KEYWORD,xlliveud
 DOMAIN-KEYWORD,xunlei
 DOMAIN-KEYWORD,yunpan
-DOMAIN-WILDCARD,*.ffzy-online?.com
-DOMAIN-WILDCARD,*.ffzy-play?.com
-DOMAIN-WILDCARD,*.lz-cdn?.com
-DOMAIN-WILDCARD,*.lz-cdn??.com
 DOMAIN-WILDCARD,*.qhimgs?.com
 IP-CIDR,101.224.0.0/13,no-resolve
 IP-CIDR,101.71.154.241/32,no-resolve
