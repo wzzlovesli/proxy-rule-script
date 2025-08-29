@@ -6889,6 +6889,7 @@
 +.codecov.io
 +.codeforaliving.io
 +.codeforces.com
++.codeforces.org
 +.codei.sh
 +.codeish.co
 +.codeish.io
