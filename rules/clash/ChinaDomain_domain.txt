@@ -5969,6 +5969,7 @@
 +.52mqbiao.com
 +.52mtc.com
 +.52mtkvideo.cn
++.52muban.com
 +.52muyou.com
 +.52myqq.com
 +.52nail.com
@@ -8592,6 +8593,7 @@
 +.9000wy.com
 +.900112.com
 +.900501.xyz
++.900cha.com
 +.900php.com
 +.900ppt.com
 +.900yi.com
@@ -9357,6 +9359,7 @@
 +.998jk.com
 +.998jx.com
 +.998law.com
++.998tool.com
 +.9991.com
 +.999120.net
 +.999125.com
@@ -21128,6 +21131,7 @@
 +.chaxun.biz
 +.chaxunchina.com
 +.chaxunfapiao.com
++.chaxunjiao.com
 +.chayanfamily.com
 +.chayangge.com
 +.chaye.com
@@ -31287,6 +31291,7 @@
 +.doupay.com
 +.doupocangqiong1.com
 +.douqi.com
++.douqq.com
 +.doushen.com
 +.doushisan.com
 +.dousonvalve.com
@@ -36609,6 +36614,7 @@
 +.fofen.com
 +.fofhc.com
 +.fofstudio.net
++.fofuai.com
 +.fogcloud.io
 +.foguanghui.org
 +.fohohr.com
@@ -37767,6 +37773,7 @@
 +.fzwater.com
 +.fzwcn.com
 +.fzwhzn.com
++.fzwqq.com
 +.fzwtqx.com
 +.fzwtxx.com
 +.fzwxxcx.com
@@ -39662,6 +39669,7 @@
 +.gjsj.com
 +.gjsun.com
 +.gjtmu.com
++.gjtool.com
 +.gjtt.net
 +.gjw.com
 +.gjw123.com
@@ -40500,6 +40508,7 @@
 +.googlevip8.com
 +.googlevoice.org
 +.googleyixia.com
++.googoc.com
 +.googol-power.com
 +.googolpark.com
 +.googvv.com
@@ -40934,6 +40943,7 @@
 +.gsdswz.com
 +.gsdtfx.com
 +.gsdyjsgs.com
++.gseen.com
 +.gsensebot.com
 +.gsfilter.net
 +.gsflcp.com
@@ -54130,6 +54140,7 @@
 +.ip.la
 +.ip008.com
 +.ip138.com
++.ip159.com
 +.ip192.com
 +.ip33.com
 +.ip3366.net
@@ -54257,6 +54268,7 @@
 +.ips.com
 +.ips8.com
 +.ipsebe.com
++.ipshu.com
 +.ipshudi.com
 +.ipsmap.com
 +.ipssh.net
@@ -71500,6 +71512,7 @@
 +.mykeeta.com
 +.mykqyy.com
 +.mykscdn.com
++.mykuaidi.com
 +.mykuaiji.com
 +.mylbabao.com
 +.mylguoji.com
@@ -71820,6 +71833,7 @@
 +.naiveadmin.com
 +.naiveblue.com
 +.naiwch.com
++.naixi.com
 +.naixuecha.com
 +.naiyouxuexi.com
 +.najingtech.com
@@ -72387,6 +72401,7 @@
 +.neihancommunity.net
 +.neihandiantai.com
 +.neihanfly.com
++.neihang.net
 +.neihanshequ.com
 +.neimaowang.com
 +.neimenggugames.com
@@ -72524,6 +72539,7 @@
 +.networkesl.com
 +.networklo.com
 +.netzonesoft.com
++.netzz.net
 +.neu-reality.com
 +.neucrack.com
 +.neuedu.com
@@ -79598,6 +79614,7 @@
 +.qinglinong.com
 +.qinglm.com
 +.qinglongwood.com
++.qinglue.com
 +.qinglue.net
 +.qinglvpin.com
 +.qingly.ink
@@ -93243,6 +93260,7 @@
 +.tcnvmms.com
 +.tcomall.com
 +.tcp.hk
++.tcp.pub
 +.tcping8.com
 +.tcqmj.com
 +.tcrcb.com
@@ -95239,6 +95257,7 @@
 +.toodudu.com
 +.tool.la
 +.tool.lu
++.tool56.com
 +.tool77.com
 +.tooleemesse.com
 +.toolgg.com
@@ -104184,6 +104203,7 @@
 +.xdsyzzs.com
 +.xdter.com
 +.xdtev.com
++.xdtool.com
 +.xdtos.com
 +.xduim.com
 +.xduoo.com
