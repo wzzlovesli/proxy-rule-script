@@ -67163,6 +67163,7 @@
 +.lyhuadu.com
 +.lyhx.net
 +.lyia.org
++.lyilife.com
 +.lyjiuzhou.com
 +.lyjj.net
 +.lyjksw.com
@@ -68858,6 +68859,7 @@
 +.meishi.cc
 +.meishi13.com
 +.meishichina.com
++.meishiffx.online
 +.meishij.net
 +.meishijr.com
 +.meishilife.com
@@ -70291,6 +70293,7 @@
 +.mob.com
 +.mob55.com
 +.mobaders.com
++.mobai.sbs
 +.mobaibox.com
 +.moban.com
 +.mobanhao.com
@@ -93596,6 +93599,7 @@
 +.tencdns.net
 +.tencenst.com
 +.tencent-blackboard.com
++.tencent-cloud.cn
 +.tencent-cloud.com
 +.tencent-cloud.net
 +.tencent-gcloud.com
