@@ -558,6 +558,7 @@ cdn.winget.microsoft.com
 cdn.zoom.us
 cdnorg.d.miui.com
 charts.verdaccio.org
+chnroutes2.cdn.skk.moe
 ciscobinary.openh264.org
 clarkson.edu
 client.hikarifield.co.jp
@@ -738,6 +739,7 @@ fastly-download.epicgames.com
 fedorapeople.org
 file.chobit.cc
 files2.freedownloadmanager.org
+filters.cdn.skk.moe
 formulae.brew.sh
 fr2.rpmfind.net
 freedif.org
@@ -1118,6 +1120,7 @@ repo1.maven.org
 repository.jboss.org
 repository.su
 rpm.xpipe.io
+ruleset.skk.moe
 s3.teckids.org
 searchcpan.org
 security.debian.org
@@ -1128,6 +1131,7 @@ skimdb.npmjs.com
 snt.utwente.nl
 softwareupdate.pilotmoon.com
 sotirov-bg.net
+speedtest-net-servers.cdn.skk.moe
 static.adguard.com
 static.adtidy.org
 static.redox-os.org

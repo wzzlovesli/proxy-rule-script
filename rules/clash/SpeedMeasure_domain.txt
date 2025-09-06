@@ -657,6 +657,7 @@ speedtest.ank01.edge.kernzen.com
 speedtest.anksoft.net
 speedtest.apnet-rr.com.br
 speedtest.apnic.net
+speedtest.aquiss.net
 speedtest.aquitelecom.tv.br
 speedtest.archtopfiber.com
 speedtest.as203446.net
