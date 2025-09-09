@@ -528,6 +528,7 @@ aus5.mozilla.org
 autoupdate.termius.com
 az764295.vo.msecnd.net
 b2.mcarchive.net
+bigfiles.virustotal.com
 binaries.prisma.sh
 blizzard.gcdn.cloudn.co.kr
 blzddist1-a.akamaihd.net
@@ -717,6 +718,7 @@ download3.epicgames.com
 download4.epicgames.com
 downloadr2.apkmirror.com
 downloads.1password.com
+downloads.broadcom.com
 downloads.cloudflareclient.com
 downloads.cursor.com
 downloads.lemonsqueezy.com
@@ -728,6 +730,7 @@ downloads.wordpress.org
 downloads.x-wrt.com
 downloads.xiph.org
 downloads.xrite.com
+downloads2.broadcom.com
 drive.massgrave.dev
 edge.steam-dns.top.comcast.net
 edgedl.me.gvt1.com
@@ -828,6 +831,7 @@ ftp.wrz.de
 ftp.yz.yamagata-u.ac.jp
 ftp1.nluug.nl
 ftp2.nluug.nl
+ftpdownloads.broadcom.com
 ftpmirror.gnu.org
 ftpmirror1.infania.net
 gamedownloads-rockstargames-com.akamaized.net
