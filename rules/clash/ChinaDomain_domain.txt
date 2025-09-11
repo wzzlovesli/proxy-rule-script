@@ -38015,6 +38015,7 @@
 +.gaojima.com
 +.gaojipro.com
 +.gaojitui.com
++.gaojiua.com
 +.gaokao.cn
 +.gaokao.com
 +.gaokao365.com
@@ -92928,6 +92929,7 @@
 +.tckwj.com
 +.tcl-cctv.com
 +.tcl.com
++.tclai.top
 +.tclbusiness.com
 +.tclclouds.com
 +.tcljd.com
