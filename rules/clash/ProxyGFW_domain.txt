@@ -1826,6 +1826,7 @@
 +.anic.ac.uk
 +.anidom.com
 +.anigema.jp
++.anilist.co
 +.anilos.com
 +.animal-hentai.com
 +.animal-porn.net
