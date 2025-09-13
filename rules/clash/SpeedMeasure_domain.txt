@@ -246,6 +246,7 @@ ntp-speedtest.homeplus.net.tw
 ntp1.chtm.hinet.net
 ny.st.spacecore.pro
 ny00svp-speed11.svc.tds.net
+ny2-speedtest.tier.net
 nyc01.screenshot.download
 nyc1-speedtest.webnx.com
 nycny-speedtest-ookla-01.st.charter.com
@@ -731,6 +732,7 @@ speedtest.ddl.red
 speedtest.ddps.jp
 speedtest.deltacable.com
 speedtest.deltatelecomam.com.br
+speedtest.dfw2.sonic.net
 speedtest.dgn.net.tr
 speedtest.didimnet.com.tr
 speedtest.dllstx97.metronetinc.com
@@ -789,6 +791,7 @@ speedtest.hkg01.node.as9516.com
 speedtest.honest.net
 speedtest.host.com.tw
 speedtest.hostabil.net
+speedtest.hostimux.com
 speedtest.hyperwave.uk
 speedtest.hytekcomputers.com
 speedtest.i4networks.nl
