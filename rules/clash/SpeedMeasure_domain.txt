@@ -623,6 +623,7 @@ speedtest-thn.krystal.uk
 speedtest-tor.beanfield.com
 speedtest-townsville.optusnet.com.au
 speedtest-tr-bursa.servosphere.net
+speedtest-tr.atakanozban.com.tr
 speedtest-txg.infinirc.net
 speedtest-utc.northland.net
 speedtest-van.beanfield.com

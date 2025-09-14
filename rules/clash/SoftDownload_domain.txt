@@ -569,7 +569,6 @@ codeload.github.com
 componentupdater.brave.com
 content-origin.steampowered.com
 cpan-mirror.rbc.ru
-cpan.catalyst.net.nz
 cpan.cpantesters.org
 cpan.cs.utah.edu
 cpan.dcc.uchile.cl
