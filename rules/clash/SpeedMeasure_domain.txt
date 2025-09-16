@@ -156,6 +156,7 @@ hiztesti.isimkayit.com
 hiztesti2.ondiso.io
 hk-bgp-speedtest.nearoute.io
 hkg.02.speedtest.kansuiun.com
+hkgspeedtest.cmctelecom.vn
 hkspeedtest.netvigator.com
 hkt.hkspeedtest.com
 hkthspeedtest02.telstraglobal.net
@@ -296,6 +297,7 @@ ooklaspeedtest-ist1.quickzone.net
 ooklatins.redeconexaonet.com
 open.cachefly.net
 osk.speedtest.love
+owst.gilat.net
 par1speedtest01.skylogic.com
 pauseq4vost1.datamossa.cloud
 perf-01.ixn.as42689.net
@@ -322,6 +324,7 @@ sg-speedtest.fast.net.id
 sg.cloudhost.asia
 sg.st.spacecore.pro
 sgn-nperf.verizon.net
+sgpspeedtest.cmctelecom.vn
 sgspeed.chinaunicomglobal.com
 sig-speedtest.moratelindo.io
 sjdm-speedtest.globe.com.ph
