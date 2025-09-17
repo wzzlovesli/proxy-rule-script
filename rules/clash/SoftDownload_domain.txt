@@ -731,6 +731,7 @@ downloads.xiph.org
 downloads.xrite.com
 downloads2.broadcom.com
 drive.massgrave.dev
+dw.uptodown.net
 edge.steam-dns.top.comcast.net
 edgedl.me.gvt1.com
 edgeupdates.microsoft.com

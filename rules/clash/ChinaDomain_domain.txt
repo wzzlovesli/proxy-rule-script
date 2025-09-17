@@ -86990,6 +86990,7 @@
 +.shupeng.com
 +.shuq.net
 +.shuqi.com
++.shuqiandiqiu.com
 +.shuqiaozt.com
 +.shuqiapi.com
 +.shuqiread.com
