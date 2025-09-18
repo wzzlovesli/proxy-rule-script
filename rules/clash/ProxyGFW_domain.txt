@@ -32569,6 +32569,7 @@
 +.zenlesszonezero.com
 +.zenmate.com
 +.zenmate.com.ru
++.zenn.dev
 +.zenodo.org
 +.zeplerinstitute.ac.uk
 +.zeplin.dev
