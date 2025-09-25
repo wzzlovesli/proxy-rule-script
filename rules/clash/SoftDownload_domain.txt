@@ -875,7 +875,11 @@ lip6.fr
 lysator.liu.se
 mac-release-static.stash.ws
 marwan.ma
+maven.fabricmc.net
 maven.google.com
+maven.is-quite.gay
+maven.neoforged.net
+mediafilez.forgecdn.net
 meta.omaps.app
 meta.prismlauncher.org
 mirror-cdn.xtom.com
@@ -1120,6 +1124,7 @@ repo.hex.pm
 repo.maven.apache.org
 repo.nextdns.io
 repo.powerdns.com
+repo.sleeping.town
 repo1.maven.org
 repository.jboss.org
 repository.su

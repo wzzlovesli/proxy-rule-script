@@ -176,6 +176,7 @@ izm1speedtest.turktelekom.com.tr
 izmit-speed.tbtnet.com.tr
 jp-nperf.verizon.net
 kami.smartone.com
+karapinar.flix.net.tr
 karapinar.kentwifi.com.tr
 kay1speedtest.turktelekom.com.tr
 kh1.chtm.hinet.net
@@ -278,6 +279,8 @@ ookla.lunoxia.net
 ookla.me1.neptune.net.au
 ookla.mia.teracast.net
 ookla.moji.fr
+ookla.mthnetworks.com
+ookla.nw8.as6453.net
 ookla.opticaltel.com
 ookla.oriontelecom.com.br
 ookla.p2.neptune.net.au
@@ -519,6 +522,7 @@ speedtest-dallas.swyftfiber.com
 speedtest-darwin-nt.optusnet.com.au
 speedtest-darwin.optusnet.com.au
 speedtest-de.pq.hosting
+speedtest-de.webdade.com
 speedtest-dfw.dish-wireless.com
 speedtest-east.eastlink.ca
 speedtest-eastburwood.optusnet.com.au
@@ -579,6 +583,7 @@ speedtest-nl.cloudlease.co.il
 speedtest-nl.eastlink.ca
 speedtest-nl.hyperfilter.com
 speedtest-nl.vdsina.ru
+speedtest-nl.webdade.com
 speedtest-ns.bellaliant.net
 speedtest-ntt-fra.as20011.net
 speedtest-ntt-ldn.as20011.net
@@ -631,6 +636,7 @@ speedtest-thn.krystal.uk
 speedtest-tor.beanfield.com
 speedtest-townsville.optusnet.com.au
 speedtest-tr-bursa.servosphere.net
+speedtest-tr.atakanozban.com
 speedtest-tr.atakanozban.com.tr
 speedtest-txg.infinirc.net
 speedtest-utc.northland.net
@@ -908,6 +914,7 @@ speedtest.netflash.net
 speedtest.netgotelecom.com.br
 speedtest.nethiz.net
 speedtest.netlinkce.com.br
+speedtest.netone.nl
 speedtest.netrack.ru
 speedtest.netravo.com
 speedtest.netwifi.com.tr
@@ -1126,6 +1133,7 @@ speedtest1.valleyfiber.ca
 speedtest1.wlan4rent.nl
 speedtest1.xbase.com
 speedtest10.vqbn.com
+speedtest16.mustafasevinc.com.tr
 speedtest1c.hkix.net
 speedtest2-tor.teksavvy.com
 speedtest2.cfoc.tech
@@ -1161,6 +1169,7 @@ speedtestalmtelecom.com.br
 speedtestam.vtal.net.br
 speedtestap.vtal.net.br
 speedtestbb.hk.chinamobile.com
+speedtestbcl1.csmtelecom.net.br
 speedtestce.vtal.net.br
 speedtestda.fiberfasthomes.com
 speedtestde.pvdatanet.com
@@ -1402,6 +1411,7 @@ teste.renet-ce.com.br
 teste.routinger.com.br
 teste.speednetpa.net.br
 teste.speedtestwnet.com.br
+teste.stylosnet.com.br
 teste.suprainternet.com.br
 teste.tstelecomltda.com.br
 teste.wificonnect.com.br
@@ -1425,6 +1435,7 @@ tr-ist.orfi.net.tr
 tr-istanbul.elmashost.com
 trtspeedtest.altimatel.com
 tsdvuspeedtest01p.allstream.com
+turknet16.residential.tr
 txg-speedtest.infinirc.com
 ty-bgp-speedtest.nearoute.io
 ty-speedtest.homeplus.net.tw

@@ -712,6 +712,7 @@
 +.ablmm.com
 +.ablwang.com
 +.aboluowang.com
++.about.gitlab.com
 +.about.google
 +.about.me
 +.aboutamazon.co.uk
@@ -1988,6 +1989,7 @@
 +.api.amplitude.com
 +.api.mixpanel.com
 +.api.news
++.api.palworldgame.com
 +.api.proxlet.com
 +.api.pureapk.com
 +.api.recaptcha.net
@@ -7397,6 +7399,7 @@
 +.ctfassets.net
 +.ctfriend.net
 +.ctg.ac.uk
++.ctinets.com
 +.ctinews.com
 +.ctitv.com.tw
 +.ctk.ac.uk
@@ -11810,6 +11813,7 @@
 +.garotaporno.com
 +.gartlive.com
 +.gartner.com
++.garudalinux.org
 +.gashe.ac.uk
 +.gastrointestinalexam.com
 +.gate-project.com
@@ -15487,6 +15491,7 @@
 +.internetofeverything.com
 +.internetpopculture.com
 +.interracial-sites.com
++.interseclab.org
 +.intescort.com
 +.intgram.com
 +.intheknow.com.au
@@ -20856,6 +20861,7 @@
 +.niosii.com
 +.niosii.net
 +.niran.ac.uk
++.nirsoft.net
 +.nishinipponbank.co.jp
 +.nismod.ac.uk
 +.nist.gov
@@ -21444,6 +21450,7 @@
 +.ocsp-responder.com
 +.ocsp.int-x3.letsencrypt.org
 +.october-review.org
++.octocaptcha.com
 +.ocul.us
 +.oculus-china.com
 +.oculus.com
@@ -30349,6 +30356,7 @@
 +.vpro.com
 +.vpro.net
 +.vpser.net
++.vpsxb.net
 +.vraiesagesse.net
 +.vrbgay.com
 +.vrcams.io
