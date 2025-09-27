@@ -447,6 +447,7 @@ speed.per.aussiebroadband.com.au
 speed.rikanet.com.br
 speed.rnipnet.com.br
 speed.sdmnet.com.br
+speed.serveroyun.com
 speed.sltry.au
 speed.sparcs.net
 speed.syd.aussiebroadband.com.au
@@ -1251,6 +1252,7 @@ st-erzurum-1.turksatkablo.com.tr
 st-eskisehir-1.turksatkablo.com.tr
 st-gaziantep-1.turksatkablo.com.tr
 st-izmir-1.turksatkablo.com.tr
+st-jamestown.sumofiber.com
 st-kayseri-1.turksatkablo.com.tr
 st-kocaeli-1.turksatkablo.com.tr
 st-konya-1.turksatkablo.com.tr
