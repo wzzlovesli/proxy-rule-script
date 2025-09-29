@@ -17,6 +17,7 @@
 .speed.misaka.one
 .speed.pfm.gg
 .speednet.net.tr
+.speedtest.6667890.xyz
 .speedtest.aarnet.net.au
 .speedtest.alagas.net
 .speedtest.angolacables.co.ao
@@ -38,9 +39,11 @@
 .speedtest.i3d.net
 .speedtest.idv.tw
 .speedtest.jsinfo.net
+.speedtest.kansuiun.com
 .speedtest.labixe.net
 .speedtest.leaptel.com.au
 .speedtest.linode.com
+.speedtest.love
 .speedtest.moack.co.kr
 .speedtest.net
 .speedtest.optitel.com.au
@@ -54,6 +57,10 @@
 .speedtest.starhub.com
 .speedtest.telstra.net
 .speedtest.telus.com
+.speedtest.timeweb.ru
+.speedtest.tjokas.com
+.speedtest.vianet.ca
+.speedtest.vipnetconexao.com.br
 .speedtest.vodafone.com.au
 .speedtest.waicore.com
 .speedtest.warian.net
@@ -79,6 +86,7 @@ afyonspeedtest.fixnet.com.tr
 akrd-speedtest.loni.org
 ams-eq6-tptest1.31173.se
 ams-speedtest.isp.htb.systems
+amsspeed.sharktech.net
 amsterdam.getstreamhosting.com
 ant1speedtest.turktelekom.com.tr
 aragonnetspeedtest.com.br
@@ -96,11 +104,11 @@ brindb2speed1.wireline.com.au
 btestmcp.vocetelecom.vc
 bur1speedtest.turktelekom.com.tr
 ca00svp-speed11.svc.tds.net
-ccs.los-angeles.ca.speedtest.6667890.xyz
 cesu-hz.zjtelecom.com.cn
 cesu-nb.zjtelecom.com.cn
 ch1.chtm.hinet.net
 chinatelecom.com.cn.dns.ink
+chispeed.sharktech.net
 clg-105-sptest.ncri.com
 cnk1speedtest.turktelekom.com.tr
 csfw.fj.chinamobile.com
@@ -119,6 +127,7 @@ de-fra2-lg1.level66.network
 de-lg.h2.nexus
 de.st.spacecore.pro
 denizli.verinomidns.com
+denspeed.sharktech.net
 digital-net-isp.com
 diy1speedtest.turktelekom.com.tr
 dllstx-ookla1.vyvebroadband.net
@@ -128,10 +137,13 @@ eregli.flix.net.tr
 erz1speedtest.turktelekom.com.tr
 esn1speedtest.turktelekom.com.tr
 falcon.its.utoronto.ca
+fast.kabi.tk
+fastme.ir
 fetnt1.seed.net.tw
 fetsz1.seed.net.tw
 fetzl1.seed.net.tw
 ffm.wsqm.telekom-dienste.de
+finew.openspeed.org
 finitytelecom.brsserver.com.br
 fla-st01.provenet.com.br
 fla.brisanet.eu.org
@@ -155,7 +167,6 @@ hiztesti.hiperbox.com.tr
 hiztesti.isimkayit.com
 hiztesti2.ondiso.io
 hk-bgp-speedtest.nearoute.io
-hkg.02.speedtest.kansuiun.com
 hkgspeedtest.cmctelecom.vn
 hkspeedtest.netvigator.com
 hkt.hkspeedtest.com
@@ -186,9 +197,12 @@ konya.verinomidns.com
 koreaspeedtest.cmctelecom.vn
 ks-speedtest.homeplus.net.tw
 la-ookla.geolinks.com
+lasspeed.sharktech.net
+lax-st.sumofiber.com
 lax01.screenshot.download
 lax1a-speedtest.webnx.com
 laxla0001speedtestserver01.wiline.com
+laxspeed.sharktech.net
 ldc01-speedtest.whipcord.com
 ldnspeedtest.rackdog.com
 lg-ams.fdcservers.net
@@ -212,13 +226,16 @@ lg-tok.fdcservers.net
 lg-tor.fdcservers.net
 lg.mia.plasmarack.com
 librarian.comstar.ru
+librespeed-rs.ir
+librespeed.a573.net
+librespeed.lukas-heinrich.com
+librespeed.turris.cz
 lifitelecom.brsserver.com.br
 lnx01.smtns.net
 lon-hex-speedtest.cloudconnx.net
 lon-ix1-tptest1.31173.se
 lon.as214402.net
 los-angeles-speedtest.reliablesite.net
-losangeles.speedtest.tjokas.com
 lsanca-speedtest-ookla-02.st.charter.com
 lvconnect.brsserver.com.br
 m1speedtest1.m1net.com.sg
@@ -237,7 +254,6 @@ mns.i-systems.com
 mobile.shunicomtest.com
 montsouris3.d2m.c2d.liveservices.fr
 msk-speedtest2.corbina.net
-msk.speedtest.timeweb.ru
 msk3.companion.t2.ru
 mspeedtest.linkceara.com.br
 mtcspeedtest.catskill.net
@@ -284,6 +300,7 @@ ookla.nw8.as6453.net
 ookla.opticaltel.com
 ookla.oriontelecom.com.br
 ookla.p2.neptune.net.au
+ookla.paulonet.srv.br
 ookla.pgservicos.com.br
 ookla.playmaisreverso.net.br
 ookla.pvu.as6453.net
@@ -301,14 +318,12 @@ ooklaspeedtest-cdv.quebeccloud.com
 ooklaspeedtest-ist1.quickzone.net
 ooklatins.redeconexaonet.com
 open.cachefly.net
-osk.speedtest.love
 owst.gilat.net
 par1speedtest01.skylogic.com
 pauseq4vost1.datamossa.cloud
 perf-01.ixn.as42689.net
 perf.keyyo.net
 postapps.com
-pvh.speedtest.vipnetconexao.com.br
 qld-speedtest.spirit.com.au
 reflector.aberythmic.com
 rspeed.mi-group.com.tr
@@ -436,6 +451,7 @@ speed.jumpernet.com.br
 speed.lax-1.serverforge.org
 speed.lordnet.net
 speed.matrixtelecon.com.br
+speed.megasyy.com
 speed.mel.aussiebroadband.com.au
 speed.mpvnetworks.com
 speed.msk.avantel.ru
@@ -446,6 +462,7 @@ speed.newclicktelecom.com.br
 speed.onlinedersm.xyz
 speed.per.aussiebroadband.com.au
 speed.rikanet.com.br
+speed.riverside.rocks
 speed.rnipnet.com.br
 speed.sdmnet.com.br
 speed.serveroyun.com
@@ -488,6 +505,7 @@ speedfor.infolinktelecom.com
 speedfortal.redeplanetanet.com.br
 speedgauge2.optonline.net
 speedlon.hyperoptic.com
+speedme.ir
 speednet-atn.brsserver.com.br
 speednet.brsserver.com.br
 speednld.phoenixnap.com
@@ -710,6 +728,7 @@ speedtest.brnchost.com
 speedtest.brooketel.coop
 speedtest.brsk.co.uk
 speedtest.bursabil.com.tr
+speedtest.byteshield.ro
 speedtest.ca-tr.kamatera.com
 speedtest.cadence.net.uk
 speedtest.capti.com.au
@@ -717,6 +736,7 @@ speedtest.cdmsfirst.com
 speedtest.ceanettelecom.com.br
 speedtest.cenosnetworks.net
 speedtest.cerberusnetworks.co.uk
+speedtest.cesnet.cz
 speedtest.cg.shawcable.net
 speedtest.citytelecom.ru
 speedtest.clarkson.edu
@@ -754,6 +774,7 @@ speedtest.dgn.net.tr
 speedtest.didimnet.com.tr
 speedtest.dllstx97.metronetinc.com
 speedtest.dongfong.com.tw
+speedtest.dsgroupmedia.com
 speedtest.dukekunshan.edu.cn
 speedtest.ebox.ca
 speedtest.ed.shawcable.net
@@ -843,6 +864,7 @@ speedtest.jsqiuying.com
 speedtest.jvswifi.com.br
 speedtest.k-fo.net
 speedtest.kairun.jp
+speedtest.kamilszczepanski.com
 speedtest.kapteyan.com.tr
 speedtest.kazzara.net
 speedtest.keiminem.com
@@ -872,6 +894,7 @@ speedtest.lon1.edgoo.net
 speedtest.lon1.hivelocity.net
 speedtest.lsvl.cooptel.ca
 speedtest.luminet.cr
+speedtest.lumischvps.cloud
 speedtest.lureit.ru
 speedtest.macapatelecom.net.br
 speedtest.macpaw.com
@@ -1062,7 +1085,6 @@ speedtest.verimek.com
 speedtest.verycloud.fr
 speedtest.viberlink.net
 speedtest.viperhost.net
-speedtest.vipnetconexao.com.br
 speedtest.visiontelecom.com.br
 speedtest.vnet.su
 speedtest.vodafone.com.tr
@@ -1149,6 +1171,7 @@ speedtest2.lightningfibre.net.uk
 speedtest2.pacificinternet.com
 speedtest2.plusnet.com.tr
 speedtest2.rhitcr.com
+speedtest2.sox.rs
 speedtest2.telin.sg
 speedtest2.valleyfiber.ca
 speedtest2.voicehost.co.uk
@@ -1247,6 +1270,9 @@ st-antalya-1.turksatkablo.com.tr
 st-atakoy-1.turksatkablo.com.tr
 st-balikesir-1.turksatkablo.com.tr
 st-balikesirbandirma-1.turksatkablo.com.tr
+st-be-ba1.infra.garr.it
+st-be-bo1.infra.garr.it
+st-be-rm2.infra.garr.it
 st-bolu-1.turksatkablo.com.tr
 st-bursa-1.turksatkablo.com.tr
 st-denizli-1.turksatkablo.com.tr
@@ -1265,6 +1291,7 @@ st-tekirdag-1.turksatkablo.com.tr
 st-tekirdagcorlu-1.turksatkablo.com.tr
 st-zonguldak-1.turksatkablo.com.tr
 st-zonguldakeregli-1.turksatkablo.com.tr
+st.bardia.tech
 st.fratec.net
 st.jnettelecom-am.com.br
 st.mow.gin.ru
@@ -1274,7 +1301,6 @@ st1.htva.net
 st1.scaleway.com
 st1.tbaytel.net
 st2.octopustelecom.co.uk
-st2.speedtest.vianet.ca
 st2a.les.net
 staffdigital.com.br
 stbarrie.netcrawler.ca
