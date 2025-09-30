@@ -12824,6 +12824,7 @@
 +.gputechconf.eu
 +.gputechconf.in
 +.gputechconf.jp
++.gqhongkong.com
 +.gqzmnav.cc
 +.gr-assets.com
 +.gr8domain.biz
