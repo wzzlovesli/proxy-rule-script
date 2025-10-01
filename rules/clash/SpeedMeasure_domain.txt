@@ -86,6 +86,7 @@ afyonspeedtest.fixnet.com.tr
 akrd-speedtest.loni.org
 ams-eq6-tptest1.31173.se
 ams-speedtest.isp.htb.systems
+ams.speedtest.serverside.com
 amsspeed.sharktech.net
 amsterdam.getstreamhosting.com
 ant1speedtest.turktelekom.com.tr
