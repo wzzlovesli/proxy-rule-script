@@ -6143,6 +6143,7 @@
 +.5551557.com
 +.5552200.com
 +.55552121.com
++.55555.ink
 +.55555.io
 +.55555432.com
 +.55555558.com
@@ -58794,6 +58795,7 @@
 +.julanggroup.com
 +.julanhp.com
 +.julanling.com
++.julebu.co
 +.julecn.com
 +.julefun.com
 +.juli-china.com
@@ -78433,7 +78435,9 @@
 +.qianxingniwo.com
 +.qianxingwl.com
 +.qianxs.com
++.qianxuecloud.com
 +.qianxuew.com
++.qianxueyunke.com
 +.qianxun.com
 +.qianxunclub.com
 +.qianxungroup.com
@@ -114597,6 +114601,7 @@
 +.zhixingapp.com
 +.zhixingit.com
 +.zhixingjj88.com
++.zhixingyunke.com
 +.zhixiu.net
 +.zhixuan.com
 +.zhixue.com
