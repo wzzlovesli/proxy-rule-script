@@ -199,6 +199,7 @@ kh1.chtm.hinet.net
 kl-speedtest.homeplus.net.tw
 kmlpbcnu-speedtest-01.telus.com
 konya.verinomidns.com
+konyaspeed.fizynet.com.tr
 koreaspeedtest.cmctelecom.vn
 ks-speedtest.homeplus.net.tw
 la-ookla.geolinks.com
@@ -1475,6 +1476,7 @@ tr-istanbul.elmashost.com
 trtspeedtest.altimatel.com
 tsdvuspeedtest01p.allstream.com
 turknet16.residential.tr
+txdllsspeedtest01.mybluepeak.net
 txg-speedtest.infinirc.com
 ty-bgp-speedtest.nearoute.io
 ty-speedtest.homeplus.net.tw

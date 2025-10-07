@@ -1102,6 +1102,7 @@ product-downloads.atlassian.com
 proxy.golang.org
 quantum-mirror.hu
 redstone-launcher.mojang.com
+registry-1.docker.io
 registry-cdn.wapm.io
 registry.bower.io
 registry.fedoraproject.org
