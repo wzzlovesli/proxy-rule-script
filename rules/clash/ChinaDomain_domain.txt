@@ -29938,6 +29938,7 @@
 +.diyidan.com
 +.diyidan.net
 +.diyidanhao.com
++.diyiedu.com
 +.diyifanwen.com
 +.diyifanwen.net
 +.diyigaokao.com
@@ -35282,6 +35283,7 @@
 +.fengshi8888.com
 +.fengshigroup.com
 +.fengsung.com
++.fengsutb.com
 +.fengtai.tv
 +.fengtalk.com
 +.fengtao365.com
@@ -74907,6 +74909,7 @@
 +.ourqm.com
 +.ourren.com
 +.oursakura.com
++.ourschool.cc
 +.oursec1.com
 +.oursec2.com
 +.ourselec.com

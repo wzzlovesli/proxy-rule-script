@@ -17,7 +17,7 @@ payload:
 - DOMAIN-KEYWORD,xlliveud
 - DOMAIN-KEYWORD,xunlei
 - DOMAIN-KEYWORD,yunpan
-- DOMAIN-WILDCARD,*.qhimgs?.com
+- DOMAIN-WILDCARD,*.qhimgs
 - IP-CIDR,101.224.0.0/13,no-resolve
 - IP-CIDR,101.71.154.241/32,no-resolve
 - IP-CIDR,103.126.92.132/31,no-resolve
