@@ -560,6 +560,7 @@ cdn.zoom.us
 cdnorg.d.miui.com
 charts.verdaccio.org
 chnroutes2.cdn.skk.moe
+cisco.yuntu.com.tw
 ciscobinary.openh264.org
 clarkson.edu
 client.hikarifield.co.jp
@@ -738,6 +739,7 @@ enterprise.proxmox.com
 epicgames-download1.akamaized.net
 espejito.fder.edu.uy
 fastly-download.epicgames.com
+fdisk.5play.app
 fedorapeople.org
 file.chobit.cc
 files2.freedownloadmanager.org
@@ -1060,6 +1062,7 @@ mirrors.xtom.jp
 mirrors.xtom.nl
 mirrors.xtom.sg
 mirrors.xtom.us
+mirrors.yuntu.com.tw
 msdl.microsoft.com
 muug.ca
 nobara-images.nobaraproject.org
@@ -1164,6 +1167,7 @@ tug.ctan.org
 tux.rainside.sk
 u.keka.io
 update.code.visualstudio.com
+update.cyberduck.io
 update.googleapis.com
 update.greasyfork.org
 update.parallels.com
