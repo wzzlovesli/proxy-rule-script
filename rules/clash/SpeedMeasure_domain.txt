@@ -321,6 +321,7 @@ ookla.sy1.neptune.net.au
 ookla.ukcell.net
 ookla.xponnet.com.br
 ookla1.ccspublichost.com
+ookla2.mbspeed.net
 ookla3.1und1-mobilfunk.de
 ooklaspeedtest-cdv.quebeccloud.com
 ooklaspeedtest-ist1.quickzone.net
@@ -552,6 +553,7 @@ speedtest-dallas.swyftfiber.com
 speedtest-darwin-nt.optusnet.com.au
 speedtest-darwin.optusnet.com.au
 speedtest-de.pq.hosting
+speedtest-de.unihost.com
 speedtest-de.webdade.com
 speedtest-dfw.dish-wireless.com
 speedtest-east.eastlink.ca
@@ -613,6 +615,7 @@ speedtest-nl.bellaliant.net
 speedtest-nl.cloudlease.co.il
 speedtest-nl.eastlink.ca
 speedtest-nl.hyperfilter.com
+speedtest-nl.unihost.com
 speedtest-nl.vdsina.ru
 speedtest-nl.webdade.com
 speedtest-ns.bellaliant.net
@@ -643,6 +646,7 @@ speedtest-sg.cbn.id
 speedtest-sg.cni.net.id
 speedtest-sg.iconpln.net.id
 speedtest-sg.napinfo.co.id
+speedtest-sg.unihost.com
 speedtest-sg1.simba.sg
 speedtest-sin.melbicom.net
 speedtest-sjc.acreto.net
@@ -1130,6 +1134,7 @@ speedtest.yless4u.com.au
 speedtest01.ams6.solcon.nl
 speedtest01.dns-net.de
 speedtest01.ehtel.ca
+speedtest01.mel1.spintel.net.au
 speedtest01.o-net.ca
 speedtest01.per1.spintel.net.au
 speedtest01.srv.dllstx.alticeusa.net
