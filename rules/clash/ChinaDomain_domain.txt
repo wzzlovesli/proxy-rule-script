@@ -12360,6 +12360,7 @@
 +.apcups.org
 +.apcupse.com
 +.apdcdn.com
++.apdcdn.net
 +.ape8.com
 +.apearth.com
 +.apecome.com
@@ -14847,6 +14848,7 @@
 +.bdkyr.com
 +.bdlcqjw.com
 +.bdmozon.com
++.bdmyandex.com
 +.bdns-api-test.net
 +.bdns-boe.com
 +.bdns-boe.net
@@ -18314,6 +18316,7 @@
 +.bytetstatic.net
 +.byteug.com
 +.bytevalk.com
++.bytevcloudapi.com
 +.bytevcloudvod.com
 +.bytevdn-boe.com
 +.bytevdn.com
@@ -22604,6 +22607,7 @@
 +.chomixbiotech.com
 +.chong-wu.net
 +.chong4.net
++.chongbuluo.com
 +.chongchi.com
 +.chongchuang.biz
 +.chongdawang.com
@@ -25458,6 +25462,7 @@
 +.coyuk.com
 +.coyuns.net
 +.coze.cn
++.coze.site
 +.cozonenet.com
 +.cp-keji.com
 +.cp0556.com
@@ -29921,6 +29926,7 @@
 +.djgy.com
 +.djhxn.com
 +.dji.com
++.dji.ink
 +.dji.net
 +.djiang.net
 +.djiavip.com
@@ -37437,6 +37443,7 @@
 +.gangqinpu.com
 +.gangqinxiansheng.com
 +.gangshenglian.com
++.gangtise.com
 +.gangyu.org
 +.gangyuan.com
 +.ganhao.vip
@@ -48803,6 +48810,7 @@
 +.hspharm.com
 +.hspm.net
 +.hspress.net
++.hsqh.net
 +.hsqhfunds.com
 +.hsqhospital.com
 +.hsqjfw.com
@@ -51438,7 +51446,9 @@
 +.ibbwhat.com
 +.ibcet.org
 +.ibczy.com
++.ibdxiguaimg.com
 +.ibdxigualive.com
++.ibdxiguastatic.com
 +.ibdxiguavod.com
 +.ibeidiao.com
 +.ibeifeng.com
@@ -67013,6 +67023,7 @@
 +.maotuying.com
 +.maowotao.com
 +.maoxia007.com
++.maoxiangai.com
 +.maoxinhang.com
 +.maoxinquan.net
 +.maoxiongtv.com
@@ -67354,6 +67365,7 @@
 +.mc91.com
 +.mc9y.net
 +.mcake.com
++.mcbaas.work
 +.mcbang.com
 +.mcbao.com
 +.mcbbs.co
@@ -67370,6 +67382,7 @@
 +.mcd.cc
 +.mcd.cn
 +.mcdchina.net
++.mcdemo.show
 +.mcdsusan.com
 +.mcdvisa.com
 +.mce.msi.com
@@ -70493,6 +70506,7 @@
 +.myp17.com
 +.myp2pch.net
 +.mypaas.com
++.myparallelstory.com
 +.mypcrun.com
 +.mypethome.com
 +.mypharma.com
@@ -76185,6 +76199,7 @@
 +.pixcakes.com
 +.pixe44lrifted.com
 +.pixelauth.com
++.pixeldance.com
 +.pixelgame.net
 +.pixepf.sbs
 +.pixiaojiang.com
@@ -91930,6 +91945,7 @@
 +.tctran.com
 +.tctz.com
 +.tcvywoh.com
++.tcwqqdy.guru
 +.tcwt.net
 +.tcxmt.com
 +.tcxw.cc
@@ -94171,6 +94187,7 @@
 +.toyoutesting.com
 +.toysir.com
 +.toysol.com
++.tozi-cn.top
 +.tp-data.com
 +.tp-hivi.com
 +.tp308kaiyuan.vip
@@ -94276,6 +94293,7 @@
 +.tradow.com
 +.tradplus.com
 +.tradplusad.com
++.trae.guru
 +.trafstore.com
 +.traineexp.com
 +.trainingipv6.com
