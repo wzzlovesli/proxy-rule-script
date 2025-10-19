@@ -4933,6 +4933,7 @@
 +.boomerang.com
 +.boomssr.com
 +.booru.org
++.boosty.to
 +.booth.pm
 +.bootstrapcdn.com
 +.bootyliciousmag.com
@@ -6010,6 +6011,7 @@
 +.cdn-images.mailchimp.com
 +.cdn-telegram.org
 +.cdn-terapeak.com
++.cdn-vk.ru
 +.cdn.ac.uk
 +.cdn.angruo.com
 +.cdn.arstechnica.net
@@ -8180,6 +8182,7 @@
 +.diabetes-healthnet.ac.uk
 +.diablo3.com
 +.diabloimmortal.com
++.diabrowser.com
 +.diagrams.net
 +.dialga.com
 +.dialogflow.com
@@ -8620,6 +8623,7 @@
 +.domywife.com
 +.don.ac.uk
 +.donatecarsoh.org
++.donationalerts.com
 +.doncaster.ac.uk
 +.donga.com
 +.dongtaiwang.com
@@ -12987,6 +12991,7 @@
 +.guangming.org
 +.guangnianvpn.com
 +.guaranitermal.com
++.guardarian.com
 +.guardianapis.com
 +.guardianapps.co.uk
 +.guardianproject.info
@@ -18514,6 +18519,7 @@
 +.melonstube.com
 +.meltoday.com
 +.meme111.com
++.memealerts.com
 +.memehk.com
 +.memes.tw
 +.memorybbs.com
@@ -21535,6 +21541,7 @@
 +.okaapps.com
 +.okayfreedom.com
 +.okazudouga.tokyo
++.okcdn.ru
 +.okcoin.com
 +.okex.com
 +.okinawabank.co.jp
@@ -24751,10 +24758,15 @@
 +.samsung.com
 +.samsungapps.com
 +.samsungcloud.com
++.samsungconsent.com
 +.samsungdm.com
 +.samsunggalaxyfriends.com
++.samsunghealth.com
++.samsungiotcloud.com
 +.samsungknox.com
++.samsungosp.com
 +.samsungqbe.com
++.samsungrs.com
 +.sandisk.ae
 +.sandisk.co.jp
 +.sandisk.co.kr
@@ -26731,6 +26743,7 @@
 +.stdavidscollege.ac.uk
 +.stdavidsdaygroup.ac.uk
 +.stdoms.ac.uk
++.stealthex.io
 +.steam-api.com
 +.steam-chat.com
 +.steam.apac.qtlglb.com
@@ -29588,6 +29601,7 @@
 +.vercel.app
 +.vercel.blog
 +.vercel.com
++.vercel.dev
 +.vercel.events
 +.vercel.live
 +.vercel.pub
@@ -30026,6 +30040,7 @@
 +.vk.ru
 +.vk.team
 +.vkcache.com
++.vkcloud-static.ru
 +.vkgo.app
 +.vklive.app
 +.vkmessenger.app
@@ -32859,7 +32874,7 @@ clients1.google.com
 cloud.oracle.com
 cloudsync-prod.s3.amazonaws.com
 community.oneplus.com
-courier-push-apple.com.akadns.net
+configuration-lb.ls-apple.com.akadns.net
 crl.microsoft.com
 crl.versign.net
 csis-prod.s3.amazonaws.com
