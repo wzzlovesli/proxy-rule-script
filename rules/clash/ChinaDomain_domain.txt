@@ -8066,6 +8066,7 @@
 +.865211.com
 +.86586222.com
 +.86590.com
++.86656.net
 +.866ds.com
 +.8671099.com
 +.8673h.com
@@ -36593,6 +36594,7 @@
 +.fszhiko.com
 +.fszyjx.com
 +.ft.tech
++.ft07.com
 +.ft12.com
 +.ft22.com
 +.ft98.com
@@ -118512,8 +118514,6 @@ ml.cdn-apple.com
 monitoring.qpdp1.net
 moo.qq.com
 moocs.unipus.cn
-msgr.dlservice.microsoft.com
-msgruser.dlservice.microsoft.com
 music.apple.com
 myapp.itunes.apple.com
 myvs.download.prss.microsoft.com
@@ -118587,7 +118587,6 @@ proxyconfig.corp.google.com
 publicassets.cdn-apple.com
 qagpublic.qatp1.net
 qgadmin.qcpp1.net
-qh.dlservice.microsoft.com
 qiao-cn.com
 qpx.googleflights.net
 qualysapi.qatp1.net
@@ -118638,8 +118637,6 @@ sh-pod2-smp-device.apple.com
 shazam-insights.cdn-apple.com
 shell.cdn.office.net
 si.cdn.dell.com
-silverlight.dlservice.microsoft.com
-slupdate.dlservice.microsoft.com
 sm.dell.com
 smart.uhdnow.com
 smp-device-content.apple.com
@@ -118734,7 +118731,6 @@ weather-map.apple.com
 weather-map2.apple.com
 weatherkit.apple.com
 weixin.com
-wl.dlservice.microsoft.com
 wscont1.apps.microsoft.com
 wscont2.apps.microsoft.com
 www-csb.dell.com
@@ -118760,7 +118756,6 @@ www.support.apple.com
 www.yxssp.com
 www.ztedevices.com
 www4-static.gog-statics.com
-xb.dlservice.microsoft.com
 xn--flw351e.com
 xp.apple.com
 xz.pphimalayanrt.com
