@@ -70181,6 +70181,7 @@
 +.mw1950.com
 +.mwadx.com
 +.mwave.tech
++.mwcdns.com
 +.mwclg.com
 +.mwcloudcdn.com
 +.mwcloudcdn.info
@@ -101245,6 +101246,7 @@
 +.wsgeogen.com
 +.wsgjj.com
 +.wsgjp.com
++.wsglb.com
 +.wsglb.net
 +.wsglb0.com
 +.wsglb0.info
@@ -104129,6 +104131,7 @@
 +.xingguanggongkao.com
 +.xinghai365.com
 +.xinghaigroup.com
++.xinghaiwaimai.com
 +.xinghan.vip
 +.xinghangdao.com
 +.xinghantec.com
