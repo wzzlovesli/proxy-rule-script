@@ -23954,6 +23954,7 @@
 +.cn-zhongrui.com
 +.cn.bing.com
 +.cn.bing.net
++.cn.eset.com
 +.cn.mm.bing.net
 +.cn.net
 +.cn.online.standardchartered.com
@@ -50996,6 +50997,7 @@
 +.hzkqyyjt.com
 +.hzkszx.com
 +.hzlange.com
++.hzlawyer.net
 +.hzlczx.com
 +.hzleaper.com
 +.hzleshun.com
@@ -113763,6 +113765,7 @@
 +.zhi-ming.com
 +.zhi-niao.com
 +.zhi.hu
++.zhi10.com
 +.zhi3.net
 +.zhiaimusic.com
 +.zhiangroup.com
