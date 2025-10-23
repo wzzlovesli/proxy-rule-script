@@ -325,6 +325,7 @@ ookla.xponnet.com.br
 ookla1.ccspublichost.com
 ookla2.mbspeed.net
 ookla3.1und1-mobilfunk.de
+ooklaspeed.ttron.eu
 ooklaspeedtest-cdv.quebeccloud.com
 ooklaspeedtest-ist1.quickzone.net
 ooklatins.redeconexaonet.com
@@ -901,6 +902,7 @@ speedtest.lax.hivelocity.net
 speedtest.lax01.xfernet.net
 speedtest.lax1.nitelusa.net
 speedtest.layra.web.tr
+speedtest.lazco.dev
 speedtest.lekloud.net
 speedtest.link.bm
 speedtest.linkamos.com.br
