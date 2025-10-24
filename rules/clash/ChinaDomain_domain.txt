@@ -4653,6 +4653,7 @@
 +.4399youpai.com
 +.4399youxi.com
 +.4399yyy.com
++.4399zmxy.com
 +.43cv.com
 +.43dj.com
 +.43ns.com
@@ -19768,6 +19769,7 @@
 +.cdn-uc.cc
 +.cdn-v.com
 +.cdn.fun
++.cdn.ist
 +.cdn.jetbrains.com
 +.cdn.samsung.com
 +.cdn.shanghai.nyu.edu
@@ -20266,6 +20268,7 @@
 +.ceyice.net
 +.ceyige.com
 +.cezhu.net
++.cf-china.info
 +.cf-ns.com
 +.cf-ns.net
 +.cf-ns.site
@@ -33825,6 +33828,7 @@
 +.everbrightphotonics.com
 +.evercarecn.com
 +.everdns.com
++.everdrawing.com
 +.evereasycom.com
 +.everedit.net
 +.everet.org
@@ -50404,6 +50408,7 @@
 +.hwhidc.com
 +.hwht.com
 +.hwj.com
++.hwjianmo.com
 +.hwjm-mold.com
 +.hwjyw.com
 +.hwlifting.com
@@ -50428,6 +50433,7 @@
 +.hwyton.com
 +.hwyxxx.com
 +.hwzn.com
++.hwzuku.com
 +.hwzyjt.com
 +.hx-parking.com
 +.hx-qt.com
@@ -52162,6 +52168,7 @@
 +.ifengli.com
 +.ifenglian.com
 +.ifenglife.com
++.ifengmap.com
 +.ifengo.com
 +.ifengpai.com
 +.ifengqun.com
@@ -63891,6 +63898,7 @@
 +.linglingkaimen.com
 +.linglingmo.site
 +.linglong.dev
++.linglong.space
 +.linglongart.com
 +.linglonglife.com
 +.linglongtech.com
