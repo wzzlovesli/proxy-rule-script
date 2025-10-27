@@ -6745,6 +6745,7 @@
 +.cloudflare-ipfs.com
 +.cloudflare-quic.com
 +.cloudflare.com
++.cloudflare.dev
 +.cloudflare.net
 +.cloudflare.tv
 +.cloudflareaccess.com
@@ -13083,6 +13084,7 @@
 +.gyutto.com
 +.gzm.tv
 +.gzone-anime.info
++.h-chan.me
 +.h-china.org
 +.h-doujinshi.xyz
 +.h-flash.com
@@ -13166,6 +13168,7 @@
 +.hanime.tv
 +.hanime.xxx
 +.hanime.xyz
++.hanime1.com
 +.hanime1.me
 +.hanimeone.me
 +.hanmail.net
@@ -13446,6 +13449,8 @@
 +.hentai-ani.me
 +.hentai-archive.com
 +.hentai-books.com
++.hentai-chan.com
++.hentai-chan.live
 +.hentai-cosplays.com
 +.hentai-covers.site
 +.hentai-eroanime.net
@@ -13491,6 +13496,8 @@
 +.hentaibar.com
 +.hentaiblue.com
 +.hentaibros.com
++.hentaichan.live
++.hentaichan.me
 +.hentaicity.com
 +.hentaicloud.com
 +.hentaiclub.net
@@ -15084,6 +15091,7 @@
 +.imgix.com
 +.imgix.net
 +.imgmega.com
++.imgschan.xyz
 +.imgsmail.ru
 +.imgur.com
 +.imgur.io
