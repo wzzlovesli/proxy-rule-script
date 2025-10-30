@@ -337,6 +337,7 @@ perf-01.ixn.as42689.net
 perf.keyyo.net
 postapps.com
 qld-speedtest.spirit.com.au
+qoeookla-mimi-01.sys.comcast.net
 redeultramf.net.br
 reflector.aberythmic.com
 rspeed.mi-group.com.tr
@@ -453,6 +454,7 @@ speed.data.cr
 speed.econett.com.br
 speed.farknet.net
 speed.fgtelecom.com.br
+speed.fibraencasa.cr
 speed.flix.net.tr
 speed.flttelecom.com.br
 speed.fyberlink.com.br
@@ -736,6 +738,7 @@ speedtest.battern.eu
 speedtest.bellaliant.net
 speedtest.beyondair.ca
 speedtest.binet.com.tr
+speedtest.bkfiber.com
 speedtest.blacksun.ca
 speedtest.bmcc.com.cn
 speedtest.bnsdfw.com
@@ -1016,6 +1019,7 @@ speedtest.reycom.cr
 speedtest.rfchost.net
 speedtest.rfnow.net
 speedtest.rit.edu
+speedtest.rochestercolo.com
 speedtest.ropa.de
 speedtest.roraimanet.com.br
 speedtest.routinger.com.br
@@ -1451,6 +1455,7 @@ test.curionet.com.br
 test.infoconnecttelecom.com.br
 test.internetliontelecom.com.br
 test.logae.net.br
+test.rnfibra.com.br
 test.slic.com
 test.turuncunet.com.tr
 teste.diotelecom.com.br
