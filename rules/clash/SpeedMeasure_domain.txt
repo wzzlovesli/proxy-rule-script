@@ -1140,6 +1140,7 @@ speedtest.xcdtelecom.com
 speedtest.xipnet.com
 speedtest.xirgo.ca
 speedtest.xsnews.nl
+speedtest.yalniz.net
 speedtest.yless4u.com.au
 speedtest01.ams6.solcon.nl
 speedtest01.dns-net.de
@@ -1499,6 +1500,7 @@ tp1.chtm.hinet.net
 tr-bursa.elmashost.com
 tr-ist.orfi.net.tr
 tr-istanbul.elmashost.com
+tr.hostligo.com
 trtspeedtest.altimatel.com
 tsdvuspeedtest01p.allstream.com
 turknet16.residential.tr
