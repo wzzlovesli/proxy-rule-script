@@ -282,6 +282,7 @@ o-uk-1.flwc.cc
 ogtm-speedtest.f5.si
 ok.conectmastelecom.com.br
 ookla-ams.avur.no
+ookla-autazes.amazoniasat-isp.com.br
 ookla-ita.asanet.tec.br
 ookla-lax.extentit.com
 ookla-london.briantbroadband.com
@@ -569,6 +570,7 @@ speedtest-engine.primus.ca
 speedtest-eqx-sg1.ixtelecom.net
 speedtest-eqxae1.fsg-hosting.com
 speedtest-fkt-eqx.retn.net
+speedtest-fra-de.w-net.eu
 speedtest-fra.melbicom.net
 speedtest-geelong.optusnet.com.au
 speedtest-goldcoast.optusnet.com.au

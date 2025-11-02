@@ -13034,6 +13034,7 @@
 +.attacker.fit
 +.attainsgroup.com
 +.attendees.link
++.atticus.vip
 +.attomotion.com
 +.attop.com
 +.attri.mobi
@@ -31072,6 +31073,7 @@
 +.dsilicone.com
 +.dsjt.com
 +.dskb.co
++.dskj-ops.com
 +.dsktjt.com
 +.dskystudio.com
 +.dslbuy.com
@@ -52703,7 +52705,6 @@
 +.imliuyi.com
 +.imlizhi.com
 +.immeee.com
-+.immersivetranslate.com
 +.immfast.com
 +.immi520.com
 +.immiexpo.com
@@ -54902,6 +54903,7 @@
 +.jfinal.com
 +.jfinfo.com
 +.jfj3419.com
++.jfjt.cc
 +.jflswl.com
 +.jfpal.com
 +.jfq.com
