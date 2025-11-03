@@ -56354,6 +56354,7 @@
 +.jiqish.com
 +.jiqizhixin.com
 +.jiqrxx.com
++.jiqw.com
 +.jirehhz.com
 +.jirengu.com
 +.jirenqi.com
@@ -103654,6 +103655,7 @@
 +.xibao100.com
 +.xibeicanyin.com
 +.xibeidev.com
++.xiberia.net
 +.xibojiaoyu.com
 +.xibsteel.com
 +.xibu168.com
