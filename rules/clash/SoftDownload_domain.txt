@@ -858,6 +858,7 @@ http.kali.org
 httpd-mirror.sergal.org
 i18n.prismlauncher.org
 icm.edu.pl
+index.rubygems.org
 install.virtfusion.net
 invent.kde.org
 it.apache.contactlab.it
@@ -1135,6 +1136,7 @@ repo1.maven.org
 repository.jboss.org
 repository.su
 rpm.xpipe.io
+rubygems.org
 ruleset.skk.moe
 s3.teckids.org
 searchcpan.org
