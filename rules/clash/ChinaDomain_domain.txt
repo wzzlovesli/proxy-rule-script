@@ -59315,6 +59315,7 @@
 +.kaijia-smt.com
 +.kaijia.com
 +.kaijiage.com
++.kaijiejinrong.com
 +.kaijieunion.com
 +.kaijiudian.net
 +.kaikeba.com
