@@ -553,8 +553,10 @@ cdn.fwupd.org
 cdn.hyperbeam.com
 cdn.kagi.com
 cdn.kde.org
+cdn.oneget.org
 cdn.opensuse.org
 cdn.organicmaps.app
+cdn.powershellgallery.com
 cdn.winget.microsoft.com
 cdn.zoom.us
 cdnorg.d.miui.com
