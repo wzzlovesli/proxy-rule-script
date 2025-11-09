@@ -263,6 +263,7 @@
 +.2buybeatsbydre.com
 +.2ch.hk
 +.2ch.net
++.2ch.sc
 +.2chav.com
 +.2dgen.com
 +.2drdrebeats.com
@@ -2906,6 +2907,7 @@
 +.av01.tv
 +.av11.org
 +.av1688.cc
++.av28.com
 +.av369.net
 +.av4.us
 +.av69.tv
@@ -5663,6 +5665,7 @@
 +.cando.ac.uk
 +.candycumcity.com
 +.candypleasure.com
++.cangku.moe
 +.cannington.ac.uk
 +.cannock.ac.uk
 +.canolfansgiliaucadarn.ac.uk
@@ -22985,6 +22988,7 @@
 +.polymer-project.org
 +.polymerhk.com
 +.polymerproject.org
++.pomf.cat
 +.poms.ac.uk
 +.pone.ac.uk
 +.pontypridd.ac.uk
