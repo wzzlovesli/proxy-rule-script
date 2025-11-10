@@ -618,7 +618,6 @@ ctan.yazd.ac.ir
 ctldl.windowsupdate.com
 d.myani.org
 data.gameflare.com
-de.freedif.org
 deb.nodesource.com
 debian-archive.trafficmanager.net
 desktop.parallels.com
@@ -863,7 +862,6 @@ icm.edu.pl
 index.rubygems.org
 install.virtfusion.net
 invent.kde.org
-it.apache.contactlab.it
 iterm2.com
 jing.rocks
 kartolo.sby.datautama.net.id
@@ -958,7 +956,6 @@ mirror.navercorp.com
 mirror.nbtelecom.com.br
 mirror.netcologne.de
 mirror.netcologne.de.org
-mirror.netinch.com
 mirror.nl.leaseweb.net
 mirror.nohup.it
 mirror.novg.net

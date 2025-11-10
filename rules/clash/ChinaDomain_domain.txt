@@ -4282,6 +4282,7 @@
 +.3dtvbits.org
 +.3dtzg.com
 +.3dwebyx.com
++.3dwhere.com
 +.3dwwwgame.com
 +.3dxt.com
 +.3dxuan.com
@@ -25010,6 +25011,7 @@
 +.cofcotrading.com
 +.cofeed.com
 +.coffee-hdl.com
++.coffee-iot.com
 +.coffee-script.org
 +.coffee08.com
 +.coffeecdn.com
