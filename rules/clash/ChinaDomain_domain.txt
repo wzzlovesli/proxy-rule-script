@@ -10507,6 +10507,7 @@
 +.aichagu.com
 +.aichaicp.com
 +.aichan.info
++.aichangbaishan.com
 +.aichaoxing.com
 +.aichat.net
 +.aichat1234.com
@@ -15866,7 +15867,6 @@
 +.binfenyeke.com
 +.binfenyingyu.com
 +.binfenzhilv.com
-+.bing.com
 +.bing400.com
 +.bingchengwang.com
 +.bingchenvacuum.com
@@ -27423,6 +27423,7 @@
 +.cztv.cc
 +.cztv.com
 +.cztv.tv
++.cztvcdn.com
 +.cztvcloud.com
 +.cztzkg.com
 +.czur.com
@@ -38310,6 +38311,7 @@
 +.geekmaker.com
 +.geekman.vip
 +.geeknev.com
++.geekpark
 +.geekpark.net
 +.geekpwn.org
 +.geeksblog.cc

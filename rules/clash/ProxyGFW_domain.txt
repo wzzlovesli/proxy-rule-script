@@ -1082,6 +1082,8 @@
 +.afappyending.com
 +.afewmomentswith.com
 +.affect3dstore.com
++.affinity.api.serifservices.com
++.affinity.studio
 +.affirmtrust.com
 +.afi.ac.uk
 +.afkv28.com
@@ -3903,6 +3905,7 @@
 +.bfsh.hk
 +.bftv.ac.uk
 +.bgc.ac.uk
++.bgicdn.com
 +.bgm.tv
 +.bgme.me
 +.bgov.com
@@ -5746,6 +5749,7 @@
 +.canterburycollege.ac.uk
 +.canterburytrust.ac.uk
 +.cantonese.asia
++.canva.com
 +.canyu.org
 +.cao.im
 +.caobian.info
@@ -12780,6 +12784,7 @@
 +.googleblog.com
 +.googlebot.com
 +.googlecapital.com
++.googlecensorship.org
 +.googlecert.net
 +.googlechinawebmaster.com
 +.googlecode.com
@@ -12955,6 +12960,7 @@
 +.greatermanchestermedicalschool.ac.uk
 +.greatfire.org
 +.greatfire.us7.list-manage.com
++.greatfirevpn.com
 +.greatfirewall.biz
 +.greatfirewallofchina.net
 +.greatfirewallofchina.org
@@ -19395,6 +19401,7 @@
 +.moefuns.co
 +.moegirl.org
 +.moeimg.net
++.moeload.com
 +.moeshare.cc
 +.moez-m.com
 +.mof.kemomi.me
@@ -19860,6 +19867,7 @@
 +.myamateurgirls.net
 +.myamateurtv.com
 +.myanimelist.net
++.myanimeshelf.com
 +.myanniu.com
 +.myappleid.com
 +.myatos.net
@@ -20392,6 +20400,7 @@
 +.neoforged.net
 +.neonatalsociety.ac.uk
 +.neotokyo.supertop-100.com
++.neovim.io
 +.neow.in
 +.neowin.net
 +.nerap.ac.uk
@@ -29287,6 +29296,7 @@
 +.ulyssesapp.com
 +.umagazine.com.hk
 +.umass.edu
++.umblr.com
 +.umbrella.com
 +.umds.ac.uk
 +.umich.edu
@@ -29427,6 +29437,7 @@
 +.upghsbc.com
 +.upholdjustice.org
 +.upjav.cc
++.upjav.org
 +.uplay-istrip.com
 +.uplay.com
 +.uplinq.com
@@ -32778,6 +32789,7 @@
 +.zeit.sh
 +.zeitworld.com
 +.zello.com
++.zen-browser.app
 +.zen8ok.xyz
 +.zencdn.net
 +.zencoder.com
