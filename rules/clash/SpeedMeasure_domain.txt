@@ -382,6 +382,7 @@ sp1.boomerangtelecom.com.br
 sp1.burstfire.net
 sp1.campanaworks.com
 sp1.cltelecom.net.br
+sp1.contilnet.net
 sp1.cyberinfo.net.br
 sp1.fibernetespecializados.com.br
 sp1.fibramaisce.com.br
@@ -987,6 +988,7 @@ speedtest.nl.novoserve.com
 speedtest.nl3.mirhosting.net
 speedtest.nrbn.ca
 speedtest.nt.net
+speedtest.ny.sptrnd.id
 speedtest.octaplus.uk
 speedtest.ollatelecom.com.br
 speedtest.omegasul.com.br
@@ -1040,6 +1042,7 @@ speedtest.serverpronto.com
 speedtest.sewan.fr
 speedtest.sg.hsp.net.id
 speedtest.sg220.sgp.sg.ctcsci.com
+speedtest.sin.sptrnd.id
 speedtest.singapore.atharva.co.id
 speedtest.singapore.globalxtreme.net
 speedtest.singnet.com.sg
@@ -1509,6 +1512,7 @@ tr.hostligo.com
 trtspeedtest.altimatel.com
 tsdvuspeedtest01p.allstream.com
 turknet16.residential.tr
+txda.speedtest.pavlovmedia.net
 txdllsspeedtest01.mybluepeak.net
 txg-speedtest.infinirc.com
 ty-bgp-speedtest.nearoute.io
@@ -1520,6 +1524,7 @@ uls1speedtest.turktelekom.com.tr
 umr1speedtest.turktelekom.com.tr
 uplinkfibra.brsserver.com.br
 uptelecom.brsserver.com.br
+us.speedtest.airlinkdc.com
 vanspeedtest.altimatel.com
 velocidad.fiberlink.com.pa
 velocidade-fla.algartelecom.com.br
