@@ -28252,6 +28252,7 @@
 +.daxuesoutijiang.com
 +.daxuetian.com
 +.daxuewang.com
++.day.app
 +.day66.com
 +.dayaguqin.com
 +.dayainfo.com
@@ -108769,6 +108770,7 @@
 +.yiwz.net
 +.yixao.com
 +.yixao.net
++.yixc.com
 +.yixi.tv
 +.yixia.com
 +.yixiaai.com
@@ -116415,6 +116417,7 @@
 +.ztxz.cc
 +.ztxzsjt.com
 +.ztyang.com
++.ztytech.com
 +.ztyyw.com
 +.ztzcnc.com
 +.ztzhbw.com
