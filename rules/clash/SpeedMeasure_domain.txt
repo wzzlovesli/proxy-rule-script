@@ -281,6 +281,7 @@ nycny-speedtest-ookla-01.st.charter.com
 o-uk-1.flwc.cc
 ogtm-speedtest.f5.si
 ok.conectmastelecom.com.br
+one.speed.c4g7.com
 ookla-ams.avur.no
 ookla-autazes.amazoniasat-isp.com.br
 ookla-ita.asanet.tec.br
@@ -944,6 +945,7 @@ speedtest.mia.fdcservers.net
 speedtest.mia.upx.net.br
 speedtest.miam.fl.wtsky.net
 speedtest.micron21.com
+speedtest.milkywan.fr
 speedtest.mirror.digitalpacific.com.au
 speedtest.mirror.serversaustralia.com.au
 speedtest.mixam.com.br

@@ -1047,6 +1047,7 @@
 +.ai-kan.net
 +.ai-wen.net
 +.ai.binwang.me
++.ai.dev
 +.ai.google
 +.ai7995.site
 +.ai91porn.cc

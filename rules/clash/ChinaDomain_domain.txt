@@ -12054,6 +12054,7 @@
 +.antom.com
 +.antpcdn.com
 +.antpedia.com
++.antping.com
 +.antplay888.com
 +.antriver.com
 +.antrol.com
@@ -45647,6 +45648,7 @@
 +.hdbits.org
 +.hdbp.com
 +.hdbus.net
++.hdbz.net
 +.hdchina.org
 +.hdcmct.org
 +.hdcms.net
@@ -106702,6 +106704,7 @@
 +.xzzh.com
 +.xzzhbsq.com
 +.xzzhongye.com
++.xzzhtc.com
 +.xzzlyy.com
 +.xzzp.net
 +.xzztly.com
