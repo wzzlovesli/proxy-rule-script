@@ -2620,6 +2620,7 @@
 +.av-movie.cc
 +.av-th.net
 +.av-top.com
++.av-wiki.net
 +.av.com
 +.av.movie
 +.av01.tv
@@ -3461,6 +3462,7 @@
 +.bestxxxsites.com
 +.besuty99.com
 +.besztbuy.com
++.bet
 +.bet365.com
 +.betaclouds.net
 +.betfair.com
@@ -3488,6 +3490,7 @@
 +.bffshd.com
 +.bfnn.org
 +.bfsh.hk
++.bg
 +.bgicdn.com
 +.bgm.tv
 +.bgme.me
@@ -7906,6 +7909,7 @@
 +.ebtcbank.com
 +.ebuyer.com
 +.ebuyheadphones.com
++.ec
 +.ecchinohentai.ru
 +.ecert.gov.hk
 +.ecfa.org.tw
@@ -12486,6 +12490,7 @@
 +.idv.tw
 +.idvd.eu
 +.idx.dev
++.ie
 +.ie10.com
 +.ie11.com
 +.ie8.co
@@ -12687,6 +12692,7 @@
 +.iknowthatgirl.com
 +.ikstar.com
 +.ikwb.com
++.il
 +.ilbe.com
 +.ilecture.co.nz
 +.ilhamtohtiinstitute.org
@@ -13406,6 +13412,7 @@
 +.iqq2.cc
 +.iqq3.cc
 +.iqqtv.net
++.ir
 +.irangov.ir
 +.iranianboobs.com
 +.iranlms.ir
@@ -14652,6 +14659,7 @@
 +.libgen.rs
 +.libgen.st
 +.liboggirls.net
++.library-access.sk
 +.library.lol
 +.library.usc.cuhk.edu.hk
 +.libraryinformationtechnology.com
@@ -15470,6 +15478,7 @@
 +.maximumerotica.com
 +.maxing.jp
 +.maxis.com
++.maxjav.com
 +.maya5.net
 +.mayacomplete.com
 +.mayaconductors.com
@@ -15715,6 +15724,7 @@
 +.mfg-inspector.com
 +.mfmf.club
 +.mfxmedia.com
++.mg
 +.mgo-images.com
 +.mgo.com
 +.mgoon.com
@@ -15737,6 +15747,7 @@
 +.michinokubank.co.jp
 +.mickey.tv
 +.mickybells.com
++.micro.blog
 +.microbit.org
 +.microsoft
 +.microsoft-falcon.io
@@ -15857,6 +15868,7 @@
 +.mihua.org
 +.miitomo.com
 +.miiverse.com
++.mij.rip
 +.mikanani.me
 +.mike.cz.cc
 +.mikesoltys.com
@@ -16252,6 +16264,7 @@
 +.miyazakibank.co.jp
 +.mizuhobank.co.jp
 +.mizzmona.com
++.mji.rip
 +.mjib.gov.tw
 +.mjj.rip
 +.mjlsh.usc.cuhk.edu.hk
@@ -17968,6 +17981,7 @@
 +.nxtdig.com.hk
 +.nxtdig.com.tw
 +.ny.stgloballink.com
++.ny1.com
 +.nyaa.eu
 +.nyaa.land
 +.nyaa.net
@@ -19114,6 +19128,7 @@
 +.pjbyj.top
 +.pjful-app.lol
 +.pjgirls.com
++.pk
 +.pk.com
 +.pki-post.ch
 +.pki-posta.ch
@@ -20534,6 +20549,7 @@
 +.rmbl.ws
 +.rmjdw.com
 +.rmjdw132.info
++.ro
 +.ro89.com
 +.road-crew.com
 +.roadshow.hk
@@ -20550,6 +20566,7 @@
 +.rocketcdn.me
 +.rocketfishproducts.com
 +.rockettube.com
++.rocks
 +.rocksdb.com
 +.rocksdb.net
 +.rocksdb.org
@@ -26299,6 +26316,7 @@
 +.xn--7hv594h.com
 +.xn--8uq428d76d.tokyo
 +.xn--90wwvt03e.com
++.xn--9iqy04a7fi01l.com
 +.xn--9kr7l.com
 +.xn--9pr62r24a.com
 +.xn--9trs65b.com
