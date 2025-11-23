@@ -808,6 +808,7 @@
 +.addyoutube.com
 +.adelaidebbs.com
 +.adelaidenow.com.au
++.adfox.ru
 +.adgoogle.net
 +.adguard-dns.com
 +.adguard-dns.io
@@ -843,6 +844,7 @@
 +.adidas.se
 +.adinst.com
 +.admeld.com
++.admetrica.ru
 +.admin.recaptcha.net
 +.admob-cn.com
 +.admob.com
@@ -11528,6 +11530,7 @@
 +.heyzo.com
 +.hf-iphone.com
 +.hf.co
++.hf.space
 +.hg.cool
 +.hgamer.pro
 +.hgseav.com
@@ -14314,6 +14317,7 @@
 +.kinmen.org.tw
 +.kinmen.travel
 +.kinokuniya.com
++.kinopoisk-ru.clstorage.net
 +.kinopoisk.ru
 +.kir.jp
 +.kir2kos.net
@@ -17018,6 +17022,7 @@
 +.namethatpornad.com
 +.namgyal.org
 +.namgyalmonastery.org
++.namu.wiki
 +.nan-net.com
 +.nanopool.org
 +.nantobank.co.jp
@@ -18998,6 +19003,7 @@
 +.picpost.com
 +.pics.ee
 +.pics.vc
++.picsart.com
 +.picsee.co
 +.picsee.pro
 +.pictoa.com
@@ -25594,6 +25600,8 @@
 +.webtoons.com
 +.webtoonscorp.com
 +.webtype.com
++.webvisor.com
++.webvisor.org
 +.webwarper.net
 +.webworkerdaily.com
 +.wechatlawsuit.com
@@ -26672,6 +26680,7 @@
 +.yaddal.tv
 +.yadi.sk
 +.yadori.club
++.yads.tech
 +.yaeby.info
 +.yaeby.pro
 +.yahoo
@@ -26845,6 +26854,7 @@
 +.yandex
 +.yandex-bank.net
 +.yandex-images.clstorage.net
++.yandex-team.ru
 +.yandex.aero
 +.yandex.az
 +.yandex.by
@@ -26880,6 +26890,7 @@
 +.yandexadexchange.net
 +.yandexcloud.net
 +.yandexcom.net
++.yandexmetrica.com
 +.yandexwebcache.org
 +.yanghengjun.com
 +.yangjianli.com
@@ -26896,6 +26907,7 @@
 +.yarnpkg.com
 +.yasarang.net
 +.yasni.co.uk
++.yastat.net
 +.yastatic.net
 +.yasukuni.or.jp
 +.yavtube.com
