@@ -133,6 +133,7 @@ de.st.spacecore.pro
 denizli.verinomidns.com
 denspeed.sharktech.net
 dfw-eqx11-ookla-1.99.network
+dfw01.speedtest.soraxus.com
 digital-net-isp.com
 diy1speedtest.turktelekom.com.tr
 dllstx-ookla1.vyvebroadband.net
@@ -880,6 +881,7 @@ speedtest.infogamesvr.net.br
 speedtest.informartelecom.com.br
 speedtest.inforr.com.br
 speedtest.infortec.net.br
+speedtest.infrawire.host
 speedtest.inoc.net
 speedtest.inovewifi.com
 speedtest.internetbolaget.nu
