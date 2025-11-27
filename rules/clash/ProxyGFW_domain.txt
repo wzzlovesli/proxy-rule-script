@@ -1226,6 +1226,7 @@
 +.akinator.com
 +.akita-bank.co.jp
 +.akow.org
++.akstat.io
 +.akthelp.com
 +.al-islam.com
 +.al-qimmah.net
@@ -8405,6 +8406,7 @@
 +.evernote.com
 +.every1dns.net
 +.everydayporn.co
++.everymac.com
 +.evilangel.com
 +.evilx.su
 +.evise.com
@@ -26879,6 +26881,7 @@
 +.yandex.sx
 +.yandex.tj
 +.yandex.tm
++.yandex.tr
 +.yandex.ua
 +.yandex.uz
 +.yandexadexchange.net
