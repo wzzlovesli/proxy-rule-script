@@ -866,6 +866,7 @@ epicgames-download1.akamaized.net
 espejito.fder.edu.uy
 fastly-download.epicgames.com
 fdisk.5play.app
+fdroid.tetaneutral.net
 fedorapeople.org
 file.chobit.cc
 files2.freedownloadmanager.org
@@ -1323,6 +1324,7 @@ mirror.las.iastate.edu
 mirror.lc
 mirror.lchost.net
 mirror.leitecastro.com
+mirror.level66.network
 mirror.library.ucy.ac.cy
 mirror.limda.net
 mirror.linkdata.com
