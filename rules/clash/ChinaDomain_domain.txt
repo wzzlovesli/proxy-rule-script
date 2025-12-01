@@ -56012,6 +56012,7 @@
 +.jinggui.com
 +.jinghaishop.com
 +.jinghangapps.com
++.jingheiot.com
 +.jinghesh.net
 +.jinghonggroup.com
 +.jinghongmedical.com
@@ -95502,6 +95503,7 @@
 +.uangee.com
 +.uao-online.com
 +.uao.so
++.uascent-iot.com
 +.uat1.bfsspadserver.8le8le.com
 +.uauc.net
 +.uavtjxh.com
