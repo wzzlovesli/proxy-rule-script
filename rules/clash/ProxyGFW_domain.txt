@@ -523,6 +523,8 @@
 +.7mmtv.tv
 +.7pzzv.us
 +.7tb.cc
++.7tv.app
++.7tv.io
 +.8-d.com
 +.8008206616.com
 +.8111y.top
@@ -5013,6 +5015,7 @@
 +.canonproprinters.com
 +.cantonese.asia
 +.canva.com
++.canvastatus.com
 +.canyu.org
 +.cao.im
 +.caobian.info
@@ -11105,6 +11108,8 @@
 +.h528.com
 +.h5dm.com
 +.h5galgame.me
++.habr.com
++.habrastorage.org
 +.hacg.club
 +.hacg.in
 +.hacg.li
@@ -20651,6 +20656,7 @@
 +.rstatic.net
 +.rt.com
 +.rtalabel.org
++.rtbcdn.ru
 +.rthk.hk
 +.rthk.org.hk
 +.rthklive2-lh.akamaihd.net
@@ -20705,6 +20711,7 @@
 +.rutrecker.net
 +.rutrk.org
 +.rutube.ru
++.rutubelist.ru
 +.ruvideos.net
 +.ruyiseek.com
 +.rxhj.net
@@ -22988,6 +22995,7 @@
 +.tellme.pw
 +.tellmewhygame.com
 +.temetube.xyz
++.temp-mail.org
 +.temu.com
 +.tenacy.com
 +.tenbyfotolia.com
@@ -24528,6 +24536,8 @@
 +.vaultify.info
 +.vaultify.net
 +.vaultproject.io
++.vbcdn.com
++.vbcdn.net
 +.vbejeyv.shop
 +.vbstatic.co
 +.vcanedge.com
@@ -24738,7 +24748,9 @@
 +.viacom.com
 +.viacomcbs.com
 +.viacomcbspressexpress.com
++.viber.co
 +.viber.com
++.viber.me
 +.vica.info
 +.vice.com
 +.victimsofcommunism.org
