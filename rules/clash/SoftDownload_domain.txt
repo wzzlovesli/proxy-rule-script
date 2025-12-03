@@ -1077,14 +1077,19 @@ gnu.freemirror.org
 gnualpha.uib.no
 gnuftp.uib.no
 go-updater.brave.com
+go.opentelemetry.io
+go.yaml.in
 gog-cdn-fastly-cp77.gog.com
 gog-cdn-fastly.gog.com
+google.golang.org
 gopkg.in
+gotest.tools
 gpl.savoirfairelinux.net
 http.kali.org
 http.krfoss.org
 httpd-mirror.sergal.org
 i18n.prismlauncher.org
+index.golang.org
 index.rubygems.org
 install.virtfusion.net
 invent.kde.org
@@ -1755,6 +1760,7 @@ steampipe.akamaized.net
 store.setapp.com
 store1.gofile.io
 su.virtualbuddy.app
+sum.golang.org
 sunsite.icm.edu.pl
 sunsite.informatik.rwth-aachen.de
 suro.ubaya.ac.id
