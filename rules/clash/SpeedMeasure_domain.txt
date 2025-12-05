@@ -549,6 +549,7 @@ speedtest-adl.sa.au.hostuniversal.com.au
 speedtest-albany.greenlightnetworks.com
 speedtest-ams-nl.as215248.net
 speedtest-ams-nl.host-palace.com
+speedtest-ams.baremetal.ae
 speedtest-ams.melbicom.net
 speedtest-ams.retn.net
 speedtest-aus.chainlinkhosting.com
@@ -1164,6 +1165,7 @@ speedtest.xsnews.nl
 speedtest.yalniz.net
 speedtest.yless4u.com.au
 speedtest01.ams6.solcon.nl
+speedtest01.bne1.spintel.net.au
 speedtest01.dns-net.de
 speedtest01.ehtel.ca
 speedtest01.mel1.spintel.net.au
