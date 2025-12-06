@@ -345,6 +345,7 @@ perf.keyyo.net
 postapps.com
 qld-speedtest.spirit.com.au
 qoeookla-mimi-01.sys.comcast.net
+qspt.technofiber.net
 redeultramf.net.br
 reflector.aberythmic.com
 rspeed.mi-group.com.tr
@@ -1219,6 +1220,7 @@ speedtest1c.hkix.net
 speedtest2-tor.teksavvy.com
 speedtest2.cfoc.tech
 speedtest2.comvergence.com.au
+speedtest2.datafex.com.tr
 speedtest2.dpdfsd.com
 speedtest2.hurontel.on.ca
 speedtest2.keyubu.com

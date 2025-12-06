@@ -140,6 +140,7 @@
 +.bumptunes.com
 +.c.admob.com
 +.c.android.clients.google.com
++.c.gle
 +.c.pki.goog
 +.cache-management-prod.google.com
 +.cache.pack.google.com

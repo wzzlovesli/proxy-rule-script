@@ -18561,6 +18561,7 @@
 +.paljorpublications.com
 +.palmislife.com
 +.paltalk.com
++.palworldgame.com
 +.panamapapers.sueddeutsche.de
 +.panasonic
 +.panasonic.com
@@ -19796,6 +19797,7 @@
 +.printspots.net
 +.prism-break.org
 +.prisma.io
++.prismic.io
 +.prismlauncher.org
 +.prismlive.com
 +.prisoneralert.com
@@ -21867,6 +21869,7 @@
 +.snowcorp.com
 +.snowlionpub.com
 +.snowmiku.com
++.sntp.uk
 +.so-net.ne.jp
 +.so-net.net.tw
 +.soasta-dswb.com
@@ -23483,6 +23486,7 @@
 +.tig-ol-bitties.live
 +.tigervpn.com
 +.tik-tokapi.com
++.tiktok-row.net
 +.tiktok.com
 +.tiktokcdn-eu.com
 +.tiktokcdn-us.com
@@ -23490,6 +23494,8 @@
 +.tiktokd.net
 +.tiktokd.org
 +.tiktokeu-cdn.com
++.tiktokglobalshopv.com
++.tiktokminis.us
 +.tiktokrow-cdn.com
 +.tiktokv.com
 +.tiktokv.eu
@@ -27556,6 +27562,7 @@
 +.zopim.com
 +.zorglist.com
 +.zorrovpn.com
++.zotero.org
 +.zozotown.com
 +.zpn.im
 +.zqqpwz.com
