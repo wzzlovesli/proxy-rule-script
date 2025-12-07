@@ -2251,6 +2251,7 @@
 +.archivx.to
 +.archlinux.org
 +.archlinuxarm.org
++.arcraiders.com
 +.arctosia.com
 +.arduino.cc
 +.area120.com
@@ -8053,6 +8054,8 @@
 +.emaga.com
 +.emagic.de
 +.emanna.com
++.embark-studios.com
++.embark.games
 +.embase.com
 +.embed-cdn.com
 +.embed.ly
@@ -8723,6 +8726,8 @@
 +.faceid99.com
 +.faceid99.net
 +.faceidglobal.com
++.faceit-cdn.net
++.faceit.com
 +.faceless.me
 +.faceobk.com
 +.faceobok.com
@@ -20309,6 +20314,7 @@
 +.rea.tech
 +.reabble.com
 +.reachporn.com
++.reachthefinals.com
 +.reachtheworldonfacebook.com
 +.react.com
 +.reactjs.com

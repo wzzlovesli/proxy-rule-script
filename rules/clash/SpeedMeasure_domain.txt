@@ -704,6 +704,7 @@ speedtest.100g.macarne.com
 speedtest.139play.com
 speedtest.23m.com
 speedtest.307net.ca
+speedtest.3dnet.net.br
 speedtest.3s-labo.com
 speedtest.45networks.ca
 speedtest.58243.as
