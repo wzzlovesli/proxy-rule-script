@@ -4821,6 +4821,7 @@
 +.c-msedge.net
 +.c-span.org
 +.c-spanvideo.org
++.c.gle
 +.c.mi.com
 +.c0930.com
 +.c100tibet.org
@@ -12768,6 +12769,7 @@
 +.imagebam.com
 +.imagecurl.com
 +.imagecurl.org
++.imagedelivery.net
 +.imagefap.com
 +.imageflea.com
 +.imageglass.org
@@ -13869,7 +13871,6 @@
 +.jiayoulu.com
 +.jibemobile.com
 +.jibunbank.co.jp
-+.jichangtj.com
 +.jieav.com
 +.jiehua.cz
 +.jiehua.tv
@@ -15073,7 +15074,6 @@
 +.lzmtnews.org
 +.m-power.com
 +.m-sport.co.uk
-+.m-team.cc
 +.m.hkgalden.com
 +.m.me
 +.m.moegirl.org
