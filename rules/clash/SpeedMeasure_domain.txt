@@ -1011,6 +1011,7 @@ speedtest.nl3.mirhosting.net
 speedtest.nrbn.ca
 speedtest.nt.net
 speedtest.ny.sptrnd.id
+speedtest.nyc.elcro.digital
 speedtest.octaplus.uk
 speedtest.ollatelecom.com.br
 speedtest.omegasul.com.br

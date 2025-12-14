@@ -596,6 +596,7 @@ cdn-updates.orbstack.dev
 cdn.azul.com
 cdn.cocoapods.org
 cdn.cypress.io
+cdn.electronic.us
 cdn.fwupd.org
 cdn.hyperbeam.com
 cdn.kagi.com
@@ -760,6 +761,7 @@ dl.flathub.org
 dl.getaurora.dev
 dl.google.com
 dl.iina.io
+dl.imobie.com
 dl.l.google.com
 dl.motrix.app
 dl.nssurge.com
