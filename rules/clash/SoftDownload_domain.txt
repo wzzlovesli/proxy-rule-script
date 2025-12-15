@@ -852,6 +852,7 @@ downloads.lemonsqueezy.com
 downloads.majestic.com
 downloads.openwrt.org
 downloads.raspberrypi.com
+downloads.slack-edge.com
 downloads.sourceforge.net
 downloads.wordpress.org
 downloads.x-wrt.com
