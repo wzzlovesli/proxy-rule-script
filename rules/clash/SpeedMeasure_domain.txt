@@ -274,6 +274,7 @@ netservice01.ber01.lwlcom.net
 nico2004canada.de
 nkf-ams.speedtest.royalehosting.net
 nl.blackhost.network
+nl.itdatatelecom.ro
 ntp-speedtest.homeplus.net.tw
 ntp1.chtm.hinet.net
 ny.st.spacecore.pro
@@ -1487,6 +1488,7 @@ sv-ookla.geolinks.com
 sydgs2speed4.wireline.com.au
 sydspeedtest.rackdog.com
 syrny-speedtest-ookla-02.st.charter.com
+t-moni.nebulax.digital
 tc1.chtm.hinet.net
 tdc01-speedtest.whipcord.com
 test.accesso.net.br
