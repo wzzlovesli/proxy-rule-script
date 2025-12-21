@@ -7209,6 +7209,8 @@
 +.dmed.technology
 +.dmgmediaprivacy.co.uk
 +.dmhy.org
++.dmit.io
++.dmit.sh
 +.dml-lang.org
 +.dmm-extension.com
 +.dmm.co.jp
@@ -7689,6 +7691,7 @@
 +.dynu.net
 +.dynupdate.no-ip.com
 +.dysfz.cc
++.dzcdn.net
 +.dzen.ru
 +.dzeninfra.ru
 +.dzze.com
@@ -8192,6 +8195,7 @@
 +.entrust.net
 +.entrustdatacard.com
 +.environment.google
++.eotarchive.org
 +.epac.to
 +.epicbrowser.com
 +.epicgames.com
@@ -10352,6 +10356,7 @@
 +.ghcr.io
 +.ghettotube.com
 +.ghidra-sre.org
++.ghostarchive.org
 +.ghostery.com
 +.ghostgames.com
 +.ghostnoteapp.com
@@ -15763,6 +15768,7 @@
 +.meme111.com
 +.memealerts.com
 +.memehk.com
++.mementoweb.org
 +.memes.tw
 +.memorybbs.com
 +.memri.org
@@ -19037,6 +19043,7 @@
 +.perfectvpn.net
 +.periscope.tv
 +.perl.org
++.perma.cc
 +.perplexity.ai
 +.perplexity.com
 +.persagg.com
@@ -25740,6 +25747,7 @@
 +.webcammedellin.co
 +.webcams.tv
 +.webcamtubexxx.com
++.webcitation.org
 +.webevader.org
 +.webex.ca
 +.webex.co.in
