@@ -22524,6 +22524,7 @@
 +.static-nike.com
 +.static-verizon.com
 +.static.fun
++.static.pocketcasts.com
 +.static.shemalez.com
 +.static01.nyt.com
 +.static9.net.au

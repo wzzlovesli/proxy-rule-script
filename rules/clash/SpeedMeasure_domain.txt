@@ -19,6 +19,7 @@
 .speednet.net.tr
 .speedtest.6667890.xyz
 .speedtest.aarnet.net.au
+.speedtest.airlinkdc.com
 .speedtest.alagas.net
 .speedtest.angolacables.co.ao
 .speedtest.aptg.com.tw
@@ -49,11 +50,16 @@
 .speedtest.optitel.com.au
 .speedtest.orange.fr
 .speedtest.ozarksgo.net
+.speedtest.pavlovmedia.net
 .speedtest.pni.tw
 .speedtest.rascom.ru
+.speedtest.royalehosting.net
 .speedtest.rt.ru
 .speedtest.sbcglobal.net
 .speedtest.seattle.wa.limewave.net
+.speedtest.serverside.com
+.speedtest.singnet.com.sg
+.speedtest.soraxus.com
 .speedtest.starhub.com
 .speedtest.telstra.net
 .speedtest.telus.com
@@ -87,7 +93,6 @@ afyonspeedtest.fixnet.com.tr
 akrd-speedtest.loni.org
 ams-eq6-tptest1.31173.se
 ams-speedtest.isp.htb.systems
-ams.speedtest.serverside.com
 amsspeed.sharktech.net
 amsterdam.getstreamhosting.com
 ant1speedtest.turktelekom.com.tr
@@ -133,7 +138,6 @@ de.st.spacecore.pro
 denizli.verinomidns.com
 denspeed.sharktech.net
 dfw-eqx11-ookla-1.99.network
-dfw01.speedtest.soraxus.com
 digital-net-isp.com
 diy1speedtest.turktelekom.com.tr
 dllstx-ookla1.vyvebroadband.net
@@ -272,7 +276,6 @@ mtcspeedtest.catskill.net
 navegaooklafortaleza.navegamais.com.br
 netservice01.ber01.lwlcom.net
 nico2004canada.de
-nkf-ams.speedtest.royalehosting.net
 nl.blackhost.network
 nl.itdatatelecom.ro
 ntp-speedtest.homeplus.net.tw
@@ -346,7 +349,6 @@ par1speedtest01.skylogic.com
 pauseq4vost1.datamossa.cloud
 perf-01.ixn.as42689.net
 perf.keyyo.net
-pl.speedtest.singnet.com.sg
 postapps.com
 qld-speedtest.spirit.com.au
 qoeookla-mimi-01.sys.comcast.net
@@ -697,6 +699,7 @@ speedtest-tesa.coelhotecnologia.com.br
 speedtest-thn.krystal.uk
 speedtest-tor.beanfield.com
 speedtest-townsville.optusnet.com.au
+speedtest-tpe.retn.net
 speedtest-tr-bursa.servosphere.net
 speedtest-tr.atakanozban.com
 speedtest-tr.atakanozban.com.tr
@@ -765,7 +768,6 @@ speedtest.beyondair.ca
 speedtest.binet.com.tr
 speedtest.bkfiber.com
 speedtest.blacksun.ca
-t4y-tor-sts1.ser.tek4you.ca
 speedtest.bmcc.com.cn
 speedtest.bnsdfw.com
 speedtest.bouwhuis.network
@@ -1075,7 +1077,6 @@ speedtest.sin.atharva.co.id
 speedtest.sin.sptrnd.id
 speedtest.singapore.atharva.co.id
 speedtest.singapore.globalxtreme.net
-speedtest.singnet.com.sg
 speedtest.sits.su
 speedtest.sjc.sonic.net
 speedtest.skynetcom.ru
@@ -1489,6 +1490,8 @@ sydgs2speed4.wireline.com.au
 sydspeedtest.rackdog.com
 syrny-speedtest-ookla-02.st.charter.com
 t-moni.nebulax.digital
+t4y-tor-sts1.ser.tek4you.ca
+t4y-toronto-ca-osts1.ser.tek4you.ca
 tc1.chtm.hinet.net
 tdc01-speedtest.whipcord.com
 test.accesso.net.br
@@ -1547,7 +1550,6 @@ tr.hostligo.com
 trtspeedtest.altimatel.com
 tsdvuspeedtest01p.allstream.com
 turknet16.residential.tr
-txda.speedtest.pavlovmedia.net
 txdllsspeedtest01.mybluepeak.net
 txg-speedtest.infinirc.com
 ty-bgp-speedtest.nearoute.io
@@ -1559,7 +1561,6 @@ uls1speedtest.turktelekom.com.tr
 umr1speedtest.turktelekom.com.tr
 uplinkfibra.brsserver.com.br
 uptelecom.brsserver.com.br
-us.speedtest.airlinkdc.com
 vanspeedtest.altimatel.com
 velocidad.fiberlink.com.pa
 velocidade-fla.algartelecom.com.br
