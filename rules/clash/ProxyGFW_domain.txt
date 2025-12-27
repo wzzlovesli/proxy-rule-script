@@ -28161,9 +28161,6 @@ scholar.googleusercontent.com
 scholar.l.google.com
 sentry.ppy.sh
 servd-anthropic-website.b-cdn.net
-sglong.wechat.com
-sgminorshort.wechat.com
-sgshort.wechat.com
 sni1dcb6gl.wpc.edgecastcdn.net
 spectator.ppy.sh
 spotify.com.edgesuite.net
