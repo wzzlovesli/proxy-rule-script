@@ -7266,7 +7266,6 @@
 +.doclercdn.com
 +.docs.cfw.lbyczf.com
 +.docs.com
-+.docs.deno.com
 +.docs.new
 +.docs.rs
 +.doctor-videos.com
@@ -10333,6 +10332,7 @@
 +.gfw.press
 +.gfw.report
 +.gfwatch.org
++.gfwbao.com
 +.gfwlist.end
 +.gfwlist.start
 +.gfx.ms
@@ -13540,6 +13540,7 @@
 +.issitedownrightnow.com
 +.issquaredown.com
 +.issquareup.com
++.issues.chromium.org
 +.issuu.com
 +.istars.co.nz
 +.istarshine.com
@@ -22558,6 +22559,7 @@
 +.steamdb.info
 +.steamdeck.com
 +.steamgames.com
++.steamladder.com
 +.steamofporn.com
 +.steampowered.com
 +.steamserver.net

@@ -785,6 +785,7 @@ speedtest.capti.com.au
 speedtest.cdmsfirst.com
 speedtest.ceanettelecom.com.br
 speedtest.cenosnetworks.net
+speedtest.centralnetprovedor.net.br
 speedtest.cerberusnetworks.co.uk
 speedtest.cesnet.cz
 speedtest.cg.shawcable.net
