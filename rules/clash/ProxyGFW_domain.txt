@@ -2257,6 +2257,7 @@
 +.archivx.to
 +.archlinux.org
 +.archlinuxarm.org
++.archlinuxcn.org
 +.arcraiders.com
 +.arctosia.com
 +.arduino.cc
@@ -10551,6 +10552,7 @@
 +.gockhuatviet.com
 +.godaddy
 +.godaddy.com
++.godbolt.org
 +.godfootsteps.org
 +.godns.work
 +.godoc.org
