@@ -307,7 +307,9 @@ ookla.amazoniasat-isp.com.br
 ookla.araujotelecom.com.br
 ookla.as400442.net
 ookla.b2.neptune.net.au
+ookla.besttelekom.com.tr
 ookla.delhitel.net
+ookla.fra-01.testpub.telefonica.de
 ookla.fullisp.com.br
 ookla.idnet.net
 ookla.jgainterlinktelecom.com.br

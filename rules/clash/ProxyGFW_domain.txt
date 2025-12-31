@@ -11566,6 +11566,7 @@
 +.herokussl.com
 +.herominers.com
 +.herringnetwork.com
++.hetzner-cloud.de
 +.hetzner.cloud
 +.hetzner.com
 +.hetzner.company
