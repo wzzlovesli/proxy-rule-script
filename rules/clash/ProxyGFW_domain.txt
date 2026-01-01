@@ -2841,6 +2841,7 @@
 +.azuresmartspaces.net
 +.azurestackvalidation.com
 +.azurewebsites.net
++.b-cdn.net
 +.b-eroland.net
 +.b-ok.africa
 +.b-ok.asia
@@ -4711,6 +4712,8 @@
 +.bumptunes.com
 +.bunbunhk.com
 +.bunka.go.jp
++.bunny.net
++.bunnycdn.com
 +.bunnylust.com
 +.burningcamel.com
 +.burstly.net
@@ -5788,6 +5791,7 @@
 +.cloudflarestorage.com
 +.cloudflarestream.com
 +.cloudflaretest.com
++.cloudflaretunnel.com
 +.cloudflarewarp.com
 +.cloudfront.com
 +.cloudfront.net
@@ -11000,6 +11004,7 @@
 +.grabpussy.com
 +.gradconnection.com
 +.gradeuptube.com
++.grafana.com
 +.grafolio.com
 +.graias.com
 +.graiasmovies.com
@@ -22686,6 +22691,7 @@
 +.strongwindpress.com
 +.student.tw
 +.studentsforafreetibet.org
++.studio
 +.studiobeatsbydrdre.com
 +.studiodell.com
 +.studiofow.com

@@ -265,6 +265,7 @@ miami-speedtest.reliablesite.net
 miami.getstreamhosting.com
 miaspeedtest.blackburn-pr.com
 mirror.nforce.com
+mispeed.rackgenius.com
 mitelecom.brsserver.com.br
 mns.i-systems.com
 mobile.shunicomtest.com
