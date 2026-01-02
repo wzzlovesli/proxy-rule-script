@@ -148,6 +148,7 @@
 +.mirrors.blix.com
 +.mirrors.cicku.me
 +.mirrors.clouvider.net
++.mirrors.cu.be
 +.mirrors.dotsrc.org
 +.mirrors.hoobly.com
 +.mirrors.ionfish.org
@@ -534,7 +535,6 @@ apache.crihan.fr
 apache.cs.utah.edu
 apache.cs.utah.edu.org
 apache.cs.uu.nl
-apache.cu.be
 apache.forthnet.gr
 apache.hippo.nl
 apache.ip-connect.vn.ua
@@ -912,7 +912,6 @@ ftp.ca.debian.org
 ftp.caliu.cat
 ftp.carnet.hr
 ftp.cc.uoc.gr
-ftp.cc.uoc.grs
 ftp.ch.debian.org
 ftp.cica.es
 ftp.cixug.es
@@ -1111,7 +1110,6 @@ jing.rocks
 kambing.uu.sg
 kartolo.sby.datautama.net.id
 kde.c3sl.ufpr.br
-kde.cu.be
 kde.ip-connect.vn.ua
 kebo.pens.ac.id
 kebo.vlsm.org
@@ -1565,14 +1563,12 @@ mirrors.codec-cluster.org
 mirrors.concertpass.com
 mirrors.coreix.net
 mirrors.datapark.ro
-mirrors.dc.clear.net.ar
 mirrors.de.sahilister.net
 mirrors.edge.kernel.org
 mirrors.egr.msu.edu
 mirrors.esto.network
 mirrors.evoluso.com
 mirrors.evowise.com
-mirrors.eze.sysarmy.com
 mirrors.fedoraproject.org
 mirrors.fibianet.dk
 mirrors.gbnetwork.com
