@@ -289,6 +289,7 @@ lg-hkg.fdcservers.net
 lg-hnd.fdcservers.net
 lg-lax.fdcservers.net
 lg-lon.fdcservers.net
+lg-mad.fdcservers.net
 lg-mia.advinservers.com
 lg-mia.fdcservers.net
 lg-pa10.fdcservers.net
@@ -326,6 +327,7 @@ madvpdspeedtesta.voiped.com
 manchester.speedtest.razorblue.com
 mars-speedtest.guzel.net.tr
 marseille3.d2m.c2d.liveservices.fr
+massarosa-1.speedtest.welcomeitalia.it
 medidor.nortelecom.com.br
 melndm1speed1.wireline.com.au
 mensura.cdn-apple.com
@@ -563,6 +565,7 @@ sp1.hcetelecom.com
 sp1.hightectelecom.com.br
 sp1.inettelecomce.com.br
 sp1.instalecom.com.br
+sp1.jdmbroadband.com
 sp1.jonaz.nl
 sp1.jump.net.uk
 sp1.mr7solution.com.br
@@ -1001,6 +1004,7 @@ speedtest.a4telecom.com.br
 speedtest.absenterprises.co.in
 speedtest.absolutevalidation.com
 speedtest.acenetbj.com.br
+speedtest.acrospirenetworks.com
 speedtest.actelecom.com.br
 speedtest.ade01.launtel.net.au
 speedtest.advps.org
@@ -1516,6 +1520,7 @@ speedtest.pimcommcorp.com
 speedtest.pingless.com
 speedtest.pinguimtelecom.net.br
 speedtest.planetel.it
+speedtest.plasmanodes.com
 speedtest.plusnetworks.com.br
 speedtest.plutex.de
 speedtest.pnb.vodafoneidea.com
@@ -1936,6 +1941,7 @@ speedtesthkg.fpt.vn
 speedtesthost.sasknet.sk.ca
 speedtestit.pvdatanet.com
 speedtestitarema.cyberinfo.net.br
+speedtestjbd.angelbroadband.com
 speedtestla.gethotwired.com
 speedtestldn.grainconnect.com
 speedtestloj.fibergy.es
