@@ -1662,6 +1662,7 @@ speedtest.roweinternet.com
 speedtest.rpworld.co.in
 speedtest.rtm.t-mobile.nl
 speedtest.saidnettelecom.com.br
+speedtest.samparkinfo.com
 speedtest.sarnettelekom.net.tr
 speedtest.satellitenetcom.in
 speedtest.sc1.loopinternet.com
@@ -2060,6 +2061,7 @@ speedtestdelhi.ultranet.co.in
 speedtestdelhi.uvfiber.com
 speedtestdelhi.weebo.co.in
 speedtestdfw.gethotwired.com
+speedteste.netfast.com.br
 speedteste.newsolutionnet.com.br
 speedtesteamconnect.com.br
 speedtester.comwave.net
@@ -2445,6 +2447,7 @@ teste.speednetpa.net.br
 teste.speedtestwnet.com.br
 teste.stylosnet.com.br
 teste.suprainternet.com.br
+teste.topnetservices.com.br
 teste.tstelecomltda.com.br
 teste.wificonnect.com.br
 teste.wsfibra.com.br

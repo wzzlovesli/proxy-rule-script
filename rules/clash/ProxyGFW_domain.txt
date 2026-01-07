@@ -13677,7 +13677,6 @@
 +.issitedownrightnow.com
 +.issquaredown.com
 +.issquareup.com
-+.issues.chromium.org
 +.issuu.com
 +.istars.co.nz
 +.istarshine.com
@@ -17653,6 +17652,15 @@
 +.nginx.com
 +.nginx.org
 +.nginxconfig.io
++.ngrok-free.app
++.ngrok-free.dev
++.ngrok-free.pizza
++.ngrok.app
++.ngrok.com
++.ngrok.dev
++.ngrok.io
++.ngrok.pizza
++.ngrok.pro
 +.nhentai.com
 +.nhentai.io
 +.nhentai.net
@@ -19304,6 +19312,8 @@
 +.ping0.cc
 +.pingan.com.hk
 +.pingguotv.xyz
++.pinggy.io
++.pinggy.link
 +.pingxiangpuer.com
 +.pinimg.com
 +.pinkcore.com
