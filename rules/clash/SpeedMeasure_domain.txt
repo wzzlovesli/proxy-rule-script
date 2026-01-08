@@ -465,6 +465,7 @@ ookla.moji.fr
 ookla.mthnetworks.com
 ookla.mu.as6453.net
 ookla.net.unc.edu
+ookla.nieqtv.com
 ookla.nw8.as6453.net
 ookla.olin.es
 ookla.opticaltel.com
@@ -910,6 +911,7 @@ speedtest-lhr-01.pdx.net.uk
 speedtest-lil.one-elephant.org
 speedtest-limestonecoast-sa.optusnet.com.au
 speedtest-limestonecoast.optusnet.com.au
+speedtest-lon.krystal.uk
 speedtest-lon.retn.net
 speedtest-lon.veloxserv.net
 speedtest-lon06.vorboss.net
@@ -1727,6 +1729,7 @@ speedtest.sunucum.net.tr
 speedtest.supersonicbb.net
 speedtest.supranet.net
 speedtest.surfshark.com
+speedtest.surrytel.com
 speedtest.swiftify.in
 speedtest.switch.ca
 speedtest.swnet.it
@@ -1778,6 +1781,7 @@ speedtest.turnkeyinternet.net
 speedtest.tushino.com
 speedtest.twds.com.tw
 speedtest.twerion.net
+speedtest.twl-kom.de
 speedtest.ubc.ca
 speedtest.ufinetlatam.net
 speedtest.uia.net
@@ -2555,6 +2559,7 @@ w2speed.jprdigital.in
 wa01svp-speed11.svc.tds.net
 war-o1.speedtest.orange.pl
 warp.cronon.net
+warsaw.netia.pl
 wd-speedtest.homeplus.net.tw
 west-speedtest.frontiernetworks.ca
 weston-wv.speedtest.shentel.net
