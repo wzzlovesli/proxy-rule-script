@@ -7063,6 +7063,7 @@
 +.diigo.com
 +.dilber.se
 +.dilcdn.com
++.dinopoloclub.com
 +.dinotube.com
 +.dipity.com
 +.dirctv.com
@@ -16592,6 +16593,7 @@
 +.mobileview.page
 +.mobilevrxxx.com
 +.mobileways.de
++.mobimon.com.tw
 +.mobmyanmar.com
 +.moby.to
 +.mobypicture.com
@@ -18037,6 +18039,7 @@
 +.nownews.com
 +.nowtorrents.com
 +.noxinfluencer.com
++.noxygames.com
 +.noypf.com
 +.nozomi.la
 +.npa.go.jp
@@ -20557,6 +20560,8 @@
 +.raw.githack.com
 +.rawgit.com
 +.rawgithub.com
++.rayark.download
++.rayark.net
 +.razer.com
 +.razerofficial.com
 +.razersupport.com
@@ -27989,6 +27994,8 @@ amp.akamaized.net
 android.googlesource.com
 angle.com.tw
 anime-rule34-world.b-cdn.net
+antigravity-pa.googleapis.com
+antigravity.googleapis.com
 aod-pod-uk-live.akamaized.net
 api-p.videomarket.jp
 api.viu.now.com
@@ -28044,6 +28051,8 @@ ciscolivehls-i.akamaihd.net
 client-teamviewer-com.trafficmanager.net
 clients1.google.com
 cloud.oracle.com
+cloudaicompanion.googleapis.com
+cloudcode-pa.googleapis.com
 cloudsync-prod.s3.amazonaws.com
 community.oneplus.com
 configuration-lb.ls-apple.com.akadns.net
@@ -28081,6 +28090,7 @@ d3r7nsslvs6aaf.cloudfront.net
 d3vd9lfkzbru3h.cloudfront.net
 d6d4ismr40iw.cloudfront.net
 d6tizftlrpuof.cloudfront.net
+daily-cloudcode-pa.googleapis.com
 databank.worldbank.org
 database.asahi.com
 datarouter.apps.netherrealm.com
@@ -28213,6 +28223,8 @@ netflix.com.edgesuite.net
 news.ycombinator.com
 notary-submissions-prod.s3-accelerate.amazonaws.com
 notary-submissions-prod.s3.us-west-2.amazonaws.com
+notebooklm-pa.googleapis.com
+notebooklm.googleapis.com
 notify.ppy.sh
 np-edge.itunes.apple.com
 ntdfreemobile-tgc.cdn.hinet.net

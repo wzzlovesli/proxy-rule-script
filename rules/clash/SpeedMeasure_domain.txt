@@ -236,6 +236,7 @@ gwh.speedtest.railtel.in
 h1-speedtest-ba.htelecom.es
 h1speedtest.htelecom.es
 ham.wsqm.telekom-dienste.de
+hasanspts.hascoding.com
 hc1.chtm.hinet.net
 hizaydin.durunet.com.tr
 hizbalikesir.durunet.com.tr
@@ -936,6 +937,7 @@ speedtest-buffalo.greenlightnetworks.com
 speedtest-ca.pq.hosting
 speedtest-cam1.cyberlink.net.br
 speedtest-cbr.cdn.on.net
+speedtest-central.eastlink.ca
 speedtest-chi.dish-wireless.com
 speedtest-chicago.ripplefiber.com
 speedtest-coda.noc.gatech.edu
@@ -2249,6 +2251,7 @@ speedtestda.fiberfasthomes.com
 speedtestde.pvdatanet.com
 speedtestdel.tataplayfiber.co.in
 speedtestdelhi.actcorp.in
+speedtestdelhi.digiwaynet.com
 speedtestdelhi.tripleplay.in
 speedtestdelhi.ultranet.co.in
 speedtestdelhi.uvfiber.com
@@ -2497,6 +2500,7 @@ stlondon.netcrawler.ca
 stlondon.rogers.com
 stlondonwireless.rogers.com
 stmanaquiri.pplink.net.br
+stmarkham.netcrawler.ca
 stmarkham.rogers.com
 stmilton.rogers.com
 stmiltonwireless.rogers.com
