@@ -233,3 +233,4 @@ payload:
 - PROCESS-NAME,zerotier-one.exe
 - PROCESS-NAME,zerotier-one_x64.exe
 - PROCESS-NAME,小米云服务.exe
+- SRC-PORT,41641

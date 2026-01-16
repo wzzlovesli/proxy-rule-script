@@ -1383,6 +1383,7 @@ speedtest.exatel.pl
 speedtest.excom.net
 speedtest.execulink.ca
 speedtest.extremanetwork.com.br
+speedtest.eyg01.nl
 speedtest.falconet.in
 speedtest.fastel.net.in
 speedtest.fastwebnetworks.in
@@ -1422,6 +1423,7 @@ speedtest.frontlinetechnologies.in
 speedtest.ftmojave.net
 speedtest.ftth.wien
 speedtest.gabysantos.com.br
+speedtest.galaxynet.in
 speedtest.gamedoping.com
 speedtest.gatchina.ru
 speedtest.gayatricable.co.in
@@ -2080,6 +2082,7 @@ speedtest015.telecomitalia.it
 speedtest016.telecomitalia.it
 speedtest018.telecomitalia.it
 speedtest019.telecomitalia.it
+speedtest02.coppernet.net
 speedtest02.htp-tel.de
 speedtest02.ikbnet.at
 speedtest02.radinet.in
@@ -2166,6 +2169,7 @@ speedtest2-tor.teksavvy.com
 speedtest2.acentek.net
 speedtest2.aureon.com
 speedtest2.avatel.es
+speedtest2.bitsandbyte.co.in
 speedtest2.cfoc.tech
 speedtest2.comvergence.com.au
 speedtest2.datafex.com.tr
@@ -2243,6 +2247,7 @@ speedtestatl.gethotwired.com
 speedtestbb.hk.chinamobile.com
 speedtestbcl1.csmtelecom.net.br
 speedtestbir.airjaldi.net
+speedtestbirpara.meghbelabroadband.in
 speedtestbti.angelbroadband.com
 speedtestce.vtal.net.br
 speedtestchd.netplus.co.in
@@ -2319,6 +2324,7 @@ speedtestsgp.fpt.vn
 speedtestshriganganagar.777network.net
 speedtestsirsa.tripleplay.in
 speedtestsk.airjaldi.net
+speedtestslg.alliancebroadband.in
 speedtestslg.meghbelabroadband.in
 speedtestsonipat.kkdbroadband.co.in
 speedtestspc1.airtel.in
@@ -2331,6 +2337,7 @@ speedtestto1.telecomitalia.it
 speedtestto2.tilab.com
 speedtestuk1.cybersmart.co.za
 speedtestus.pvdatanet.com
+speedtestve1.telecomitalia.it
 speedtestversatile.meghbelabroadband.in
 speedtestvlc.zafirotelecom.com
 speedtestvol.optinet.co.uk
