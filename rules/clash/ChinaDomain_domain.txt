@@ -12008,6 +12008,7 @@
 +.apluscap.com
 +.aplusda.org
 +.aplusunion.com
++.apm-log-upload-os.hoyoverse.com
 +.apmarry.com
 +.apmbooth.com
 +.apme-magnetics.com
@@ -26640,6 +26641,7 @@
 +.cyol.net
 +.cyou-inc.com
 +.cyoupic.com
++.cyouzai.com
 +.cypatent.com
 +.cypharma.com
 +.cyphouse.com
@@ -66594,6 +66596,7 @@
 +.menwww.com
 +.menxue.com
 +.menyuannews.com
++.meoof-pet.com
 +.meovse.com
 +.meow.plus
 +.meowcat.org
@@ -67356,6 +67359,7 @@
 +.minleai.com
 +.minli.com
 +.minmetals.com
++.minor-api-os.hoyoverse.com
 +.minor-tech.com
 +.minovapharma.com
 +.minpayment.com
@@ -73057,6 +73061,7 @@
 +.ottcn.com
 +.ottcn.help
 +.ottffss.net
++.ottiptv.cc
 +.ottshopping.net
 +.ottssp.com
 +.otype.com
@@ -81487,6 +81492,7 @@
 +.sdjzgt.com
 +.sdjzhc.com
 +.sdjzsemi.com
++.sdk-log-upload-os.hoyoverse.com
 +.sdkamaiduo.com
 +.sdkbalance.com
 +.sdkclick.com
@@ -99698,6 +99704,7 @@
 +.wxdianju.com
 +.wxdtsj.com
 +.wxdw.info
++.wxdw.top
 +.wxeditor.com
 +.wxedu.net
 +.wxeic.com
@@ -114872,6 +114879,7 @@
 +.zzyxxw.com
 +.zzyyds.com
 +.zzyyrl.com
++.zzz-log-upload-os.hoyoverse.com
 +.zzz4.com
 +.zzzdc.com
 +.zzzdm.com

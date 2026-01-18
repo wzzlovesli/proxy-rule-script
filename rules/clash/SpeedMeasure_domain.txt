@@ -1218,6 +1218,7 @@ speedtest.as38915.net
 speedtest.as53597.net
 speedtest.asbn.va.wtsky.net
 speedtest.asimonetworks.com
+speedtest.asmfibra.es
 speedtest.asvt.ru
 speedtest.asymptote.cc
 speedtest.atccomm.net
@@ -2742,11 +2743,13 @@ velocidade.csrnetwork.com.br
 velocidade.exytelecom.com.br
 velocidade.gcnetprovedor.com.br
 velocidade.giga7telecom.com.br
+velocidade.gtmtelecom.com.br
 velocidade.hnaconecta.com.br
 velocidade.hrctelecom.com.br
 velocidade.idnetttelecom.com.br
 velocidade.impertechtelecom.com.br
 velocidade.kingnet.net.br
+velocidade.lplink.net.br
 velocidade.megawavetelecom.com.br
 velocidade.milaninnet.com.br
 velocidade.ndtelecom.com.br

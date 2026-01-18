@@ -1257,6 +1257,7 @@
 +.akamai-trials.com
 +.akamai.co.kr
 +.akamai.net
++.akamai.tvb.com
 +.akamaiedge.net
 +.akamaientrypoint.net
 +.akamaietpcnctest.com
@@ -1770,7 +1771,10 @@
 +.ankarazirvesi2018.com
 +.anm.co.uk
 +.annamilk.com
++.annas-archive.in
++.annas-archive.li
 +.annas-archive.org
++.annas-archive.pm
 +.annas-archive.se
 +.annatam.com
 +.annstores.net
@@ -9551,7 +9555,6 @@
 +.forum.omy.sg
 +.forum.palmislife.com
 +.forum.slime.com.tw
-+.forum.tvb.com
 +.forum.xinbao.de
 +.forum4hk.com
 +.forums-free.com
@@ -14655,6 +14658,7 @@
 +.kpptoto.info
 +.kqes.net
 +.kr
++.kraftonde.com
 +.kraken.com
 +.kraken.onl
 +.krakenjs.com
@@ -19480,6 +19484,7 @@
 +.playapex.com
 +.playartifact.com
 +.playbar.biz
++.playbattlegrounds.com
 +.playboy.com
 +.playboy.com.uk
 +.playboyplus.com
@@ -20222,6 +20227,7 @@
 +.ptzwx.com
 +.pu82.vip
 +.pub.dev
++.pubg.com
 +.public-sex-porn.com
 +.public-trust.com
 +.publicagentxxx.com
@@ -28291,6 +28297,7 @@ prodforza.blob.core.windows.net
 production-openaicom-storage.azureedge.net
 psg-int-centralus.cloudapp.net
 psg-int-eastus.cloudapp.net
+pubg1.battleye.com
 public-us-pingsx.api.clonoth.com
 publicca.googleapis.com
 push-apple.com.akadns.net
