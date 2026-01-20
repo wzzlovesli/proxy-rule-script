@@ -82088,6 +82088,7 @@
 +.seridc.com
 +.servasoft.com
 +.serveclouds.com
++.server2.cn2gias.uk
 +.serverless-devs.com
 +.serverproof.net
 +.service86.com

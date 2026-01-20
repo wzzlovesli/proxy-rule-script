@@ -5209,6 +5209,7 @@
 +.castbox.fm
 +.castingcouch-x.com
 +.castro.fm
++.cataboom.com
 +.catalina.hk
 +.catalinacruz.com
 +.catbox.moe
@@ -6136,6 +6137,7 @@
 +.conquerwithcharacter.com
 +.conscrypt.com
 +.conscrypt.org
++.consentpro.com
 +.constitutionalism.solutions
 +.constructware.com
 +.consul.io
@@ -18696,6 +18698,7 @@
 +.orthotics-cadcam.com
 +.orzistic.org
 +.osakamotion.net
++.osano.com
 +.osapublishing.org
 +.osdn.net
 +.osfoora.com
@@ -24771,6 +24774,7 @@
 +.usenix.org
 +.useplannr.com
 +.userapi.com
++.usercentrics.eu
 +.usercontent.dev
 +.usercontent.goog
 +.userpxt.io
