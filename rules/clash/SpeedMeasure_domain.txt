@@ -342,6 +342,7 @@ lg-tok.fdcservers.net
 lg-tor.fdcservers.net
 lg-vie.fdcservers.net
 lg-war.fdcservers.net
+lg.bcn1.es.everywan.com
 lg.mia.plasmarack.com
 librarian.comstar.ru
 librespeed-rs.ir
@@ -451,6 +452,7 @@ ookla-anc.seroficom.com
 ookla-atl.gigsouth.com
 ookla-autazes.amazoniasat-isp.com.br
 ookla-crw.wvnet.edu
+ookla-dfw.gigsouth.com
 ookla-in.mercuryfiber.com
 ookla-ita.asanet.tec.br
 ookla-ks.mercuryfiber.com
@@ -1156,6 +1158,7 @@ speedtest.3jglobal.com
 speedtest.3s-labo.com
 speedtest.3wave.net
 speedtest.45networks.ca
+speedtest.4isp.it
 speedtest.4qh.de
 speedtest.58243.as
 speedtest.5x5tele.com
@@ -1208,6 +1211,7 @@ speedtest.aquitelecom.tv.br
 speedtest.archtopfiber.com
 speedtest.arizonanetwork.com
 speedtest.arktel.in
+speedtest.artelco.net
 speedtest.artofautomation.net
 speedtest.as203446.net
 speedtest.as210667.net
@@ -1279,6 +1283,7 @@ speedtest.cesnet.cz
 speedtest.cfnet.ca
 speedtest.cfu.net
 speedtest.cg.shawcable.net
+speedtest.chd.gispl.net
 speedtest.chi.gigenet.com
 speedtest.chi.sharktech.net
 speedtest.chi1.nitelusa.net
@@ -1627,6 +1632,7 @@ speedtest.mel.mhn.cloud
 speedtest.mel01.launtel.net.au
 speedtest.meric.net.tr
 speedtest.merlin.mb.ca
+speedtest.metalink.net
 speedtest.mhcable.com
 speedtest.mhtc.net
 speedtest.mia.fdcservers.net
@@ -2198,6 +2204,7 @@ speedtest2.pa.mycci.net
 speedtest2.pacificinternet.com
 speedtest2.phx.1gservers.com
 speedtest2.plusnet.com.tr
+speedtest2.power-speed.at
 speedtest2.rainbowtel.net
 speedtest2.rhitcr.com
 speedtest2.sailweb.cloud

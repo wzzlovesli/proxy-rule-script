@@ -10096,6 +10096,7 @@
 +.aibaov.com
 +.aibaoxian.com
 +.aibase.com
++.aibeike.com
 +.aibiaomei.com
 +.aibiaow.com
 +.aibing.cc
@@ -12246,6 +12247,7 @@
 +.arerberte.com
 +.areweloongyet.com
 +.arextecn.com
++.argotunnel.com
 +.argylehotels.com
 +.arhoo.com
 +.ariacraft.net
@@ -13036,6 +13038,7 @@
 +.axs8.com
 +.axshuyuan.com
 +.axuer.com
++.axuex.top
 +.axuexiw.com
 +.axunyou.com
 +.axure.us
@@ -13497,6 +13500,7 @@
 +.baimda.com
 +.baimei.com
 +.baimeidashu.com
++.baimiao.tech
 +.baimiaoapp.com
 +.baimin.com
 +.baina.com
@@ -13690,6 +13694,7 @@
 +.bananau.com
 +.bananaumbrella.com
 +.bananaunder.com
++.banban.work
 +.banbang.com
 +.banbanjia8.com
 +.banbao22.com
@@ -15433,6 +15438,7 @@
 +.bingosci.com
 +.bingqipu.net
 +.bingquan.com
++.bingshandashu.com
 +.bingsin.com
 +.bingtuannet.com
 +.binguo.me
@@ -16179,6 +16185,7 @@
 +.bjtxc.com
 +.bjtysj.com
 +.bjtyzh.org
++.bjtzeduyun.com
 +.bjtzfy.com
 +.bjtzzg.com
 +.bju-flo.com
@@ -26944,6 +26951,7 @@
 +.dadaqipai.com
 +.dadasasa.com
 +.dadasou.com
++.dadateach.com
 +.dadayou.com
 +.dadclab.com
 +.daddybaby.com
@@ -26986,6 +26994,7 @@
 +.dagun.net
 +.daguzhe.com
 +.dagyujt.com
++.dahai96.com
 +.dahainan.com
 +.dahaiwater.com
 +.dahaiyang.com
@@ -32471,6 +32480,7 @@
 +.enwing-tech.com
 +.enxicled.com
 +.enyamusical.com
++.enyugame.net
 +.enzj.com
 +.eo-edgefunctions7.com
 +.eoaluminium.com
@@ -35874,6 +35884,7 @@
 +.funcrea.com
 +.functionads.com
 +.functionaltextilesshanghai.com
++.functorz.com
 +.fund001.com
 +.fundebug.com
 +.fundebug.net
@@ -45988,6 +45999,7 @@
 +.hiwelcom.com
 +.hiwifi.com
 +.hiwiyi.com
++.hiwms.com
 +.hiworld.com
 +.hiwuhuan.com
 +.hixgo.com
@@ -51375,6 +51387,7 @@
 +.ilovezuan.com
 +.ilovezz.com
 +.ilsungf.com
++.ilucky.net
 +.iluckysf.net
 +.iluezhi.com
 +.ilufan.com
@@ -54246,6 +54259,7 @@
 +.jiaoshouhuayuan.com
 +.jiaotu.men
 +.jiaoya.com
++.jiaoyanyun.com
 +.jiaoyf.com
 +.jiaoyibao.com
 +.jiaoyimao.com
@@ -58152,6 +58166,7 @@
 +.kanbaobei.com
 +.kanbing.net
 +.kanbox.com
++.kancaibao.com
 +.kanchao.com
 +.kanchuan.com
 +.kandao.com
@@ -63996,6 +64011,7 @@
 +.lucklnk.com
 +.luckmail.net
 +.luckup.cc
++.lucky.gd
 +.lucky286.com
 +.lucky8k.com
 +.luckyair.net
@@ -65005,6 +65021,7 @@
 +.machloop.com
 +.machloop.net
 +.machmall.com
++.machtalk.net
 +.macjb.com
 +.mackentan.com
 +.mackext.com
@@ -66340,6 +66357,7 @@
 +.meiye.art
 +.meiyedana.com
 +.meiyi.ai
++.meiyitou.top
 +.meiyixia.com
 +.meiyixinrui.com
 +.meiyou.com
@@ -67303,6 +67321,7 @@
 +.misaka.center
 +.misall.com
 +.miscd.com
++.misea.top
 +.mishang.com
 +.mishangkeji.com
 +.mishuhome.com
@@ -71372,6 +71391,7 @@
 +.nocode-tech.com
 +.nocode.com
 +.nod32jihuoma.com
++.nodcloud.com
 +.node-is.green
 +.node1link.xyz
 +.nodeing.com
@@ -78033,6 +78053,7 @@
 +.qwe1e.com
 +.qweather.com
 +.qweather.net
++.qweatherapi.com
 +.qwen.ai
 +.qwenlm.ai
 +.qwerdns.com
@@ -83344,6 +83365,7 @@
 +.shineoptics.com
 +.shineray-motors.com
 +.shinerayad.com
++.shinescan.tech
 +.shinetsu.shop
 +.shineu.com
 +.shineway.com
@@ -89806,6 +89828,7 @@
 +.tcnvmms.com
 +.tcomall.com
 +.tcp.hk
++.tcp.mk
 +.tcp.pub
 +.tcp5.com
 +.tcping8.com
@@ -91134,6 +91157,7 @@
 +.tiwu.net
 +.tixa.com
 +.tixaapp.com
++.tixue.net
 +.tiyamat.com
 +.tiye.me
 +.tiyeji.com
@@ -98536,6 +98560,7 @@
 +.wolighting.com
 +.woliuda.com
 +.wolizhai.com
++.wologic.net
 +.wolong-beng.com
 +.wolong.com
 +.wolonge.com
@@ -100384,6 +100409,7 @@
 +.xender.com
 +.xenium.mobi
 +.xepher.fun
++.xesabc.com
 +.xesapp.com
 +.xescdn.com
 +.xesdns.com
@@ -103566,6 +103592,7 @@
 +.xuenarui.com
 +.xuenb.com
 +.xuepaijie.com
++.xuepaipai.com
 +.xuepingx.com
 +.xuepojie.com
 +.xueqian.com
@@ -105647,6 +105674,7 @@
 +.yicaiexpo.com
 +.yicaiglobal.com
 +.yicaihua.com
++.yicaiykt.com
 +.yicamp.com
 +.yicang.com
 +.yicanggongyi.com
@@ -109899,6 +109927,7 @@
 +.zckp.com
 +.zclkj.com
 +.zclock.xyz
++.zcloud.world
 +.zclqzls.com
 +.zcmlc.com
 +.zcmol.com
@@ -111833,6 +111862,7 @@
 +.zhtmid.com
 +.zhty.net
 +.zhtyljt.com
++.zhu.today
 +.zhuainiu.com
 +.zhuajiyou.com
 +.zhualeyixia.com
