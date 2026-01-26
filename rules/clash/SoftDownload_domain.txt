@@ -405,6 +405,8 @@
 +.s3-website.dualstack.sa-east-1.amazonaws.com
 +.s3-website.dualstack.us-east-1.amazonaws.com
 +.s3-website.dualstack.us-east-2.amazonaws.com
++.s3-website.dualstack.us-gov-east-1.amazonaws.com
++.s3-website.dualstack.us-gov-west-1.amazonaws.com
 +.s3-website.dualstack.us-west-1.amazonaws.com
 +.s3-website.dualstack.us-west-2.amazonaws.com
 +.s3-website.eu-central-1.amazonaws.com
