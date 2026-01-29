@@ -592,6 +592,7 @@ c.1password.com
 ca.dyi.ng
 cache.agilebits.com
 cache.pack.google.com
+cas-bridge.xethub.hf.co
 cdimage.kali.org
 cdn-builds.paw.cloud
 cdn-images.orbstack.dev
@@ -1865,6 +1866,7 @@ updates.bravesoftware.com
 updates.edovia.com
 updates.istatmenus.app
 us.dyi.ng
+version.cyberduck.io
 versioncheck-bg.addons.mozilla.org
 versioncheck.addons.mozilla.org
 vesta.informatik.rwth-aachen.de
