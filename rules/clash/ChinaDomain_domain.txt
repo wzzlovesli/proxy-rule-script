@@ -28217,6 +28217,7 @@
 +.dayifund.org
 +.dayihangqing.com
 +.dayila.net
++.dayilive.com
 +.dayima.com
 +.dayin.com
 +.dayin.la
@@ -46056,6 +46057,7 @@
 +.hezijia.com
 +.hezimi.com
 +.hezongyy.com
++.hezuvip.com
 +.hf-alu.com
 +.hf-aw.com
 +.hf-iflysse.com
@@ -48824,6 +48826,7 @@
 +.huanqiu.org
 +.huanqiu56.com
 +.huanqiuauto.com
++.huanqiucdn.cn
 +.huanqiuchuguo.com
 +.huanqiujiemi.com
 +.huanqiukexue.com
@@ -55199,6 +55202,7 @@
 +.jieyou.pro
 +.jieyougame.com
 +.jieyoulai888.com
++.jieyoutsg.com
 +.jieyue.net
 +.jieyuechina.com
 +.jieyuechina.net
@@ -66770,6 +66774,7 @@
 +.medscrm.com
 +.medstarcorp.com
 +.medsuture.com
++.medtechshare.com
 +.medtimes-hk.com
 +.medtion.com
 +.medwant.com
@@ -75602,6 +75607,7 @@
 +.pony.ai
 +.ponyai-cn.com
 +.ponycool.com
++.ponyemu.com
 +.ponyfk.com
 +.ponytest.com
 +.ponytestqd.com
@@ -78393,6 +78399,7 @@
 +.quanzhougastronomy.com
 +.quanziapp.com
 +.quaolai.com
++.quark.cn
 +.quarkbook.com
 +.quarkers.com
 +.quartzhy.com
@@ -103129,6 +103136,7 @@
 +.xiqu.me
 +.xiqu001.com
 +.xiquebo.com
++.xiqueer.com
 +.xiquepark.net
 +.xiqueqingjian.com
 +.xiqurongmei.com
