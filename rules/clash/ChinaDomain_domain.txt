@@ -11722,6 +11722,8 @@
 +.aloha-ukulele.com
 +.alonemonkey.com
 +.along96.com
++.alonginwind.eu.org
++.alonginwind.top
 +.alongsky.com
 +.alookweb.com
 +.aloys233.top
@@ -70004,6 +70006,7 @@
 +.nanhaitoday.com
 +.nanhexinxi.com
 +.nanhua.net
++.nanhuabx.com
 +.nanhuafunds.com
 +.nanhuangic.com
 +.nanhuazaobao.net
@@ -84799,6 +84802,7 @@
 +.shuangmatbs.com
 +.shuangmei2008.com
 +.shuangniaoslhl.com
++.shuangqingtech.com
 +.shuangtao.com
 +.shuangtiantech.com
 +.shuangtuan.com
