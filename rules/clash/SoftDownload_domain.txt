@@ -676,6 +676,7 @@ ctan.tetaneutral.net
 ctan.uib.no
 ctldl.windowsupdate.com
 d.myani.org
+d2.myani.org
 dafi.inf.um.es
 data.gameflare.com
 deb-mir1.naitways.net
@@ -1751,6 +1752,8 @@ rsync.uni-bayreuth.de
 rsync.yuki.net.uk
 rubygems.org
 ruleset.skk.moe
+s1.animeko.openani.org
+s2.animeko.openani.org
 s3.teckids.org
 searchcpan.org
 security.debian.org
