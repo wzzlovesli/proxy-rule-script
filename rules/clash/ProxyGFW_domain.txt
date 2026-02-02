@@ -4671,6 +4671,7 @@
 +.brutaltgp.com
 +.bs-adreview.com
 +.bs-awh.ne.jp
++.bsappapi.com
 +.bsi.ir
 +.bsky.app
 +.bsky.network
@@ -19270,6 +19271,7 @@
 +.pjbyj.top
 +.pjful-app.lol
 +.pjgirls.com
++.pjsekai.sega.jp
 +.pk
 +.pk.com
 +.pki-post.ch
@@ -22967,6 +22969,7 @@
 +.tail-f.com
 +.tailf.com
 +.tailfin.cc
++.tails.net
 +.tailscale.com
 +.tailscale.io
 +.tailwindcss.com
@@ -28081,6 +28084,7 @@ origin-a.akamaihd.net
 osu.ppy.sh
 p-events-delivery.akamaized.net
 p16-tiktokcdn-com.akamaized.net
+packages.microsoft.com
 paper-attachments.s3.amazonaws.com
 pchomeonline.com.tw
 pki.google.com

@@ -10691,6 +10691,7 @@
 +.aidoor.net
 +.aidouzuji.com
 +.aidpaper.com
++.aidream.website
 +.aidrive.com
 +.aidubuluo.com
 +.aidugame.com
@@ -40264,6 +40265,7 @@
 +.guaili.org
 +.guailuo.com
 +.guailuzi.com
++.guaitao.cc
 +.guaixun.com
 +.guajibao.club
 +.guajibao.me
