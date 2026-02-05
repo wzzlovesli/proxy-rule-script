@@ -1227,6 +1227,7 @@ speedtest.ams14.usenet.farm
 speedtest.ank01.edge.kernzen.com
 speedtest.anksoft.net
 speedtest.antisatelecom.es
+speedtest.aoter.net
 speedtest.apexbroadband.in
 speedtest.apnet-rr.com.br
 speedtest.apnic.net
