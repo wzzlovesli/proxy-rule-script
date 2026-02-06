@@ -109,6 +109,7 @@ amsspeed.sharktech.net
 amsterdam.getstreamhosting.com
 ant1speedtest.turktelekom.com.tr
 aragonnetspeedtest.com.br
+armageddon.uvensys.de
 asanet.brsserver.com.br
 asanet1.brsserver.com.br
 ashbn-va.speedtest.shentel.net
@@ -985,6 +986,7 @@ speedtest-engine.primus.ca
 speedtest-ens-nl.as215248.net
 speedtest-eqx-sg1.ixtelecom.net
 speedtest-eqxae1.fsg-hosting.com
+speedtest-es.the.hosting
 speedtest-fkt-eqx.retn.net
 speedtest-fra-de.w-net.eu
 speedtest-fra.melbicom.net
@@ -1000,6 +1002,7 @@ speedtest-iad.acreto.net
 speedtest-iad.dish-wireless.com
 speedtest-intl.xl.co.id
 speedtest-ist-34-node.netzone.com.tr
+speedtest-it.the.hosting
 speedtest-jgn.galaxynet.in
 speedtest-jp.tgb-host.com
 speedtest-jp.unihost.com
@@ -1068,6 +1071,7 @@ speedtest-nl.bellaliant.net
 speedtest-nl.cloudlease.co.il
 speedtest-nl.eastlink.ca
 speedtest-nl.hyperfilter.com
+speedtest-nl.the.hosting
 speedtest-nl.unihost.com
 speedtest-nl.vdsina.ru
 speedtest-nl.webdade.com
@@ -1155,8 +1159,10 @@ speedtest-tpe.retn.net
 speedtest-tr-bursa.servosphere.net
 speedtest-tr.atakanozban.com
 speedtest-tr.atakanozban.com.tr
+speedtest-tr.the.hosting
 speedtest-tus-az.ngxnetworks.net
 speedtest-txg.infinirc.net
+speedtest-uk.the.hosting
 speedtest-utc.northland.net
 speedtest-valdagno.wifiweb.it
 speedtest-van.beanfield.com
@@ -2012,6 +2018,7 @@ speedtest.us-tx.kamatera.com
 speedtest.us.mirhosting.net
 speedtest.us.openinfra.com
 speedtest.us310.lax.us.ctcsci.com
+speedtest.uv.es
 speedtest.uvfiber.com
 speedtest.uzmansoft.net
 speedtest.vacastelecom.net
@@ -2800,6 +2807,7 @@ velocidade.hrctelecom.com.br
 velocidade.idnetttelecom.com.br
 velocidade.impertechtelecom.com.br
 velocidade.infinitiweb.com.br
+velocidade.ip.eti.br
 velocidade.kingnet.net.br
 velocidade.lplink.net.br
 velocidade.megawavetelecom.com.br
