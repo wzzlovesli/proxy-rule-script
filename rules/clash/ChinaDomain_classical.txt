@@ -17,6 +17,7 @@ DOMAIN-KEYWORD,xlliveud
 DOMAIN-KEYWORD,xunlei
 DOMAIN-KEYWORD,yunpan
 DOMAIN-WILDCARD,*.qhimgs?.com
+DST-PORT,7844
 IP-CIDR,101.224.0.0/13,no-resolve
 IP-CIDR,101.71.154.241/32,no-resolve
 IP-CIDR,103.126.92.132/31,no-resolve
@@ -52,6 +53,8 @@ IP-CIDR,150.116.92.250/32,no-resolve
 IP-CIDR,164.52.76.18/32,no-resolve
 IP-CIDR,182.92.170.253/32,no-resolve
 IP-CIDR,193.112.159.225/32,no-resolve
+IP-CIDR,198.41.192.0/24,no-resolve
+IP-CIDR,198.41.200.0/24,no-resolve
 IP-CIDR,203.107.1.0/24,no-resolve
 IP-CIDR,203.211.4.169/32,no-resolve
 IP-CIDR,203.211.4.193/32,no-resolve
