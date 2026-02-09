@@ -275,7 +275,10 @@
 +.2gayboys.com
 +.2k.com
 +.2kcoretech.online
++.2kct.onl
 +.2kgames.com
++.2ksports.com
++.2kweb.online
 +.2lib.org
 +.2lipstube.com
 +.2mdn-cn.net
@@ -751,6 +754,7 @@
 +.acer-group.com
 +.acer.com
 +.aceros-de-hispania.com
++.acesofthunder.net
 +.acevpn.com
 +.acg.rip
 +.acg18.me
@@ -790,6 +794,7 @@
 +.activated.win
 +.activelearnprimary.co.uk
 +.activelearnprimary.com.au
++.activematter.game
 +.activeteachonline.com
 +.activpn.com
 +.aculo.us
@@ -2315,6 +2320,7 @@
 +.artstation.com
 +.artstationmedia.com
 +.artstor.org
++.artstorm.com
 +.artsy.net
 +.arunachalforests.gov.in
 +.arvanstorage.ir
@@ -6234,6 +6240,7 @@
 +.crossfire.co.kr
 +.crossfitfirestone.com
 +.crossmediapanel.com
++.crossout.net
 +.crossthewall.net
 +.crossvpn.net
 +.crosswalk-project.com
@@ -6243,6 +6250,7 @@
 +.croxyproxy.com
 +.crr.com
 +.crrev.com
++.crsed.net
 +.crtsgfb1.top
 +.crucial.com
 +.cruel-furies.com
@@ -6287,6 +6295,7 @@
 +.ctwant.com
 +.ctyun.online
 +.cubicmotion.com
++.cubicodyssey.game
 +.cuckfilmswifefuck.com
 +.cuckold69.com
 +.cuckoldfuck.com
@@ -8206,6 +8215,7 @@
 +.enjoyasianporn.com
 +.enjoyfuck.com
 +.enlighten.org.tw
++.enlisted.net
 +.enpass.io
 +.enpirion.com
 +.enspireformula.com
@@ -10031,6 +10041,8 @@
 +.gaeproxy.com
 +.gaforum.org
 +.gagaoolala.com
++.gaijin.net
++.gaijinent.com
 +.gaito.xyz
 +.galaxyappstore.com
 +.galaxymacau.com
@@ -16453,6 +16465,7 @@
 +.modelsfreecams.com
 +.modeltv.com
 +.modernchinastudies.org
++.modernwarships.com
 +.modmyi.com
 +.modoo.at
 +.modperl.pl
@@ -20775,6 +20788,7 @@
 +.rocksdb.org
 +.rocksextube.com
 +.rockstargames.com
++.rockstarnorth.com
 +.rojo.com
 +.roku.com
 +.rokutime.com
@@ -22445,6 +22459,7 @@
 +.standwithhk.org
 +.stanford.edu
 +.star-brasil.com
++.star-conflict.com
 +.star-latam.com
 +.starbucks-stars.com
 +.starbucks.ad
@@ -25706,6 +25721,7 @@
 +.warnerbrosgames.com
 +.warp.plus
 +.warroom.org
++.warthunder.com
 +.wasdj.com
 +.waselpro.com
 +.washa.tv
@@ -26245,6 +26261,7 @@
 +.wsjwine.com
 +.wtbn.org
 +.wtfpeople.com
++.wtmobile.com
 +.wto.org
 +.wuerkaixi.com
 +.wufafangwen.com
@@ -27769,6 +27786,9 @@
 +.zweiporn.com
 +.zwtvusa.com
 +.zynamics.com
++.zynga.com
++.zyngaplayersupport.com
++.zyngapoker.com
 +.zyns.com
 +.zyxel.com
 +.zzcartoon.com
