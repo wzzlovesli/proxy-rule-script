@@ -555,7 +555,6 @@
 +.88xm.tv
 +.88xqq.com
 +.89-64.org
-+.89.64.charter.constitutionalism.solutions
 +.89.com
 +.8964museum.com
 +.8chan.moe
@@ -1118,7 +1117,6 @@
 +.ai-kan.net
 +.ai-sdk.dev
 +.ai-wen.net
-+.ai.binwang.me
 +.ai.dev
 +.ai.google
 +.ai.studio
@@ -3046,7 +3044,6 @@
 +.bbnradio.org
 +.bbqm1.xyz
 +.bbs-tw.com
-+.bbs.brockbbs.com
 +.bbs.cantonese.asia
 +.bbs.ecstart.com
 +.bbs.hanminzu.org
@@ -3835,7 +3832,6 @@
 +.blog.taragana.com
 +.blog.tiney.com
 +.blog.workflow.is
-+.blog.youthwant.com.tw
 +.blogblog.com
 +.blogcatalog.com
 +.blogcdn.com
@@ -4442,7 +4438,6 @@
 +.boodigo.com
 +.boodigogo.com
 +.book.com.tw
-+.book.zi5.me
 +.book18.org
 +.book4you.org
 +.bookbrainz.org
@@ -5561,7 +5556,6 @@
 +.chinese-memorial.org
 +.chinese-porn-videos.com
 +.chinese-xnxx.com
-+.chinese.donga.com
 +.chinese.engadget.com
 +.chinese.irib.ir
 +.chinese.soifind.com
@@ -5870,7 +5864,6 @@
 +.cmi.org.tw
 +.cmmedia.com.tw
 +.cmoinc.org
-+.cmp.hku.hk
 +.cmpaas.com
 +.cms-twdigitalassets.com
 +.cms.gov
@@ -5881,12 +5874,10 @@
 +.cn-proxy.com
 +.cn.fmnnow.com
 +.cn.freeones.com
-+.cn.nytstyle.com
 +.cn.sandscotaicentral.com
 +.cn.shafaqna.com
 +.cn.streetvoice.com
 +.cn.theaustralian.com.au
-+.cn.uncyclopedia.wikia.com
 +.cn.uptodown.com
 +.cn6.eu
 +.cna.com.tw
@@ -6860,7 +6851,6 @@
 +.desmos.com
 +.dessci.com
 +.destinationbim.com
-+.destiny.xfiles.to
 +.destroy-china.jp
 +.detaliczny.com
 +.detentiongirls.com
@@ -7409,7 +7399,6 @@
 +.downdetector.com
 +.downdetectorapi.com
 +.download.aircrack-ng.org
-+.download.cnet.com
 +.download.com
 +.download.qatp1.net
 +.downloadpass.com
@@ -9457,12 +9446,10 @@
 +.forthethrone.com
 +.fortnite.com
 +.fortuneinsight.com
-+.forum.baby-kingdom.com
 +.forum.cyberctm.com
 +.forum.omy.sg
 +.forum.palmislife.com
 +.forum.slime.com.tw
-+.forum.xinbao.de
 +.forum4hk.com
 +.forums-free.com
 +.forza.net
@@ -9668,7 +9655,6 @@
 +.fpmt.tw
 +.fpmtmexico.org
 +.fptolia.com
-+.fq.wikia.com
 +.fqcebook.com
 +.fqok.org
 +.fqrouter.com
@@ -10342,6 +10328,7 @@
 +.gettyimages.no
 +.gettyimages.pt
 +.gettyimages.se
++.gettyimages.us
 +.getuploader.com
 +.getws1.com
 +.getwsone.com
@@ -12376,6 +12363,7 @@
 +.hunk.ws
 +.huobi.co
 +.huobi.com
++.huobi.li
 +.huobi.me
 +.huobi.pro
 +.huobi.sc
@@ -12494,7 +12482,6 @@
 +.icams.com
 +.icann.org
 +.icashpassport.com.mx
-+.ice.audionow.com
 +.icedrive.net
 +.icegay.tv
 +.icegaytube.tv
@@ -14897,7 +14884,6 @@
 +.listentoyoutube.com
 +.listinganalytics.net
 +.listorious.com
-+.lists.w3.org
 +.litbus-anime.com
 +.liteapks.com
 +.litenews.hk
@@ -15713,7 +15699,6 @@
 +.me.com
 +.me.me
 +.me.ns.ci
-+.me.youthwant.com.tw
 +.meadjohnson.com
 +.meadjohnson.com.hk
 +.meadjohnson.com.tw
@@ -17391,7 +17376,6 @@
 +.newpppp.com
 +.newrelic.com
 +.newrepublic.com
-+.news.cnyes.com
 +.news.co.uk
 +.news.com.au
 +.news.ebc.net.tw
@@ -20436,7 +20420,6 @@
 +.rcinet.ca
 +.rcl07.xyz
 +.rclon.com
-+.rconversation.blogs.com
 +.rd.com
 +.rds-yes.buzz
 +.rdtcdn.com
@@ -20499,7 +20482,6 @@
 +.realdoll.com
 +.realestate.com.au
 +.realestatejournal.com
-+.realforum.zkiz.com
 +.realgfporn.com
 +.reality-computing.com
 +.realitykings.com
@@ -20682,7 +20664,6 @@
 +.rexxx.org
 +.rfa.org
 +.rfachina.com
-+.rfalive1.akacast.akamaistream.net
 +.rfamobile.org
 +.rfaweb.org
 +.rfc-editor.org
@@ -20851,7 +20832,6 @@
 +.rtbcdn.ru
 +.rthk.hk
 +.rthk.org.hk
-+.rthklive2-lh.akamaihd.net
 +.rti.org.tw
 +.rti.tw
 +.rtings.com
@@ -20930,7 +20910,6 @@
 +.s3-ap-southeast-1.amazonaws.com
 +.s3-ap-southeast-2.amazonaws.com
 +.s3-eu-central-1.amazonaws.com
-+.s3.amazonaws.com
 +.s3.ap-northeast-2.amazonaws.com
 +.s3.eu-central-1.amazonaws.com
 +.s3.us-east-1.amazonaws.com
@@ -21548,7 +21527,6 @@
 +.share-videos.se
 +.share.america.gov
 +.share.ovi.com
-+.share.youthwant.com.tw
 +.sharebee.com
 +.sharecool.org
 +.sharepoint.com
@@ -22561,7 +22539,6 @@
 +.static.fun
 +.static.pocketcasts.com
 +.static.shemalez.com
-+.static01.nyt.com
 +.static9.net.au
 +.statically.io
 +.staticflickr.com
@@ -23008,7 +22985,6 @@
 +.taiwanjustice.com
 +.taiwanjustice.net
 +.taiwankiss.com
-+.taiwannation.50webs.com
 +.taiwannation.com
 +.taiwannation.com.tw
 +.taiwanncf.org.tw
@@ -23818,7 +23794,6 @@
 +.tophdsex.com
 +.tophentai.biz
 +.tophentaicomics.com
-+.topic.youthwant.com.tw
 +.toplayerserver.com
 +.topmanga.biz
 +.topnews.in
@@ -24971,8 +24946,6 @@
 +.vidble.com
 +.video-jav.net
 +.video-one.com
-+.video.aol.ca
-+.video.aol.co.uk
 +.video.aol.com
 +.video.foxbusiness.com
 +.video01.org
@@ -25316,7 +25289,6 @@
 +.vnanchoi.ca
 +.vnet.link
 +.vnware.net
-+.voa-11.akacast.akamaistream.net
 +.voa.gov
 +.voa.mobi
 +.voaafaanoromoo.com
@@ -26245,7 +26217,6 @@
 +.wrchina.org
 +.wrenchead.com
 +.wretch.cc
-+.writer.zoho.com
 +.writesonic.com
 +.ws
 +.ws-blau.com
@@ -26294,11 +26265,9 @@
 +.www.antd.org
 +.www.aolnews.com
 +.www.bing.com
-+.www.businessinsider.com.au
 +.www.cmoinc.org
 +.www.destinationurl.com
 +.www.dmm.com
-+.www.dwheeler.com
 +.www.eastturkistan.net
 +.www.gmiddle.com
 +.www.gmiddle.net
@@ -26315,7 +26284,6 @@
 +.www.monlamit.org
 +.www.moztw.org
 +.www.msn.com
-+.www.nbc.com
 +.www.orchidbbs.com
 +.www.owind.com
 +.www.oxid.it
@@ -26334,7 +26302,6 @@
 +.www.websnapr.com
 +.www.xicons.org
 +.www.zensur.freerk.com
-+.www1.american.edu
 +.www1.biz
 +.www2.ohchr.org
 +.www2.rocketbbs.com
@@ -26936,7 +26903,6 @@
 +.xxxyaom.xyz
 +.xxxymovies.com
 +.xxxyoungxxx.com
-+.xys.dxiong.com
 +.xys.org
 +.xysblogs.org
 +.xyy69.com
@@ -27652,8 +27618,6 @@
 +.zh-hans.cfsh99.com
 +.zh.ecdm.wikia.com
 +.zh.pokerstrategy.com
-+.zh.pttpedia.wikia.com
-+.zh.uncyclopedia.wikia.com
 +.zh.wikiquote.org
 +.zh99.net
 +.zhaimankan.com

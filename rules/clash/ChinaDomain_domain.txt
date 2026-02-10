@@ -15066,6 +15066,7 @@
 +.beatsbydre.com
 +.beaucare.org
 +.beautifulbank.com
++.beautifulcarrot.com
 +.beautifullinux.com
 +.beautifulzzzz.com
 +.beaverbio.com
@@ -28606,6 +28607,7 @@
 +.ddcdn.com
 +.ddcheshi.com
 +.ddcits.com
++.ddcorp.net
 +.ddcsjw.com
 +.ddcwl.com
 +.ddd-china.com
@@ -28622,6 +28624,7 @@
 +.ddedush.com
 +.ddfans.com
 +.ddfchina.com
++.ddfresh.net
 +.ddfzb.com
 +.ddgjjj.com
 +.ddguanhuai.com
@@ -28645,7 +28648,9 @@
 +.ddky.com
 +.ddle.cc
 +.ddlequ.com
++.ddmaicai.net
 +.ddmap.com
++.ddmc.mobi
 +.ddmer.com
 +.ddmogo.com
 +.ddnddn.com
@@ -52519,6 +52524,7 @@
 +.imags-google.com
 +.imahui.com
 +.imaibo.net
++.imaicai.mobi
 +.imaijia.com
 +.imaitu.com
 +.imalljoy.com
@@ -72238,6 +72244,7 @@
 +.nkscdn.com
 +.nkshw.com
 +.nkuytzv.com
++.nkxingxh.top
 +.nkygty.com
 +.nkzy.com
 +.nlark.com
@@ -103323,6 +103330,7 @@
 +.xiaolianhb.com
 +.xiaoliebian.com
 +.xiaolii.com
++.xiaolikj.online
 +.xiaolin.in
 +.xiaolinbysj.com
 +.xiaolincoding.com
