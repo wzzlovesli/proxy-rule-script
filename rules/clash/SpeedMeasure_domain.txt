@@ -621,6 +621,7 @@ secretspeedsterserver2364.cpe.nj.crnrstn.comcast.net
 seednet-tc1.seed.net.tw
 seednet-tn1.seed.net.tw
 seednet-ty1.seed.net.tw
+serv.qwistel.in
 servidor.speedplay.com.br
 seveninternet.brsserver.com.br
 sfosj0096speedtestserver01.wiline.com
@@ -1035,6 +1036,7 @@ speedtest-lon1.elite.net.uk
 speedtest-london-east.vodafone.co.uk
 speedtest-london.its-tg.net
 speedtest-london.start.ca
+speedtest-losangeles.ripplefiber.com
 speedtest-lton.launtel.net.au
 speedtest-m22.quickline.co.uk
 speedtest-mad.masmovil.com
@@ -1272,6 +1274,7 @@ speedtest.auratelecom.com.br
 speedtest.axclusive.com.sg
 speedtest.b2.mhn.cloud
 speedtest.bakcom.in
+speedtest.barcconnects.net
 speedtest.battern.eu
 speedtest.bbbell.it
 speedtest.beconet.es
@@ -2296,6 +2299,7 @@ speedtest8.digimobil.es
 speedtest8.vodafone.com.tr
 speedtest9.digimobil.es
 speedtest9.vodafone.com.tr
+speedtest9200.sea.acsalaska.net
 speedtestac.vtal.net.br
 speedtestacibadem.netspeed.tr
 speedtestalbq.vexusfiber.com
