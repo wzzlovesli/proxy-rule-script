@@ -139,6 +139,7 @@ bsnlooklachd.mywire.org
 btestmcp.vocetelecom.vc
 btlr-speedtest-02.brightspeed.com
 bur1speedtest.turktelekom.com.tr
+bursaspeedtest.pendns.net
 bytp-speedtest-1.123.net
 ca00svp-speed11.svc.tds.net
 cesu-hz.zjtelecom.com.cn
@@ -540,6 +541,7 @@ ookla.sh.com.tr
 ookla.siditelecom-isp.com.br
 ookla.slimnet.com.br
 ookla.snt.utwente.nl
+ookla.speed.tng.de
 ookla.speedking.in
 ookla.speedtest.cnix.cn
 ookla.surnet.com.tr
@@ -1671,6 +1673,7 @@ speedtest.mdtc.net
 speedtest.me.mycci.net
 speedtest.meerfarbig.net
 speedtest.megahertz.net.in
+speedtest.meghlink.com
 speedtest.mel.mhn.cloud
 speedtest.mel01.launtel.net.au
 speedtest.meric.net.tr
@@ -2848,6 +2851,7 @@ velocimetro.govistabr.com.br
 velocimetro.proveinter.com.br
 velocimetro.speednetworks.com.br
 velocimetro.wiretelecom.com.br
+velocimetro.wspeednet.com.br
 velocimetrostm.interlig.net
 velocity.softtelecom.net.br
 veloteste.mrjomar.com.br
