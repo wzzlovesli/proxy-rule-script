@@ -1296,7 +1296,6 @@
 +.aisejushi.com
 +.aisex.com
 +.aishegw.com
-+.aiss.anws.gov.tw
 +.ait.org.tw
 +.aiv-cdn.net
 +.aiv-cdn.net.c.footprint.net
@@ -2367,7 +2366,6 @@
 +.archiveofourown.net
 +.archiveofourown.org
 +.archives.gov
-+.archives.gov.tw
 +.archivx.to
 +.archlinux.org
 +.archlinuxarm.org
@@ -3816,6 +3814,7 @@
 +.bitchmomporn.com
 +.bitchute.com
 +.bitcoin.org
++.bitcoincore.org
 +.bitcointalk.org
 +.bitcoinworld.com
 +.bitdefender.com
@@ -6593,7 +6592,6 @@
 +.dat.foundation
 +.data-vocabulary.org
 +.data.com
-+.data.gov.tw
 +.dataframeworks.com
 +.datalabour.com
 +.dataliberation.org
@@ -8552,7 +8550,6 @@
 +.evschool.net
 +.eworld.com
 +.exacttarget.com
-+.exam.gov.tw
 +.exascale-tech.com
 +.exblog.jp
 +.excedo.com
@@ -8605,7 +8602,6 @@
 +.exxxtra.net
 +.exxxtrasmall.com
 +.exxxtrasmall1.com
-+.ey.gov.tw
 +.eyevio.jp
 +.eyny.com
 +.ezpc.tk
@@ -8620,7 +8616,6 @@
 +.f6988.com
 +.f8.com
 +.f95zone.to
-+.fa.gov.tw
 +.faacebok.com
 +.faacebook.com
 +.faapy.com
@@ -9134,7 +9129,6 @@
 +.fcfacebook.com
 +.fcw.xxx
 +.fcww0.com
-+.fda.gov.tw
 +.fdacebook.info
 +.fdbox.com
 +.fdc64.de
@@ -12117,7 +12111,6 @@
 +.hp3dmetals.com
 +.hp3dprinter.com
 +.hp3dsamplepromo.com
-+.hpa.gov.tw
 +.hpallinoneprinter.com
 +.hpapplicationscenter.com
 +.hpayshop.com
@@ -12953,7 +12946,6 @@
 +.imlive.com
 +.immersivetranslate.com
 +.immidio.com
-+.immigration.gov.tw
 +.immoral.jp
 +.immxd.com
 +.imo.im
@@ -13642,7 +13634,6 @@
 +.ita-do.com
 +.itaboo.info
 +.itaeromanga.com
-+.itaiwan.gov.tw
 +.italiabeatsbydrdre.com
 +.italiatibet.org
 +.itasoftware.com
@@ -14183,7 +14174,6 @@
 +.jtvnw.net
 +.jubushoushen.com
 +.judeporn.com
-+.judicial.gov.tw
 +.juggsjoy.com
 +.juhachibank.co.jp
 +.juhuaren.com
@@ -15225,7 +15215,6 @@
 +.lwwcn.xyz
 +.lxxlxx.com
 +.ly
-+.ly.gov.tw
 +.lyfhk.net
 +.lynxjs.org
 +.lysol.ca
@@ -16462,7 +16451,6 @@
 +.mizuhobank.co.jp
 +.mizzmona.com
 +.mji.rip
-+.mjib.gov.tw
 +.mjj.rip
 +.mjlsh.usc.cuhk.edu.hk
 +.mjv-art.org
@@ -16528,7 +16516,6 @@
 +.modperl.pl
 +.modrinth.com
 +.modular.im
-+.moeaic.gov.tw
 +.moedigi.com
 +.moeero-library.com
 +.moeerolibrary.com
@@ -16540,7 +16527,6 @@
 +.moeshare.cc
 +.moez-m.com
 +.mof.kemomi.me
-+.mofa.gov.tw
 +.mofaxiehui.com
 +.mofos.com
 +.mofosex.com
@@ -16549,10 +16535,8 @@
 +.mohu.club
 +.mohu.ml
 +.mohu.rocks
-+.moj.gov.tw
 +.mojang.com
 +.mojim.com
-+.mol.gov.tw
 +.mol.im
 +.moldflow.com
 +.moldflowexpress.com
@@ -16903,7 +16887,6 @@
 +.muzi.com
 +.muzi.net
 +.muzu.tv
-+.mvdis.gov.tw
 +.mvg.jp
 +.mvideoporno.xxx
 +.mvk.com
@@ -17218,7 +17201,6 @@
 +.nastranworldwide.com
 +.nasty.singles
 +.nastyvids.com
-+.nat.gov.tw
 +.nat.moe
 +.natado.com
 +.nataliefiore.com
@@ -17587,7 +17569,6 @@
 +.nhentaihaven.com
 +.nhentaihaven.org
 +.nheos.com
-+.nhi.gov.tw
 +.nhk-ondemand.jp
 +.nhncorp.jp
 +.nianticlabs.com
@@ -17933,9 +17914,7 @@
 +.noypf.com
 +.nozomi.la
 +.npa.go.jp
-+.npa.gov.tw
 +.npm.community
-+.npm.gov.tw
 +.npm.im
 +.npm.io
 +.npmjs.com
@@ -17960,16 +17939,12 @@
 +.ns1.name
 +.ns2.name
 +.ns3.name
-+.nsc.gov.tw
 +.nsfw.xxx
 +.nsfw247.to
 +.nsfwmemes.com
 +.nsfwr34.com
 +.nsimg.net
 +.nssurge.com
-+.ntbk.gov.tw
-+.ntbna.gov.tw
-+.ntbt.gov.tw
 +.ntc.party
 +.ntd.com
 +.ntd.tv
@@ -18978,7 +18953,6 @@
 +.pc.com
 +.pca.st
 +.pcanywhere.net
-+.pcc.gov.tw
 +.pccw.com
 +.pccwglobal.com
 +.pccwsolutions.com
@@ -21262,11 +21236,13 @@
 +.secure.logmein.com
 +.secure.raxcdn.com
 +.secure.shadowsocks.nu
++.securecloudtransformation.com
 +.securepaypal.info
 +.secureservercdn.net
 +.securetunnel.com
 +.securityinabox.org
 +.securitykiss.com
++.securitypreview.com
 +.see.xxx
 +.seed4.me
 +.seedmov18.com
@@ -21280,7 +21256,6 @@
 +.seeurlpcl.com
 +.seevpn.com
 +.seezone.net
-+.sef.org.tw
 +.sego8.cc
 +.sego8.co
 +.sego8.xyz
@@ -22567,6 +22542,7 @@
 +.starfieldtech.com
 +.starfishfx.com
 +.starfox.com
++.stargazer-games.com
 +.stark-verlag.ch
 +.starott.com
 +.starp2p.com
@@ -22587,7 +22563,6 @@
 +.starwarsjedifallenorder.com
 +.starwarskids.com
 +.starwarstheoldrepublic.com
-+.stat.gov.tw
 +.state.gov
 +.stateofthemap.com
 +.stateofthemap.org
@@ -22643,6 +22618,8 @@
 +.steezylist.com
 +.steganos.com
 +.steganos.net
++.stellasora.global
++.stellasora.jp
 +.stepchina.com
 +.stepdaughter.love
 +.stepfamilyporn.com
@@ -23007,7 +22984,6 @@
 +.tabtter.jp
 +.tabustudios.co
 +.tacamateurs.com
-+.tacc.cwb.gov.tw
 +.tacem.org
 +.tachusz.xyz
 +.taconet.com.tw
@@ -23028,7 +23004,6 @@
 +.tailwindtraders.com
 +.taiolongdh.sbs
 +.taipei
-+.taipei.gov.tw
 +.taipeisociety.org
 +.taipeitimes.com
 +.taisounds.com
@@ -23039,7 +23014,6 @@
 +.taiwandaily.net
 +.taiwandc.org
 +.taiwanhot.net
-+.taiwanjobs.gov.tw
 +.taiwanjustice.com
 +.taiwanjustice.net
 +.taiwankiss.com
@@ -23328,7 +23302,6 @@
 +.thawte.com
 +.thawte.de
 +.thawte.fr
-+.thb.gov.tw
 +.thdh.cc
 +.the-area.com
 +.the-japan-news.com
@@ -23559,6 +23532,7 @@
 +.threads.com
 +.threads.net
 +.threatchaos.com
++.threatlabz.com
 +.thri.xxx
 +.thrixxx.com
 +.throughnightsfire.com
@@ -23738,7 +23712,6 @@
 +.tinyurl.com
 +.tiohentai.com
 +.tipas.net
-+.tipo.gov.tw
 +.tire-cadcam.com
 +.tiresplus.com
 +.tistory.com
@@ -25796,7 +25769,6 @@
 +.wbvm4s.com
 +.wd.bible
 +.wd.com
-+.wda.gov.tw
 +.wdc.com
 +.wdf5.com
 +.wdfiles.com
@@ -27246,6 +27218,7 @@
 +.ymhsf1.top
 +.ync.ne.jp
 +.ynoproject.net
++.yo-star.com
 +.yo1health.com
 +.yobit.net
 +.yobt.com
@@ -27268,6 +27241,10 @@
 +.yorkbbs.ca
 +.yorozoonews.jp
 +.yoshisnewisland.com
++.yostar-pictures.co.jp
++.yostar.co.jp
++.yostar.net
++.yostarplat.com
 +.you-get.org
 +.you.com
 +.youassporn.com
@@ -27611,6 +27588,8 @@
 +.zdnet.com.tw
 +.zdnet.redvideo.io
 +.zdusercontent.com
++.zdxbeta.net
++.zdxcloud.net
 +.zee.com
 +.zee5.com
 +.zee5.in
@@ -27769,8 +27748,20 @@
 +.zorrovpn.com
 +.zotero.org
 +.zozotown.com
++.zpagov.net
++.zpath.com
 +.zpn.im
 +.zqqpwz.com
++.zscaler.com
++.zscaler.jp
++.zscaler.net
++.zscalerbeta.net
++.zscalergov.net
++.zscalerone.net
++.zscalershift.com
++.zscalerthree.net
++.zscalertwo.net
++.zscloud.net
 +.zsdxzk.com
 +.zsh.org
 +.zspeeder.me
