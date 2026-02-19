@@ -183,6 +183,7 @@ de-fra2-lg1.level66.network
 de-lg.h2.nexus
 de-speedtest.digitalexample.com
 de.st.spacecore.pro
+debit.psrv.ch
 dehradun.blueskynetwork.in
 delhi.speedtest.railtel.in
 delhispeedtest.onebroadband.in
