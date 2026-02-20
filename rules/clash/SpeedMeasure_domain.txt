@@ -570,6 +570,7 @@ ooklaspeedtest-ist1.quickzone.net
 ooklaspeedtest.as198053.net
 ooklatins.redeconexaonet.com
 open.cachefly.net
+ord-cos1-ookla-1.99.network
 owst.gilat.net
 oxfrma-speedtest-ookla-01.st.charter.com
 par1speedtest01.skylogic.com
@@ -1205,6 +1206,7 @@ speedtest.5x5tele.com
 speedtest.603.sbaedge.net
 speedtest.7stardigitalnetwork.com
 speedtest.a4telecom.com.br
+speedtest.aabroadband.in
 speedtest.absenterprises.co.in
 speedtest.absolutevalidation.com
 speedtest.accessoninternet.com
