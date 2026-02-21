@@ -33697,6 +33697,7 @@
 +.et-cdn.com
 +.et-fine.com
 +.et001.com
++.et0731.com
 +.et363.com
 +.et59.com
 +.etagri.com
@@ -41190,6 +41191,7 @@
 +.guzuci.com
 +.guzwiayz.com
 +.gvg-redsun.com
++.gvgoo.com
 +.gvi-tech.com
 +.gvlocalization.com
 +.gvoiceplat.com

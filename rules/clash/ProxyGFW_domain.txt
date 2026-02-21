@@ -140,6 +140,7 @@
 +.18hmanga.com
 +.18insta.com
 +.18j.tv
++.18jav.tv
 +.18jms.com
 +.18mh.co
 +.18mh.me
@@ -3894,6 +3895,7 @@
 +.blizzardgearstore.com
 +.blobstore.apple.com
 +.blockcast.it
++.blockchain.com
 +.blockcn.com
 +.blockedbyhk.com
 +.blockfrost.io
@@ -13789,6 +13791,7 @@
 +.jav-vr.net
 +.jav.app
 +.jav.com
++.jav.com.co
 +.jav.dog
 +.jav.gallery
 +.jav.guru
@@ -13911,6 +13914,7 @@
 +.javpush.com
 +.javqd.com
 +.javrank.com
++.javrate.com
 +.javrave.club
 +.javroot.com
 +.javscat.net
@@ -13938,6 +13942,7 @@
 +.javtube.cc
 +.javtube.com
 +.javtube.net
++.javvideoporn.com
 +.javvids.com
 +.javwide.com
 +.javwide.tv
@@ -17850,6 +17855,7 @@
 +.njactb.org
 +.njav.com
 +.njav.tv
++.njavtv.com
 +.njpw.co.jp
 +.njpw1972.com
 +.njuice.com
@@ -21015,6 +21021,7 @@
 +.saleblackfridaydrebeats.com
 +.salecheaphandbags.com
 +.salesforce-setup.com
++.salesforce-sites.com
 +.salesforce.com
 +.salesforce.org
 +.salesforceiq.com
@@ -26506,7 +26513,8 @@
 +.xhamster.xxx
 +.xhamster18.com
 +.xhamster18.desi
-+.xhamster2.com
++.xhamster19.com
++.xhamster3.com
 +.xhamsterlive.com
 +.xhcdn.com
 +.xhlive.org
@@ -27192,6 +27200,7 @@
 +.yasarang.net
 +.yasni.co.uk
 +.yastat.net
++.yastatic-net.ru
 +.yastatic.net
 +.yasukuni.or.jp
 +.yavtube.com
