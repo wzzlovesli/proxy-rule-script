@@ -728,6 +728,7 @@ sp3.atcc-gns.net
 sp3.basinbroadband.ca
 sp3.contilnet.net
 sp3.novaconn.it
+sp5ookla.flynetwork.it
 sp7.atcc-gns.net
 spa.lvh.lol
 spd-phnhazva.wyyerd.io
@@ -1243,6 +1244,7 @@ speedtest.ams0.nl.as61049.net
 speedtest.ams1.hivelocity.net
 speedtest.ams1.macarne.com
 speedtest.ams14.usenet.farm
+speedtest.amsterdam.valtrix.org
 speedtest.ank01.edge.kernzen.com
 speedtest.anksoft.net
 speedtest.antisatelecom.es
@@ -1923,6 +1925,7 @@ speedtest.snghosting.com
 speedtest.snnet.com.br
 speedtest.softechinfosol.com
 speedtest.softether.co.jp
+speedtest.softwareeni.com
 speedtest.sogetel.net
 speedtest.solutechzk.com
 speedtest.sonepat.softechinfosol.com
@@ -2276,6 +2279,7 @@ speedtest25.wiatel.com
 speedtest26.csisp.info
 speedtest27.suddenlink.net
 speedtest3.airbeam.cloud
+speedtest3.avatel.es
 speedtest3.connectja.com.br
 speedtest3.dacor.de
 speedtest3.dal.nxlink.com
@@ -2705,6 +2709,7 @@ test.intred.it
 test.logae.net.br
 test.rconnects.com
 test.rnfibra.com.br
+test.royalgirl.de
 test.slic.com
 test.turuncunet.com.tr
 test1.telitel.net

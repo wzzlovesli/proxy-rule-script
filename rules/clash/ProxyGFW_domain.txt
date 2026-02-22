@@ -1384,6 +1384,7 @@
 +.akiba-online.com
 +.akiba-souken.com
 +.akiba-web.com
++.akile.io
 +.akinator.com
 +.akita-bank.co.jp
 +.akow.org
@@ -2505,6 +2506,7 @@
 +.assemblesystems.com
 +.assesphoto.com
 +.assets.bwbx.io
++.assets.nxtrace.org
 +.assetsadobe.com
 +.assimp.org
 +.assistirhentai.com
@@ -15809,6 +15811,7 @@
 +.medium.systems
 +.medow.ru
 +.medrxiv.org
++.meee.com.tw
 +.meendo.com
 +.meet.new
 +.meetandfuck.games
@@ -18486,6 +18489,7 @@
 +.opencas.io
 +.opencollective.com
 +.opencreate.org
++.opencritic.com
 +.opendemocracy.net
 +.opendn.xyz
 +.opendns.com
@@ -26328,6 +26332,7 @@
 +.www.antd.org
 +.www.aolnews.com
 +.www.bing.com
++.www.clashverge.dev
 +.www.cmoinc.org
 +.www.destinationurl.com
 +.www.dmm.com
