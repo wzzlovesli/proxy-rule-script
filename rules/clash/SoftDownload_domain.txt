@@ -1654,6 +1654,7 @@ mirrors.yuntu.com.tw
 mr.heru.id
 msdl.microsoft.com
 muug.ca
+mx-app-blob-prod.maxon.net
 nobara-images.nobaraproject.org
 npm.im
 npm.jsr.io
