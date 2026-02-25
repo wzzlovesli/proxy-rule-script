@@ -9802,6 +9802,7 @@
 +.freeddns.org
 +.freedirecttvspecial.com
 +.freedl.org
++.freedom.gov
 +.freedomchina.info
 +.freedomcollection.org
 +.freedomhongkong.org
@@ -16468,7 +16469,9 @@
 +.mixcloud.com
 +.mixer.com
 +.mixero.com
++.mixi.co.jp
 +.mixi.jp
++.mixi.net
 +.mixin.one
 +.mixmaturesex.com
 +.mixpod.com
@@ -18686,6 +18689,7 @@
 +.pachosting.com
 +.pacifickitchenandhome.com
 +.pacificpoker.com
++.packagecloud.io
 +.packagephobia.com
 +.packaging-cadcam.com
 +.packagingcadcam.com
