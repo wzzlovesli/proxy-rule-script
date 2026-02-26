@@ -678,6 +678,7 @@ sp1.campanaworks.com
 sp1.cltelecom.net.br
 sp1.contilnet.net
 sp1.cyberinfo.net.br
+sp1.denbroadband.in
 sp1.fibernetespecializados.com.br
 sp1.fibramaisce.com.br
 sp1.fxtelecom.com.br
@@ -817,6 +818,7 @@ speed.inet-isp.com
 speed.jumpernet.com.br
 speed.kansas.smishcraft.com
 speed.ktk.de
+speed.laurensk.nl
 speed.lax-1.serverforge.org
 speed.lordnet.net
 speed.malang.net.in
@@ -1757,6 +1759,7 @@ speedtest.netfix.org.in
 speedtest.netflash.net
 speedtest.netgotelecom.com.br
 speedtest.nethiz.net
+speedtest.netlen.com.tr
 speedtest.netlinkce.com.br
 speedtest.netone.nl
 speedtest.netrack.ru
@@ -1939,6 +1942,7 @@ speedtest.spl.vodafone.nl
 speedtest.springcom.com
 speedtest.springo.it
 speedtest.sptel.com
+speedtest.squirrellogic.com
 speedtest.srvcyber.com
 speedtest.ssnetcom.co.in
 speedtest.stadtwerke-soest.de
