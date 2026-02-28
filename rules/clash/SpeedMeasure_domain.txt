@@ -622,6 +622,7 @@ sb-speedtest-1.twmbroadband.net
 sc-speedtest.homeplus.net.tw
 sea-speedtest.net.sangoma.net
 sea.st.spacecore.pro
+seawa00-speedtest.etstelco.com
 secretspeedsterserver2364.cpe.nj.crnrstn.comcast.net
 seednet-tc1.seed.net.tw
 seednet-tn1.seed.net.tw
@@ -857,6 +858,7 @@ speed.telcomnetwork.net
 speed.telecablecartaya.es
 speed.telfo.com.br
 speed.tepenet.com.tr
+speed.toronto.telmax.ca
 speed.tritan-bb.net
 speed.tudoall.com.br
 speed.turbodc.com

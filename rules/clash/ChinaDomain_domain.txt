@@ -112844,6 +112844,7 @@
 +.z-bank.com
 +.z-henergy.com
 +.z-inn.com
++.z-tek.com
 +.z.ai
 +.z.wiki
 +.z0.cc
@@ -118789,6 +118790,7 @@ alibaba.cdn.steampipe.steamcontent.com
 amp-api-edge-lb-cn.itunes-apple.com.akadns.net
 amp-api-edge-lb.itunes-apple.com.akadns.net
 amp-api-edge.apps.apple.com
+amp-api-edge.music.apple.com
 amp-api-search-edge.apps.apple.com
 amp-api-updates.apps.apple.com
 amp-api.apps.apple.com
@@ -119136,6 +119138,8 @@ monitoring.qpdp1.net
 moo.qq.com
 moocs.unipus.cn
 music.apple.com
+musicstatus.music.apple.com
+mvod.itunes.apple.com
 myapp.itunes.apple.com
 myvs.download.prss.microsoft.com
 netease.ugcvideoss.ourdvs.com
@@ -119307,6 +119311,7 @@ snp.cdn.dell.com
 snpi.dell.com
 software.download.prss.microsoft.com
 sp.itunes.apple.com
+speedysub.music.apple.com
 ss.bjmu.edu.cn
 ssl-google-analytics.l.google.com
 ssl.gstatic.com
