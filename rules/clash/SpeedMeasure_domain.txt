@@ -417,6 +417,7 @@ mumspeedtest.uvfiber.com
 mumst.bfiber.in
 nancy.bbr.ookla.bytel.fr
 navegaooklafortaleza.navegamais.com.br
+net-ookla-dc.p.foundation
 net-speed1-pp.ewetel.de
 netperf-pl.gigatrans.ua
 nets-mad01.servihosting.net
@@ -825,6 +826,7 @@ speed.laurensk.nl
 speed.lax-1.serverforge.org
 speed.lordnet.net
 speed.malang.net.in
+speed.markham.telmax.ca
 speed.matrixtelecon.com.br
 speed.megasyy.com
 speed.mei.net
@@ -1080,6 +1082,7 @@ speedtest-mtl.beanfield.com
 speedtest-mtl1.fleettel.ca
 speedtest-mum.froze.in
 speedtest-naw.pr-link.at
+speedtest-net-fra.dispaisy.systems
 speedtest-net.mk.de
 speedtest-net.xjtlu.edu.cn
 speedtest-newcastle.optusnet.com.au
@@ -1155,6 +1158,7 @@ speedtest-srv01.tut.net
 speedtest-stf.megafon.ru
 speedtest-stm.redeconecta.com
 speedtest-sunshine.optusnet.com.au
+speedtest-sunshinecoast.optusnet.com.au
 speedtest-syd-dn1.empower.net.au
 speedtest-syd.nsw.au.hostuniversal.com.au
 speedtest-syd.optusnet.com.au
@@ -2231,6 +2235,7 @@ speedtest1.whsdk12.net
 speedtest1.wlan4rent.nl
 speedtest1.xbase.com
 speedtest10.digimobil.es
+speedtest10.haashnet.com
 speedtest10.vqbn.com
 speedtest10g.atl.as13760.net
 speedtest10g.bhm.as13760.net

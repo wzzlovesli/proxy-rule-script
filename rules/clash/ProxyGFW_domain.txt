@@ -13815,6 +13815,7 @@
 +.jav.land
 +.jav.place
 +.jav.pw
++.jav.sb
 +.jav.si
 +.jav.wine
 +.jav01.cc
@@ -13892,6 +13893,7 @@
 +.javheroine.com
 +.javhihi.com
 +.javhip.com
++.javhub.com
 +.javhub.me
 +.javhub.net
 +.javhuge.com
@@ -13929,6 +13931,7 @@
 +.javpub.me
 +.javpush.com
 +.javqd.com
++.javquick.com
 +.javrank.com
 +.javrate.com
 +.javrave.club
@@ -26361,7 +26364,6 @@
 +.www.hoyolab.com
 +.www.hustlercash.com
 +.www.idlcoyote.com
-+.www.imdb.com
 +.www.kindleren.com
 +.www.lamenhu.com
 +.www.lorenzetti.com.br
