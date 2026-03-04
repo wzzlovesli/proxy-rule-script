@@ -1,5 +1,3 @@
-+.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
-+.0.in-addr.arpa
 +.0.zone
 +.00.net
 +.000.link
@@ -2295,6 +2293,7 @@
 +.17293879b10261.beer
 +.172haoka.vip
 +.172l.com
++.172mix.com
 +.172tt.com
 +.172xiaoyuan.com
 +.173.com
@@ -11668,6 +11667,7 @@
 +.akailibrary.com
 +.akamai.com
 +.akamaihd.net
++.akamaized.net
 +.akashadata.com
 +.akashic.cc
 +.akaxin.com
@@ -59239,6 +59239,7 @@
 +.juziss.com
 +.juzistore.com
 +.juzisy.com
++.juziwulian.com
 +.juzix.io
 +.juzizhoutou.net
 +.juzone.cc
@@ -60230,7 +60231,6 @@
 +.kasitesoft.com
 +.kaslyju.com
 +.kaspersky-labs.com
-+.kaspersky.com
 +.kasscloud.com
 +.kataliya.net
 +.kate-kanebo.net
@@ -89769,6 +89769,7 @@
 +.sunray2000.com
 +.sunresin.com
 +.sunresin.net
++.sunrisecontent.akamaized.net
 +.sunrisedutyfree.com
 +.sunrisegroupcn.com
 +.sunrisenan.com

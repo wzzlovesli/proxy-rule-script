@@ -598,6 +598,7 @@ cdn-builds.paw.cloud
 cdn-images.orbstack.dev
 cdn-patch.swtor.com
 cdn-updates.orbstack.dev
+cdn.affonso.io
 cdn.azul.com
 cdn.cocoapods.org
 cdn.cypress.io
@@ -613,6 +614,7 @@ cdn.organicmaps.app
 cdn.powershellgallery.com
 cdn.repo.cloudeka.id
 cdn.ubuntu.repo.cloudeka.id
+cdn.vemetric.com
 cdn.winget.microsoft.com
 cdn.zoom.us
 cdnorg.d.miui.com
@@ -846,6 +848,7 @@ download.sysinternals.com
 download.tensorflow.google.com
 download.todesktop.com
 download.typora.io
+download.umbrel.com
 download.visualstudio.microsoft.com
 download.xbox.com
 download2.epicgames.com
@@ -1794,6 +1797,7 @@ tug.ctan.org
 tug.org
 tukaani.org
 tux.rainside.sk
+typeless-static.com
 u.keka.io
 ubuntu-archive.interhost.co.il
 ubuntu-archive.locaweb.com.br

@@ -2394,6 +2394,7 @@
 +.area120.com
 +.area51.to
 +.areca-backup.org
++.arena.ai
 +.arena.taipei
 +.arethusa.su
 +.arewereadyyet.com
@@ -2432,6 +2433,7 @@
 +.artsy.net
 +.arunachalforests.gov.in
 +.arvanstorage.ir
++.arweave.org
 +.arxiv.org
 +.arzon.jp
 +.as-hp.ca
@@ -7031,6 +7033,7 @@
 +.diablo3.com
 +.diabloimmortal.com
 +.diabrowser.com
++.diabrowser.engineering
 +.diagrams.net
 +.dialga.com
 +.dialogflow.com
@@ -7306,6 +7309,7 @@
 +.dl-iphone.com
 +.dl-laby.jp
 +.dl.box.net
++.dlaf.jp
 +.dlap001.xyz
 +.dlap301.com
 +.dldlinks.com
@@ -12886,9 +12890,8 @@
 +.ilife.gr
 +.ilife.wang
 +.illawarramercury.com.au
++.illgames.jp
 +.illianacomputerrecycling.com
-+.illusion.co.jp
-+.illusion.jp
 +.illusion111.com
 +.illusionas.com
 +.illusionchn.com
@@ -13780,6 +13783,7 @@
 +.janor6.net
 +.janwongphoto.com
 +.japan-forward.com
++.japan-illgames.com
 +.japan-whores.com
 +.japan18tube.com
 +.japanbeast.com
@@ -24121,6 +24125,7 @@
 +.tt
 +.tt-rss.org
 +.tt1069.com
++.ttcdn-us.com
 +.tteshop.com
 +.ttlivecdn.com
 +.ttoverseaus.net
@@ -26182,6 +26187,7 @@
 +.wisekey.com.hk
 +.wisevid.com
 +.wish.com
++.wispbyte.com
 +.wistia.com
 +.wistia.net
 +.withgoogle.com

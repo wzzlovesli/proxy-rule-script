@@ -261,6 +261,7 @@ hkspeedtest.netvigator.com
 hkt.hkspeedtest.com
 hkthspeedtest02.telstraglobal.net
 hoshiyomi.ratatoskr.org
+hs13.aratwifi.com.tr
 hs14.aratwifi.com.tr
 hv1.juce.ca
 hzl.speedtest.secv.com
@@ -2129,6 +2130,7 @@ speedtest.yecla.interfibra.es
 speedtest.yless4u.com.au
 speedtest.zenex5ive.com
 speedtest.zentrointernet.com
+speedtest.zerospace.cloud
 speedtest.zivlinaa.metronetinc.com
 speedtest.zl.osso.network
 speedtest.zoominternet.net
