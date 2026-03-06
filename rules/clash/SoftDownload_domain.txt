@@ -504,7 +504,6 @@
 +.s3.us-west-2.amazonaws.com
 +.software-download.microsoft.com
 +.steamcontent.com
-+.steamserver.net
 +.swupdate.chaos.com
 +.swupdate.chaosgroup.com
 +.swupdate.vray.com

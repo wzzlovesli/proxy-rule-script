@@ -7504,6 +7504,7 @@
 +.downdetectorapi.com
 +.download.aircrack-ng.org
 +.download.com
++.download.dappcdn.com
 +.download.qatp1.net
 +.downloadpass.com
 +.downloadsforipod.com
@@ -14012,6 +14013,7 @@
 +.jessicaturner.com
 +.jetbra.in
 +.jetbrains.ai
++.jetbrains.cloud
 +.jetbrains.com
 +.jetbrains.net
 +.jetbrains.space
@@ -19424,6 +19426,10 @@
 +.pleasurebabe.com
 +.pleasuregirl.net
 +.pleasuremore.com
++.plex.com
++.plex.services
++.plex.tv
++.plexapp.com
 +.plexvpn.pro
 +.plm.org.hk
 +.plos.org

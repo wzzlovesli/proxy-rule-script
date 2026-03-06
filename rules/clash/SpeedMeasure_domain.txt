@@ -200,6 +200,7 @@ dns.yesindiacommunications.in
 dpac-la.guam.net
 drtvpdspeedtesta.voiped.eu
 drtvpdspeedtestb.voiped.com
+dssd-tc.wsqm.telekom-dienste.de
 duliajan-speedtest.arrowebonline.com
 dus.speedtest.komdsl.de
 dus.wsqm.telekom-dienste.de
@@ -473,6 +474,7 @@ ookla-mi.tech.tiscali.it
 ookla-mi01.nexim.it
 ookla-mia.gigsouth.com
 ookla-mil.seeweb.it
+ookla-mispeed.rackgenius.com
 ookla-rm.tech.tiscali.it
 ookla-server.vim.web.tr
 ookla-speedtest-central.hgconair.hgc.com.hk
