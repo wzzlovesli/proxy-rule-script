@@ -1992,6 +1992,7 @@
 +.app-measurement-cn.com
 +.app-measurement.com
 +.app-measurement.net
++.app-pay.jp
 +.app-store.wang
 +.app.box.com
 +.app.cloudcone.com
@@ -21078,6 +21079,7 @@
 +.samsunggalaxyfriends.com
 +.samsunghealth.com
 +.samsungiotcloud.com
++.samsungiots.com
 +.samsungknox.com
 +.samsungosp.com
 +.samsungqbe.com
@@ -22061,6 +22063,7 @@
 +.smartonesolutions.com.hk
 +.smartonesolutions.hk
 +.smartstream.ne.jp
++.smartthings.com
 +.smashed.xxx
 +.smashing.media
 +.smashingmagazine.com

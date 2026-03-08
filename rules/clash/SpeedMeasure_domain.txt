@@ -785,6 +785,7 @@ speed-ist.veganet.com.tr
 speed-mel.gigacomm.net.au
 speed-miss.systemlifeline.com
 speed-mix.dimensione.com
+speed-oak.systemlifeline.com
 speed-rm.dimensione.com
 speed-server3.summit-broadband.com
 speed-syd.gigacomm.net.au
@@ -1306,6 +1307,7 @@ speedtest.beconet.es
 speedtest.bellaliant.net
 speedtest.bellevueia.gov
 speedtest.belmontcountygig.com
+speedtest.bemol.com.br
 speedtest.berlin.jonasdevries.de
 speedtest.beyondair.ca
 speedtest.bigventuresmedia.com
