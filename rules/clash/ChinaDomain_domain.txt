@@ -833,6 +833,7 @@
 +.0731tg.com
 +.0731wan.com
 +.0733news.com
++.0734cn.top
 +.0734zpw.com
 +.0735.com
 +.07358.com
@@ -3789,6 +3790,7 @@
 +.2m2j.com
 +.2m3m.com
 +.2ma2.com
++.2mcnxs.cc
 +.2mjob.com
 +.2mould.com
 +.2muslim.com
@@ -6496,6 +6498,7 @@
 +.52playgame.com
 +.52pojie.com
 +.52post.com
++.52ppt.com
 +.52qixiang.com
 +.52qmct.com
 +.52qqba.com
@@ -14912,6 +14915,7 @@
 +.badmintoncn.com
 +.badmintone.com
 +.badong.net
++.badou.com
 +.badouxueyuan.com
 +.badu.com
 +.badudns.cc
@@ -46192,6 +46196,7 @@
 +.haohanpower.tech
 +.haohanstar.com
 +.haohao8888.com
++.haohaodoc.com
 +.haohaotuan.com
 +.haohaowan.com
 +.haohaowan.net
@@ -51652,6 +51657,7 @@
 +.husubao.com
 +.hutaojie.com
 +.hutaolinight.com
++.hutaoyun.top
 +.hutegy.com
 +.hutew.com
 +.hutong-school.com
@@ -51999,6 +52005,7 @@
 +.hybase.com
 +.hybbs.net
 +.hybbtree.com
++.hybiome.com
 +.hybssy.com
 +.hyc.com
 +.hyccw.com
@@ -63790,6 +63797,7 @@
 +.lazycatmicroserver.com
 +.lazycomposer.com
 +.lazydim.com
++.lazyer.net
 +.lazymap.com
 +.lazyren.com
 +.lazystones.com
@@ -68651,6 +68659,7 @@
 +.mbldbb.com
 +.mblog.club
 +.mblu.com
++.mblyun.com
 +.mbo-china.com
 +.mbokee.com
 +.mbs.download.prss.microsoft.com
@@ -101126,6 +101135,7 @@
 +.wenjuanshow.com
 +.wenjuntech.com
 +.wenkaoba.com
++.wenkeju.com
 +.wenku.in
 +.wenku.net
 +.wenku365.com
@@ -104583,6 +104593,7 @@
 +.xfliusheng.com
 +.xflstatic.com
 +.xfltd.net
++.xfltd.org
 +.xfmspps.com
 +.xfnano.com
 +.xfocus.net
@@ -116099,6 +116110,7 @@
 +.zhouyi.cc
 +.zhouyi114.com
 +.zhouyiapi.com
++.zhouyiy.com
 +.zhouyou360.com
 +.zhouyouji.world
 +.zhouzhuang.net

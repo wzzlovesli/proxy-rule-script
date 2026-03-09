@@ -438,6 +438,7 @@ nmx.cvt.speedtest.civitanet.com
 northernaccess.de
 ns1.fab5network.com
 ns1.fybrg.in
+ns10.fab5network.com
 ns2.peer.net.in
 ntp-speedtest.homeplus.net.tw
 ntp1.chtm.hinet.net
@@ -659,6 +660,7 @@ sky-speedtest.homeplus.net.tw
 sky.almotafael.com
 skynet.level3.support
 sl-04.wemacom.net
+slgrooklaspeed1.jioconnect.com
 sllgooklaspeed1.jioconnect.com
 slrmpqfh-speedtest-01.telus.com
 smtest.supermedia.pl
@@ -911,6 +913,7 @@ speed12.gonetspeed.com
 speed2.dg-sys.net
 speed2.fiberlink.pl
 speed2.netlixor.de
+speed2.suitit.nl
 speed4.snap.net.nz
 speedam.wsp.net.br
 speedapi.race.com
@@ -1679,6 +1682,7 @@ speedtest.lumischvps.cloud
 speedtest.lumos.net
 speedtest.lureit.ru
 speedtest.lwlcom.net
+speedtest.maadurgabroadband.in
 speedtest.maanglobalnetworks.com
 speedtest.macapatelecom.net.br
 speedtest.macht-dicht.de

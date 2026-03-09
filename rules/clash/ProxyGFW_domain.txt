@@ -7809,6 +7809,7 @@
 +.dynamobuilds.com
 +.dynamopackages.com
 +.dynamoreach.com
++.dynatrace.com
 +.dynawebinc.com
 +.dyncdn.me
 +.dyndns-ip.com
@@ -8969,6 +8970,7 @@
 +.familypies.net
 +.familyporn.tv
 +.familypornhd.com
++.familysearch.org
 +.familysexsimulator.com
 +.familysimulator.com
 +.familysimulator.io
@@ -21718,6 +21720,7 @@
 +.shitaotv.org
 +.shithd.com
 +.shitjav.com
++.shitjournal.org
 +.shittytube.com
 +.shixiao.org
 +.shizhao.org
@@ -27980,7 +27983,6 @@ cbsservice.aws.syncbak.com
 ccmdl.adobe.com
 cdn-spotify-experiments.conductrics.com
 cdn.js7k.com
-cdn.jsdelivr.net
 cdngarenanow-a.akamaihd.net
 chinapower.csis.org
 cisco.evergage.com
