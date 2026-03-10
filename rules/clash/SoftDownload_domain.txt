@@ -1719,6 +1719,7 @@ release-assets.githubusercontent.com
 release.runcloud.io
 releases.arc.net
 releases.grapheneos.org
+releases.landrop.app
 releases.obsidian.md
 releases.stash.ws
 releases.warp.dev

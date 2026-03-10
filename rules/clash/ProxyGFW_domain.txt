@@ -6464,6 +6464,7 @@
 +.cutscenes.net
 +.cutt.ly
 +.cuty.io
++.cve.org
 +.cw.com.tw
 +.cwcams.com
 +.cws.conviva.com
