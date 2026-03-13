@@ -203,6 +203,7 @@ drtvpdspeedtesta.voiped.eu
 drtvpdspeedtestb.voiped.com
 ds19.vipconnect.mx
 dssd-tc.wsqm.telekom-dienste.de
+dtmd-tc.wsqm.telekom-dienste.de
 duliajan-speedtest.arrowebonline.com
 dus.speedtest.komdsl.de
 dus.wsqm.telekom-dienste.de
@@ -263,6 +264,7 @@ hkgspeedtest.cmctelecom.vn
 hkspeedtest.netvigator.com
 hkt.hkspeedtest.com
 hkthspeedtest02.telstraglobal.net
+hmb-tc.wsqm.telekom-dienste.de
 hoshiyomi.ratatoskr.org
 hs13.aratwifi.com.tr
 hs14.aratwifi.com.tr
@@ -978,6 +980,7 @@ speedtest-atl.dish-wireless.com
 speedtest-atl.melbicom.net
 speedtest-aus.chainlinkhosting.com
 speedtest-az.bambroadband.com
+speedtest-az.survivalflight.net
 speedtest-baltimore.greenlightnetworks.com
 speedtest-bassano.wifiweb.it
 speedtest-bd-1.zoominternet.net
@@ -1603,6 +1606,7 @@ speedtest.internetsubway.com
 speedtest.intersaar.de
 speedtest.intlink.com.br
 speedtest.ioflood.com
+speedtest.ip-house.co.uk
 speedtest.ip-projects.de
 speedtest.ip-works.de
 speedtest.ipcore.com

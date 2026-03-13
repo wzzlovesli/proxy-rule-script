@@ -5841,10 +5841,12 @@
 +.classicalguitarblog.net
 +.classicnike.com
 +.classymomsex.com
++.clau.de
 +.claude.ai
 +.claude.com
 +.claudemcpclient.com
 +.claudeusercontent.com
++.clawhub.ai
 +.clb.org.hk
 +.clco.cc
 +.cldr.unicode.org
@@ -11296,6 +11298,7 @@
 +.h0930.com
 +.h18ani1.vip
 +.h1n1china.org
++.h2o.ai
 +.h2porn.com
 +.h528.com
 +.h5dm.com
@@ -18519,6 +18522,7 @@
 +.openbase.com
 +.openbook.org.tw
 +.opencas.io
++.openclaw.ai
 +.opencollective.com
 +.opencreate.org
 +.opencritic.com
