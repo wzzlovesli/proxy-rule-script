@@ -1434,6 +1434,7 @@ speedtest.dllstx97.metronetinc.com
 speedtest.dolomitinet.it
 speedtest.dongfong.com.tw
 speedtest.drei.at
+speedtest.drie-host.nl
 speedtest.dscw.fr
 speedtest.dsgroupmedia.com
 speedtest.dukekunshan.edu.cn
@@ -2622,6 +2623,7 @@ stkingston.netcrawler.ca
 stkingstonwireless.rogers.com
 stkitchener.rogers.com
 stkitchenerwireless.rogers.com
+stladhuka.clicknconnect.co.in
 stleamingtonwireless.rogers.com
 stlethbridgewireless.rogers.com
 stlondon.netcrawler.ca
