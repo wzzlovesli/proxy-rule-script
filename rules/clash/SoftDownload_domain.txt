@@ -68,6 +68,7 @@
 +.file.io
 +.filebin.net
 +.files.1drv.com
++.files.ghostty.org
 +.finkmirrors.net
 +.fnbuilds.services
 +.freemirror.org
@@ -568,6 +569,7 @@ archive.cs.uu.nl
 archive.g4t1.pro
 archive.kali.org
 archive.linux.duke.edu
+archive.raspberrypi.com
 artifacts.electronjs.org
 assets-production.packagecloud.io
 assets1.xboxlive.com
@@ -850,6 +852,7 @@ download.typora.io
 download.umbrel.com
 download.visualstudio.microsoft.com
 download.xbox.com
+download01.logi.com
 download2.epicgames.com
 download3.epicgames.com
 download4.epicgames.com

@@ -24156,6 +24156,7 @@
 +.chuseo.com
 +.chushan.com
 +.chushang027.com
++.chushi.cool
 +.chushihome.com
 +.chushiji.com
 +.chushixiu.com
@@ -49615,6 +49616,8 @@
 +.hongwuhuan.com
 +.hongxiangzaixian.com
 +.hongxiaolong.com
++.hongxingdl.com
++.hongxingdl.love
 +.hongxinglin.com
 +.hongxingshangye.com
 +.hongxingzhonggong.com
@@ -61129,6 +61132,7 @@
 +.kasitesoft.com
 +.kaslyju.com
 +.kaspersky-labs.com
++.kaspersky.com
 +.kasscloud.com
 +.kataliya.net
 +.kate-kanebo.net
@@ -63071,7 +63075,6 @@
 +.ky6yx.com
 +.ky7yx.com
 +.ky958.com
-+.kyarucloud.moe
 +.kybapp.com
 +.kybapp.net
 +.kybcrm.com
@@ -114942,6 +114945,7 @@
 +.zhangkoubei.net
 +.zhangku.com
 +.zhangle.com
++.zhangleglobal.com
 +.zhangli2015.com
 +.zhanglinfeng09.com
 +.zhangliziyun.com
