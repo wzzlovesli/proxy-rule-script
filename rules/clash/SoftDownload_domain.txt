@@ -661,6 +661,7 @@ cpan.ulak.net.tr
 cpan.uni-altai.ru
 cpan.webdesk.ru
 cpan.zbr.pt
+cr.yandex
 crysys.hit.bme.hu
 ctan.altspu.ru
 ctan.crest.fr
@@ -1147,6 +1148,7 @@ maven.fabricmc.net
 maven.google.com
 maven.is-quite.gay
 maven.neoforged.net
+mcr.microsoft.com
 mediafilez.forgecdn.net
 merlin.fit.vutbr.cz
 meta.omaps.app
