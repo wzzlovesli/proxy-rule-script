@@ -585,6 +585,7 @@ blzddist1-a.akamaihd.net
 blzddist2-a.akamaihd.net
 blzddist3-a.akamaihd.net
 blzddistkr1-a.akamaihd.net
+boot.arcboxcdn.com
 boot.netboot.xyz
 builds.paranoidandroid.co
 builds.parsec.app
