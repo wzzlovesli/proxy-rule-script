@@ -18713,6 +18713,7 @@
 +.boxgu.com
 +.boxiaole.com
 +.boxilink.com
++.boxim.online
 +.boxisign.com
 +.boxuegu.com
 +.boxueio.com
@@ -22409,6 +22410,7 @@
 +.chesir.com
 +.chesir.net
 +.chesono.com
++.chessease.net
 +.chestercharles.com
 +.chesthospital.com
 +.chesudi.com
@@ -35041,13 +35043,11 @@
 +.esoua.com
 +.esound.vip
 +.esouou.com
-+.esp8266.com
 +.espeedpost.com
 +.esplus.club
 +.espnlol.com
 +.esports-console.com
 +.esportsreg.com
-+.espressif.com
 +.esr.com
 +.essaystar.com
 +.essca.com
@@ -101973,6 +101973,7 @@
 +.wilddog.com
 +.wilddream.net
 +.wildfire.work
++.wildfirechat.net
 +.wildgun.net
 +.wildhorde.com
 +.wildto.com
@@ -104690,6 +104691,7 @@
 +.xgxsignage.com
 +.xgyszj.com
 +.xgz.cc
++.xgzb.top
 +.xgzbwdj.com
 +.xgzdhj.com
 +.xgzrs.com

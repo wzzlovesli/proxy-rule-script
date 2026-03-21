@@ -774,6 +774,7 @@ dl.google.com
 dl.iina.io
 dl.imobie.com
 dl.l.google.com
+dl.min.io
 dl.motrix.app
 dl.nssurge.com
 dl.nwjs.io
@@ -865,6 +866,7 @@ downloads.cloudflareclient.com
 downloads.cursor.com
 downloads.lemonsqueezy.com
 downloads.majestic.com
+downloads.marketplace.jetbrains.com
 downloads.openwrt.org
 downloads.portainer.io
 downloads.raspberrypi.com
