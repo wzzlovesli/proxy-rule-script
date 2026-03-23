@@ -1742,6 +1742,7 @@ speedtest.lumianetwork.it
 speedtest.luminet.cr
 speedtest.lumischvps.cloud
 speedtest.lumos.net
+speedtest.lungustefan.com
 speedtest.lureit.ru
 speedtest.lwlcom.net
 speedtest.maadurgabroadband.in
@@ -1830,6 +1831,7 @@ speedtest.ncn.net
 speedtest.nehost.site
 speedtest.neitel.net
 speedtest.nemr.net
+speedtest.nesildc.com
 speedtest.nessus.at
 speedtest.net360.cloud
 speedtest.netafy.com
@@ -2233,6 +2235,7 @@ speedtest.zoominternet.net
 speedtest001.bfinetworks.com
 speedtest001.dnainfotel.com
 speedtest001.ssstpl.in
+speedtest005.telecomitalia.it
 speedtest01-cty-gfld-ma-prod.gcet.net
 speedtest01-mxp.egisnet.it
 speedtest01.ams6.solcon.nl
