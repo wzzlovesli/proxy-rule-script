@@ -13014,6 +13014,7 @@
 +.anhuisjx.com
 +.anhuisuya.com
 +.anhuiwine.com
++.anhuiyun.com
 +.anhuizk.com
 +.ani-sh.com
 +.aniccw.net
@@ -25090,6 +25091,7 @@
 +.cmgrasp.com
 +.cmhello.com
 +.cmhijs.com
++.cmhk.com
 +.cmia.info
 +.cmic.site
 +.cmicapm.com
@@ -60784,6 +60786,7 @@
 +.kaimg.com
 +.kaimitech.com
 +.kaipai.com
++.kaipanhong.com
 +.kaipanla.com
 +.kaipuyun.com
 +.kaipuyun.net
@@ -119936,6 +119939,7 @@ crls.pki.goog
 csi.gstatic.com
 cstat.apple.com
 cstat.cdn-apple.com
+ctdsb.clouddiffuse.xyz
 ctldl.windowsupdate.com
 cueme-api.quark.cn
 customization-cdn.dell.com

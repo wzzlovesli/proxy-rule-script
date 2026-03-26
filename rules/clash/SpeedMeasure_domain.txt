@@ -116,6 +116,7 @@ asanet1.brsserver.com.br
 ashbn-va.speedtest.shentel.net
 at.blackhost.network
 atlat0001speedtestserver01.wiline.com
+atlat0001speedtestserver02.wiline.com
 au.st.spacecore.pro
 au1.ocean.host
 aus-nperf.verizon.net
@@ -439,6 +440,7 @@ myspeed.giantcomm.com
 nancy.bbr.ookla.bytel.fr
 navegaooklafortaleza.navegamais.com.br
 ncc-speed.kbro.com.tw
+neolinktt-speed.net
 net-ookla-dc.p.foundation
 net-speed1-pp.ewetel.de
 netperf-pl.gigatrans.ua
@@ -2350,6 +2352,7 @@ speedtest10g.bhm.as13760.net
 speedtest10g.ics-llc.net
 speedtest11.hotspot.koeln
 speedtest12.digimobil.es
+speedtest120.dal1.tx.hostedbackbone.net
 speedtest13.suddenlink.net
 speedtest14.digimobil.es
 speedtest14.point-broadband.com
@@ -2647,6 +2650,7 @@ st01.mynet.it
 st02.fynncloud.net
 st02.mtnsat.net
 st02.mynet.it
+st04.mtnsat.net
 st04.mynet.it
 st06.mynet.it
 st1-lax.panaops.com
