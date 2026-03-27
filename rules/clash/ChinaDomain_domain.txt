@@ -66468,7 +66468,6 @@
 +.lousj.com
 +.lousw.com
 +.louyue.com
-+.lovart.ai
 +.lovcuty.com
 +.love-freedom.com
 +.love-math-edu.com
@@ -120125,6 +120124,7 @@ is5.mzstatic.com
 itunes-apple.com.akadns.net
 itunes.apple.com
 itunesconnect.apple.com
+izattime.qcomgeo2.com
 js-cdn.music.apple.com
 kc.kexinshe.com
 km.support.apple.com
@@ -120461,5 +120461,6 @@ www.yxssp.com
 www4-static.gog-statics.com
 xn--flw351e.com
 xp.apple.com
+xtratime.qcomgeo2.com
 xz.pphimalayanrt.com
 yoo.gtimg.com
