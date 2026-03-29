@@ -1075,6 +1075,7 @@ speedtest-iad.acreto.net
 speedtest-iad.dish-wireless.com
 speedtest-ict.ideatek.com
 speedtest-intl.xl.co.id
+speedtest-iowa.airstreamcomm.net
 speedtest-ist-34-node.netzone.com.tr
 speedtest-it.the.hosting
 speedtest-jgn.galaxynet.in
@@ -2666,6 +2667,7 @@ st1.tbaytel.net
 st1.tzulo.com
 st2-lax.panaops.com
 st2-msn.5nines.com
+st2.mtplbroadband.in
 st2.octopustelecom.co.uk
 st2.wificanarias.com
 st2a.les.net
@@ -3025,6 +3027,7 @@ wipl-speedtest.wipl.online
 wpa-speed.magna5.com
 wrbg-speedtest-02.brightspeed.com
 wrsw-speedtest-02.brightspeed.com
+www.librespeed.fi
 yjl-speed.twmbroadband.com
 yk-netspeed.nwtel.ca
 yms-speed.kbro.com.tw
