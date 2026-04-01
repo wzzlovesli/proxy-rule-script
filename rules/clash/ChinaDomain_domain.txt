@@ -7719,6 +7719,7 @@
 +.6695.com
 +.66988.tv
 +.6699.fun
++.66990000.xyz
 +.6699129.com
 +.6699301.com
 +.6699343.com
@@ -21654,6 +21655,7 @@
 +.cftest7.com
 +.cftest8.com
 +.cftsupport.com
++.cftunnel.com
 +.cftzqinzhou.com
 +.cfucn.com
 +.cfunctions.com
@@ -34601,6 +34603,7 @@
 +.embryochina.com
 +.embsky.com
 +.emby.men
++.emby.yun
 +.embyvip.org
 +.emcbj.com
 +.emcdir.com

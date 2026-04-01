@@ -2414,6 +2414,7 @@ speedtest3.connectja.com.br
 speedtest3.dacor.de
 speedtest3.dal.nxlink.com
 speedtest3.myninestar.net
+speedtest3.networks.bt.com
 speedtest3.point-broadband.com
 speedtest3.sasknet.sk.ca
 speedtest3.vodafone.com.tr
@@ -2435,6 +2436,7 @@ speedtest5.vodafone.com.tr
 speedtest5.windtre.it
 speedtest6.digimobil.es
 speedtest6.vodafone.com.tr
+speedtest61.turk.net
 speedtest7.vodafone.com.tr
 speedtest7.windtre.it
 speedtest8.digimobil.es
