@@ -86,6 +86,7 @@
 +.ks3-cn-hk-1.ksyuncs.com
 +.ks3-rus.ksyuncs.com
 +.ks3-sgp.ksyuncs.com
++.launchpadcontent.net
 +.launchpadlibrarian.net
 +.linodeobjects.com
 +.mega.co.nz
@@ -850,6 +851,7 @@ download.savannah.gnu.org
 download.sketch.com
 download.snipaste.com
 download.sysinternals.com
+download.technitium.com
 download.tensorflow.google.com
 download.todesktop.com
 download.typora.io
@@ -890,6 +892,7 @@ enterprise.proxmox.com
 epicgames-download1.akamaized.net
 espejito.fder.edu.uy
 eu.edge.kernel.org
+extensionupdater.brave.com
 f-droid.org
 fastly-download.epicgames.com
 fdisk.5play.app

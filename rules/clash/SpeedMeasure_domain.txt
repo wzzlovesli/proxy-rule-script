@@ -843,6 +843,7 @@ speed.cablelink.at
 speed.catlabroadband.in
 speed.circlecityinternet.com
 speed.ckt.net
+speed.clair.global
 speed.coe.ad.jp
 speed.connextelecom.com.br
 speed.coralis.net.au
@@ -1023,6 +1024,7 @@ speedtest-az.survivalflight.net
 speedtest-baltimore.greenlightnetworks.com
 speedtest-bassano.wifiweb.it
 speedtest-bd-1.zoominternet.net
+speedtest-bethlehem.greenlightnetworks.com
 speedtest-binghamton.greenlightnetworks.com
 speedtest-bla.optusnet.com.au
 speedtest-blacktown.optusnet.com.au
@@ -1078,6 +1080,7 @@ speedtest-ict.ideatek.com
 speedtest-intl.xl.co.id
 speedtest-iowa.airstreamcomm.net
 speedtest-ist-34-node.netzone.com.tr
+speedtest-ist1.netlojik.com
 speedtest-it.the.hosting
 speedtest-jgn.galaxynet.in
 speedtest-jp.tgb-host.com
@@ -2057,6 +2060,7 @@ speedtest.steppod.io
 speedtest.stgscloud.com
 speedtest.sth.tr
 speedtest.stnet.in
+speedtest.stradacomm.com
 speedtest.stratoone.com
 speedtest.stw-bonn.de
 speedtest.summithq.com
@@ -2328,6 +2332,7 @@ speedtest1.nyc1.nitelusa.net
 speedtest1.oma.nxlink.com
 speedtest1.powertel.org
 speedtest1.ptd.net
+speedtest1.ric1.va.hostedbackbone.net
 speedtest1.sailweb.cloud
 speedtest1.sc.chinamobile.com
 speedtest1.seiontec.com
@@ -2421,6 +2426,8 @@ speedtest3.sasknet.sk.ca
 speedtest3.vodafone.com.tr
 speedtest3.westmancom.com
 speedtest31.suddenlink.net
+speedtest31.turk.net
+speedtest33.turk.net
 speedtest3a.socket.net
 speedtest3r.dcnord.ca
 speedtest4.digimobil.es
