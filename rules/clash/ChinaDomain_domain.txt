@@ -29380,6 +29380,7 @@
 +.daoboime.com
 +.daochen.com
 +.daocloud.io
++.daocloud.vip
 +.daocloudapp.com
 +.daodao.com
 +.daodaojizhang.com
