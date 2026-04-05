@@ -8532,6 +8532,7 @@
 +.eskimotube.com
 +.eslite.com
 +.esm.run
++.esm.sh
 +.esmarthealth.com
 +.esmatube.com
 +.esmtp.biz
@@ -19511,6 +19512,7 @@
 +.pjsekai.sega.jp
 +.pk
 +.pk.com
++.pkgbuild.com
 +.pki-post.ch
 +.pki-posta.ch
 +.pki-poste.ch
@@ -28690,6 +28692,7 @@ wip2.adobe.com
 wip3.adobe.com
 wip4.adobe.com
 wrds-www.wharton.upenn.edu
+ws.audioscrobbler.com
 wwis-dubc1-vip100.adobe.com
 wwis-dubc1-vip101.adobe.com
 wwis-dubc1-vip102.adobe.com
