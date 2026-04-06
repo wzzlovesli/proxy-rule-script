@@ -10057,6 +10057,7 @@
 +.97972209.com
 +.97973.com
 +.97973309.com
++.97973399.com
 +.97975508.com
 +.97976608.com
 +.9797ly.com
@@ -94070,7 +94071,6 @@
 +.tesoon.com
 +.test
 +.test-cignacmb.com
-+.test.steampowered.com
 +.testbird.com
 +.testcoo.com
 +.testdemo.work

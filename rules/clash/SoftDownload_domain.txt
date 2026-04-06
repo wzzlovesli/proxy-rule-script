@@ -785,6 +785,7 @@ dl.tailscale.com
 dl.thorium.rocks
 dl.ui.com
 dl.vanadium.app
+dl.vibeisland.app
 dl.wechat.com
 dl2.nwjs.io
 dl2.osmand.net
@@ -865,6 +866,7 @@ download4.epicgames.com
 downloadr2.apkmirror.com
 downloads.1password.com
 downloads.broadcom.com
+downloads.claude.ai
 downloads.cloudflareclient.com
 downloads.cursor.com
 downloads.lemonsqueezy.com
@@ -1730,6 +1732,7 @@ registry.npmjs.com
 registry.npmjs.org
 registry.terraform.io
 release-assets.githubusercontent.com
+release.arcboxcdn.com
 release.runcloud.io
 releases.arc.net
 releases.grapheneos.org
