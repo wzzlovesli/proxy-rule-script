@@ -9418,7 +9418,6 @@
 +.fiotolia.com
 +.fire-emblem-heroes.com
 +.firearmsworld.net
-+.firebase-settings.crashlytics.com
 +.firebase.com
 +.firebase.io
 +.firebaseapp.com
@@ -24860,7 +24859,6 @@
 +.up01.cc
 +.upbit.com
 +.upcitemdb.com
-+.update.crashlytics.com
 +.updates.tdesktop.com
 +.updatestar.com
 +.updatetube.com
