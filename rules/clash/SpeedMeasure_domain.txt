@@ -2094,6 +2094,7 @@ speedtest.tctelco.net
 speedtest.te.citywest.ca
 speedtest.team-host.ru
 speedtest.techminds.ca
+speedtest.technobulut.com
 speedtest.technofiber.co
 speedtest.teknosos.com.tr
 speedtest.telbo.net
@@ -2415,6 +2416,7 @@ speedtest2.valleyfiber.ca
 speedtest2.voicehost.co.uk
 speedtest21.hkbn.net
 speedtest21.hotspot.koeln
+speedtest25.turk.net
 speedtest25.wiatel.com
 speedtest26.csisp.info
 speedtest27.suddenlink.net
@@ -2446,6 +2448,8 @@ speedtest5.fybercom.net
 speedtest5.nmsurf.com
 speedtest5.vodafone.com.tr
 speedtest5.windtre.it
+speedtest54.turk.net
+speedtest59.turk.net
 speedtest6.digimobil.es
 speedtest6.vodafone.com.tr
 speedtest61.turk.net
