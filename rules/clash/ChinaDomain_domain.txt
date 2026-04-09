@@ -17867,6 +17867,7 @@
 +.bjsrc.com
 +.bjsrmyy.com
 +.bjsryc.com
++.bjssjsyy.com
 +.bjsskdn.com
 +.bjstcc.com
 +.bjstjy.com
@@ -70242,7 +70243,6 @@
 +.misakamoe.com
 +.misall.com
 +.miscd.com
-+.misea.top
 +.mishang.com
 +.mishangkeji.com
 +.mishuhome.com
@@ -73152,7 +73152,6 @@
 +.nhganggeban.com
 +.nhhongyi.com
 +.nhjjlt.com
-+.nhk.or.jp
 +.nhkaiyang.com
 +.nhkeysu.com
 +.nhlq.com
@@ -78417,7 +78416,6 @@
 +.ptimg.org
 +.ptkckj.com
 +.ptkill.com
-+.ptl.gs
 +.ptlgs.org
 +.ptmind.com
 +.ptmzr.com
