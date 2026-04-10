@@ -27568,7 +27568,6 @@
 +.crane-net.com
 +.cranewh.com
 +.crash.work
-+.crashlytics.com
 +.cravatar.com
 +.crazepony.com
 +.crazybig.fun
@@ -69287,6 +69286,7 @@
 +.melon-eptc.com
 +.melon.cdnetworks.com
 +.melon.icu
++.meloong.com
 +.melotgroup.com
 +.members.3322.org
 +.memblaze.com
@@ -107214,6 +107214,7 @@
 +.xn--lt0at3k.com
 +.xn--mct72chgrm.net
 +.xn--mes380bwhsoec.com
++.xn--mmz.cc
 +.xn--mnqs00c24c2pw0ii.com
 +.xn--mts196b.net
 +.xn--n5q75cia631gba51vx4ag2a008o08l1t0adzay2skp4b.com
