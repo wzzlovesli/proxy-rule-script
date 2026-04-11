@@ -31182,6 +31182,7 @@
 +.divepai.com
 +.diving-fish.com
 +.divizg.com
++.divoiotcloud.com
 +.diwork.com
 +.diwuyuan.com
 +.dixinkj.com
@@ -85782,6 +85783,7 @@
 +.shanghaizhaxinhospital.com
 +.shanghaizhenji.com
 +.shanghcat.com
++.shanghongbei.com
 +.shanghuiai.com
 +.shanghuiwww.com
 +.shanghuiyi.com
