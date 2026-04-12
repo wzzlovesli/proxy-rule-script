@@ -115,6 +115,7 @@ asanet.brsserver.com.br
 asanet1.brsserver.com.br
 ashbn-va.speedtest.shentel.net
 at.blackhost.network
+atl-speedtest.shifthosting.com
 atlat0001speedtestserver01.wiline.com
 atlat0001speedtestserver02.wiline.com
 au.st.spacecore.pro
@@ -151,6 +152,7 @@ ch1.chtm.hinet.net
 chcg.ookla.surfinternet.com
 chdspd.myinternet.services
 chi-speedtest.net.sangoma.net
+chi-speedtest.shifthosting.com
 chicago.speedtest.brightspeed.com
 chicago1.cabospeed.com
 chich0003ooklaspeedtestserver01.wiline.com
@@ -214,6 +216,8 @@ duncan1.cabospeed.com
 dus.speedtest.komdsl.de
 dus.wsqm.telekom-dienste.de
 east-speedtest.frontiernetworks.ca
+edgemark-chi.cust.edgemark.io
+edgemark-lax.cust.edgemark.io
 edinburg-va.speedtest.shentel.net
 ellsworth.from-ks.com
 eregli.flix.net.tr
@@ -2669,6 +2673,7 @@ st.jnettelecom-am.com.br
 st.mow.gin.ru
 st.racsanntechnologies.com
 st.ruinet.work
+st.thw.rocket-fibre.co.uk
 st0.dal.tularosa.net
 st01.mynet.it
 st02.fynncloud.net

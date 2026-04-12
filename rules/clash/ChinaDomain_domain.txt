@@ -26495,6 +26495,7 @@
 +.concretehr.com
 +.conda-group.com
 +.condorchina.com
++.cone-x.com
 +.conele.com
 +.conergas.net
 +.conew.com
@@ -32628,6 +32629,7 @@
 +.dubairen.com
 +.dubao123.com
 +.dubbing.tech
++.dubbingx.com
 +.dubbo.io
 +.duble.live
 +.dubola.com
@@ -56734,6 +56736,7 @@
 +.jiangmin.com
 +.jiangnan-group.com
 +.jiangnanmarket.org
++.jiangningwater.com
 +.jiangongdata.com
 +.jiangongw.com
 +.jiangpaipinpai.com
@@ -61792,6 +61795,7 @@
 +.kirinmach.com
 +.kirinvm.com
 +.kirkcloud.com
++.kis.v2.scr.kaspersky-labs.com
 +.kiscoca.com
 +.kisdee.com
 +.kisence.com
@@ -69628,6 +69632,7 @@
 +.miaocode.com
 +.miaodiyun.com
 +.miaodongbar.com
++.miaodongshenghuo.com
 +.miaogongzi.cc
 +.miaogongzi.net
 +.miaohuiyanyi.com
@@ -80777,6 +80782,7 @@
 +.quaspa.com
 +.quazero.com
 +.quba360.com
++.qubang.cc
 +.qubaobei.com
 +.qubiankeji.com
 +.qucai.com
@@ -83259,6 +83265,7 @@
 +.rx-copper.com
 +.rx-semi.com
 +.rxbj.com
++.rxcrs.com
 +.rxftw.com
 +.rxgl.net
 +.rxhospital.com
@@ -95495,6 +95502,7 @@
 +.tongjijs.com
 +.tongjiniao.com
 +.tongjipf.com
++.tongkask.com
 +.tongleer.com
 +.tonglei.com
 +.tonglian.com
@@ -96275,6 +96283,7 @@
 +.tsg-online.net
 +.tsggx.com
 +.tsgks.com
++.tsgyun.com
 +.tshaisen.com
 +.tshe.com
 +.tshe.me
@@ -111456,6 +111465,7 @@
 +.yooek.com
 +.yoofh.com
 +.yoogene.com
++.yoohe.net
 +.yoohouse.com
 +.yoojia.com
 +.yoojing.com
@@ -120152,6 +120162,7 @@ ksn-verdict-geo.kaspersky-labs.com
 ksn-verdict.geoksn.kaspersky.com
 l2-uberproxy.corp.google.com
 learn.microsoft.com
+local.adguard.org
 logger-dev.corp.google.com
 logger.corp.google.com
 login.corp.google.com
