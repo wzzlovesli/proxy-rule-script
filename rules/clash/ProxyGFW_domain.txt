@@ -761,6 +761,7 @@
 +.accbusiness.com
 +.acces-vod.com
 +.accessfacebookfromschool.com
++.accesspoint.uz
 +.accim.org
 +.accomable.com
 +.account-paypal.info
@@ -1410,8 +1411,10 @@
 +.alexa.com
 +.alexanderstreet.com
 +.alexlur.org
++.alfabank.oavdo.amc
 +.alfabank.ru
 +.alfabank.st
++.alfadirect.ru
 +.alfera.com.hk
 +.alfera.com.my
 +.alfera.in
@@ -3104,7 +3107,6 @@
 +.bannedbook.org
 +.bannednews.org
 +.banorte.com
-+.bansi.ru
 +.baraero.com
 +.baramangaonline.com
 +.barefootnetworks.com
@@ -3145,7 +3147,6 @@
 +.battlelog.com
 +.battlenet.com
 +.battleye.com
-+.baumi.ru
 +.baxsound.com
 +.bayareabmw.com
 +.bayvoice.net
@@ -3219,6 +3220,8 @@
 +.bcove.video
 +.bcovlive.io
 +.bcrncdn.com
++.bcs-bank.ru
++.bcs.ru
 +.bcvcdn.com
 +.bcvp0rtal.com
 +.bcy01.com
@@ -4552,11 +4555,9 @@
 +.bokep.net
 +.bokepseks.org
 +.bokepvidz.com
-+.bokerama.ru
 +.bolehvpn.net
 +.bollywoodlife.com
 +.boltdns.net
-+.bonbon.am
 +.bonbonme.com
 +.bondagecomixxx.net
 +.bondagesex-xxx.com
@@ -4792,6 +4793,7 @@
 +.brocaproject.com
 +.brockbbs.com
 +.brokenteens.com
++.broker.ru
 +.bromite.org
 +.bromo.com
 +.bronto.com
@@ -5240,7 +5242,6 @@
 +.caribbeancom.com
 +.caribbeancompr.com
 +.carmotorshow.com
-+.caronino.com
 +.carousell.com.hk
 +.carrd.co
 +.carrot-mail.io
@@ -6248,7 +6249,6 @@
 +.content.googleadapis.com
 +.content.office.net
 +.contentful.com
-+.contessa.ru
 +.contest.com
 +.contests.twilio.com
 +.convertio.co
@@ -6340,6 +6340,7 @@
 +.cpan.org
 +.cpedge.com
 +.cpj.org
++.cplsb.ru
 +.cpu-monkey.com
 +.cpuid.com
 +.cpz.to
@@ -8431,7 +8432,6 @@
 +.epicreads.com
 +.epigeum.com
 +.epikporn.com
-+.epilprofy.ru
 +.epinions.com
 +.episcopalchurch.org
 +.episodic.com
@@ -8689,7 +8689,6 @@
 +.evschool.net
 +.ewisdom.us.kg
 +.eworld.com
-+.ewotech.ru
 +.exacttarget.com
 +.exascale-tech.com
 +.exblog.jp
@@ -9522,7 +9521,6 @@
 +.fitnakedgirls.com
 +.five-d.com
 +.fivestarpornsites.com
-+.fixgoodsport.ru
 +.fixtracking.com
 +.fixupx.com
 +.fixvx.com
@@ -9638,7 +9636,6 @@
 +.footstockings.com
 +.footwear-cadcam.com
 +.footwiball.com
-+.foralice.online
 +.forbes.com
 +.forbesimg.com
 +.forbiddenasian.com
@@ -9861,7 +9858,6 @@
 +.foxtvdvd.com
 +.foxuv.com
 +.foxweatherwatch.com
-+.foxx-shop.ru
 +.fpacebook.com
 +.fpmt-osel.org
 +.fpmt.org
@@ -10484,7 +10480,6 @@
 +.geraldoatlarge.com
 +.gerefoundation.org
 +.gerritcodereview.com
-+.gerronfox.com
 +.gesoten.com
 +.get.app
 +.get.dev
@@ -10528,6 +10523,7 @@
 +.getsession.org
 +.getsexgames.com
 +.getsocialscope.com
++.getsynapse.io
 +.getsync.com
 +.gettr.com
 +.gettrials.com
@@ -10692,6 +10688,7 @@
 +.gitstar.net
 +.gittigidiyor.net
 +.gittigidiyorsikayet.com
++.gitverse.ru
 +.givemebuzzsaw.com
 +.gizlen.net
 +.gizmoxxx.com
@@ -10883,7 +10880,6 @@
 +.goliathguitartutorials.com
 +.golos-ameriki.ru
 +.golosameriki.com
-+.gondol.ru
 +.gongkou-cc.sbs
 +.gonglchuangl.net
 +.gongm.in
@@ -11950,6 +11946,10 @@
 +.hgamer.pro
 +.hgseav.com
 +.hh-content.com
++.hh.by
++.hh.kz
++.hh.ru
++.hhcdn.ru
 +.hhdcb3office.org
 +.hhthesakyatrizin.org
 +.hhvm.com
@@ -12970,7 +12970,6 @@
 +.iirmll.com
 +.ijavhd.com
 +.ijavtorrent.com
-+.ikakids.ru
 +.ikanhm.xyz
 +.ikanmh.xyz
 +.ikea.ae
@@ -14237,10 +14236,6 @@
 +.jiehua.cz
 +.jiehua.tv
 +.jiepang.com
-+.jieshang.online
-+.jieshang.ru
-+.jieshang.shop
-+.jieshang.store
 +.jieshibaobao.com
 +.jifangge.com
 +.jigglegifs.com
@@ -14619,7 +14614,6 @@
 +.kastatic.org
 +.kat.cr
 +.katestube.com
-+.katrn.ru
 +.kavkazr.com
 +.kawaiikawaii.jp
 +.kawase.com
@@ -14685,7 +14679,6 @@
 +.kickshatchannel.com
 +.kicksnike1.com
 +.kicu.tv
-+.kiddiekorner.ru
 +.kidgrid.tv
 +.kidsnikeshoes.com
 +.kidspot.com.au
@@ -15274,8 +15267,6 @@
 +.livrariart.com.br
 +.liwangyang.com
 +.liyuans.com
-+.lizageld.de
-+.lizageld.ru
 +.lizardporn.com
 +.lizhizhuangbi.com
 +.lizol.co.in
@@ -15589,7 +15580,6 @@
 +.maddenseason.info
 +.maddenseason.net
 +.maddenseason.org
-+.made-in-altai.ru
 +.madewithcode.com
 +.madewithmaya.com
 +.madewithstudiotools.com
@@ -15618,7 +15608,6 @@
 +.magentoliveconference.com
 +.magentomobile.com
 +.magestic.com
-+.magic-mix.ru
 +.magic-net.info
 +.magic.link
 +.magicalmirai.com
@@ -15738,7 +15727,6 @@
 +.maomi-shipin.com
 +.maomiav.one
 +.maomiav.top
-+.maoshop.ru
 +.map-software.com
 +.mapbox.com
 +.mapguide.com
@@ -16101,7 +16089,6 @@
 +.megamarket.tech
 +.megamon.co.kr
 +.megaphone.fm
-+.megapolis.llc
 +.megapornfreehd.com
 +.megaporno.com.br
 +.megapornpics.com
@@ -16397,7 +16384,6 @@
 +.mimi22.top
 +.mimi222.top
 +.mimiai.net
-+.mimile.ru
 +.mimistudio.com
 +.mimistyler.com
 +.mimivip.com
@@ -16770,6 +16756,7 @@
 +.mk.shrimpia.network
 +.mk.yopo.work
 +.mk5000.com
++.mkb.ru
 +.mkt.com
 +.mktdns.com
 +.mkto-c0100.com
@@ -17247,6 +17234,7 @@
 +.myanimelist.net
 +.myanimeshelf.com
 +.myanniu.com
++.myapelsin.ru
 +.myappleid.com
 +.myatos.net
 +.myaudiocast.com
@@ -17628,13 +17616,11 @@
 +.nekora.main.jp
 +.nekoslovakia.net
 +.nekoxxx.com
-+.nemocoffee.ru
 +.nenastran.com
 +.nenitas.club
 +.nentindo.net
 +.neo-miracle.com
 +.neoforged.net
-+.neon.click
 +.neotokyo.supertop-100.com
 +.neovim.io
 +.neow.in
@@ -18431,10 +18417,6 @@
 +.nuuporn.com
 +.nuuvem.com
 +.nuvid.com
-+.nuwjon.online
-+.nuwjon.ru
-+.nuwjon.shop
-+.nuwjon.store
 +.nvdst.com
 +.nvidia.asia
 +.nvidia.at
@@ -19119,7 +19101,6 @@
 +.paper.li
 +.paperb.us
 +.papermc.io
-+.papertole.by
 +.paradisehill.cc
 +.paradisehotelquizfox.com
 +.paradisepoker.com
@@ -19172,6 +19153,7 @@
 +.paxful.com
 +.paxlicense.org
 +.paydiant.com
++.payecom.ru
 +.paygonline.com
 +.payhulu.com
 +.paylike.com
@@ -19462,7 +19444,6 @@
 +.peopo.org
 +.pepabo.com
 +.percy.in
-+.perfect-market.ru
 +.perfect-privacy.com
 +.perfectgirls.net
 +.perfectgonzo.com
@@ -19714,6 +19695,7 @@
 +.plasticlabs.com
 +.plastics-cadcam.com
 +.platformio.org
++.platiecom.ru
 +.platinumlinks.org
 +.play-asia.com
 +.play-bmm.shop
@@ -19760,7 +19742,6 @@
 +.playwarcraft3.com
 +.playyoungtube.com
 +.playz.jp
-+.pleamo.ru
 +.pleasefuck.org
 +.pleasurebabe.com
 +.pleasuregirl.net
@@ -20619,7 +20600,6 @@
 +.qmov.net
 +.qmp4.com
 +.qmttqg3k.me
-+.qnails.ru
 +.qnap.com
 +.qobuz.com
 +.qombol.com
@@ -20746,6 +20726,7 @@
 +.rabbitscams.com
 +.rabbitscams.sex
 +.rabbitsreviews.com
++.rabota.by
 +.racked.com
 +.radeon.com
 +.radgametools.com
@@ -21090,6 +21071,7 @@
 +.resoubanana.buzz
 +.resoubang.buzz
 +.respawnbyrazer.com
++.restnproducts.ru
 +.restream-media.net
 +.rethink.net
 +.retimer.com
@@ -21315,7 +21297,6 @@
 +.ruby-lang.org
 +.rubygems.org
 +.rude.com
-+.rugg.ru
 +.ruinedking.com
 +.rukoebxx.com
 +.rukor.org
@@ -21554,11 +21535,13 @@
 +.sberbank-insurance.ru
 +.sberbank.com
 +.sberbank.ru
++.sberbankaktivno.ru
 +.sberbankins.ru
 +.sbercloud.ru
 +.sbercloud.tech
 +.sberdevices.ru
 +.sberdisk.ru
++.sberfactoring.ru
 +.sberhealth.ru
 +.sberindex.ru
 +.sberleasing.ru
@@ -21566,12 +21549,15 @@
 +.sbermegamarket.ru
 +.sbermobile.ru
 +.sberpb.ru
++.sberspasibo.ru
++.sbertech.ru
 +.sbertroika.ru
 +.sbgkstv.shop
 +.sbishinseibank.co.jp
 +.sbitravelcard.com
 +.sbme.me
 +.sbnation.com
++.sbrf.ru
 +.sbs.com.au
 +.sbti.unun.dev
 +.sbux.com.my
@@ -21809,6 +21795,7 @@
 +.sessoamatorialeitaliano.com
 +.setapp.com
 +.sethwklein.net
++.setka.ru
 +.setn.com
 +.settv.com.tw
 +.sevenbank.co.jp
@@ -22369,7 +22356,6 @@
 +.sjrt.org
 +.sjum.cn
 +.sk
-+.skandia-shoes.ru
 +.skate2.com
 +.skebetter.com
 +.sketch.cloud
@@ -22722,7 +22708,6 @@
 +.sonystoragemedia.co.jp
 +.sonytc.co.jp
 +.soolakhi.com
-+.soomkosh.ru
 +.soooyinfor.lol
 +.sopcast.com
 +.sopcast.org
@@ -22795,6 +22780,9 @@
 +.spankred3d.com
 +.spankwire.com
 +.sparkpool.com
++.spasibo.digital
++.spasibo.market
++.spasibobonus.ru
 +.spasibosb.ru
 +.spasibosberbank.ru
 +.spatial.io
@@ -23479,6 +23467,7 @@
 +.szwinnertechnology.com
 +.t-access.ru
 +.t-bank-app.ru
++.t-bank-app.su
 +.t-bank.by
 +.t-calls.ru
 +.t-capital-funds.ru
@@ -23567,6 +23556,7 @@
 +.takens.tw
 +.taknai.com
 +.takporn.com
++.talantix.ru
 +.talentlens.com
 +.taleofthenight.com
 +.talk853.com
@@ -23760,7 +23750,6 @@
 +.tellme.pw
 +.tellmewhygame.com
 +.temetube.xyz
-+.temka37.ru
 +.temp-mail.org
 +.temu.com
 +.tenacy.com
@@ -23881,7 +23870,6 @@
 +.thebobs.com
 +.thebodyshop-usa.com
 +.thebondagefiles.com
-+.thebutik.ru
 +.thecamdude.com
 +.thecandidbay.com
 +.thecandidforum-voyeur.ru
@@ -24210,8 +24198,6 @@
 +.tiffany-towers.com
 +.tig-ol-bitties.live
 +.tigervpn.com
-+.tigrenok.toys
-+.tigrenoktoys.ru
 +.tik-tokapi.com
 +.tiktok-minis.com
 +.tiktok-row.net
@@ -24534,7 +24520,6 @@
 +.trendmicro.com
 +.trendsmap.com
 +.trendyporn.com
-+.trendysocks.ru
 +.trezor.io
 +.trialofccp.org
 +.triballo.net
@@ -24984,7 +24969,6 @@
 +.ucdc1998.org
 +.uchicago.edu
 +.ucla.edu
-+.ucsan.ru
 +.udacity.com
 +.udemy.com
 +.udemycdn.com
@@ -26531,7 +26515,6 @@
 +.westkit.net
 +.westlaw.com
 +.westpoint.edu
-+.westranger.ru
 +.wet-ass-pussy.com
 +.wetandpuffy.com
 +.wetchicks.org
@@ -27105,7 +27088,6 @@
 +.xboxstudios.com
 +.xboyvids.com
 +.xbrasilporno.com
-+.xbs24.ru
 +.xbtce.com
 +.xbx.lv
 +.xcafe.com
@@ -27244,7 +27226,6 @@
 +.xml-training-guide.com
 +.xmovies.com
 +.xmoviesforyou.com
-+.xn----7sbbqwlovjffky5gn.xn--p1ai
 +.xn----7sbhmncai5a0arm7c1e.xn--p1ai
 +.xn----8sbahiqzthbd0bn.xn--p1ai
 +.xn----8sbkfzespdwig.xn--p1ai
@@ -27269,7 +27250,6 @@
 +.xn--74q434dwff.net
 +.xn--7hv594h.com
 +.xn--80aafgovrgbc7am.xn--p1ai
-+.xn--80aapfrkg0au.xn--p1ai
 +.xn--80acbjgmges7ca.xn--p1ai
 +.xn--80acbjgsdq2cl.xn--p1ai
 +.xn--8uq428d76d.tokyo
@@ -27291,7 +27271,6 @@
 +.xn--d1acpjx3f.xn--p1ai
 +.xn--d4ty0ojsqzfd.com
 +.xn--e1adjldbbpv.xn--90ais
-+.xn--e1agcghdbe0a2b2a3c.xn--p1ai
 +.xn--fiqs8sxootzz.xn--hxt814e
 +.xn--flw351e
 +.xn--flw351e.com
@@ -28299,7 +28278,6 @@
 +.zakzak.co.jp
 +.zalmos.com
 +.zamimg.com
-+.zanmarket.ru
 +.zannel.com
 +.zaobao.com
 +.zaobao.com.sg
@@ -28309,6 +28287,7 @@
 +.zapper.fi
 +.zappos
 +.zapto.org
++.zarplata.ru
 +.zatrahal.online
 +.zattoo.com
 +.zavat.pw

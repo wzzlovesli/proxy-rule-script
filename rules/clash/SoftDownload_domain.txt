@@ -187,6 +187,7 @@
 +.oss-me-east-1.aliyuncs.com
 +.oss-us-east-1.aliyuncs.com
 +.oss-us-west-1.aliyuncs.com
++.ossplanet.org
 +.packagist.org
 +.pixeldrain.com
 +.pkg.dev
@@ -597,6 +598,7 @@ cache.agilebits.com
 cache.pack.google.com
 cas-bridge.xethub.hf.co
 cdimage.kali.org
+cdimage.ubuntu.com
 cdn-builds.paw.cloud
 cdn-images.orbstack.dev
 cdn-patch.swtor.com
@@ -1485,6 +1487,7 @@ mirror.tngnet.com
 mirror.tochlab.net
 mirror.transip.net
 mirror.truenetwork.ru
+mirror.tw.ossplanet.net
 mirror.twds.com.tw
 mirror.ubuntu.ikoula.com
 mirror.ubuntu.serverforge.org
