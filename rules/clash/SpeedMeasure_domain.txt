@@ -828,6 +828,7 @@ speed-ist.veganet.com.tr
 speed-mel.gigacomm.net.au
 speed-miss.systemlifeline.com
 speed-mix.dimensione.com
+speed-mix.dispaisy.systems
 speed-oak.systemlifeline.com
 speed-rm.dimensione.com
 speed-server3.summit-broadband.com
