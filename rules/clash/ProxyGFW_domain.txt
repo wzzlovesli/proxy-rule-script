@@ -1421,6 +1421,7 @@
 +.alfera.my
 +.alforattv.net
 +.alfredapp.com
++.algoritmika.org
 +.alhayat.com
 +.alhs.link
 +.alhs.xyz
@@ -1880,6 +1881,8 @@
 +.aniscartujo.com
 +.anistreaming.xyz
 +.ankarazirvesi2018.com
++.ankiuser.net
++.ankiweb.net
 +.anm.co.uk
 +.annamilk.com
 +.annas-archive.gd
@@ -1935,6 +1938,7 @@
 +.aoaou.iillii.net
 +.aobo.com.au
 +.aoc.cat
++.aodahl.com
 +.aofriend.com
 +.aofriend.com.au
 +.aojiao.org
@@ -1978,6 +1982,7 @@
 +.apibay.org
 +.apigee.com
 +.apina.biz
++.apiok.ru
 +.apisof.net
 +.apk-dl.com
 +.apk.support
@@ -2353,6 +2358,7 @@
 +.apps5.oingo.com
 +.appsflayer.com
 +.appshopper.com
++.appsmail.ru
 +.appsocks.net
 +.appsonebay.net
 +.appspot-preview.com
@@ -2398,6 +2404,7 @@
 +.archiveofourown.org
 +.archives.gov
 +.archivx.to
++.archlinux.de
 +.archlinux.org
 +.archlinuxarm.org
 +.archlinuxcn.org
@@ -2419,6 +2426,7 @@
 +.arlingtoncemetery.mil
 +.arma3.com
 +.armaplatform.com
++.armgs.team
 +.armorgames.com
 +.armovs.com
 +.army.mil
@@ -2585,6 +2593,7 @@
 +.att.jobs
 +.att.net
 +.att.tv
++.attachmy.com
 +.attackers.net
 +.attalascom.com
 +.attbelieves.com
@@ -3114,6 +3123,7 @@
 +.barenakedislam.com
 +.bareporno.com
 +.barfuck.com
++.bargipsy.com
 +.barium-enema.com
 +.barkadahansasmartone.com
 +.barnabu.co.uk
@@ -3898,12 +3908,14 @@
 +.bitz.ai
 +.bizarresexuality.com
 +.bizhat.com
++.bizmrg.com
 +.bizographics.com
 +.bjini.cc
 +.bjnewlife.org
 +.bjs.org
 +.bjzc.org
 +.bk.mufg.jp
++.bk.ru
 +.bkkdown.site
 +.bl-doujinsouko.com
 +.blackamateurfuck.com
@@ -4599,6 +4611,7 @@
 +.booktopia.com.au
 +.bookwalker.com.tw
 +.booloo.com
++.boom.ru
 +.boomba.club
 +.boombeach.com
 +.boomerang.com
@@ -5394,6 +5407,7 @@
 +.cdn-telegram.org
 +.cdn-terapeak.com
 +.cdn-tinkoff.ru
++.cdn-vk.net
 +.cdn-vk.ru
 +.cdn.angruo.com
 +.cdn.arstechnica.net
@@ -5411,6 +5425,7 @@
 +.cdninstagram.com
 +.cdnjs.com
 +.cdnlab.live
++.cdnmail.ru
 +.cdnmhws.cc
 +.cdnmhwscc.vip
 +.cdnpure.com
@@ -5599,6 +5614,7 @@
 +.cheapwirelessbeats.com
 +.checkgfw.com
 +.cheerwholesale.us
++.chef.io
 +.chegg.com
 +.cheggcdn.com
 +.chemequations.com
@@ -5787,6 +5803,7 @@
 +.cici.com
 +.ciciai.com
 +.ciciaicdn.com
++.ciciq.net
 +.cienen.com
 +.cilk.com
 +.cilk.net
@@ -6096,6 +6113,7 @@
 +.cocktailsandcocktalk.com
 +.cockyboys.com
 +.cocoapods.org
++.code-class.ru
 +.code.org
 +.code1984.com
 +.codeberg.org
@@ -6497,6 +6515,7 @@
 +.cuntempire.com
 +.cuntwars.com
 +.cup.com.hk
++.cups.online
 +.cups.org
 +.curbed.com
 +.currently.com
@@ -6546,6 +6565,7 @@
 +.cyberghost.app
 +.cyberghostvpn.com
 +.cybermondaybeats4sale.com
++.cybersport.ru
 +.cybertrust.co.jp
 +.cybertrust.ne.jp
 +.cyberx.com
@@ -6603,6 +6623,8 @@
 +.daftsex.com
 +.dagelijksestandaard.nl
 +.dagfs.com
++.dahl.su
++.dahlmessenger.com
 +.daidostup.ru
 +.daiichibank.co.jp
 +.dailidaili.com
@@ -6696,6 +6718,7 @@
 +.data-tscbank.ru
 +.data-vocabulary.org
 +.data.com
++.datacloudmy.com
 +.dataframeworks.com
 +.datalabour.com
 +.dataliberation.org
@@ -7076,6 +7099,8 @@
 +.deutschepornos-kostenlos.net
 +.deutschsex.com
 +.dev-guardianapis.com
++.dev-my.com
++.dev-my.games
 +.dev-theguardian.com
 +.dev.to
 +.devcon.org
@@ -7588,7 +7613,6 @@
 +.dowjoneson.com
 +.downdetector.com
 +.downdetectorapi.com
-+.download.aircrack-ng.org
 +.download.com
 +.download.dappcdn.com
 +.download.qatp1.net
@@ -8426,6 +8450,7 @@
 +.eotarchive.org
 +.epac.to
 +.epicbrowser.com
++.epicevents.gg
 +.epicgames.com
 +.epicgames.dev
 +.epicgamescdn.com
@@ -8590,6 +8615,8 @@
 +.eset.sk
 +.eset.systems
 +.esetsoftware.com
++.esforce.com
++.esforce.ru
 +.esg.t91y.com
 +.eskimotube.com
 +.eslite.com
@@ -10278,6 +10305,7 @@
 +.gamerotic.com
 +.gamerp.jp
 +.gamesathletes.com
++.gamescup.ru
 +.gamesfirsthelsinki.com
 +.gamesfuckgirls.com
 +.gamesofdesire.com
@@ -10388,6 +10416,7 @@
 +.gazprombank.com
 +.gazprombank.investments
 +.gazprombank.ru
++.gb.ru
 +.gbank.com.mm
 +.gbiz
 +.gbnews.uk
@@ -10504,6 +10533,7 @@
 +.getdropbox.com
 +.getfappy.com
 +.getfedora.org
++.getfiddler.com
 +.getfoxyproxy.org
 +.getfreedur.com
 +.getgom.com
@@ -10789,6 +10819,7 @@
 +.gmocloud.com
 +.gmodules.com
 +.gmoney.org
++.gmopg.jp
 +.gmosign.com
 +.gmossp.jp
 +.gmp4.com
@@ -10856,6 +10887,7 @@
 +.gogotunnel.com
 +.gohappy.com.tw
 +.gohentai.net
++.goicq.org
 +.gojet.krtco.com.tw
 +.gokbayrak.com
 +.golang.com
@@ -12464,6 +12496,7 @@
 +.hrichina.org
 +.hrntt.org
 +.hrsaz.com
++.hrtek.ru
 +.hrw.org
 +.hrweb.org
 +.hsbc
@@ -12827,6 +12860,47 @@
 +.iconfinder.com
 +.iconpaper.org
 +.icons8.com
++.icq-download.com
++.icq-mobile.com
++.icq-online.com
++.icq-phone.com
++.icq-phone.org
++.icq.asia
++.icq.at
++.icq.biz
++.icq.com
++.icq.de
++.icq.eu
++.icq.fr
++.icq.im
++.icq.lt
++.icq.mobi
++.icq.org
++.icq.ru
++.icq.sg
++.icq2mobile.com
++.icq5.com
++.icqanywhere.com
++.icqbrasil.com
++.icqbrazil.com
++.icqchat.com
++.icqflirting.com
++.icqgame.com
++.icqgames.com
++.icqkids.com
++.icqmail.com
++.icqmail.net
++.icqonline.com
++.icqpassword.com
++.icqpeople.com
++.icqservers.com
++.icqservice.com
++.icqsupportteam.com
++.icqsystem.com
++.icqsystems.com
++.icqtoday.com
++.icqtutor.com
++.icqvideo.com
 +.icsd.fiz-karlsruhe.de
 +.icu-project.org
 +.icuminside.com
@@ -13190,6 +13264,7 @@
 +.in99.org
 +.inaporn.com
 +.inasian.club
++.inbox.ru
 +.incapdns.net
 +.incentivetravelgifts.com
 +.incestflix.com
@@ -13290,6 +13365,7 @@
 +.inside.com.tw
 +.insidefilms.com
 +.insidemacintosh.com
++.insideok.ru
 +.insider-intelligence.com
 +.insider.com
 +.insiderdevtour.com
@@ -13571,6 +13647,7 @@
 +.internationalconnectionsacademy.com
 +.internationalsaimoe.com
 +.internet.org
++.internet.ru
 +.internetdefenseleague.org
 +.internetdownloadmanager.com
 +.internetexplorer.co
@@ -13857,6 +13934,7 @@
 +.it-katok.ru
 +.it-picnic.ru
 +.it-piknik.ru
++.it-territory.com
 +.ita-do.com
 +.itaboo.info
 +.itaeromanga.com
@@ -14644,6 +14722,7 @@
 +.kemono.cr
 +.kemono.party
 +.kemono.su
++.kemptechnologies.com
 +.kendatire.com
 +.kendincos.net
 +.kendralist.com
@@ -14784,6 +14863,7 @@
 +.kmeleonbrowser.org
 +.kmff17.com
 +.kmuh.org.tw
++.knightspeak.com
 +.knock.app
 +.knovel.com
 +.knowledgerush.com
@@ -14796,6 +14876,7 @@
 +.kobe-pastel.com
 +.kobo.com
 +.kobobooks.com
++.koddobra.ru
 +.kodi.tv
 +.kodi.wiki
 +.kodingen.com
@@ -15036,6 +15117,7 @@
 +.leporno.org
 +.lepornochaud.com
 +.lepornofrais.com
++.lerna.ru
 +.lerosua.org
 +.lers.google
 +.lesbian8.com
@@ -15210,6 +15292,7 @@
 +.lisiku.com
 +.lisiku1.com
 +.list-manage.com
++.list.ru
 +.listenbrainz.org
 +.listennotes.com
 +.listentoyoutube.com
@@ -15410,6 +15493,7 @@
 +.lovethiscity.com
 +.lovetvshow.com
 +.lovex.life
++.lovina.app
 +.lowergiseries.com
 +.lowiro.com
 +.lp99.pw
@@ -15626,6 +15710,7 @@
 +.maileoch.com
 +.mailfence.com
 +.mailhealth.com
++.mailicq.org
 +.mailonline.co.uk
 +.mailonline.com
 +.mailonsunday.co.uk
@@ -16064,6 +16149,7 @@
 +.medicalimplants-cadcam.com
 +.medium.com
 +.medium.systems
++.mediumquality.ru
 +.medow.ru
 +.medrxiv.org
 +.meee.com.tw
@@ -16685,8 +16771,10 @@
 +.minzhuzhanxian.com
 +.minzhuzhongguo.org
 +.miohentai.com
++.mirabilis.com
 +.miraheze.org
 +.mirailab.tech
++.mirandaicq.com
 +.miroguide.com
 +.mirror.xyz
 +.mirrorbooks.com
@@ -16762,6 +16850,7 @@
 +.mkto-c0100.com
 +.mktorest.com
 +.mktroute.com
++.mlbootcamp.ru
 +.mlc.ai
 +.mlcool.com
 +.mlssoccer.com
@@ -16787,9 +16876,11 @@
 +.mo.co
 +.mo.nightlife141.com
 +.mobatek.net
++.mobile-icq.com
 +.mobile.de
 +.mobile01.com
 +.mobilefacebook.com
++.mobileicq.com
 +.mobileinternational.com
 +.mobilemarketo.com
 +.mobileme.dk
@@ -17029,6 +17120,7 @@
 +.moviesarena.com
 +.moviesfree4u.xyz
 +.moviesneek.com
++.movika.com
 +.mox.moe
 +.moxing.mobi
 +.moxing.news
@@ -17044,6 +17136,7 @@
 +.mp3ye.eu
 +.mpettis.com
 +.mpfinance.com
++.mpgw-my.com
 +.mpinews.com
 +.mplstudios.com
 +.mpnevolution.com
@@ -17064,6 +17157,7 @@
 +.mrdeepfakes.com
 +.mresalat.ir
 +.mrface.com
++.mrgcdn.ru
 +.mrlivecam.com
 +.mrloli.com
 +.mrpinks.com
@@ -17216,6 +17310,8 @@
 +.my-private-network.co.uk
 +.my-proxy.com
 +.my-tbank.ru
++.my.com
++.my.games
 +.my.pcloud.com
 +.my03.com
 +.my13la.com
@@ -17433,7 +17529,9 @@
 +.mytimesplus.co.uk
 +.mytizi.com
 +.mytokenapi.com
++.mytopf.com
 +.mytrannycams.com
++.mytrk.link
 +.mytvsuper.com
 +.myvisaluxuryhotels.com
 +.myvodafone.com.au
@@ -18550,6 +18648,8 @@
 +.oculusforbusiness.com
 +.oculusrift.com
 +.oculusvr.com
++.odkl.ru
++.odnoklassniki.ru
 +.odysee.com
 +.oecd-ilibrary.org
 +.oed.com
@@ -18596,6 +18696,7 @@
 +.oiobbs.com
 +.oitabank.co.jp
 +.oizoblog.com
++.ok.me
 +.ok.ru
 +.ok.xxx
 +.okaapps.com
@@ -18610,8 +18711,10 @@
 +.okkisokuho.com
 +.okko.sport
 +.okko.tv
++.okl.lt
 +.oklink.com
 +.okpool.me
++.oktech.ru
 +.okx-dns.com
 +.okx-dns1.com
 +.okx-dns2.com
@@ -19669,6 +19772,7 @@
 +.pixnet.net
 +.pixnet.pro
 +.pixnet.tw
++.pixonic.com
 +.pixplug.in
 +.pixtronix.com
 +.pjbyj.top
@@ -20364,12 +20468,14 @@
 +.probit.com
 +.procopytips.com
 +.proctoscopeexam.com
++.prod-my.games
 +.prodcontest.com
 +.prodrive-japan.com
 +.product.co.jp
 +.producthunt.com
 +.profilemaster.com
 +.profreeporno.com
++.progress.com
 +.project-poi.com
 +.project-syndicate.org
 +.projectapex.com
@@ -21297,6 +21403,7 @@
 +.ruby-lang.org
 +.rubygems.org
 +.rude.com
++.ruhub.tv
 +.ruinedking.com
 +.rukoebxx.com
 +.rukor.org
@@ -21320,10 +21427,14 @@
 +.rushbee.com
 +.rushporn.online
 +.rushporn.xxx
++.russiandesigncup.ru
 +.russianrape.org
 +.russoutdoor.ru
 +.rust-lang.org
 +.rustdesk.com
++.rustore.ru
++.rustore.team
++.rustore.tv
 +.rustup.rs
 +.rusvpn.com
 +.ruten.com.tw
@@ -21367,13 +21478,6 @@
 +.s2csntp.miz.nao.ac.jp
 +.s2stagehance.com
 +.s3-ap-northeast-1.amazonaws.com
-+.s3-ap-northeast-2.amazonaws.com
-+.s3-ap-southeast-1.amazonaws.com
-+.s3-ap-southeast-2.amazonaws.com
-+.s3-eu-central-1.amazonaws.com
-+.s3.ap-northeast-2.amazonaws.com
-+.s3.eu-central-1.amazonaws.com
-+.s3.us-east-1.amazonaws.com
 +.s4miniarchive.com
 +.s81c.com
 +.s8ds5gfm.xyz
@@ -21988,6 +22092,8 @@
 +.sfbassets.com
 +.sfbassets.net
 +.sfdcstatic.com
++.sferum-dev.ru
++.sferum.ru
 +.sfileydy.com
 +.sfmcompile.club
 +.sforce.com
@@ -22042,6 +22148,7 @@
 +.share.america.gov
 +.sharebee.com
 +.sharecool.org
++.sharefile.com
 +.sharepoint.com
 +.sharepointonline.com
 +.sharethis.com
@@ -22357,6 +22464,7 @@
 +.sjum.cn
 +.sk
 +.skate2.com
++.skbx.pro
 +.skebetter.com
 +.sketch.cloud
 +.sketch.com
@@ -22366,6 +22474,9 @@
 +.sketchbooknews.com
 +.sketchbookpro.com
 +.sketchfab.com
++.skillbox.pro
++.skillbox.ru
++.skillfactory.ru
 +.skills.sh
 +.skillshare.com
 +.skimresources.com
@@ -22448,6 +22559,7 @@
 +.sm.ms
 +.sm3ha.ru
 +.smaad.net
++.smailru.net
 +.smallteenpussy.com
 +.smart-edge.com
 +.smart-edge.info
@@ -22832,6 +22944,7 @@
 +.sponichi.co.jp
 +.spoprod-a.akamaihd.net
 +.spore.com
++.sportmail.ru
 +.sports.williamhill.com
 +.sportsfacebook.com
 +.sportstream.com
@@ -23073,6 +23186,7 @@
 +.static9.net.au
 +.statically.io
 +.staticflickr.com
++.staticmy.com
 +.statsmakemecry.com
 +.statueofdemocracy.org
 +.statuspage.io
@@ -23274,6 +23388,7 @@
 +.sukebelinks.com
 +.sulian.me
 +.sulwerphoto.com
++.summerstage.ru
 +.summify.com
 +.summitceo.ru
 +.sumomo-ch.com
@@ -23594,6 +23709,8 @@
 +.taqunuhai.vip
 +.taradinhos.com
 +.taragana.com
++.tarantool.io
++.tarantoolplus.ru
 +.tardigrade.io
 +.target
 +.target.com
@@ -23662,6 +23779,7 @@
 +.teamviewer.us
 +.tearapeak.com
 +.teatroporno.com
++.tech-mail.ru
 +.tech26.de
 +.techatbloomberg.com
 +.techcrunch.com
@@ -23742,6 +23860,7 @@
 +.telegraph.co.uk
 +.telekom.com
 +.telekom.de
++.telerik.com
 +.telesco.pe
 +.telesec.de
 +.telesell.com
@@ -23808,6 +23927,7 @@
 +.test-ipv6.ttk.ru
 +.testipv6.de
 +.testonfox.com
++.tetrika-school.ru
 +.tettediferro.it
 +.tew.org
 +.tex-talk.net
@@ -24734,6 +24854,7 @@
 +.turkistantimes.com
 +.turn.livekit.cloud
 +.turntable.fm
++.tusco.ru
 +.tushy.com
 +.tushycash.com
 +.tuta.com
@@ -24967,6 +25088,7 @@
 +.ucam.org
 +.ucanews.com
 +.ucdc1998.org
++.uchi.ru
 +.uchicago.edu
 +.ucla.edu
 +.udacity.com
@@ -25026,6 +25148,7 @@
 +.umblr.com
 +.umbrella.com
 +.umich.edu
++.umschool.net
 +.umsoplaneta.com
 +.umsoplaneta.com.br
 +.un.org
@@ -25155,6 +25278,7 @@
 +.usenix.org
 +.useplannr.com
 +.userapi.com
++.userapi.ru
 +.usercentrics.eu
 +.usercontent.dev
 +.usercontent.goog
@@ -25639,6 +25763,8 @@
 +.vipoo.es
 +.vipshoes2.com
 +.vipstudiocali.com
++.viqeo.tv
++.viqeotv.com
 +.viralcum.com
 +.viralporn.com
 +.virginia.edu
@@ -25819,12 +25945,13 @@
 +.vizvaz.com
 +.vjav.com
 +.vjmedia.com.hk
-+.vk-analytics.ru
 +.vk-apps.com
 +.vk-apps.ru
 +.vk-cdn.me
 +.vk-cdn.net
 +.vk-portal.net
++.vk-records.ru
++.vk-stadium.ru
 +.vk.cc
 +.vk.com
 +.vk.company
@@ -25834,17 +25961,31 @@
 +.vk.ru
 +.vk.team
 +.vkcache.com
++.vkcdnservice.com
++.vkclips.app
 +.vkcloud-static.ru
++.vkcs.cloud
++.vkfest.ru
 +.vkgo.app
 +.vklive.app
 +.vkmessenger.app
 +.vkmessenger.com
++.vkontakte.com
 +.vkontakte.ru
++.vkpay.app
++.vkpay.com
++.vkpay.io
++.vkpay.ru
++.vkplay-arena.ru
++.vkplay.live
++.vkplay.ru
++.vktech-static.ru
 +.vkuser.net
 +.vkuseraudio.com
 +.vkuseraudio.net
 +.vkuseraudio.ru
 +.vkusercdn.ru
++.vkuserlive.com
 +.vkuserlive.net
 +.vkuserphoto.ru
 +.vkuservideo.com
@@ -25853,6 +25994,7 @@
 +.vkvideo.ru
 +.vl4x.net
 +.vllcs.org
++.vmailru.net
 +.vmglobal.net
 +.vmixcore.com
 +.vmmark.com
@@ -27226,8 +27368,15 @@
 +.xml-training-guide.com
 +.xmovies.com
 +.xmoviesforyou.com
++.xn-----6kc7adj0c9esa.com
++.xn----7sbaba0dc6cdn7cxcj.com
++.xn----7sbabae2a0bnvtsfr4loc.com
++.xn----7sbbab6bregnh7b8if5b.com
++.xn----7sbbamm1bv2bh7i.com
 +.xn----7sbhmncai5a0arm7c1e.xn--p1ai
 +.xn----8sbahiqzthbd0bn.xn--p1ai
++.xn----8sbaroledu6bi7j.com
++.xn----8sbeoy5bze.com
 +.xn----8sbkfzespdwig.xn--p1ai
 +.xn----8sbwjbxyd.xn--p1ai
 +.xn--096-4g6em5t.com
@@ -27252,6 +27401,8 @@
 +.xn--80aafgovrgbc7am.xn--p1ai
 +.xn--80acbjgmges7ca.xn--p1ai
 +.xn--80acbjgsdq2cl.xn--p1ai
++.xn--80aqcf7a6do.com
++.xn--80asgb.xn--p1ai
 +.xn--8uq428d76d.tokyo
 +.xn--90ab.com
 +.xn--90aifd0az.shop
@@ -27271,6 +27422,7 @@
 +.xn--d1acpjx3f.xn--p1ai
 +.xn--d4ty0ojsqzfd.com
 +.xn--e1adjldbbpv.xn--90ais
++.xn--e1aigb.xn--p1ai
 +.xn--fiqs8sxootzz.xn--hxt814e
 +.xn--flw351e
 +.xn--flw351e.com
@@ -27779,6 +27931,7 @@
 +.yahoosandbox.com
 +.yahoosportsbook.com
 +.yakbutterblues.com
++.yaklass.ru
 +.yale.edu
 +.yam.com
 +.yam.org.tw
@@ -27873,6 +28026,7 @@
 +.yayadizhi.xyz
 +.yazhouse8.com
 +.yccdn.ru
++.yclients.com
 +.ycombinator.com
 +.ydn.com.tw
 +.ydy.com
@@ -29201,6 +29355,5 @@ wwis-dubc1-vip98.adobe.com
 wwis-dubc1-vip99.adobe.com
 www-cdn.icloud.com.akadns.net
 yangzhi.app
-youla-web-static.mrgcdn.ru
 yt3.googleusercontent.com
 zeenews-fonts.s3.amazonaws.com
