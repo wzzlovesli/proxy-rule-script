@@ -382,6 +382,7 @@ librespeed.lukas-heinrich.com
 librespeed.turris.cz
 lifitelecom.brsserver.com.br
 lil.cubic.ookla.bytel.fr
+lil2.speedtest.mire.sfr.net
 lille3.d2m.c2d.liveservices.fr
 lmb1-ookla.perf.fastedge.it
 lnk-speedtest.networknebraska.net
@@ -1509,6 +1510,7 @@ speedtest.dsgroupmedia.com
 speedtest.dukekunshan.edu.cn
 speedtest.durgawifi.in
 speedtest.dus.plusnet.de
+speedtest.dus.rz.schleyer-edv.de
 speedtest.dvnpiaaa.metronetinc.com
 speedtest.dvois.com
 speedtest.dylanit.nl
