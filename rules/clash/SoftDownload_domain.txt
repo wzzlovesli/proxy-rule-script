@@ -814,6 +814,7 @@ download.amelabs.net
 download.ameliorated.io
 download.anydesk.com
 download.bazzite.gg
+download.bbbike.org
 download.beeper.com
 download.clashverge.dev
 download.cnet.com
@@ -827,6 +828,7 @@ download.edovia.com
 download.fosshub.com
 download.fydeos.io
 download.garmin.com
+download.geofabrik.de
 download.gigabyte.com
 download.gimp.org
 download.hikarifield.co.jp
@@ -1713,6 +1715,7 @@ pkg.cloudflare.com
 pkg.cloudflareclient.com
 pkgs.netbird.io
 pkgs.tailscale.com
+planet.openstreetmap.org
 playwright-akamai.azureedge.net
 playwright.azureedge.net
 plug-mirror.rcac.purdue.edu
