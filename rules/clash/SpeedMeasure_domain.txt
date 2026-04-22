@@ -454,6 +454,7 @@ nets-mad01.servihosting.net
 netservice01.ber01.lwlcom.net
 nic2.speedtest.mire.sfr.net
 nice.bbr.ookla.bytel.fr
+nico2004-speedtest.de
 nico2004canada.de
 nico2004uk.de
 nl.altushost.com
@@ -709,6 +710,7 @@ sp-sea-01.ezeefiber.net
 sp-thn2.wildanet.com
 sp.atcinfocom.in
 sp.esim-international.net
+sp.hipernet.com.tr
 sp.lvh.lol
 sp.merkurnet.com.tr
 sp.pendc.com
@@ -834,6 +836,7 @@ speed-oak.systemlifeline.com
 speed-rm.dimensione.com
 speed-server3.summit-broadband.com
 speed-syd.gigacomm.net.au
+speed-test.ornethd.net
 speed-test.ukservers.com
 speed.ade.aussiebroadband.com.au
 speed.airwavesinternet.com
@@ -1441,6 +1444,7 @@ speedtest.clarkson.edu
 speedtest.clicknconnect.co.in
 speedtest.cloudinet.com.br
 speedtest.cloudwifi.ca
+speedtest.cltel.com
 speedtest.cmltelephone.com
 speedtest.cod4-server.com
 speedtest.cogeco.ca
@@ -1593,6 +1597,7 @@ speedtest.getstreamhosting.com
 speedtest.getwireless.net
 speedtest.giganetbroadband.net
 speedtest.giganetesmejor.com
+speedtest.gigas.com
 speedtest.gigawebtecnologia.com.br
 speedtest.gigazone.in
 speedtest.gilarivertel.com
@@ -1933,6 +1938,7 @@ speedtest.oxon3.net
 speedtest.p1.mhn.cloud
 speedtest.pa5.as198831.net
 speedtest.packetworks.net
+speedtest.palmerone.com
 speedtest.par1.adky.net
 speedtest.parishbroadband.com
 speedtest.pcibroadband.in
