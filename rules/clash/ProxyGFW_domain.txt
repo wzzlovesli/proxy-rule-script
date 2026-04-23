@@ -2013,6 +2013,7 @@
 +.app-store.wang
 +.app.box.com
 +.app.cloudcone.com
++.app.element.io
 +.app.heywire.com
 +.app.smartmailcloud.com
 +.app.tutanota.com
@@ -2508,6 +2509,7 @@
 +.asianwomensfilm.de
 +.asianxxxvideos.cc
 +.asiaone.com
++.asiasociety.org
 +.asiatgp.com
 +.asiatoday.us
 +.asjmapihost.cc
@@ -3562,6 +3564,7 @@
 +.bell.wiki
 +.bellebound.com
 +.bellesa.co
++.bellingcat.com
 +.bellotube.com
 +.bellsouth.net
 +.bemywife.cc
@@ -6409,6 +6412,7 @@
 +.crececonebay.com
 +.creditcardsbay.com
 +.creditkarma.com
++.crewai.com
 +.cricketcountry.com
 +.crisisresponse.google
 +.crisp.chat
@@ -13924,6 +13928,7 @@
 +.issitedownrightnow.com
 +.issquaredown.com
 +.issquareup.com
++.issues.chromium.org
 +.issuu.com
 +.istars.co.nz
 +.istarshine.com
@@ -15008,6 +15013,7 @@
 +.lamrim.com
 +.lanasbigboobs.com
 +.landofhope.tv
++.langchain.com
 +.langsuirs.com
 +.lanik.us
 +.lanmdh.net
@@ -15380,6 +15386,7 @@
 +.lmm167.shop
 +.lmmbtc.com
 +.lms01.com
++.lmstudio.ai
 +.lmsys.org
 +.lnkd.in
 +.lnstagram-help.com
@@ -18745,6 +18752,7 @@
 +.olevod.tv
 +.olevodtv.com
 +.oli-school.com
++.ollama.com
 +.olumpo.com
 +.olympics.com
 +.olympicwatch.org
@@ -20932,6 +20940,7 @@
 +.raw.githack.com
 +.rawgit.com
 +.rawgithub.com
++.rawstory.com
 +.rayark.download
 +.rayark.net
 +.razer.com
@@ -21076,6 +21085,7 @@
 +.recombee.com
 +.reconinstruments.com
 +.reconjet.com
++.recordedfuture.com
 +.recordhistory.org
 +.recovery.org.tw
 +.recoveryversion.com.tw
@@ -24158,6 +24168,7 @@
 +.thieme.de
 +.thingiverse.com
 +.thinkboxsoftware.com
++.thinkchina.sg
 +.thinkdifferent.us
 +.thinkgeek.com
 +.thinkingtaiwan.com
