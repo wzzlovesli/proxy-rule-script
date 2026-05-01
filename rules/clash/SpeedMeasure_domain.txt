@@ -395,6 +395,7 @@ lon.as214402.net
 los-angeles-speedtest.reliablesite.net
 lsanca-speedtest-ookla-02.st.charter.com
 lsdspeed01.lsdops.net
+lsdspeed02.lsdops.net
 lsv11-speedtest01.as15108.com
 lv-ookla.geolinks.com
 lvconnect.brsserver.com.br
@@ -1038,6 +1039,7 @@ speedtest-ash.vts.bf
 speedtest-atl.conexonconnect.com
 speedtest-atl.dish-wireless.com
 speedtest-atl.melbicom.net
+speedtest-atlanta.ripplefiber.com
 speedtest-aus.chainlinkhosting.com
 speedtest-az.bambroadband.com
 speedtest-az.survivalflight.net
@@ -1163,6 +1165,7 @@ speedtest-msk.yota.ru
 speedtest-mtl.beanfield.com
 speedtest-mtl1.fleettel.ca
 speedtest-mum.froze.in
+speedtest-mumbai.scify.co.in
 speedtest-naw.pr-link.at
 speedtest-net-fra.dispaisy.systems
 speedtest-net.mk.de
@@ -1319,6 +1322,7 @@ speedtest.agsmtel.it
 speedtest.agw1.as49436.net
 speedtest.agw2.as49436.net
 speedtest.ahm.vodafone.nl
+speedtest.airmaxnetwork.com
 speedtest.airnetnetworks.com
 speedtest.aitire.es
 speedtest.ak4digital.com.br
@@ -1455,6 +1459,7 @@ speedtest.cloudinet.com.br
 speedtest.cloudwifi.ca
 speedtest.cltel.com
 speedtest.cmltelephone.com
+speedtest.co-fi.net
 speedtest.cod4-server.com
 speedtest.cogeco.ca
 speedtest.coliseunet.com.br
@@ -1521,6 +1526,7 @@ speedtest.drie-host.nl
 speedtest.dscw.fr
 speedtest.dsgroupmedia.com
 speedtest.dukekunshan.edu.cn
+speedtest.duocast.net
 speedtest.durgawifi.in
 speedtest.dus.plusnet.de
 speedtest.dus.rz.schleyer-edv.de
@@ -1675,6 +1681,7 @@ speedtest.il.mycci.net
 speedtest.image1tech.net
 speedtest.imais.com.br
 speedtest.imcloud.tw
+speedtest.inclusivebytes.org
 speedtest.ind1.gigabitnow.com
 speedtest.infinirc.com
 speedtest.infocotelecom.com.br

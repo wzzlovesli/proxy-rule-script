@@ -40922,6 +40922,7 @@
 +.gongsizhijia.com
 +.gongwuxing.com
 +.gongxiangcj.com
++.gongxiangjizhang.com
 +.gongxiao8.com
 +.gongxiaodaji.com
 +.gongxifc.com
@@ -80071,6 +80072,7 @@
 +.qw5599.com
 +.qwbk.cc
 +.qwe1e.com
++.qweapi.com
 +.qweather.com
 +.qweather.net
 +.qweatherapi.com
