@@ -7190,6 +7190,7 @@
 +.digitalhub.com
 +.digitalid.ch
 +.digitalnomadsproject.org
++.digitalocean-ui.com
 +.digitalocean.com
 +.digitaloceanspaces.com
 +.digitalpack.com
@@ -21691,9 +21692,6 @@
 +.sc-cdn.net
 +.sc.com
 +.sca-tolo.info
-+.scache.vzw.com
-+.scache1.vzw.com
-+.scache2.vzw.com
 +.scala-lang.org
 +.scala-sbt.org
 +.scaleflex.com
@@ -23033,7 +23031,6 @@
 +.ss.levyhsu.com
 +.ss2.us
 +.ss7.app
-+.ss7.vzw.com
 +.ssa.gov
 +.ssdevrd.com
 +.ssglobal.co

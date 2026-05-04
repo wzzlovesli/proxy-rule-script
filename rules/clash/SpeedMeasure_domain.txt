@@ -925,6 +925,7 @@ speed.sparcs.net
 speed.srv.rent
 speed.stgscloud.com
 speed.suitit.nl
+speed.supersonicinternet.com
 speed.syd.aussiebroadband.com.au
 speed.tajbroadband.net
 speed.telcomnetwork.net
@@ -1010,6 +1011,7 @@ speedperf.axione.fr
 speedpilas.liberatel.es
 speedshm1.jioconnect.com
 speedsin.phoenixnap.com
+speedt-mi.lakenetworks.it
 speedt-mi.skycdn.it
 speedtes.althuraya.live
 speedtest-01.nhbroadband.com
