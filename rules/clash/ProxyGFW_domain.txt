@@ -1919,6 +1919,8 @@
 +.anthropic.com
 +.anti1984.com
 +.antichristendom.com
++.antiphishing.nl
++.antiphishing.ru
 +.antiwave.net
 +.antpool.com
 +.anudetube.com
@@ -2967,6 +2969,7 @@
 +.azattyk.org
 +.azattyq.org
 +.azatutyun.am
++.azbukainterneta.ru
 +.azerbaycan.tv
 +.azerimix.com
 +.aziani.com
@@ -3020,6 +3023,7 @@
 +.b-ok.org
 +.b.hatena.ne.jp
 +.b0ne.com
++.b2c-digest.ru
 +.b3boos.com
 +.b6b33.com
 +.baazee.com
@@ -3088,6 +3092,7 @@
 +.bamtoki.com
 +.banan.tv
 +.banana-vpn.com
++.bananacall.ru
 +.banatfun.com
 +.band.us
 +.bandag.cc
@@ -3540,6 +3545,8 @@
 +.beeline.tv
 +.beepool.com
 +.beepool.org
++.beesbfl.ru
++.beescrm.ru
 +.beevpn.com
 +.beforeigners.com
 +.befuck.com
@@ -3803,6 +3810,7 @@
 +.bimbolive.com
 +.bimglue.com
 +.bimlibrary.com
++.bimsaas.ru
 +.bimseeker.com
 +.bimsource.com
 +.bimworld.com
@@ -5100,6 +5108,7 @@
 +.calgoncarbon.com
 +.calgonit.com
 +.callabitch.org
++.callbackkiller.com
 +.callersbane.com
 +.callhulu.com
 +.cam-duct.com
@@ -5349,6 +5358,7 @@
 +.cbbank.com.mm
 +.cbc.ca
 +.cbi.ir
++.cbkiller.com
 +.cbm.com.mm
 +.cbn.com.br
 +.cbs.com
@@ -5497,6 +5507,8 @@
 +.cerebras.ai
 +.cern
 +.cern.ch
++.cert-gib.com
++.cert-gib.ru
 +.certificat2.com
 +.certificate-transparency.org
 +.certificate.revocationcheck.com
@@ -6571,6 +6583,7 @@
 +.cy22.tv
 +.cyber-bay.info
 +.cyber-bay.org
++.cybercrimecon.com
 +.cyberctm.com
 +.cyberghost.app
 +.cyberghostvpn.com
@@ -8322,6 +8335,9 @@
 +.elgaronline.com
 +.elgoog.im
 +.elifesciences.org
++.eligens.cl
++.eligens.com.br
++.eligens.io
 +.elite.com
 +.elitebabes.com
 +.eliteindianporn.com
@@ -8458,6 +8474,15 @@
 +.envato.com
 +.envatousercontent.com
 +.environment.google
++.envybox.company
++.envybox.family
++.envybox.io
++.envybox.kg
++.envybox.su
++.envycdp.com
++.envycdp.ru
++.envycrm.com
++.envyday.ru
 +.eotarchive.org
 +.epac.to
 +.epicbrowser.com
@@ -8791,6 +8816,9 @@
 +.f-secure.com
 +.f2pool.com
 +.f5pf.com
++.f6.dev
++.f6.ru
++.f6.security
 +.f6988.com
 +.f8.com
 +.f95zone.to
@@ -8812,6 +8840,8 @@
 +.facboox.com
 +.faccebook.com
 +.faccebookk.com
++.facct.email
++.facct.ru
 +.facdbook.com
 +.facdebook.com
 +.face-book.com
@@ -10229,6 +10259,7 @@
 +.futuhn.com
 +.futuholdings.com
 +.futunited.com
++.future-cs.ru
 +.futurechinaforum.org
 +.futuremessage.org
 +.futureofbritishmanufacturing.com
@@ -10257,6 +10288,10 @@
 +.fzlm.com
 +.fzlm.net
 +.g-area.org
++.g-ib.ae
++.g-ib.ru
++.g-ib.sg
++.g-ib.us
 +.g-queen.com
 +.g-technology.com
 +.g-tun.com
@@ -10494,6 +10529,7 @@
 +.gen.lib.rus.ec
 +.gendai.net
 +.generated.photos
++.genetic-technologies.am
 +.geneticconstructor.com
 +.geng8cn.xyz
 +.gengba-av.mom
@@ -10501,6 +10537,11 @@
 +.geni.us
 +.genius.com
 +.genkai-hounyo.com
++.genotek.am
++.genotek.es
++.genotek.eu
++.genotek.health
++.genotek.ru
 +.genshin-porn.com
 +.genshinh.com
 +.genshinimpact.com
@@ -10645,6 +10686,10 @@
 +.ghut.org
 +.giantessbooru.com
 +.giantessnight.com
++.gib-global.com
++.gib.sg
++.gibdev.net
++.gibtds.ru
 +.gid.ru
 +.giffgaff.com
 +.giffgaff.design
@@ -11404,7 +11449,18 @@
 +.groq.com
 +.grotty-monday.com
 +.ground.news
++.group-ib.ae
++.group-ib.co.uk
++.group-ib.com
++.group-ib.de
++.group-ib.eu
++.group-ib.ru
++.group-ib.sg
++.group-ib.us
 +.groupfun.com
++.groupib.ae
++.groupib.sg
++.groupib.us
 +.groups.com
 +.grow.google
 +.grss-ieee.org
@@ -12926,6 +12982,9 @@
 +.idea-server.com
 +.ideal-teens.com
 +.ideapocket.com
++.ideco.dev
++.ideco.ru
++.idecosoftware.ru
 +.idelreal.org
 +.idemocracy.asia
 +.identi.ca
@@ -13367,6 +13426,7 @@
 +.innovations-i.com
 +.inoreader.com
 +.inote.tw
++.inplat.ru
 +.inporn.com
 +.inquirer.net
 +.insder.co
@@ -14788,6 +14848,7 @@
 +.kijjiji.ca
 +.kik.com
 +.kikdirty.com
++.killercb.ru
 +.killwall.com
 +.kilmeadeandfriends.com
 +.kimchi.tv
@@ -14845,6 +14906,7 @@
 +.kinokuniya.com
 +.kinopoisk.ru
 +.kinorium.com
++.kion.ru
 +.kir.jp
 +.kir2kos.net
 +.kirbysepicyarn.com
@@ -16186,6 +16248,9 @@
 +.mega.nz
 +.megacamz.com
 +.megafilmporno.com
++.megafon.com
++.megafon.ru
++.megafonpro.ru
 +.megalodon.jp
 +.megamarket.ru
 +.megamarket.tech
@@ -16296,6 +16361,7 @@
 +.mfmf.club
 +.mfxmedia.com
 +.mg
++.mgfn.ru
 +.mgo-images.com
 +.mgo.com
 +.mgoon.com
@@ -17084,6 +17150,7 @@
 +.moptt.tw
 +.morazzia.com
 +.morbell.com
++.more.tv
 +.moreheadphones.com
 +.moresci.sale
 +.morewithautodesk.com
@@ -17238,7 +17305,11 @@
 +.mtalk.google.com
 +.mtao.fun
 +.mthruf.com
++.mts-ws.net
++.mts.ru
++.mtsbank.ru
 +.mtsdengi.ru
++.mtsmedia.ru
 +.mtt.org
 +.mtvnservices.com
 +.mtw.tl
@@ -17401,6 +17472,7 @@
 +.myeasytv.com
 +.myebay.com
 +.myeclipseide.com
++.myenvy.ru
 +.myfappening.org
 +.myfavoritearcade.com
 +.myfbfans.com
@@ -17480,6 +17552,7 @@
 +.mymmode.com
 +.mymoe.moe
 +.mymom.info
++.mymts.ru
 +.mymusclevideo.com
 +.mymusic.net.tw
 +.mynavi.jp
@@ -18781,6 +18854,7 @@
 +.omorashi.org
 +.omscr.com
 +.omtrdc.net
++.on-media.ru
 +.on.cc
 +.on.here
 +.on2.com
@@ -20815,6 +20889,7 @@
 +.quixel.com
 +.quixel.se
 +.quiz.directory
++.quizlink.ru
 +.qumingwz.com
 +.quora.com
 +.quoracdn.net
@@ -21181,6 +21256,7 @@
 +.repe21.com
 +.replit.com
 +.repo.new
++.report-megafon.ru
 +.repotama.com
 +.repsils.no
 +.repsneakermall.com
@@ -21202,6 +21278,7 @@
 +.respawnbyrazer.com
 +.restnproducts.ru
 +.restream-media.net
++.restream.ru
 +.rethink.net
 +.retimer.com
 +.retroclassicporn.com
@@ -21373,6 +21450,7 @@
 +.rosemarydoll.com
 +.roshy.tv
 +.rostaxi.org
++.rostelecom.ru
 +.rotten.com
 +.rottentomatoes.com
 +.rou.video
@@ -21412,6 +21490,7 @@
 +.rssmeme.com
 +.rstatic.net
 +.rt.com
++.rt.ru
 +.rtalabel.org
 +.rtbcdn.ru
 +.rthk.hk
@@ -21506,6 +21585,7 @@
 +.s8ds5gfm.xyz
 +.s8forum.com
 +.sa
++.saas-support.com
 +.saasexch.cc
 +.saasexch.co
 +.saasexch.com
@@ -21699,6 +21779,7 @@
 +.scandalplanet.com
 +.scanlover.com
 +.scanservice1.qcpp1.net
++.scartel.ru
 +.scasino.com
 +.scat-enema.com
 +.scat-japan.com
@@ -23630,6 +23711,7 @@
 +.t.finance
 +.t.me
 +.t.orzdream.com
++.t2.ru
 +.t35.com
 +.t66y.com
 +.t91y.com
@@ -23866,6 +23948,7 @@
 +.tehnodom.com
 +.tehrantimes.com
 +.tejaratbank.ir
++.tele2.ru
 +.telebay.com
 +.telecomspace.com
 +.telega.info
@@ -24909,6 +24992,7 @@
 +.tvmedia.net.au
 +.tvmost.com.hk
 +.tvnaviweb.jp
++.tvoyodbo.online
 +.tvplayvideos.com
 +.tvpromise.com
 +.tvunetworks.com
@@ -26767,6 +26851,7 @@
 +.whippedass.com
 +.whisolutions.com
 +.whispersystems.org
++.whitesaas.com
 +.whitexxxtube.com
 +.who.int
 +.whodns.xyz
@@ -26949,6 +27034,7 @@
 +.wingy.site
 +.winhec.com
 +.winhec.net
++.wink.am
 +.wink.ru
 +.winning11.com
 +.wintermute.com
@@ -27458,13 +27544,17 @@
 +.xn--74q434dwff.com
 +.xn--74q434dwff.net
 +.xn--7hv594h.com
++.xn--80a9a4b.xn--p1ai
 +.xn--80aafgovrgbc7am.xn--p1ai
 +.xn--80acbjgmges7ca.xn--p1ai
 +.xn--80acbjgsdq2cl.xn--p1ai
++.xn--80aj3b.xn--p1ai
 +.xn--80aqcf7a6do.com
++.xn--80arpq.xn--p1ai
 +.xn--80asgb.xn--p1ai
 +.xn--8uq428d76d.tokyo
 +.xn--90ab.com
++.xn--90absjljw3g.xn--p1ai
 +.xn--90aifd0az.shop
 +.xn--90aifd0azb.xn--p1acf
 +.xn--90wwvt03e.com
@@ -28171,6 +28261,8 @@
 +.yostar.co.jp
 +.yostar.net
 +.yostarplat.com
++.yota.ru
++.yotagamer.ru
 +.you-get.org
 +.you.com
 +.youassporn.com
