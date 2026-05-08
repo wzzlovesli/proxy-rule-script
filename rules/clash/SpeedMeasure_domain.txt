@@ -1462,6 +1462,7 @@ speedtest.cloudinet.com.br
 speedtest.cloudwifi.ca
 speedtest.cltel.com
 speedtest.cmltelephone.com
+speedtest.cncbroadband.in
 speedtest.co-fi.net
 speedtest.cod4-server.com
 speedtest.cogeco.ca
@@ -2545,6 +2546,7 @@ speedtesthost.sasknet.sk.ca
 speedtestit.pvdatanet.com
 speedtestitarema.cyberinfo.net.br
 speedtestjbd.angelbroadband.com
+speedtestjld.netplus.co.in
 speedtestjmu.airtel.in
 speedtestla.gethotwired.com
 speedtestldn.grainconnect.com
@@ -2789,6 +2791,7 @@ stkingstonwireless.rogers.com
 stkitchener.rogers.com
 stkitchenerwireless.rogers.com
 stladhuka.clicknconnect.co.in
+stladhuka.cncbroadband.in
 stleamingtonwireless.rogers.com
 stlethbridgewireless.rogers.com
 stlondon.netcrawler.ca

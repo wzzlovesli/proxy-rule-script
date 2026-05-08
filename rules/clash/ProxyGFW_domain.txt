@@ -25311,6 +25311,7 @@
 +.ulyssesapp.com
 +.uma.media
 +.umagazine.com.hk
++.umap.openstreetmap.fr
 +.umass.edu
 +.umblr.com
 +.umbrella.com
