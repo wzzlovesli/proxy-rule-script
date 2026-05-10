@@ -843,6 +843,7 @@
 +.cl1.apple.com
 +.cl2-cn.apple.com
 +.cl2.apple.com
++.cl2.apple.com.edgekey.net.globalredir.akadns.net
 +.cl3-cdn.origin-apple.com.akadns.net
 +.cl3.apple.com
 +.cl4-cdn.origin-apple.com.akadns.net
@@ -1015,6 +1016,7 @@
 +.gs-loc-cn.apple.com
 +.gs-loc.apple.com
 +.gsp10-ssl-cn.ls.apple.com
++.gsp11-cn.ls.apple.com
 +.gsp12-cn.ls.apple.com
 +.gsp13-cn.ls.apple.com
 +.gsp4-cn.ls.apple.com
@@ -1075,12 +1077,10 @@
 +.ibooksauthor.com
 +.ichat.co.in
 +.icloud-apple.cn
-+.icloud-cdn.icloud.com.akadns.net
 +.icloud-content.com
 +.icloud-content.com.cn
 +.icloud-isupport.com
 +.icloud-sandbox.com
-+.icloud.cdn-apple.com
 +.icloud.ch
 +.icloud.cn
 +.icloud.com
@@ -1503,9 +1503,7 @@
 +.next.com
 +.nflhotsalejerseys.com
 +.nicesshop.net
-+.ocsp-lb.apple.com.akadns.net
 +.ocsp.apple.com
-+.ocsp2-lb.apple.com.akadns.net
 +.ocsp2.apple.com
 +.offerairjordanlebron.com
 +.officialbeatsbydreshop.com
@@ -1527,7 +1525,6 @@
 +.outletbeatsshop.com
 +.overapple.com
 +.pancake.apple.com
-+.pancake.cdn-apple.com.akadns.net
 +.pascherbeatsmonster.com
 +.paulsimon-music.com
 +.pba0.apple.com
@@ -1566,7 +1563,6 @@
 +.researchkit.net
 +.researchkit.org
 +.researchkit.tv
-+.reserve-prime.apple.com
 +.s.mzstatic.com
 +.safebrowsing.apple
 +.salebeatslasteststyle4you.com

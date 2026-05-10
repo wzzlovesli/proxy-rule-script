@@ -6089,7 +6089,6 @@
 +.cn6.eu
 +.cna.com.tw
 +.cnabc.com
-+.cnappinstall.googleadapis.com
 +.cnbbnews.wordpress.com
 +.cnbc.com
 +.cnbcfm.com
@@ -6289,7 +6288,6 @@
 +.contactossexoecuador.com
 +.containersonaws.com
 +.contechacademy.com
-+.content.googleadapis.com
 +.content.office.net
 +.contentful.com
 +.contest.com
@@ -7644,7 +7642,6 @@
 +.downdetectorapi.com
 +.download.com
 +.download.dappcdn.com
-+.download.qatp1.net
 +.downloadpass.com
 +.downloadsforipod.com
 +.dphk.org
@@ -14641,6 +14638,7 @@
 +.justswallows.com
 +.justtristan.com
 +.justusboys.com
++.justveryok.com
 +.juyangbee.xyz
 +.juyangto.info
 +.juyuange.org
@@ -14821,6 +14819,7 @@
 +.kex.com
 +.keybase.io
 +.keybaseapi.com
++.keyboardmen.com
 +.keycdn.com
 +.keyhole.com
 +.keyporntube.com
@@ -17074,7 +17073,6 @@
 +.mongodb.org
 +.monica.im
 +.monitorchina.org
-+.monitoring.qpdp1.net
 +.monitorware.com
 +.monitrix.net
 +.monlamit.org
@@ -18755,7 +18753,15 @@
 +.oculusrift.com
 +.oculusvr.com
 +.odkl.ru
++.odnoklasniki.by
++.odnoklasniki.ua
++.odnoklassniki.am
++.odnoklassniki.by
++.odnoklassniki.co.ee
++.odnoklassniki.eu
++.odnoklassniki.lv
 +.odnoklassniki.ru
++.odnoklassniki.tj
 +.odysee.com
 +.oecd-ilibrary.org
 +.oed.com
@@ -20780,7 +20786,6 @@
 +.q10.jp
 +.q13.com
 +.q13fox.com
-+.qagpublic.qatp1.net
 +.qanote.com
 +.qatarescortsvip.com
 +.qattdh.cc
@@ -20794,7 +20799,6 @@
 +.qcomgeo2.com
 +.qctconnect.com
 +.qdiehzz7.me
-+.qgadmin.qcpp1.net
 +.qgirl.com.tw
 +.qhigh.com
 +.qi-gong.me
@@ -20862,8 +20866,6 @@
 +.qualcommventures.cn
 +.qualcommventures.com
 +.qualphone.com
-+.qualysapi.qatp1.net
-+.qualysguard.qpdp1.net
 +.quanben-xiaoshuo.com
 +.quanben.io
 +.quannengshen.org
@@ -20944,6 +20946,7 @@
 +.r2.dev
 +.r34porn.net
 +.ra.gg
++.rabbitcounter.com
 +.rabbitscams.com
 +.rabbitscams.sex
 +.rabbitsreviews.com
@@ -21747,6 +21750,7 @@
 +.savoycomputing.com
 +.savvyshopper.net.au
 +.say2.info
++.sayeasy.eu
 +.saynow.com
 +.sb
 +.sb-cd.com
@@ -21798,7 +21802,6 @@
 +.scaleform.com
 +.scandalplanet.com
 +.scanlover.com
-+.scanservice1.qcpp1.net
 +.scartel.ru
 +.scasino.com
 +.scat-enema.com

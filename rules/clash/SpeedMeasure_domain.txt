@@ -312,6 +312,7 @@ jmmuooklaspeed1.jioconnect.com
 jodyspeed.hammoud.store
 joplin1.cabospeed.com
 jp-nperf.verizon.net
+jp.speedtest.bug.pw
 kami.smartone.com
 kansas-city.speedtest.brightspeed.com
 kansascity1.cabospeed.com
@@ -468,6 +469,7 @@ nms.bhrbroadband.com
 nmx.cvt.speedtest.civitanet.com
 node01-eulon-free.tropicalgames.net
 northernaccess.de
+ns1.anlnetwork.in
 ns1.fab5network.com
 ns1.fybrg.in
 ns10.fab5network.com
