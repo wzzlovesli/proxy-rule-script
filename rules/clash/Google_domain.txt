@@ -214,7 +214,6 @@
 +.doubleclick.com
 +.doubleclick.net
 +.download.mlcc.google.com
-+.download.qatp1.net
 +.download.tensorflow.google.com
 +.episodic.com
 +.fastlane.ci
@@ -578,7 +577,6 @@
 +.meet.new
 +.mfg-inspector.com
 +.mobileview.page
-+.monitoring.qpdp1.net
 +.moodstocks.com
 +.near.by
 +.nest.com
@@ -626,12 +624,8 @@
 +.projectara.com
 +.projectbaseline.com
 +.publishproxy.com
-+.qagpublic.qatp1.net
-+.qgadmin.qcpp1.net
 +.qiao-cn.com
 +.qpx.googleflights.net
-+.qualysapi.qatp1.net
-+.qualysguard.qpdp1.net
 +.questvisual.com
 +.quickoffice.com
 +.quiksee.com
@@ -657,7 +651,6 @@
 +.safebrowsing.googleapis.com
 +.savethedate.foo
 +.saynow.com
-+.scanservice1.qcpp1.net
 +.schema.org
 +.schemer.com
 +.screenwisetrends.com

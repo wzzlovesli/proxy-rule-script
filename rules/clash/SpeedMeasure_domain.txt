@@ -116,6 +116,7 @@ asanet1.brsserver.com.br
 asbn-speedtest.northstate.net
 ashbn-va.speedtest.shentel.net
 at.blackhost.network
+atl-speedtest.northstate.net
 atl-speedtest.shifthosting.com
 atlat0001speedtestserver01.wiline.com
 atlat0001speedtestserver02.wiline.com
@@ -418,6 +419,7 @@ mesa.speedtest.fiberfirst.com
 mgnc.atlantisnet.com.tr
 mi-speedtest.optimaitalia.com
 mia-eqx1-ookla-1.99.network
+mia-speedtest.northstate.net
 mia01.screenshot.download
 miami-speedtest.reliablesite.net
 miami.getstreamhosting.com
@@ -525,6 +527,7 @@ ookla-speedtest.e-ports.eu
 ookla-speedtest.iu13.net
 ookla-speedtest.starverse.network
 ookla-speedtest.tkrz.de
+ookla-toronto.aerioncloud.com
 ookla.4g5g.co.uk
 ookla.a1.neptune.net.au
 ookla.a56.as6453.net
@@ -544,6 +547,7 @@ ookla.ct8.as6453.net
 ookla.delhitel.net
 ookla.devitalia.it
 ookla.dl.as4755.net
+ookla.dns-net.de
 ookla.dt8.as6453.net
 ookla.dus-02.testpub.telefonica.de
 ookla.ess-01.testpub.telefonica.de
@@ -1663,6 +1667,7 @@ speedtest.hk.chinamobile.com
 speedtest.hk210.hkg.cn.ctcsci.com
 speedtest.hk212.hkg.cn.nerocloud.io
 speedtest.hkg01.node.as9516.com
+speedtest.hlinknet.com
 speedtest.hnd.fdcservers.net
 speedtest.hochschule-trier.de
 speedtest.homecomminc.com
@@ -1770,6 +1775,7 @@ speedtest.lax.gigenet.com
 speedtest.lax.hivelocity.net
 speedtest.lax01.xfernet.net
 speedtest.lax1.nitelusa.net
+speedtest.lax2.sonic.net
 speedtest.layra.web.tr
 speedtest.lazco.dev
 speedtest.lcom.net
@@ -2035,6 +2041,7 @@ speedtest.routinger.com.br
 speedtest.roweinternet.com
 speedtest.rpworld.co.in
 speedtest.rtm.t-mobile.nl
+speedtest.sahinotomotiv.com
 speedtest.saidnettelecom.com.br
 speedtest.samparkinfo.com
 speedtest.sarnettelekom.net.tr
