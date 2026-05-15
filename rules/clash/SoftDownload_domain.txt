@@ -131,6 +131,7 @@
 +.mirror.nl
 +.mirror.noc.one
 +.mirror.norbert-ruehl.de
++.mirror.pkgbuild.com
 +.mirror.rackspace.com
 +.mirror.rafal.ca
 +.mirror.rain.co.za
@@ -1203,6 +1204,7 @@ mirror.apache-kr.org
 mirror.apad.pro
 mirror.applebred.net
 mirror.aptus.co.tz
+mirror.archlinux.tw
 mirror.arizona.edu
 mirror.arvancloud.ir
 mirror.as.kamatera.com
