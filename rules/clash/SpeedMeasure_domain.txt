@@ -503,6 +503,7 @@ omaha.speedtest.fiberfirst.com
 one.speed.c4g7.com
 ookla-01.ind.fd-ix.com
 ookla-1.aerioncloud.com
+ookla-2.man.as58246.net
 ookla-ams.avur.no
 ookla-anc.seroficom.com
 ookla-atl.gigsouth.com
@@ -801,6 +802,7 @@ sp3.novaconn.it
 sp5ookla.flynetwork.it
 sp7.atcc-gns.net
 spa.lvh.lol
+spd-ookla.stelogy.io
 spd-phnhazva.wyyerd.io
 spd-phnxaz19.wyyerd.io
 spd-pub-mi-01-01.fastwebnet.it
@@ -893,6 +895,7 @@ speed.gmavt.net
 speed.golddata.net
 speed.grinternett.com.br
 speed.hamilton.net
+speed.idnet.net.br
 speed.inet-isp.com
 speed.jumpernet.com.br
 speed.kansas.smishcraft.com
@@ -1004,6 +1007,7 @@ speedfortal.redeplanetanet.com.br
 speedfuentes.jeyca.net
 speedgauge2.optonline.net
 speedgwh1.jioconnect.com
+speedhld.ddbroadband.co.in
 speedhn.radius2online.com.tr
 speedhost.isiline.it
 speedhost3.isiline.it
@@ -1013,6 +1017,7 @@ speedmad.sarenet.es
 speedman.hyperoptic.com
 speedme.ir
 speedminas.wifiguay.es
+speedmum.n-tel.in
 speednet-atn.brsserver.com.br
 speednet.brsserver.com.br
 speednld.phoenixnap.com
@@ -1530,6 +1535,7 @@ speedtest.dgn.net.tr
 speedtest.didimnet.com.tr
 speedtest.differnet.es
 speedtest.digitalconnections.net
+speedtest.dimdams.com
 speedtest.dl.gtel.in
 speedtest.dllstx97.metronetinc.com
 speedtest.dolomitinet.it
@@ -2751,6 +2757,7 @@ st2.3c1b.com
 st2.mtplbroadband.in
 st2.octopustelecom.co.uk
 st2.wificanarias.com
+st20.netspeed.tr
 st2a.les.net
 st3.rocketway.it
 st3.surajnetwork.com
