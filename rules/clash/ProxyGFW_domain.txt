@@ -10335,6 +10335,7 @@
 +.g-tun.com
 +.g-tvapp.com
 +.g-xxxhub.com
++.g.ai
 +.g.co
 +.g.dev
 +.g.kfd.me
@@ -15259,6 +15260,7 @@
 +.lenporno.net
 +.lenporno.red
 +.lenwhite.com
++.leonardo.ai
 +.leporno.org
 +.lepornochaud.com
 +.lepornofrais.com
@@ -17283,10 +17285,12 @@
 +.moxing.news
 +.moystoys.com
 +.mozgcp.net
++.mozilla.ai
 +.mozilla.com
 +.mozilla.community
 +.mozilla.net
 +.mozilla.org
++.mozillafoundation.org
 +.moztw.org
 +.mp.world
 +.mp3buscador.com
@@ -17712,6 +17716,7 @@
 +.myyoungwifeisnude.com
 +.myz.info
 +.mzed.com
++.mzl.la
 +.mzstatic.com
 +.n0vadesktop.com
 +.n26.com
@@ -21079,6 +21084,7 @@
 +.rapbull.net
 +.rapefilms.net
 +.rapetube.me
++.raphael.app
 +.rapidgator.net
 +.rapidmoviez.com
 +.rapidprototyping-cadcam.com
@@ -21613,6 +21619,7 @@
 +.rukoebxx.com
 +.rukor.org
 +.rulaisc-tv.buzz
++.rule34.us
 +.rule34.xxx
 +.rule34h.com
 +.rule34pornvids.com
@@ -23050,6 +23057,7 @@
 +.soso7778.com
 +.sosreader.com
 +.sostibet.org
++.sotwe.com
 +.sou-tong.org
 +.soubory.com
 +.souka.xyz
@@ -23921,6 +23929,7 @@
 +.tapatalk.com
 +.tapbots.com
 +.tapbots.net
++.tapnow.ai
 +.taptap.io
 +.taptap.tw
 +.taptotokyo.com
