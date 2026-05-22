@@ -682,6 +682,7 @@ riorancho1.cabospeed.com
 rochester.speedtest.rtc1.com
 rsghost.rsgsn.com
 rspeed.mi-group.com.tr
+run.provedorlbs.com.br
 s.qnid.cc
 s01.fix-speed.de
 s02.fix-speed.de
@@ -1978,6 +1979,7 @@ speedtest.norwoodlight.com
 speedtest.novateldigital.com
 speedtest.nrbn.ca
 speedtest.nrflvaaa.metronetinc.com
+speedtest.nsxt.eu
 speedtest.nt.net
 speedtest.numarohost.com
 speedtest.nxt-telecom.com
@@ -2496,6 +2498,7 @@ speedtest2.bitsandbyte.co.in
 speedtest2.cfoc.tech
 speedtest2.comvergence.com.au
 speedtest2.datafex.com.tr
+speedtest2.dg-sys.net
 speedtest2.digimobil.es
 speedtest2.dolomitesnetwork.it
 speedtest2.dpdfsd.com
