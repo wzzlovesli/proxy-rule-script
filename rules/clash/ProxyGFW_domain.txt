@@ -8359,6 +8359,7 @@
 +.electronicsignature.ru
 +.electronjs.org
 +.element.io
++.elementary.io
 +.elephantlist.com
 +.elephantsdream.org
 +.elephanttube.com
@@ -10928,6 +10929,7 @@
 +.gnci.org.hk
 +.gnews.org
 +.gnom-cham.com
++.gnome.org
 +.gnu.org
 +.gnzi.xyz
 +.gnzi1.top
@@ -11869,6 +11871,7 @@
 +.helloandroid.com
 +.helloavgirls.com
 +.hellokittybeats.com
++.hellomoto.com
 +.helloqueer.com
 +.hellosmartbook.com
 +.helloss.pw
@@ -15715,6 +15718,7 @@
 +.lvv2.com
 +.lwwcn.buzz
 +.lwwcn.xyz
++.lxqt-project.org
 +.lxxlxx.com
 +.ly
 +.lyfhk.net
@@ -16134,6 +16138,7 @@
 +.mat6tube.com
 +.matainja.com
 +.matchmover.com
++.mate-desktop.org
 +.material.io
 +.mathable.io
 +.mathiew-badimon.com
@@ -17256,8 +17261,32 @@
 +.motiongraphicsandmore.com
 +.motionpictureser.com
 +.motiyun.com
++.moto.com
 +.motolia.com
 +.motor4ik.ru
++.motorola.ca
++.motorola.cl
++.motorola.co
++.motorola.co.id
++.motorola.co.jp
++.motorola.co.th
++.motorola.co.uk
++.motorola.com
++.motorola.com.au
++.motorola.com.co
++.motorola.com.pe
++.motorola.com.pr
++.motorola.de
++.motorola.es
++.motorola.fr
++.motorola.gr
++.motorola.in
++.motorola.it
++.motorola.net
++.motorola.vn
++.motorolacareers.com
++.motorolanews.com
++.motorolasolutions.com
 +.motorshowblog.com
 +.mottainai.info
 +.mousebreaker.com
@@ -19992,6 +20021,7 @@
 +.plannotator.ai
 +.plansondemand.com
 +.plantsvszombies2.com
++.plasma-mobile.org
 +.plasticlabs.com
 +.plastics-cadcam.com
 +.platformio.org
@@ -23799,6 +23829,7 @@
 +.sysctl-explorer.net
 +.sysinternals.com
 +.sysresccd.org
++.system76.com
 +.sytes.net
 +.syx86.com
 +.syzbj36.xyz
@@ -27564,6 +27595,7 @@
 +.xeon.com
 +.xerotica.com
 +.xfantazy.com
++.xfce.org
 +.xfemaledom.com
 +.xfiles.to
 +.xfinity.com
