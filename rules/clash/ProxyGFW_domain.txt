@@ -2472,6 +2472,7 @@
 +.arxiv.org
 +.arzon.jp
 +.as-hp.ca
++.as.mr
 +.asacp.org
 +.asagaku.com
 +.asahi.com
@@ -10568,6 +10569,7 @@
 +.gemfury.com
 +.gemini.com
 +.gen.lib.rus.ec
++.gencraft.com
 +.gendai.net
 +.generated.photos
 +.genetic-technologies.am
@@ -25786,6 +25788,7 @@
 +.vds.rightster.com
 +.vecchiescopate.casa
 +.vector.im
++.veed.io
 +.veet.at
 +.veet.be
 +.veet.ca
