@@ -2094,6 +2094,7 @@ speedtest.routinger.com.br
 speedtest.roweinternet.com
 speedtest.rpworld.co.in
 speedtest.rtm.t-mobile.nl
+speedtest.s3rdv.com
 speedtest.sahinotomotiv.com
 speedtest.saidnettelecom.com.br
 speedtest.samparkinfo.com
