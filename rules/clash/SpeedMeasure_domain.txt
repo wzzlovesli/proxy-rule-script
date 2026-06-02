@@ -110,6 +110,7 @@ amsspeed.sharktech.net
 amsterdam.getstreamhosting.com
 ant1speedtest.turktelekom.com.tr
 aragonnetspeedtest.com.br
+argalasti.skoultsos.eu
 armageddon.uvensys.de
 asanet.brsserver.com.br
 asanet1.brsserver.com.br
@@ -738,6 +739,7 @@ sp-chi-01.ezeefiber.net
 sp-sea-01.ezeefiber.net
 sp-thn2.wildanet.com
 sp.atcinfocom.in
+sp.corce.link
 sp.esim-international.net
 sp.hipernet.com.tr
 sp.lvh.lol
@@ -2293,6 +2295,7 @@ speedtest.visiontelecom.com.br
 speedtest.vnet.su
 speedtest.vodafone.com.tr
 speedtest.vodafone.it
+speedtest.voiceone.dev
 speedtest.voip-unlimited.net
 speedtest.volo.net
 speedtest.vortexnetsol.com
