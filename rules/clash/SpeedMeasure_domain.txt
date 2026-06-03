@@ -2115,6 +2115,7 @@ speedtest.sercomm.com
 speedtest.server.battern.eu
 speedtest.serveroyun.com
 speedtest.serverpronto.com
+speedtest.serversistemleri.com
 speedtest.sewan.es
 speedtest.sewan.fr
 speedtest.sg.hsp.net.id
