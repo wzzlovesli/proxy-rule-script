@@ -1827,6 +1827,7 @@ speedtest.lazco.dev
 speedtest.lcom.net
 speedtest.leer.jonasdevries.de
 speedtest.lekloud.net
+speedtest.lhr1.uk.as61049.net
 speedtest.lightsource1.com
 speedtest.link.bm
 speedtest.linkamos.com.br
@@ -2143,6 +2144,7 @@ speedtest.skynetcom.ru
 speedtest.skyplay.app
 speedtest.skywaveconnect.com
 speedtest.skywaywest.net
+speedtest.slbcloud.fr
 speedtest.slic.com
 speedtest.snghosting.com
 speedtest.snnet.com.br

@@ -18052,6 +18052,7 @@
 +.brightdairy.com
 +.brightdecolighting.com
 +.brightfood.com
++.brighticecream.com
 +.brightliao.com
 +.brightmeat.com
 +.brilliance-auto.com
@@ -19605,7 +19606,6 @@
 +.cc-pharming.com
 +.cc-q.com
 +.cc-uavia.com
-+.cc.cd
 +.cc.co
 +.cc06040d408f65b1.com
 +.cc0808.com
@@ -22031,6 +22031,7 @@
 +.chinacordblood.org
 +.chinacosco.com
 +.chinacourt.org
++.chinacow.com
 +.chinacpda.com
 +.chinacpda.org
 +.chinacqme.com
@@ -101510,6 +101511,7 @@
 +.xinlingletu.com
 +.xinlip.com
 +.xinlischool.com
++.xinlishumeng.com
 +.xinliwanju.com
 +.xinlixinli.net
 +.xinlong-holding.com
