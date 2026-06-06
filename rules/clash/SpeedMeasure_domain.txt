@@ -914,6 +914,7 @@ speed.giganet.com.tr
 speed.gmavt.net
 speed.golddata.net
 speed.grinternett.com.br
+speed.haefeleconnect.com
 speed.hamilton.net
 speed.idnet.net.br
 speed.inet-isp.com
@@ -1381,6 +1382,7 @@ speedtest.amazonasfiber.com.br
 speedtest.amazontelecom.com.br
 speedtest.americatelecom.net.br
 speedtest.amesiaaa.metronetinc.com
+speedtest.amgtelecomunicaciones.es
 speedtest.amnet.net.br
 speedtest.ams.atharva.co.id
 speedtest.ams.sharktech.net
@@ -2364,6 +2366,7 @@ speedtest.xxlnet.nl
 speedtest.yalniz.net
 speedtest.yecla.interfibra.es
 speedtest.yless4u.com.au
+speedtest.zeer.com.br
 speedtest.zenex5ive.com
 speedtest.zentrointernet.com
 speedtest.zerospace.cloud
