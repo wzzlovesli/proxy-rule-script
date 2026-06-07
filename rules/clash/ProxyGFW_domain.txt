@@ -1752,6 +1752,7 @@
 +.amd.com
 +.amd.com.cn
 +.amdfanstore.com
++.amdgaming.com
 +.amdigital.co.uk
 +.ameba.jp
 +.amebame.com
@@ -4930,6 +4931,7 @@
 +.buddhistchannel.tv
 +.buddymedia.com
 +.buffered.com
++.bugsnag.com
 +.bugzilla.org
 +.buhidoh.net
 +.buicha.social
@@ -5444,6 +5446,7 @@
 +.cciesecuritylabs.com
 +.ccievoicelabs.com
 +.ccim.org
++.ccleaner.com
 +.cclife.ca
 +.cclife.org
 +.cclifefl.org
@@ -5943,6 +5946,7 @@
 +.citypopulation.de
 +.citytalk.tw
 +.citytourgirls.com
++.cityu.hk
 +.civicparty.hk
 +.civil3d.com
 +.civilcc.com
@@ -6565,6 +6569,7 @@
 +.cuebic.biz
 +.cuffiesaldi.com
 +.cuhk.edu.hk
++.cuhk.hk
 +.cuhkacs.org
 +.cuihua.org
 +.cuinc.oen.tw
@@ -8333,9 +8338,11 @@
 +.edoors.com
 +.edu
 +.edu-research.org
++.edu.hk
 +.edu.ir
 +.edubridge.com
 +.education-cadcam.com
++.eduhk.hk
 +.eduplus.hk
 +.edupro.org
 +.edx-cdn.org
@@ -9524,6 +9531,7 @@
 +.fileserve.com
 +.filesmonster.vip
 +.filesor.com
++.filezilla-project.org
 +.filipino-music.net
 +.fillthesquare.org
 +.filme2.xxx
@@ -10840,6 +10848,7 @@
 +.gitbook.com
 +.gitbook.io
 +.gitbooks.io
++.gitgud.io
 +.githack.com
 +.github.ai
 +.github.blog
@@ -12221,6 +12230,7 @@
 +.hitxhot.com
 +.hive.blog
 +.hiveon.net
++.hivepress.io
 +.hiwifi.com
 +.hizb-ut-tahrir.info
 +.hizb-ut-tahrir.org
@@ -12248,6 +12258,7 @@
 +.hkbn.net
 +.hkbnes.net
 +.hkbookcity.com
++.hkbu.hk
 +.hkchronicles.com
 +.hkchurch.org
 +.hkci.org.hk
@@ -12301,6 +12312,7 @@
 +.hktpremier.com
 +.hktshop.com
 +.hku.hk
++.hkust.hk
 +.hkusu.net
 +.hkvwet.com
 +.hkwcc.org.hk
@@ -15217,6 +15229,7 @@
 +.landofhope.tv
 +.langchain.com
 +.langsuirs.com
++.languagetool.org
 +.lanik.us
 +.lanmdh.net
 +.lanniser-ylo.shop
@@ -17330,6 +17343,7 @@
 +.motiyun.com
 +.moto.com
 +.motolia.com
++.motopress.com
 +.motor4ik.ru
 +.motorola.ca
 +.motorola.cl
@@ -17496,6 +17510,7 @@
 +.msudalosti.com
 +.msunlimitedcloudsummit.com
 +.mswe1.org
++.msys2.org
 +.mt.co.kr
 +.mt.lv
 +.mt0011.site
@@ -18904,6 +18919,7 @@
 +.o3t.ru
 +.o3team.ru
 +.oaistatic.com
++.oaistatsig.com
 +.oaiusercontent.com
 +.oanda.com
 +.oanencore.com
@@ -20261,6 +20277,7 @@
 +.polymer-project.org
 +.polymerhk.com
 +.polymerproject.org
++.polyu.hk
 +.pomf.cat
 +.ponyanimalsex.com
 +.poofetish.com
@@ -21038,6 +21055,7 @@
 +.qmttqg3k.me
 +.qnap.com
 +.qobuz.com
++.qoder.com
 +.qombol.com
 +.qoo-app.com
 +.qoo10.jp
@@ -27564,6 +27582,7 @@
 +.wp.com
 +.wpewebkit.org
 +.wplace.live
++.wpmailsmtp.com
 +.wpoforum.com
 +.wpvip.com
 +.wqyd.org
@@ -27955,9 +27974,15 @@
 +.xn--d4ty0ojsqzfd.com
 +.xn--e1adjldbbpv.xn--90ais
 +.xn--e1aigb.xn--p1ai
++.xn--fiqs8s1bxp3anr7a.hk
++.xn--fiqs8s1bxp3anr7a.xn--j6w193g
++.xn--fiqs8s1byzqyvl.hk
++.xn--fiqs8s1byzqyvl.xn--j6w193g
 +.xn--fiqs8sxootzz.xn--hxt814e
 +.xn--flw351e
 +.xn--flw351e.com
++.xn--gdt08a.hk
++.xn--gdt08a.xn--j6w193g
 +.xn--ggle-55da.com
 +.xn--gmq348bujlxrb.com
 +.xn--gmq92kd2rm1kx34a.com
@@ -27977,11 +28002,23 @@
 +.xn--kput3imi374g.xn--hxt814e
 +.xn--mts47c3w9b1qr.net
 +.xn--mtswd61ejxq.com
++.xn--mxtq18a.hk
++.xn--mxtq18a.xn--j6w193g
 +.xn--ngstr-lra8j.com
 +.xn--noss43i.com
 +.xn--oiq.cc
 +.xn--p8j9a0d9c9a.xn--q9jyb4c
 +.xn--pearsonenespaol-brb.com
++.xn--pssu7ci2j23mp9ny48b.hk
++.xn--pssu7ci2j23mp9ny48b.xn--j6w193g
++.xn--pssu7cv61af1tcs59bnvd.hk
++.xn--pssu7cv61af1tcs59bnvd.xn--j6w193g
++.xn--pssu7cv61af44b.hk
++.xn--pssu7cv61af44b.xn--j6w193g
++.xn--pssu7cv61ahw8aq79bztd.hk
++.xn--pssu7cv61ahw8aq79bztd.xn--j6w193g
++.xn--pssu7cv61ahwcb1p2yk.hk
++.xn--pssu7cv61ahwcb1p2yk.xn--j6w193g
 +.xn--q41am8x.com
 +.xn--qcka1pmc
 +.xn--qoq462m.com
@@ -27994,7 +28031,13 @@
 +.xn--u2u927b.com
 +.xn--ubt498knmf.com
 +.xn--uis17aj9kmuf.com
++.xn--uis44a.xn--j6w193g
 +.xn--urs05q.jp
++.xn--wcv22d.hk
++.xn--wcv22d.xn--j6w193g
++.xn--wcvs22d.xn--j6w193g
++.xn--wcvs22d1m.hk
++.xn--wcvs22d1m.xn--j6w193g
 +.xn--x-qeu1ji09tzlg.biz
 +.xn--x-qeu1ji09tzlg.net
 +.xn--xsq421m.com
@@ -29433,6 +29476,7 @@ gitlab-assets.oss-cn-hongkong.aliyuncs.com
 google-ohttp-relay-safebrowsing.fastly-edge.com
 hamivideo.hinet.net
 hammerandchisel.ssl.zendesk.com
+hb.imgix.net
 heads-ak-spotify-com.akamaized.net
 heads4-ak-spotify-com.akamaized.net
 help.ubnt.com

@@ -568,6 +568,7 @@ ookla.fibraleste.com.br
 ookla.fnm.as6453.net
 ookla.fra-01.testpub.telefonica.de
 ookla.fullisp.com.br
+ookla.gctelecom.com.br
 ookla.gru.net
 ookla.haj-01.testpub.telefonica.de
 ookla.ham-02.testpub.telefonica.de
@@ -1368,6 +1369,7 @@ speedtest.agw2.as49436.net
 speedtest.ahm.vodafone.nl
 speedtest.airmaxnetwork.com
 speedtest.airnetnetworks.com
+speedtest.airsip.net
 speedtest.aitire.es
 speedtest.ak4digital.com.br
 speedtest.alastyr.com
@@ -1655,6 +1657,7 @@ speedtest.fra1.hivelocity.net
 speedtest.frachtwerk.de
 speedtest.frankfurt-am-main.valtrix.org
 speedtest.frantic.link
+speedtest.frontlineinternetservices.com
 speedtest.frontlinetechnologies.in
 speedtest.ftmojave.net
 speedtest.ftth.wien
@@ -2103,6 +2106,7 @@ speedtest.s3rdv.com
 speedtest.sahinotomotiv.com
 speedtest.saidnettelecom.com.br
 speedtest.samparkinfo.com
+speedtest.sandiego.intrepidfiber.com
 speedtest.sarnettelekom.net.tr
 speedtest.satellitenetcom.in
 speedtest.sc1.loopinternet.com
