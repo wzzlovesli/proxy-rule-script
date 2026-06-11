@@ -1531,6 +1531,7 @@
 +.allizom.org
 +.alljackpotscasino.com
 +.alljapanesepass.com
++.allkeyshop.com
 +.allmomsex.com
 +.allmovie.com
 +.allover30.com
@@ -2872,6 +2873,7 @@
 +.avdwang.xyz
 +.avelip.com
 +.aventertainments.com
++.avermedia.com
 +.aversbank.ru
 +.avfantasy.com
 +.avfox.cc
@@ -3735,6 +3737,7 @@
 +.beyondcore.com
 +.beyondfirewall.com
 +.bfa.ru
++.bfads.net
 +.bffshd.com
 +.bfnn.org
 +.bfsh.hk
@@ -5039,6 +5042,7 @@
 +.buypass.com
 +.buypass.no
 +.buypass.se
++.buyservices.com
 +.buyshoponly.com
 +.buzzardflapper.com
 +.buzzav.com
@@ -6221,6 +6225,7 @@
 +.coindesk.com
 +.coinegg.com
 +.coinex.com
++.coingate.com
 +.coingecko.com
 +.coingi.com
 +.coinglass.com
@@ -7376,7 +7381,9 @@
 +.discountbeatsstore.com
 +.discountedporn.com
 +.discountporn.club
++.discourse-cdn.com
 +.discourse.group
++.discourse.org
 +.discovershiretoko.org
 +.discoveryplus.com
 +.discreet.com
@@ -8105,6 +8112,10 @@
 +.eater.com
 +.ebahy.com
 +.ebalovo.com
++.ebates.ca
++.ebates.kr
++.ebates.sg
++.ebatescanada.com
 +.ebay-authenticate.net
 +.ebay-confirm.com
 +.ebay-course.com
@@ -8291,6 +8302,7 @@
 +.ebuyer.com
 +.ebuyheadphones.com
 +.ec
++.ecbsn.com
 +.ecchinohentai.ru
 +.ecert.gov.hk
 +.ecfa.org.tw
@@ -8396,6 +8408,7 @@
 +.electronicarts.fr
 +.electronicsignature.ru
 +.electronjs.org
++.elegantthemes.com
 +.element.io
 +.elementary.io
 +.elephantlist.com
@@ -9357,6 +9370,7 @@
 +.fatakat-n.club
 +.fatbtc.com
 +.fatstube.com
++.fatwallet.com
 +.favebook.com
 +.favelaporno.com
 +.favepornmovs.com
@@ -9513,6 +9527,7 @@
 +.ficador.com
 +.ficbook.net
 +.ficeboock.com
++.ficgs.com
 +.ficmania.com
 +.fictionmania.tv
 +.fiddle.jshell.net
@@ -10307,6 +10322,7 @@
 +.fullpornnetwork.com
 +.fullservicegame.com
 +.fullsexmovs.com
++.fullstory.com
 +.fulltaboo.tv
 +.fullxxxmovies.net
 +.fulue.com
@@ -10451,7 +10467,9 @@
 +.gamesfuckgirls.com
 +.gamesofdesire.com
 +.gamespark.jp
++.gamesplanet.com
 +.gamesstack.com
++.gametap.com
 +.gameuxmasterguide.com
 +.gamez.com.tw
 +.gaming-notebooks.com
@@ -10766,6 +10784,7 @@
 +.gfycat.com
 +.gfysex.com
 +.gg
++.gg.deals
 +.ggdiao.com
 +.ggjav.com
 +.ggoogle.com
@@ -10779,6 +10798,7 @@
 +.ghanely.me
 +.ghbi.ir
 +.ghcr.io
++.ghe.com
 +.ghettotube.com
 +.ghidra-sre.org
 +.ghostarchive.org
@@ -11460,6 +11480,7 @@
 +.governmentengineer.com
 +.govforce.com
 +.gpb.ru
++.gpstatic.com
 +.gpstheseries.com
 +.gputechconf.co.kr
 +.gputechconf.com
@@ -12906,6 +12927,7 @@
 +.hyper.is
 +.hyperbeam.com
 +.hyperdreams.com
++.hyperliquid.xyz
 +.hyperrate.com
 +.hyperscan.io
 +.hypnohub.net
@@ -15024,6 +15046,7 @@
 +.kingofpics.com
 +.kingstagram.com
 +.kingstone.com.tw
++.kinguin.net
 +.kinguno.xyz
 +.kinja.com
 +.kink.com
@@ -15441,6 +15464,8 @@
 +.lightboxcdn.com
 +.lightbridge.com
 +.lighten.org.tw
++.lighter.exchange
++.lighter.xyz
 +.lighti.me
 +.lightnovel.cn
 +.lightxxxtube.com
@@ -18212,7 +18237,9 @@
 +.nexon.co.jp
 +.nexon.com
 +.nexon.io
++.nexon.net
 +.nexoncdn.co.kr
++.nexongames.co.kr
 +.nexpart.com
 +.nexpart.tv
 +.next.com
@@ -18285,7 +18312,11 @@
 +.nhentaihaven.com
 +.nhentaihaven.org
 +.nheos.com
++.nhk
 +.nhk-ondemand.jp
++.nhk.jp
++.nhk.or.jp
++.nhkworld.jp
 +.nhncorp.jp
 +.nianticlabs.com
 +.nic.cz.cc
@@ -21227,7 +21258,10 @@
 +.rakuten.com
 +.rakuten.com.tw
 +.rakuten.ne.jp
++.rakuten.tv
 +.rakuten.tw
++.rakutenadvertising.com
++.rakutengiftcards.ca
 +.rakuya.com.tw
 +.ramcity.com.au
 +.randyblue.com
@@ -21738,6 +21772,7 @@
 +.rpmfusion.org
 +.rprimelab.com
 +.rqbank.ir
++.rrcbsn.com
 +.rrl28.buzz
 +.rrs1.xyz
 +.rrtis.com
@@ -26246,6 +26281,7 @@
 +.vijayatemple.org
 +.viju.ru
 +.vikacg.com
++.viki.com
 +.vikiporn.com
 +.vilanet.me
 +.vilavpn.com
@@ -27522,6 +27558,7 @@
 +.woolyss.com
 +.woopie.jp
 +.woopie.tv
++.wordcamp.org
 +.wordpress.com
 +.wordpress.net
 +.wordpress.org
@@ -29143,6 +29180,7 @@
 +.zishy.com
 +.zkaip.com
 +.zkiz.com
++.zklighter.elliot.ai
 +.zlib.life
 +.zlibcdn.com
 +.zlibcdn2.com
