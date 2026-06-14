@@ -1,5 +1,4 @@
 +.cm.steampowered.com
-+.steamcdn-a.akamaihd.net
 +.steamchina.com
 +.steamcontent.com
 +.steamserver.net

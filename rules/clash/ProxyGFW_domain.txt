@@ -552,7 +552,6 @@
 +.7mmtv.me
 +.7mmtv.sx
 +.7mmtv.tv
-+.7pzzv.us
 +.7tb.cc
 +.7tv.app
 +.7tv.io
@@ -2434,7 +2433,6 @@
 +.arcraiders.com
 +.arctic.ru
 +.arctosia.com
-+.arduino.cc
 +.area120.com
 +.area51.to
 +.areca-backup.org
@@ -6011,7 +6009,6 @@
 +.clickserve.cc-dt.com
 +.clickserver.googleads.com
 +.clien.net
-+.clientservices.googleapis.com
 +.climate-server.com
 +.cling.omy.sg
 +.clinica-tibet.ru
@@ -6101,7 +6098,6 @@
 +.cloudproxy.app
 +.cloudrobotics.com
 +.cloudru.cn
-+.cloudsync-prod.s3.us-east-1.amazonaws.com
 +.cloudvolumes.com
 +.cloudyzgirl.com
 +.cloupia.com
@@ -7667,6 +7663,7 @@
 +.dot-mac.de
 +.dot.net
 +.dot.sb
++.dota2.com
 +.dotcernpilot.info
 +.dotdeb.org
 +.dotfacebook.com
@@ -10363,12 +10360,22 @@
 +.futanarihq.com
 +.futhead.com
 +.futpromos.com
++.futu.cn
++.futu.link
++.futu5.com
++.futuau.com
++.futuesop.com
 +.futufin.com
 +.futuhk.com
++.futuhk1.com
++.futuhk2.com
 +.futuhkapp.com
 +.futuhn.com
 +.futuholdings.com
 +.futunited.com
++.futuniuniu.com
++.futunn.com
++.futuoa.com
 +.future-cs.ru
 +.futurechinaforum.org
 +.futuremessage.org
@@ -10376,6 +10383,9 @@
 +.futureofbusinesssurvey.org
 +.futureofmaktingthings.com
 +.futureshop.ca
++.futusg.com
++.futustatic.com
++.fututrade.com
 +.fux.com
 +.fuxporn.com
 +.fuyin.net
@@ -15263,6 +15273,7 @@
 +.laod.cn
 +.laogai.org
 +.laogairesearch.org
++.laohu8.com
 +.laomiu.com
 +.laosijifuli9009.top
 +.laowang.vip
@@ -15583,6 +15594,8 @@
 +.livehdcams.com
 +.livejasmin.com
 +.livejasminbabes.net
++.livejournal.com
++.livejournal.net
 +.liveleak.com
 +.livemint.com
 +.livemodels.co
@@ -15697,11 +15710,13 @@
 +.londonreal.tv
 +.lonestarnaughtygirls.com
 +.longbridge.cloud
++.longbridge.cn
 +.longbridge.com
 +.longbridge.global
 +.longbridge.hk
 +.longbridge.sg
 +.longbridgeapp.com
++.longbridgehk.com
 +.longhair.hk
 +.longmabook.com
 +.longmabookcn.com
@@ -17539,7 +17554,6 @@
 +.mt.co.kr
 +.mt.lv
 +.mt0011.site
-+.mtalk.google.com
 +.mtao.fun
 +.mthruf.com
 +.mts-ws.net
@@ -18700,6 +18714,7 @@
 +.nsfwmemes.com
 +.nsfwr34.com
 +.nsimg.net
++.nspk.ru
 +.nssurge.com
 +.ntc.party
 +.ntd.com
@@ -19076,6 +19091,7 @@
 +.okx-dns.com
 +.okx-dns1.com
 +.okx-dns2.com
++.okx.ac
 +.okx.cab
 +.okx.com
 +.old-cat.net
@@ -20168,7 +20184,6 @@
 +.plasma-mobile.org
 +.plasticlabs.com
 +.plastics-cadcam.com
-+.platformio.org
 +.platiecom.ru
 +.platinumlinks.org
 +.play-asia.com
@@ -22987,6 +23002,7 @@
 +.skysports.ie
 +.skysportsonline.com
 +.skysportsracing.com
++.skytigris.cn
 +.skyvegas.com
 +.skyxvpn.com
 +.sl-reverse.com
@@ -23840,7 +23856,6 @@
 +.stufferdb.com
 +.stuidok110.com
 +.stumbleupon.com
-+.stun.playstation.net
 +.stunnel.org
 +.stupidcams.com
 +.stupidvideos.com
@@ -24819,6 +24834,8 @@
 +.tiendabestbuy.com
 +.tiffany-towers.com
 +.tig-ol-bitties.live
++.tigerbbs.cn
++.tigerbbs.com
 +.tigervpn.com
 +.tik-tokapi.com
 +.tiktok-minis.com
@@ -25912,6 +25929,7 @@
 +.v-av.com
 +.v-has.com
 +.v.gd
++.v.ps
 +.v.roucdn
 +.v2.help
 +.v2.hysteria.network
@@ -25944,6 +25962,7 @@
 +.value-domain.com
 +.value-server.com
 +.valuegb.com
++.valve.net
 +.valvesoftware.com
 +.vamo.com
 +.vamzakaz.ru
@@ -26883,6 +26902,7 @@
 +.vpornvideos.com
 +.vpro.com
 +.vpro.net
++.vps.hosting
 +.vpser.net
 +.vpsxb.net
 +.vraiesagesse.net
@@ -27890,6 +27910,7 @@
 +.xiaofu.me
 +.xiaogirls.com
 +.xiaohexie.com
++.xiaohu8.com
 +.xiaolan.me
 +.xiaoma.org
 +.xiaomi.eu
@@ -28173,6 +28194,16 @@
 +.xtapes.to
 +.xtegvk.xyz
 +.xteko.com
++.xtom.au
++.xtom.com
++.xtom.de
++.xtom.ee
++.xtom.hk
++.xtom.jp
++.xtom.nl
++.xtom.sg
++.xtom.social
++.xtom.us
 +.xtracloud.net
 +.xtube.com
 +.xtubebdsm.com
@@ -29802,6 +29833,7 @@ steampipe-kr.akamaized.net
 steampipe-partner.akamaized.net
 steampipe.akamaized.net
 steamstore-a.akamaihd.net
+steamugcquincy.blob.core.windows.net
 steamusercontent-a.akamaihd.net
 steamuserimages-a.akamaihd.net
 steamvideo-a.akamaihd.net

@@ -322,6 +322,7 @@ jodyspeed.hammoud.store
 joplin1.cabospeed.com
 jp-nperf.verizon.net
 jp.speedtest.bug.pw
+jp1-speedtest-infra.lunaiz.com
 kami.smartone.com
 kansas-city.speedtest.brightspeed.com
 kansascity1.cabospeed.com
@@ -1038,6 +1039,7 @@ speedhn.radius2online.com.tr
 speedhost.isiline.it
 speedhost3.isiline.it
 speedkle.htspl.in
+speedkonya.fizynet.com.tr
 speedlon.hyperoptic.com
 speedmad.sarenet.es
 speedman.hyperoptic.com
@@ -1775,6 +1777,7 @@ speedtest.isp.net
 speedtest.isplinkdigital.com.br
 speedtest.isppapagaio.com.br
 speedtest.itandtel.at
+speedtest.itegal.es
 speedtest.itel.com
 speedtest.ixirhost.com
 speedtest.jackrabbitwireless.com
@@ -1984,6 +1987,7 @@ speedtest.ngcbroadband.com
 speedtest.nik.fiber.nl
 speedtest.nikhef.qonnected.net
 speedtest.nikhilnetworksolution.in
+speedtest.nl-ams.as210558.net
 speedtest.nl.novoserve.com
 speedtest.nl1.mirhosting.net
 speedtest.nl3.mirhosting.net
@@ -1996,6 +2000,7 @@ speedtest.nrbn.ca
 speedtest.nrflvaaa.metronetinc.com
 speedtest.nsxt.eu
 speedtest.nt.net
+speedtest.nuclearhost.it
 speedtest.numarohost.com
 speedtest.nxt-telecom.com
 speedtest.ny.sptrnd.id
