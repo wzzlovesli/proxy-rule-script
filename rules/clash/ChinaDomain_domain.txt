@@ -11089,6 +11089,7 @@
 +.aichaoxing.com
 +.aichat.net
 +.aichat1234.com
++.aichaxun.com
 +.aichehome.com
 +.aichi-zhe.com
 +.aichinaw.com
@@ -15247,6 +15248,7 @@
 +.bdbae.com
 +.bdc-rays.com
 +.bdcb.cc
++.bdcgslb.com
 +.bdcgz.com
 +.bdchangtujs.com
 +.bdchina.com
@@ -21028,6 +21030,7 @@
 +.chartboost-china.com
 +.chase-secure55.wiki
 +.chasedorisu.com
++.chasedream.com
 +.chaseyanyu.net
 +.chashebao.com
 +.chashudi.com
@@ -26569,6 +26572,7 @@
 +.csgjhzzx.com
 +.csgjjt.com
 +.csgkjt.com
++.csgky.net
 +.csgocn.net
 +.csgongshui.com
 +.csgpc.org
@@ -51425,6 +51429,7 @@
 +.ikunac.com
 +.ikuncdnfb.com
 +.ikunpay.com
++.ikutu.com
 +.ikx.me
 +.ikzybf.com
 +.il8r.com
@@ -51473,6 +51478,7 @@
 +.ilmgq.com
 +.ilohas.com
 +.iloli.bid
++.iloli.love
 +.iloli.xin
 +.ilongre.com
 +.ilovechao.com
@@ -51724,6 +51730,7 @@
 +.imsun.net
 +.imsyy.com
 +.imtaweb.net
++.imtedge.com
 +.imtics.com
 +.imtmp.net
 +.imtrwqjier3.com
@@ -54467,6 +54474,7 @@
 +.jiemo.net
 +.jiemodui.com
 +.jiemoselect.com
++.jiemu5.com
 +.jienyl.com
 +.jiepai.net
 +.jiepaids.com
@@ -58687,6 +58695,7 @@
 +.kfcbest.com
 +.kfcdn.com
 +.kfcjrl.com
++.kfcrm.com
 +.kfd3sm2c.com
 +.kfdcc.com
 +.kffone.com
@@ -59852,6 +59861,7 @@
 +.kunduo.com
 +.kungfucloud.com
 +.kungfuenglish.com
++.kungfumars.com
 +.kunguankeji.com
 +.kunguanyx.net
 +.kunjuke.com
@@ -64543,6 +64553,7 @@
 +.m2mlib.com
 +.m2mzy.com
 +.m2time.net
++.m2ucam.com
 +.m3-cloud.com
 +.m3cqjc3og6.com
 +.m3guo.com
@@ -65512,6 +65523,7 @@
 +.mdnice.com
 +.mdouvip.com
 +.mdouwz.com
++.mdown.asia
 +.mdpda.com
 +.mdpetrotech.com
 +.mdrmyy.com
@@ -69840,6 +69852,7 @@
 +.niuk12020gi.com
 +.niukk.com
 +.niuming147.com
++.niumowang.com
 +.niunai.com
 +.niuniufund.com
 +.niupiano.com
@@ -72171,6 +72184,7 @@
 +.orayimg.com
 +.orbiepharm.com
 +.orbitmes.com
++.orbrand.com
 +.orcadt.com
 +.orchome.com
 +.orcode.com
@@ -75254,6 +75268,7 @@
 +.qgxl.org
 +.qgyqshz.com
 +.qgysj.org
++.qgyyl.com
 +.qgyyzs.net
 +.qgzb.net
 +.qgzxx.com
@@ -90706,6 +90721,7 @@
 +.toast.pub
 +.toaw.net
 +.tobaccochina.com
++.tobaccodb.org
 +.tobaccosz.com
 +.tobebetterjavaer.com
 +.toberp.com
@@ -91721,6 +91737,7 @@
 +.ttnea.com
 +.ttnongli.com
 +.ttnqh.com
++.ttoffice.net
 +.ttongda.com
 +.ttpaicdn.com
 +.ttpaihang.com
@@ -95952,6 +95969,7 @@
 +.weishigz.com
 +.weishipin.com
 +.weishishuyuan.com
++.weishucdn.cloud
 +.weisiliang.com
 +.weismarts.com
 +.weistang.com
@@ -100639,6 +100657,7 @@
 +.xindong.com
 +.xindongdinglv.com
 +.xindonghuyu123.com
++.xindonshan.com
 +.xindu.cc
 +.xinduo.com
 +.xinduoad.com
@@ -100989,6 +101008,7 @@
 +.xinruiweb.com
 +.xinsanbanbao.com
 +.xinsankeji.com
++.xinsannong.com
 +.xinsdn.com
 +.xinsenz.com
 +.xinsf.cc
@@ -102808,6 +102828,7 @@
 +.xxkucun.com
 +.xxkxjx.net
 +.xxkxw.net
++.xxlab.tech
 +.xxlcn.com
 +.xxlifexx.com
 +.xxliudsp.com
