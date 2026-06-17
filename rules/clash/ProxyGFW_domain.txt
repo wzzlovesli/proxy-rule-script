@@ -5529,6 +5529,7 @@
 +.celebgramme.com
 +.celebmasta.live
 +.celebritygay.com
++.celebritymoviearchive.com
 +.celebritynakeds.com
 +.celebrityslips.com
 +.celebritystorysite.com
@@ -10048,6 +10049,7 @@
 +.fpmt.org
 +.fpmt.tw
 +.fpmtmexico.org
++.fpo.xxx
 +.fptolia.com
 +.fqcebook.com
 +.fqok.org
@@ -10209,6 +10211,8 @@
 +.freeweibo.com
 +.freewww.biz
 +.freewww.info
++.freexh.blog
++.freexh.live
 +.freexinwen.com
 +.freexvideos.org
 +.freexxx.best
@@ -20067,6 +20071,7 @@
 +.pikpakdrive.com
 +.pillbeatsblackfridaysale.com
 +.pimg.tw
++.pimpbunny.com
 +.pin-cong.com
 +.pin.it
 +.pin6.com
@@ -20770,6 +20775,7 @@
 +.powershellgallery.com
 +.powersrv.de
 +.powersunitedvr.com
++.powfans.com
 +.pp-soc.com
 +.pp.ua
 +.pp6.info
@@ -22389,6 +22395,7 @@
 +.seqingx.com
 +.sequence.com
 +.ser7.cc
++.serakon.com
 +.seraph.me
 +.serbiporno.net
 +.serialssolutions.com
@@ -26974,6 +26981,7 @@
 +.vscode-unpkg.net
 +.vscode.dev
 +.vsemrabota.ru
++.vsex.in
 +.vsezoo.com
 +.vsphere.com
 +.vsphere.net
@@ -27925,6 +27933,7 @@
 +.xhamster2.com
 +.xhamster3.com
 +.xhamsterlive.com
++.xhapp.live
 +.xhcdn.com
 +.xhlive.org
 +.xhnews.live
@@ -29452,6 +29461,7 @@ ccmdl.adobe.com
 cdn-spotify-experiments.conductrics.com
 cdn.js7k.com
 cdngarenanow-a.akamaihd.net
+chatscc-hamivideo2.cdn.hinet.net
 chinapower.csis.org
 cisco.evergage.com
 ciscolivehls-i.akamaihd.net
@@ -29538,6 +29548,7 @@ ecapi-pchome.cdn.hinet.net
 edu.tinkoff.ru
 education.tbank.ru
 ees.elsevier.com
+efe8f8a4-abd5-44c9-bf5c-cd217442c52f.t.ssp.hinet.net
 elib.maruzen.co.jp
 epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
 ereg.adobe.com
@@ -29594,6 +29605,7 @@ himalaya-exchange.zendesk.com
 hl2rcv.adobe.com
 hlrcv.stage.adobe.com
 hls-amt.itunes.apple.com
+hls-hamivideo.cdn.hinet.net
 hls.itunes.apple.com
 holoxx.f5.si
 homebrew.bintray.com
@@ -29765,6 +29777,7 @@ rsshub2.asailor.org
 rtm.tnt-ea.com
 sa78gs.wpc.edgecastcdn.net
 sberpro.vedomosti.ru
+scc-hamivideo.cdn.hinet.net
 scc.ott.hinet.net
 scholar.google.ae
 scholar.google.at
@@ -29875,6 +29888,7 @@ steamuserimages-a.akamaihd.net
 steamvideo-a.akamaihd.net
 store.ui.com.cn
 straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
+t.ssp.hinet.net
 t21.nikkei.co.jp
 t21ipau.nikkei.co.jp
 teamviewer.com.cdn.cloudflare.net
@@ -29978,6 +29992,7 @@ vsmarketplacebadge.apphb.com
 wb-agora-hydra-file-storage-k1.s3.amazonaws.com
 webchannel-alkalimakersuite-pa.clients6.google.com
 weblive-hamivideo.cdn.hinet.net
+weblivea-hamivideo.cdn.hinet.net
 webvodad-hamivideo.cdn.hinet.net
 wego.here.com
 widgets.stripst.com
