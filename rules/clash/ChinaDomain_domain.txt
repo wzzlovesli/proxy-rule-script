@@ -14003,6 +14003,7 @@
 +.azuiblc.com
 +.azure-wave.com
 +.azure.cc
++.azureflame.cloud
 +.azureflying.com
 +.azuremigrate.download.prss.microsoft.com
 +.azuremigratetest.download.prss.microsoft.com
@@ -16621,6 +16622,7 @@
 +.bjartmuseum.com
 +.bjatv.com
 +.bjbaidianfeng.com
++.bjbaifan.com
 +.bjbalb.com
 +.bjbaodao.net
 +.bjbb.com
@@ -19075,6 +19077,7 @@
 +.cangfengzhe.com
 +.canghaiip.com
 +.canghaimachine.com
++.cangjggame.com
 +.canglanghospital.com
 +.cangmang.xyz
 +.cangoonline.com
@@ -20707,6 +20710,7 @@
 +.chachengji.com
 +.chacihai.com
 +.chacuo.net
++.chadaodao.com
 +.chadianhua.net
 +.chadoc.com
 +.chaej.com
@@ -34752,6 +34756,7 @@
 +.feiersmart.com
 +.feifandesign.com
 +.feifanindustry.com
++.feifanmi.com
 +.feifantxt.com
 +.feifantxt.net
 +.feifdx.com
@@ -75789,6 +75794,7 @@
 +.qingnianlvxing.com
 +.qingniantuzhai.com
 +.qingnianwang.com
++.qingning88.com
 +.qingpanduola.com
 +.qingpin.vip
 +.qingping.co
@@ -92907,6 +92913,7 @@
 +.uniow.com
 +.unipack-tech.com
 +.uniproud.com
++.unisapps.com
 +.uniscope.com
 +.unisdigital.com
 +.unisedu.com
@@ -93146,7 +93153,6 @@
 +.urumqimtr.com
 +.us-ex.com
 +.us-qianzheng.com
-+.us.ci
 +.us0.me
 +.usa-gam.com
 +.usa-idc.com

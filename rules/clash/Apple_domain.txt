@@ -1404,6 +1404,7 @@
 +.mbeats-tech.com
 +.mbheadphone.com
 +.me.com
++.mensura.cdn-apple.com
 +.mesu-cdn.apple.com.akadns.net
 +.mesu-china.apple.com.akadns.net
 +.mesu.apple.com

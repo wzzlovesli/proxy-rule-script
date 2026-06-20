@@ -664,6 +664,7 @@
 +.9nation.com.au
 +.9news.com.au
 +.9now.com.au
++.9oju31.launches.appsflyersdk.com
 +.9tak-nav.buzz
 +.9to5google.com
 +.9to5mac.com
@@ -1986,11 +1987,15 @@
 +.apexlegends.com
 +.apexprint.com.hk
 +.api-extractor.com
++.api-gl.lbkrs.com
 +.api-secure.recaptcha.net
 +.api-verify.recaptcha.net
 +.api.ai
 +.api.amplitude.com
++.api.futunn.com
++.api.lbkrs.com
 +.api.mixpanel.com
++.api.moomoobull.com
 +.api.news
 +.api.palworldgame.com
 +.api.proxlet.com
@@ -1998,6 +2003,7 @@
 +.api.recaptcha.net
 +.api.steampowered.com
 +.api.termius.com
++.api5.futunn.com
 +.apiary.io
 +.apibay.org
 +.apigee.com
@@ -3828,6 +3834,7 @@
 +.bili2.cc
 +.bili888.com
 +.bili999.com
++.bilinovel.com
 +.biliplus.com
 +.biliworld.com
 +.bill-safe.com
@@ -5491,6 +5498,7 @@
 +.cdn-vk.ru
 +.cdn.angruo.com
 +.cdn.arstechnica.net
++.cdn.futustatic.com
 +.cdn.jwplayer.com
 +.cdn.printfriendly.com
 +.cdn.registerdisney.go.com
@@ -5596,6 +5604,7 @@
 +.cfsh99.com
 +.cftfc.com
 +.cfwives.com
++.cg.play-analytics.com
 +.cgdepot.org
 +.cgst.edu
 +.ch
@@ -7727,6 +7736,7 @@
 +.downdetectorapi.com
 +.download.com
 +.download.dappcdn.com
++.download.futunn.com
 +.downloadpass.com
 +.downloadsforipod.com
 +.dphk.org
@@ -10387,9 +10397,21 @@
 +.futhead.com
 +.futpromos.com
 +.futu.cn
++.futu.com
 +.futu.link
++.futu0.com
++.futu1.com
++.futu2.com
++.futu3.com
++.futu4.com
 +.futu5.com
++.futu6.com
++.futu7.com
++.futu8.com
++.futu9.com
 +.futuau.com
++.futubull.cn
++.futuchain.com
 +.futuesop.com
 +.futufin.com
 +.futuhk.com
@@ -10398,6 +10420,7 @@
 +.futuhkapp.com
 +.futuhn.com
 +.futuholdings.com
++.futuinc.com
 +.futunited.com
 +.futuniuniu.com
 +.futunn.com
@@ -10412,6 +10435,7 @@
 +.futusg.com
 +.futustatic.com
 +.fututrade.com
++.fututrustee.com
 +.fux.com
 +.fuxporn.com
 +.fuyin.net
@@ -15751,6 +15775,7 @@
 +.longmabookcn.com
 +.longman.ch
 +.longmusic.com
++.longportapp.cn
 +.longportapp.com
 +.longtailvideo.com
 +.longtermly.net
@@ -19298,6 +19323,13 @@
 +.openai.com
 +.openallweb.com
 +.openamt.com
++.openapi-quote.longbridge.cn
++.openapi-quote.longbridge.com
++.openapi-trade.longbridge.cn
++.openapi-trade.longbridge.com
++.openapi.futunn.com
++.openapi.longbridge.cn
++.openapi.longbridge.com
 +.openapiplatform.com
 +.openapiservice.com
 +.openart.ai
@@ -21161,6 +21193,8 @@
 +.qstatus.com
 +.qt-project.org
 +.qt.io
++.qtcard.futunn.com
++.qtcardfthk.futufin.com
 +.qtrac.eu
 +.qtweeter.com
 +.quad9.net
@@ -21232,6 +21266,7 @@
 +.quora.com
 +.quoracdn.net
 +.quotable.com
++.quote.longbridge.global
 +.quotemedia.com
 +.quovadisglobal.com
 +.quran.com
@@ -22232,6 +22267,7 @@
 +.scholarpedia.org
 +.schwab.co.uk
 +.schwab.com
++.schwab.com.cn
 +.schwab.com.hk
 +.schwab.com.sg
 +.schwabassetmanagement.com
@@ -22640,6 +22676,7 @@
 +.sg1lib.org
 +.sgcheck.ru
 +.sgp1.fun
++.sgqt0j.launches.appsflyersdk.com
 +.sgr.com.br
 +.sgspe.de
 +.sgspt.buzz
@@ -22829,6 +22866,7 @@
 +.shopspeedtv.com
 +.shoptraivip.com
 +.short.io
++.shortconn.im.qcloud.com
 +.shorturl.at
 +.shotgridsoftware.com
 +.shotgridstudio.com
@@ -23991,6 +24029,7 @@
 +.suppig.net
 +.supplybestjerseys.com
 +.support-uber.com
++.support.futunn.com
 +.supportfacebook.com
 +.supr.cl
 +.supremacy.com
@@ -24890,6 +24929,10 @@
 +.tig-ol-bitties.live
 +.tigerbbs.cn
 +.tigerbbs.com
++.tigerbrokers.com
++.tigerbrokers.net
++.tigerbrokers.nz
++.tigerfintech.com
 +.tigervpn.com
 +.tik-tokapi.com
 +.tiktok-minis.com
@@ -25164,6 +25207,9 @@
 +.tracker.gg
 +.tracker.network
 +.tracking-location.com
++.trade.futunn.com
++.trade.longportapp.com
++.tradeup.com
 +.tradevip1.com
 +.tradingview.com
 +.trae.ai
@@ -29238,6 +29284,8 @@
 +.zhenlibu.info
 +.zhenlibu1984.com
 +.zhenxiang.biz
++.zhijianfengyi.cn
++.zhijianfengyi.com
 +.zhimeishe888.com
 +.zhinengluyou.com
 +.zhizhu.top
