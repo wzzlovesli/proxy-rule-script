@@ -168,6 +168,7 @@ chispeedtest.rtatel.com
 chspeed.shawnee.com
 chvl-speedtest-02.brightspeed.com
 clg-105-sptest.ncri.com
+cltn-speedtest-02.brightspeed.com
 cmrn-speedtest-02.brightspeed.com
 cnk1speedtest.turktelekom.com.tr
 columbia.speedtest.brightspeed.com
@@ -239,6 +240,7 @@ fast.kabi.tk
 fastme.ir
 fetnt1.seed.net.tw
 fetsz1.seed.net.tw
+fetyl1.seed.net.tw
 fetzl1.seed.net.tw
 ffm.wsqm.telekom-dienste.de
 fibertest.soipl.co.in
@@ -506,6 +508,7 @@ ny2-speedtest.tier.net
 ny3-speedtest.tier.net
 nyc01.screenshot.download
 nyc1-speedtest.webnx.com
+nycmetro-speedtest.reliablesite.net
 nycny-speedtest-ookla-01.st.charter.com
 o-uk-1.flwc.cc
 oak-speedtest.otelco.com
@@ -1226,6 +1229,7 @@ speedtest-net-fra.dispaisy.systems
 speedtest-net.mk.de
 speedtest-net.xjtlu.edu.cn
 speedtest-newcastle.optusnet.com.au
+speedtest-newjersey.ripplefiber.com
 speedtest-ng.atman.pl
 speedtest-nix-2.redi.es
 speedtest-nl.bellaliant.net
@@ -1240,6 +1244,7 @@ speedtest-nl.webdade.com
 speedtest-ns.bellaliant.net
 speedtest-ntt-fra.as20011.net
 speedtest-ntt-ldn.as20011.net
+speedtest-nwrk-nj.wtsky.net
 speedtest-nxtb2.fsg-hosting.com
 speedtest-nxts1.fsg-hosting.com
 speedtest-nyc.dish-wireless.com
@@ -1692,6 +1697,7 @@ speedtest.gigazone.in
 speedtest.gilarivertel.com
 speedtest.glasnet.nl
 speedtest.global-layer.com
+speedtest.globalfiberbrasil.com.br
 speedtest.gmtel.net
 speedtest.gobec.net
 speedtest.goetel.net
@@ -2297,6 +2303,7 @@ speedtest.us-at.kamatera.com
 speedtest.us-ch.kamatera.com
 speedtest.us-la.kamatera.com
 speedtest.us-mi2.kamatera.com
+speedtest.us-ny2.kamatera.com
 speedtest.us-se.kamatera.com
 speedtest.us-tx.kamatera.com
 speedtest.us.grupogtd.com
@@ -2440,6 +2447,7 @@ speedtest02.coppernet.net
 speedtest02.htp-tel.de
 speedtest02.ikbnet.at
 speedtest02.radinet.in
+speedtest02.srv.prnynj.alticeusa.net
 speedtest020.telecomitalia.it
 speedtest021.telecomitalia.it
 speedtest02a.web.zen.net.uk
@@ -2974,6 +2982,7 @@ stosat-indp-01.sys.comcast.net
 stosat-jkvl-01.sys.comcast.net
 stosat-ndhm-01.sys.comcast.net
 stosat-pima-01.sys.comcast.net
+stosat-plfi-08p.sys.comcast.net
 stosat-rvlt-01.sys.comcast.net
 stosat-smil-01.sys.comcast.net
 stosat-tall-01.sys.comcast.net

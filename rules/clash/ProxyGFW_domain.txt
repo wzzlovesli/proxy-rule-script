@@ -1544,6 +1544,7 @@
 +.allspyclips.com
 +.allswingersclubs.org
 +.allthefallen.moe
++.almalinux.org
 +.almasdarnews.com
 +.almostmy.com
 +.alohatube.com
@@ -5026,6 +5027,7 @@
 +.bustyoldsluts.com
 +.bustysammieblack.com
 +.busu.org
++.busybox.net
 +.busytrade.com
 +.buugaa.com
 +.buy-from-shanghai.com
@@ -8889,6 +8891,7 @@
 +.exoav.com
 +.exotic-ghana.com
 +.exoticuganda.com
++.exp-tas.com
 +.expatshield.com
 +.expecthim.com
 +.expekt.com
@@ -10934,6 +10937,7 @@
 +.githack.com
 +.github.ai
 +.github.blog
++.github.career
 +.github.com
 +.github.community
 +.github.dev
@@ -15524,6 +15528,7 @@
 +.licenseparser.com
 +.lidecheng.com
 +.life-global.org
++.lifeatspotify.com
 +.lifemiles.com
 +.lifeselector.com
 +.lifestyle-tec.ru
@@ -16120,6 +16125,7 @@
 +.maniakey.homes
 +.maniash.com
 +.manicur4ik.ru
++.manjaro.org
 +.manorama.com
 +.manoramanews.com
 +.manoramaonline.com
@@ -21819,6 +21825,7 @@
 +.rocksextube.com
 +.rockstargames.com
 +.rockstarnorth.com
++.rockylinux.org
 +.rojo.com
 +.roku.com
 +.rokutime.com
@@ -23549,6 +23556,7 @@
 +.spotifycharts.com
 +.spotifycodes.com
 +.spotifyforbrands.com
++.spotifyforvendors.com
 +.spotifyjobs.com
 +.spraynwash.com
 +.spreadprivacy.com
@@ -27041,7 +27049,10 @@
 +.vsco.co
 +.vscode-cdn.net
 +.vscode-unpkg.net
++.vscode-webview.net
 +.vscode.dev
++.vscodeedu.app
++.vscodeedu.com
 +.vsemrabota.ru
 +.vsex.in
 +.vsezoo.com
