@@ -456,6 +456,7 @@ mtcspeedtest.catskill.net
 mu.st.spacecore.pro
 mum-speedtest.digianaspeednet.com
 mum-speedtest.sanghviinfo.com
+mum.speedtest.railtel.in
 mumbaispeedtest.onebroadband.in
 mumbaispeedtest.pioneeronline.com
 mumbaispeedtest.spectra.co
@@ -2769,6 +2770,7 @@ spt-mia.edgeuno.com
 spt-nyc.as13786.net
 spt-sjo1.edgeuno.com
 spt.valexcloud.com
+spt1.seed.net.tw
 spt2.valexcloud.com
 sptch2.taiwanmobile.com
 sptcy2.taiwanmobile.com
