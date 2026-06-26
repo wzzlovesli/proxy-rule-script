@@ -287,6 +287,7 @@ hiztesti2.ondiso.io
 hk-bgp-speedtest.nearoute.io
 hk.mymonitor.space
 hk01.bigball.top
+hkg.speedtest.lshiy.net
 hkgspeedtest.cmctelecom.vn
 hkspeedtest.netvigator.com
 hkt.hkspeedtest.com
@@ -803,6 +804,7 @@ sp1.realtel.in
 sp1.redenettelecom-ce.com.br
 sp1.scinternet.net
 sp1.sellnett.com.br
+sp1.semfronteiras.net.br
 sp1.simplybits.net
 sp1.snsinternet.com
 sp1.sntisp.com
@@ -1092,6 +1094,7 @@ speedtest-ams.baremetal.ae
 speedtest-ams.melbicom.net
 speedtest-ams.retn.net
 speedtest-ash.vts.bf
+speedtest-asiago.wifiweb.it
 speedtest-atl.conexonconnect.com
 speedtest-atl.dish-wireless.com
 speedtest-atl.melbicom.net
@@ -1407,6 +1410,7 @@ speedtest.amesiaaa.metronetinc.com
 speedtest.amgtelecomunicaciones.es
 speedtest.amnet.net.br
 speedtest.ams.atharva.co.id
+speedtest.ams.fdcservers.net
 speedtest.ams.sharktech.net
 speedtest.ams.t-mobile.nl
 speedtest.ams.wd6.net
@@ -1444,6 +1448,7 @@ speedtest.asmfibra.es
 speedtest.asvt.ru
 speedtest.asymptote.cc
 speedtest.atccomm.net
+speedtest.atl.fdcservers.net
 speedtest.atl.hivelocity.net
 speedtest.atl1.jmfnetworks.net
 speedtest.atl1.nitelusa.net
@@ -1514,6 +1519,7 @@ speedtest.chi.gigenet.com
 speedtest.chi.sharktech.net
 speedtest.chi1.nitelusa.net
 speedtest.chickasawphone.net
+speedtest.chie.fdcservers.net
 speedtest.chisholmbb.com
 speedtest.cirbn.net
 speedtest.circlebwirelessllc.com
@@ -1839,6 +1845,7 @@ speedtest.ktis.net
 speedtest.kuducom.com
 speedtest.kufnet.at
 speedtest.la2.gigabitnow.com
+speedtest.la3eq.fdcservers.net
 speedtest.lagrangeremcisp.net
 speedtest.lakelandnetworks.com
 speedtest.lamasatpro.com
@@ -1852,6 +1859,7 @@ speedtest.lax2.sonic.net
 speedtest.layra.web.tr
 speedtest.lazco.dev
 speedtest.lcom.net
+speedtest.ld7.fdcservers.net
 speedtest.leer.jonasdevries.de
 speedtest.lekloud.net
 speedtest.lhr1.uk.as61049.net
@@ -2062,6 +2070,7 @@ speedtest.pentanet.com.au
 speedtest.pfalzkom.de
 speedtest.ph.net.tr
 speedtest.philasd.org
+speedtest.phlconnect.com.br
 speedtest.phnxaz19.metronetinc.com
 speedtest.phoenix.xiber.net
 speedtest.phoenixnap.com
@@ -2266,6 +2275,7 @@ speedtest.tngnet.com
 speedtest.tnp.net.uk
 speedtest.toob.co.uk
 speedtest.topnettelecomservicos.com.br
+speedtest.tor.fdcservers.net
 speedtest.toros.edu.tr
 speedtest.toshamisp.com
 speedtest.townisp.com
@@ -2276,6 +2286,7 @@ speedtest.tricolinksc.com
 speedtest.trined.nl
 speedtest.troccolisistemi.com
 speedtest.trunet.co.in
+speedtest.tstt.net.tt
 speedtest.tularosa.net
 speedtest.tulix.com
 speedtest.turnkeyinternet.net
@@ -2325,6 +2336,7 @@ speedtest.verimek.com
 speedtest.vermontel.net
 speedtest.verycloud.fr
 speedtest.viberlink.net
+speedtest.vie.fdcservers.net
 speedtest.vienna.nodescrape.net
 speedtest.viperhost.net
 speedtest.visiontelecom.com.br
@@ -2344,6 +2356,7 @@ speedtest.vyme.fr
 speedtest.w-net.us
 speedtest.wa.edgeix.net.au
 speedtest.wakewireless.net
+speedtest.war.fdcservers.net
 speedtest.warsaw.valtrix.org
 speedtest.waterloofiber.com
 speedtest.waveruralconnect.com
@@ -2406,6 +2419,7 @@ speedtest.zivlinaa.metronetinc.com
 speedtest.zl.osso.network
 speedtest.zoominternet.net
 speedtest.zoomtelcom.com
+speedtest.zttcc.cloud
 speedtest001.bfinetworks.com
 speedtest001.dnainfotel.com
 speedtest001.ssstpl.in
@@ -2888,6 +2902,7 @@ st2a.les.net
 st3.rocketway.it
 st3.surajnetwork.com
 st3.wificanarias.com
+st34ata.netspeed.tr
 staffdigital.com.br
 stajax.netcrawler.ca
 stajax.rogers.com
@@ -3248,6 +3263,7 @@ warp.cronon.net
 warrensburg.speedtest.brightspeed.com
 warsaw.netia.pl
 wd-speedtest.homeplus.net.tw
+web01.onthepixel.net
 wellington-speedtest.connectwithusa.com
 west-speedtest.frontiernetworks.ca
 weston-wv.speedtest.shentel.net
