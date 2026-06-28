@@ -29,6 +29,8 @@
 +.steamcdn-a.akamaihd.net
 +.steamcommunity-a.akamaihd.net
 +.steamcommunity.com
++.steamconnecttest.com
++.steamcontent.com
 +.steamcontent.tnkjmec.com
 +.steamdeck.com
 +.steamgames.com
@@ -38,12 +40,14 @@
 +.steampipe.akamaized.net
 +.steampowered.com
 +.steampowered.com.8686c.com
++.steamserver.net
 +.steamstat.us
 +.steamstatic.com
 +.steamstatic.com.8686c.com
 +.steamstore-a.akamaihd.net
 +.steamunlocked.net
 +.steamusercontent-a.akamaihd.net
++.steamusercontent.com
 +.steamuserimages-a.akamaihd.net
 +.steamvideo-a.akamaihd.net
 +.underlords.com
