@@ -6123,6 +6123,7 @@
 +.cloudlock.com
 +.cloudmagic.com
 +.cloudn.me
++.cloudns.net
 +.cloudproxy.app
 +.cloudrobotics.com
 +.cloudru.cn
@@ -7152,6 +7153,7 @@
 +.dert.site
 +.dert.tech
 +.desc.se
++.desec.io
 +.desertbmw.com
 +.design-ledrev.com
 +.design-ledrevolution.com

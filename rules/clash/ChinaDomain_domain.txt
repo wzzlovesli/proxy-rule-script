@@ -10181,6 +10181,7 @@
 +.aby.pub
 +.abykt.com
 +.abyssdawn.com
++.ac.cn
 +.ac.fun
 +.ac268.com
 +.ac3ba49731016.beer
@@ -59281,7 +59282,6 @@
 +.kschuangku.com
 +.kscloudapi.com
 +.ksco.cc
-+.kscord.com
 +.ksdedu.com
 +.ksdhgy.com
 +.ksecit.com

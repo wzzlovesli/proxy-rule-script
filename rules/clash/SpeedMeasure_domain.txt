@@ -275,6 +275,7 @@ gay1speedtest.turktelekom.com.tr
 gd-speedtest.homeplus.net.tw
 gh-speedtest.homeplus.net.tw
 gigenet.tstt.net.tt
+gisho.work
 glconnect.brsserver.com.br
 grnr-speedtest-02.brightspeed.com
 gun1speedtest.turktelekom.com.tr
@@ -1006,6 +1007,7 @@ speed2.dg-sys.net
 speed2.fiberlink.pl
 speed2.netlixor.de
 speed2.suitit.nl
+speed3.aitspl.in
 speed4.snap.net.nz
 speedam.wsp.net.br
 speedapi.race.com
@@ -1219,6 +1221,7 @@ speedtest-nl.the.hosting
 speedtest-nl.unihost.com
 speedtest-nl.vdsina.ru
 speedtest-nl.webdade.com
+speedtest-nl1.expresshost.cloud
 speedtest-ns.bellaliant.net
 speedtest-ntt-fra.as20011.net
 speedtest-ntt-ldn.as20011.net
