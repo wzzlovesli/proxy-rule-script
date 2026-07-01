@@ -584,6 +584,7 @@ archive.linux.duke.edu
 archive.raspberrypi.com
 archlinux.nic.cz
 artifacts.electronjs.org
+artifacts.nixos.org
 assets-production.packagecloud.io
 assets.dataflare.app
 assets1.xboxlive.com
@@ -1837,6 +1838,8 @@ steam.apac.qtlglb.com
 steam.eca.qtlglb.com
 steam.naeu.qtlglb.com
 steam.ru.qtlglb.com
+steamdeck-images.steamos.cloud
+steamdeck-packages.steamos.cloud
 steampipe-kr.akamaized.net
 steampipe-partner.akamaized.net
 steampipe.akamaized.net
