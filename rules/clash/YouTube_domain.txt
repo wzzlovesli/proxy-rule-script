@@ -178,3 +178,5 @@
 +.yt.be
 +.ytimg.com
 music.youtube.com
+youtubei.googleapis.com
+yt3.ggpht.com
