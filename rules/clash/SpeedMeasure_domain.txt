@@ -179,6 +179,7 @@ cbpuspeed.aspensmart.net
 cesu-hz.zjtelecom.com.cn
 cesu-nb.zjtelecom.com.cn
 ch1.chtm.hinet.net
+chd.softechinfosol.com
 chdspd.myinternet.services
 chi-speedtest.net.sangoma.net
 chi-speedtest.shifthosting.com
@@ -255,6 +256,7 @@ falcon.its.utoronto.ca
 fast.blackbearfiber.com
 fast.kabi.tk
 fastme.ir
+fetkt1.seed.net.tw
 fetnt1.seed.net.tw
 fetsz1.seed.net.tw
 fetyl1.seed.net.tw
@@ -1945,6 +1947,7 @@ speedtest.myaccess.ca
 speedtest.myakka.com
 speedtest.myarena.ru
 speedtest.mycvecfiber.com
+speedtest.myion.in
 speedtest.myrepublic.com.sg
 speedtest.mysispl.com
 speedtest.mysmbs.com
