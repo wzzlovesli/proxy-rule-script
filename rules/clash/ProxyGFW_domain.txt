@@ -1425,7 +1425,6 @@
 +.alexanderstreet.com
 +.alexlur.org
 +.alfa.me
-+.alfabank.oavdo.amc
 +.alfabank.ru
 +.alfabank.st
 +.alfadirect.ru
@@ -5652,6 +5651,7 @@
 +.chatango.com
 +.chatgpt.com
 +.chatgpt.livekit.cloud
++.chatgpt.site
 +.chatgptvideo.xyz
 +.chatgptvideob.buzz
 +.chatnook.com
@@ -11202,7 +11202,6 @@
 +.gonike.com
 +.gonzo-movies.com
 +.gonzo.com
-+.goo
 +.goo.gl
 +.goo.gle
 +.goo.ne.jp
@@ -13756,7 +13755,6 @@
 +.intagrm.com
 +.intc.com
 +.integral7.com
-+.intel
 +.intel-research.net
 +.intel-university-collaboration.net
 +.intel.ac
@@ -15226,7 +15224,6 @@
 +.konachan.com
 +.konachan.net
 +.konachan.wjcodes.com
-+.konami
 +.konami-igaming.online
 +.konami.co.jp
 +.konami.com
@@ -29857,11 +29854,7 @@ play-edge.itunes.apple.com
 poshtestgallery.cloudapp.net
 ppl-ai-file-upload.s3.amazonaws.com
 pplx-res.cloudinary.com
-practivate.adobe
 practivate.adobe.com
-practivate.adobe.ipp
-practivate.adobe.newoa
-practivate.adobe.ntp
 prd-priconne-redive.akamaized.net
 preprod-publicca.googleapis.com
 prodforza.blob.core.windows.net
