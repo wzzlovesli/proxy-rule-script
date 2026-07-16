@@ -619,7 +619,6 @@ cdn-builds.paw.cloud
 cdn-fi-1.comaps.app
 cdn-images.orbstack.dev
 cdn-nl1.organicmaps.app
-cdn-ota.azureedge.net
 cdn-patch.swtor.com
 cdn-uk1.organicmaps.app
 cdn-updates.orbstack.dev
@@ -650,7 +649,6 @@ centos-stream.ip-connect.info
 centos-stream.koyanet.lv
 centos.anexia.at
 centos.is
-centos.nic.cz
 cesium.di.uminho.pt
 charts.verdaccio.org
 chnroutes2.cdn.skk.moe
@@ -853,7 +851,6 @@ download.dlsite.com
 download.docker.com
 download.eassos.com
 download.edovia.com
-download.fosshub.com
 download.fydeos.io
 download.garmin.com
 download.geofabrik.de
@@ -1035,7 +1032,6 @@ ftp.linux.ro
 ftp.lip6.fr
 ftp.litnet.lt
 ftp.lt.debian.org
-ftp.ludd.ltu.se
 ftp.lug.ro
 ftp.lysator.liu.se
 ftp.man.poznan.pl
@@ -1187,7 +1183,6 @@ linux.purple-cat.net
 linux.yz.yamagata-u.ac.jp
 linux2.yz.yamagata-u.ac.jp
 linuxsoft.cern.ch
-lug.mines.edu
 lzip.nongnu.org
 mac-release-static.stash.ws
 mapgen-fi-1.comaps.app
@@ -1239,7 +1234,6 @@ mirror.aut.ac.nz
 mirror.azvps.vn
 mirror.bacloud.com
 mirror.bahnhof.net
-mirror.battern.eu
 mirror.bg.host.ag
 mirror.bgp.rodeo
 mirror.bharatdatacenter.com
@@ -1378,7 +1372,6 @@ mirror.isoc.org.il
 mirror.it.ubc.ca
 mirror.it4i.cz
 mirror.its-tps.fr
-mirror.its.dal.ca
 mirror.its.umich.edu
 mirror.iway.ch
 mirror.ixirhost.com
@@ -1391,7 +1384,6 @@ mirror.kapteyan.com.tr
 mirror.karneval.cz
 mirror.katapult.io
 mirror.keiminem.com
-mirror.kernel.ir
 mirror.keystealth.org
 mirror.kkg.berlin
 mirror.kku.ac.th
@@ -1593,7 +1585,7 @@ mirror.yer.az
 mirror.yuki.net.uk
 mirror.za.abantu.cloud
 mirror.za.web4africa.net
-mirror1.hs-esslingen.de
+mirror1.hcgen.de
 mirror1.infomaniak.com
 mirror1.ku.ac.th
 mirror1.sox.rs

@@ -3048,6 +3048,7 @@
 +.azuredns-prd.org
 +.azureedge-test.net
 +.azureedge.net
++.azureedge.us
 +.azurefd.net
 +.azureiotcentral.com
 +.azureiotsolutions.com
@@ -6409,6 +6410,7 @@
 +.coova.com
 +.coova.net
 +.coova.org
++.copilot-stg.com
 +.copilot.com
 +.copilot.microsoft.com
 +.copro.pw
@@ -16678,6 +16680,7 @@
 +.mh4u.org
 +.mhcb.ru
 +.mhcbr.ru
++.mhgui.com
 +.mhhanman.xyz
 +.mhqwe.xyz
 +.mhradio.org
@@ -23811,6 +23814,7 @@
 +.starfox.com
 +.stargazer-games.com
 +.stark-verlag.ch
++.starlink.com
 +.starott.com
 +.starp2p.com
 +.starplus.com
@@ -30066,7 +30070,6 @@ t.ssp.hinet.net
 t21.nikkei.co.jp
 t21ipau.nikkei.co.jp
 teamviewer.com.cdn.cloudflare.net
-tesla-cdn.thron.com
 testflight.apple.com
 thumbnail-hamivideo.cdn.hinet.net
 time-a-b.nist.gov
