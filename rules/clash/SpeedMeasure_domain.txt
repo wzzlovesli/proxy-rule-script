@@ -463,6 +463,7 @@ mumst.bfiber.in
 myspeed.giantcomm.com
 myspeedtest.atcbroadband.com
 navegaooklafortaleza.navegamais.com.br
+navi-mumbai-speedtest.wsnl-isp.net
 ncc-speed.kbro.com.tw
 neolinktt-speed.net
 net-ookla-dc.p.foundation
@@ -802,6 +803,7 @@ sp1.vlink.net.br
 sp1.voyageurinternet.ca
 sp1.wiprabroadband.in
 sp1.worldfibernet.com
+sp2.clouddesktop.in
 sp2.fibreair.in
 sp2.janusnetworks.com
 sp2.navigabene.it
@@ -1739,6 +1741,7 @@ speedtest.host-unlimited.de
 speedtest.host.com.tw
 speedtest.hostabil.net
 speedtest.hostdzire.com
+speedtest.hostgrap.com
 speedtest.hostimux.com
 speedtest.hynetwifi.it
 speedtest.hyperwave.uk
@@ -1887,6 +1890,7 @@ speedtest.macrosignal.net
 speedtest.mad2.edgoo.net
 speedtest.maisnetfibra.net.br
 speedtest.markahost.com.tr
+speedtest.marshallfibernet.com
 speedtest.maryno.net
 speedtest.massivemesh.com
 speedtest.masteritsupport.com
@@ -2097,6 +2101,7 @@ speedtest.provedornet.net.br
 speedtest.provisiondata.net
 speedtest.ptsi.net
 speedtest.pulse.web.tr
+speedtest.puraknet.com.br
 speedtest.qld.checknetworks.au
 speedtest.qld.edgeix.net.au
 speedtest.quadro.net
