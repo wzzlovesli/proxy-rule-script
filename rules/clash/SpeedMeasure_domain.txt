@@ -626,6 +626,7 @@ ookla.ukcell.net
 ookla.xponnet.com.br
 ookla01.citynet.net
 ookla1.1und1-mobilfunk.de
+ookla1.btd.co.id
 ookla1.ccspublichost.com
 ookla1.hub66.com
 ookla1.talkiefiber.com
@@ -1050,6 +1051,7 @@ speednet.brsserver.com.br
 speednld.phoenixnap.com
 speedperf.axione.fr
 speedpilas.liberatel.es
+speedsg.genznet.id
 speedshm1.jioconnect.com
 speedsin.phoenixnap.com
 speedt-mi.lakenetworks.it
@@ -2407,6 +2409,7 @@ speedtest.xprimehost.com
 speedtest.xsnews.nl
 speedtest.xstreamservices.com
 speedtest.xxlnet.nl
+speedtest.xxs-speedtest-zxxy.me
 speedtest.yalniz.net
 speedtest.yecla.interfibra.es
 speedtest.yless4u.com.au
