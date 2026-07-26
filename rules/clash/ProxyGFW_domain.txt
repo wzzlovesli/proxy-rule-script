@@ -5927,6 +5927,7 @@
 +.cinny.in
 +.cios.org
 +.cipfg.org
++.circle19.org
 +.circleci.com
 +.circlethebayfortibet.org
 +.cirosantilli.com
@@ -7652,6 +7653,7 @@
 +.docs.com
 +.docs.new
 +.docs.rs
++.docs.rw
 +.doctor-videos.com
 +.doctorvoice.org
 +.documentforce.com
@@ -14980,6 +14982,7 @@
 +.karabako-gmo.com
 +.karafarinbank.ir
 +.karayou.com
++.kards.com
 +.karechat.ai
 +.karger.com
 +.karinahart.com
@@ -15773,6 +15776,7 @@
 +.localpresshk.com
 +.localxlist.org
 +.lockestek.com
++.log.rw
 +.logbot.net
 +.logi.com
 +.logicool.co.jp
@@ -25423,6 +25427,7 @@
 +.truyenkk1.com
 +.truyentranh86.com
 +.truyenwk.com
++.try.rw
 +.tryalias.com
 +.tryboobs.com
 +.trycloudflare.com

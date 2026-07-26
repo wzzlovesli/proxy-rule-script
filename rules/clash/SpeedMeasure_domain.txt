@@ -1375,6 +1375,7 @@ speedtest.acrospirenetworks.com
 speedtest.actelecom.com.br
 speedtest.ade01.launtel.net.au
 speedtest.advps.org
+speedtest.aerloop.com
 speedtest.aeza.network
 speedtest.agilityparacuru.com.br
 speedtest.agsmtel.it
@@ -2504,6 +2505,7 @@ speedtest1.fleetinfo.info
 speedtest1.gigafy.com.au
 speedtest1.hostin.cc
 speedtest1.hyperflexbb.com
+speedtest1.iad1-us.gozfly.net
 speedtest1.indosatooredoo.com
 speedtest1.inetcom.ru
 speedtest1.innsys.ca
