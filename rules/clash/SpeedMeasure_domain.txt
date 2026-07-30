@@ -610,6 +610,7 @@ ookla.pgservicos.com.br
 ookla.playmaisreverso.net.br
 ookla.pvu.as6453.net
 ookla.pye.as6453.net
+ookla.radishnetworks.net
 ookla.rbn.gr
 ookla.sh.com.tr
 ookla.siditelecom-isp.com.br
@@ -910,6 +911,7 @@ speed.fgtelecom.com.br
 speed.fibraencasa.cr
 speed.flix.net.tr
 speed.flttelecom.com.br
+speed.fs-it.systems
 speed.fyberlink.com.br
 speed.g.ml-net.at
 speed.gatewayftth.com
@@ -1741,6 +1743,7 @@ speedtest.hlinknet.com
 speedtest.hnd.fdcservers.net
 speedtest.hochschule-trier.de
 speedtest.homecomminc.com
+speedtest.homestube.de
 speedtest.honest.net
 speedtest.host-unlimited.de
 speedtest.host.com.tw
@@ -2298,6 +2301,7 @@ speedtest.twds.com.tw
 speedtest.twerion.net
 speedtest.twinvalley.net
 speedtest.twl-kom.de
+speedtest.uania.cloud
 speedtest.ubc.ca
 speedtest.ufinetlatam.net
 speedtest.uia.net
