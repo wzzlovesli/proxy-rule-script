@@ -117,6 +117,7 @@
 40gspeedtest.mnsi.net
 77.testdebit.info
 7facile.brsserver.com.br
+7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe
 7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 7starinternet.com
 a-speedtest.brasildigital.net.br
@@ -579,6 +580,7 @@ ookla.haj-01.testpub.telefonica.de
 ookla.ham-02.testpub.telefonica.de
 ookla.hk2.as6453.net
 ookla.idnet.net
+ookla.intracex.de
 ookla.jgainterlinktelecom.com.br
 ookla.kernwifi.com.au
 ookla.kues-data.de
@@ -681,6 +683,7 @@ randomlake-speedtest1.as36001.net
 rcmt-speedtest-02.brightspeed.com
 redeultramf.net.br
 reflector.aberythmic.com
+reikonteste.reikoninternet.com.br
 riorancho1.cabospeed.com
 rsghost.rsgsn.com
 rspeed.mi-group.com.tr
@@ -2416,6 +2419,7 @@ speedtest.xsnews.nl
 speedtest.xstreamservices.com
 speedtest.xxlnet.nl
 speedtest.xxs-speedtest-zxxy.me
+speedtest.xytor.cloud
 speedtest.yalniz.net
 speedtest.yecla.interfibra.es
 speedtest.yless4u.com.au
