@@ -822,6 +822,7 @@
 +.actalis.com
 +.actalis.it
 +.actfortibet.org
++.actifio.com
 +.actimes.com.au
 +.activated.win
 +.activelearnprimary.co.uk
@@ -14633,7 +14634,10 @@
 +.jetbrains.ai
 +.jetbrains.cloud
 +.jetbrains.com
++.jetbrains.dev
 +.jetbrains.net
++.jetbrains.org
++.jetbrains.ru
 +.jetbrains.space
 +.jetbrains.team
 +.jetfuelapp.com
@@ -15278,6 +15282,8 @@
 +.korona.com
 +.koshelek.app
 +.kostenlosepornoclips.com
++.kotl.in
++.kotlinconf.com
 +.kotlinlang.org
 +.koubaibu.jp
 +.koukoku.jp
@@ -15309,6 +15315,7 @@
 +.kspcoin.com
 +.ksyp10.com
 +.ktech.team
++.ktor.io
 +.ktvu.com
 +.ktzhk.com
 +.ku77.xyz
@@ -17926,6 +17933,7 @@
 +.myiphider.com
 +.myipod.net
 +.myipstack.com
++.myjetbrains.com
 +.myjkwd.com
 +.myjs.tw
 +.mykomica.org
@@ -18883,6 +18891,7 @@
 +.ntdtvla.com
 +.ntdvideo.tw
 +.ntdvn.com
++.nthlink.com
 +.ntl.fyi
 +.ntnews.com.au
 +.ntp-os01.ocn.ad.jp
@@ -19475,6 +19484,7 @@
 +.openwebster.com
 +.openwrt.org
 +.openwrt.org.cn
++.openxla.org
 +.opera.com
 +.opinionjournal.com
 +.oppai-doga.info
@@ -24386,6 +24396,7 @@
 +.talkatone.com
 +.talkboxapp.com
 +.talkcc.com
++.talkingkotlin.com
 +.talkonly.net
 +.talksport.com
 +.tamiaode.tk
