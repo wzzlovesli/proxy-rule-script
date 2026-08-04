@@ -21426,7 +21426,6 @@
 +.radiofarda.com
 +.radioglobo.com.br
 +.radiohilight.net
-+.radiojar.com
 +.radioline.co
 +.radiomango.fm
 +.radiomarsho.com
@@ -25342,6 +25341,7 @@
 +.trae.ai
 +.traffichaus.com
 +.trafficmanager.net
++.trainingpeaks.com
 +.trakt.tv
 +.tranny.one
 +.trannygem.com
@@ -27944,7 +27944,6 @@
 +.www.antd.org
 +.www.aolnews.com
 +.www.bing.com
-+.www.clashverge.dev
 +.www.cmoinc.org
 +.www.destinationurl.com
 +.www.dmm.com

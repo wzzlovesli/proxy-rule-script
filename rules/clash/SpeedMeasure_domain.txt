@@ -1477,6 +1477,7 @@ speedtest.bloomingdalecom.net
 speedtest.bltnilaa.metronetinc.com
 speedtest.bluevalley.net
 speedtest.bmcc.com.cn
+speedtest.bne.ozvps.com.au
 speedtest.bnsdfw.com
 speedtest.boltfiber.com
 speedtest.bouwhuis.network
@@ -1928,6 +1929,7 @@ speedtest.micron21.com
 speedtest.microscan.co.in
 speedtest.mifflincountywireless.com
 speedtest.mikronet.it
+speedtest.milanfiber.co.tz
 speedtest.milaninternet.com
 speedtest.milink1.com
 speedtest.milkywan.fr
@@ -2128,6 +2130,7 @@ speedtest.redevisualnet.com.br
 speedtest.redewsp.com.br
 speedtest.redhosting.nl
 speedtest.resoundnetworks.com
+speedtest.reticule.in
 speedtest.revolutionbroadband.net
 speedtest.reycom.cr
 speedtest.rfchost.net
@@ -2164,6 +2167,7 @@ speedtest.server.battern.eu
 speedtest.serveroyun.com
 speedtest.serverpronto.com
 speedtest.serversistemleri.com
+speedtest.sesfiber.com.br
 speedtest.sewan.es
 speedtest.sewan.fr
 speedtest.sg.fdcservers.net
@@ -2330,6 +2334,7 @@ speedtest.us-se.kamatera.com
 speedtest.us-tx.kamatera.com
 speedtest.us.grupogtd.com
 speedtest.us.mirhosting.net
+speedtest.us.novoserve.com
 speedtest.us.openinfra.com
 speedtest.us310.lax.us.ctcsci.com
 speedtest.uv.es
@@ -2508,6 +2513,7 @@ speedtest1.digimobil.es
 speedtest1.dpdfsd.com
 speedtest1.dreamtel.in
 speedtest1.dsm1.ippathways.net
+speedtest1.ewr.nj.us.planet.net
 speedtest1.fibratown.com
 speedtest1.flashwifi.com.br
 speedtest1.fleetinfo.info
