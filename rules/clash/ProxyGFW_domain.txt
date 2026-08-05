@@ -6972,6 +6972,8 @@
 +.deepfreeze.tech
 +.deepl.com
 +.deepmind.com
++.deepwiki.com
++.deepwiki.org
 +.deezer.com
 +.definebabe.com
 +.definefetish.com
@@ -9843,6 +9845,7 @@
 +.fly.io
 +.flyflv.com
 +.flyingjizz.com
++.flyio.net
 +.flypool.org
 +.flyvpn.com
 +.flyyindh-cc.sbs
@@ -11035,6 +11038,7 @@
 +.gle
 +.gleline.com
 +.glitch.com
++.glitchwave.com
 +.global-sci.org
 +.global.bing.com
 +.global.ssl.fastly.net
@@ -19638,14 +19642,17 @@
 +.ozon-credit.ru
 +.ozon-dostavka.ru
 +.ozon-tech.ru
++.ozon.app
 +.ozon.by
 +.ozon.com
 +.ozon.com.by
 +.ozon.com.kz
 +.ozon.dev
 +.ozon.express
++.ozon.global
 +.ozon.kz
 +.ozon.li
++.ozon.market
 +.ozon.ru
 +.ozon.tech
 +.ozon.tm
@@ -22123,6 +22130,7 @@
 +.rutracker.org
 +.rutrk.org
 +.rutube.ru
++.rutube.sport
 +.rutubelist.ru
 +.ruvideos.net
 +.ruyiseek.com
@@ -22131,6 +22139,7 @@
 +.rwbautomation.tech
 +.rwbgeo.ru
 +.rxhj.net
++.rym.fm
 +.ryokoyomiuri.co.jp
 +.ryukyubank.co.jp
 +.rzr.to
@@ -23327,6 +23336,7 @@
 +.snk-corp.co.jp
 +.snk-corp.info
 +.snkplaymore.info
++.snmc.io
 +.snow.me
 +.snowcorp.com
 +.snowlionpub.com
@@ -23412,6 +23422,8 @@
 +.solveforx.com
 +.somee.com
 +.sonatype.org
++.sonematic.net
++.sonemic.com
 +.songjianjun.com
 +.sonicbbs.cc
 +.sonidodelaesperanza.org
@@ -29590,7 +29602,6 @@
 3dns-4.adobe.com
 3dns-5.adobe.com
 3dns.adobe.com
-7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe
 a.ppy.sh
 a4e8s8k3.map2.ssl.hwcdn.net
 abematv.akamaized.net
