@@ -1664,6 +1664,7 @@ speedtest.fiberx.com.mx
 speedtest.fibim.com.tr
 speedtest.fibra-amg.com
 speedtest.fibranex.com.br
+speedtest.fibrat.es
 speedtest.fibraverde.es
 speedtest.fibrespeed.es
 speedtest.fibritel.com
@@ -2305,6 +2306,7 @@ speedtest.tularosa.net
 speedtest.tulix.com
 speedtest.turnkeyinternet.net
 speedtest.tushino.com
+speedtest.tvtcable.com
 speedtest.twds.com.tw
 speedtest.twerion.net
 speedtest.twinvalley.net
