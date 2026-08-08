@@ -1155,6 +1155,7 @@ speedtest-huachuca.cochise.net
 speedtest-hv-1.zoominternet.net
 speedtest-iad.acreto.net
 speedtest-iad.dish-wireless.com
+speedtest-iad.sectrify.com
 speedtest-ict.ideatek.com
 speedtest-intl.xl.co.id
 speedtest-iowa.airstreamcomm.net
@@ -1303,6 +1304,7 @@ speedtest-sg1.simba.sg
 speedtest-sin.melbicom.net
 speedtest-sjc.acreto.net
 speedtest-sjc.dish-wireless.com
+speedtest-sjc.sectrify.com
 speedtest-sossano.wifiweb.it
 speedtest-srv-a.homeworks.org
 speedtest-srv01.tut.net
@@ -2215,6 +2217,7 @@ speedtest.spacenet.ru
 speedtest.spd.net.tr
 speedtest.spectra.co
 speedtest.spectrumvoip.com
+speedtest.speedcom.in
 speedtest.speedfi.xyz
 speedtest.spl.vodafone.nl
 speedtest.springcom.com
