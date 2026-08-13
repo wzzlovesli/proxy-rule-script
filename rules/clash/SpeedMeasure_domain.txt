@@ -161,6 +161,7 @@ balikesirspeedtest.fixnet.com.tr
 bass.fc-net.fr
 bassoon-sg-1.violin.co.th
 beijing.unicomtest.com
+ber-tc.wsqm.telekom-dienste.de
 ber.wsqm.telekom-dienste.de
 beruritelecom.brsserver.com.br
 blar-speed-01.gpcom.com
@@ -702,6 +703,7 @@ sc-speedtest.homeplus.net.tw
 scnx-ng01.homesc.com
 sea-speedtest.net.sangoma.net
 sea.st.spacecore.pro
+seacaftest.aptalaska.net
 seawa00-speedtest.etstelco.com
 secretspeedsterserver2364.cpe.nj.crnrstn.comcast.net
 seednet-tc1.seed.net.tw
@@ -1504,6 +1506,7 @@ speedtest.bwtelcom.net
 speedtest.byteshield.ro
 speedtest.c-con.uniquebroadband.in
 speedtest.ca-tr.kamatera.com
+speedtest.ca1.colobix.com
 speedtest.cablevision.at
 speedtest.cadence.net.uk
 speedtest.capti.com.au
@@ -2347,6 +2350,7 @@ speedtest.us.mirhosting.net
 speedtest.us.novoserve.com
 speedtest.us.openinfra.com
 speedtest.us310.lax.us.ctcsci.com
+speedtest.usc-dfw1.pllx.net
 speedtest.uv.es
 speedtest.uvfiber.com
 speedtest.uzmansoft.net
@@ -2652,6 +2656,7 @@ speedtest3.lepida.it
 speedtest3.myninestar.net
 speedtest3.networks.bt.com
 speedtest3.point-broadband.com
+speedtest3.ptd.net
 speedtest3.sasknet.sk.ca
 speedtest3.vodafone.com.tr
 speedtest3.westmancom.com
@@ -2982,6 +2987,7 @@ sthalifaxwireless.rogers.com
 sthamilton.netcrawler.ca
 sthamilton.rogers.com
 sthamiltonwireless.rogers.com
+stintl.ospot.in
 stkanata.netcrawler.ca
 stkanata.rogers.com
 stkanatawireless.rogers.com
@@ -3271,6 +3277,7 @@ velocidade.rdctelecomce.com.br
 velocidade.rltelecom.net.br
 velocidade.sejalivretelecom.com.br
 velocidade.softtelecom.net.br
+velocidade.tecsattelecom.com.br
 velocidade.tecsattelecom.net.br
 velocidade.tntelecomfortaleza.com.br
 velocidade.webzoomtelecom.com.br
