@@ -1024,6 +1024,7 @@ speed10.aitspl.in
 speed10.gonetspeed.com
 speed11.gonetspeed.com
 speed12.gonetspeed.com
+speed13.gonetspeed.com
 speed2.dg-sys.net
 speed2.fiberlink.pl
 speed2.netlixor.de
@@ -1629,6 +1630,7 @@ speedtest.e-net.net.in
 speedtest.ebox.ca
 speedtest.ecfaccess.net
 speedtest.echonet.co.in
+speedtest.ecmnet.com.br
 speedtest.ed.shawcable.net
 speedtest.ediscom.net
 speedtest.edv-kossmann.de
