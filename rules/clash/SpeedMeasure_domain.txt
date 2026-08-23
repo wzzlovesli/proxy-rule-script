@@ -135,6 +135,7 @@ albynynp-ookla01.gonetspeed.com
 aldlmi-speedtest-ookla-01.st.charter.com
 alln-ks-st.highlinefast.com
 altoonaspeedtest.crowsnestbb.net
+alzenspeedtest.duckdns.org
 ams-eq6-tptest1.31173.se
 ams-speedtest.isp.htb.systems
 amsspeed.sharktech.net
@@ -1603,6 +1604,7 @@ speedtest.del.excitel.in
 speedtest.deltacable.com
 speedtest.deltatelecomam.com.br
 speedtest.dfn.nl
+speedtest.dfw.fdcservers.net
 speedtest.dfw1.sonic.net
 speedtest.dfw2.sonic.net
 speedtest.dg-sys.net
@@ -1614,6 +1616,7 @@ speedtest.digitalconnections.net
 speedtest.dimdams.com
 speedtest.dl.gtel.in
 speedtest.dllstx97.metronetinc.com
+speedtest.dme.fdcservers.net
 speedtest.dolomitinet.it
 speedtest.dongfong.com.tw
 speedtest.drei.at
@@ -1694,6 +1697,7 @@ speedtest.fonira.at
 speedtest.fortdodgefiber.net
 speedtest.foxcell.net
 speedtest.foxnettelecom.net.br
+speedtest.fr8.fdcservers.net
 speedtest.fra.plusnet.de
 speedtest.fra01.datascheune.de
 speedtest.fra01.fusionflare.cloud
@@ -1759,6 +1763,7 @@ speedtest.hizhosting.com
 speedtest.hk.chinamobile.com
 speedtest.hk210.hkg.cn.ctcsci.com
 speedtest.hk212.hkg.cn.nerocloud.io
+speedtest.hkg.fdcservers.net
 speedtest.hkg01.node.as9516.com
 speedtest.hlinknet.com
 speedtest.hnd.fdcservers.net
@@ -1917,6 +1922,7 @@ speedtest.macapatelecom.net.br
 speedtest.macht-dicht.de
 speedtest.macpaw.com
 speedtest.macrosignal.net
+speedtest.mad.fdcservers.net
 speedtest.mad2.edgoo.net
 speedtest.maisnetfibra.net.br
 speedtest.markahost.com.tr
@@ -2082,6 +2088,7 @@ speedtest.oswgilaa.metronetinc.com
 speedtest.ot01.zaq.ad.jp
 speedtest.oxon3.net
 speedtest.p1.mhn.cloud
+speedtest.pa10.fdcservers.net
 speedtest.pa5.as198831.net
 speedtest.packetworks.net
 speedtest.palmerone.com
@@ -2176,6 +2183,7 @@ speedtest.sc1.loopinternet.com
 speedtest.schlueter-server.de
 speedtest.scotnet.co.uk
 speedtest.sea.accretive-networks.net
+speedtest.sea.fdcservers.net
 speedtest.sea1.hivelocity.net
 speedtest.sea1.nitelusa.net
 speedtest.seaside.ns.ca
@@ -2630,6 +2638,7 @@ speedtest2.lightningfibre.net.uk
 speedtest2.mdcc.de
 speedtest2.mfbroadband.com
 speedtest2.micronet.in
+speedtest2.myninestar.net
 speedtest2.mywnz.com
 speedtest2.nckcn.com
 speedtest2.networks.bt.com

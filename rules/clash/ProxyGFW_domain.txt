@@ -12416,6 +12416,7 @@
 +.hippyhillscomix.com
 +.hipzoom.net
 +.hiroshimabank.co.jp
++.historylines.net
 +.historyofdota.com
 +.historyofdota.net
 +.historyofdota.org
@@ -15270,6 +15271,7 @@
 +.kiwi.jp
 +.kiwi.kz
 +.kiwibrowser.com
++.kiwix.org
 +.kiyobank.co.jp
 +.kk-whys.co.jp
 +.kk.stream
@@ -16568,6 +16570,7 @@
 +.mcdonaldsapps.com
 +.mcdonaldsarabia.com
 +.mcdonaldsparties.co.nz
++.mceindex.com
 +.mcfog.com
 +.mcisco.com
 +.mcpeaceofmind.com
