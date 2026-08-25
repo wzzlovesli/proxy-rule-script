@@ -1594,6 +1594,7 @@ speedtest.dataspindle.com
 speedtest.datatr.com
 speedtest.dathannetworks.com
 speedtest.datonofibra.com
+speedtest.datos101.com
 speedtest.dcnord.ca
 speedtest.dcsi.net.au
 speedtest.ddl.red
@@ -1782,6 +1783,7 @@ speedtest.hyperwave.uk
 speedtest.hytekcomputers.com
 speedtest.i3broadband.com
 speedtest.i4networks.nl
+speedtest.iad.fdcservers.net
 speedtest.iad01.wdc.pilotfiber.com
 speedtest.ibertic.es
 speedtest.ibltelecom.com.br
