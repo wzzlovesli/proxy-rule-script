@@ -831,6 +831,7 @@ sp3.novaconn.it
 sp5ookla.flynetwork.it
 sp7.atcc-gns.net
 spa.lvh.lol
+spd-100g-ookla.stelogy.io
 spd-ookla.stelogy.io
 spd-phnhazva.wyyerd.io
 spd-phnxaz19.wyyerd.io
@@ -1168,6 +1169,7 @@ speedtest-iad.sectrify.com
 speedtest-ict.ideatek.com
 speedtest-intl.xl.co.id
 speedtest-iowa.airstreamcomm.net
+speedtest-ir-fra03.as207740.de
 speedtest-ist-34-node.netzone.com.tr
 speedtest-ist1.netlojik.com
 speedtest-it.the.hosting
@@ -1719,6 +1721,7 @@ speedtest.gelicon.ru
 speedtest.geneseo.com
 speedtest.getstreamhosting.com
 speedtest.getwireless.net
+speedtest.ggcmedia.net
 speedtest.giganetbroadband.net
 speedtest.giganetesmejor.com
 speedtest.gigas.com
