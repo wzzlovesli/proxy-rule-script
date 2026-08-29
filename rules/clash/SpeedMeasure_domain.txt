@@ -198,6 +198,7 @@ clg-105-sptest.ncri.com
 cltn-speedtest-02.brightspeed.com
 cmrn-speedtest-02.brightspeed.com
 cnk1speedtest.turktelekom.com.tr
+cns-speedtest.duckdns.org
 crls-speedtest-02.brightspeed.com
 csfw.fj.chinamobile.com
 csl.hkspeedtest.com
@@ -615,6 +616,7 @@ ookla.p2.neptune.net.au
 ookla.paulonet.srv.br
 ookla.pgservicos.com.br
 ookla.playmaisreverso.net.br
+ookla.premierdc.com.tr
 ookla.pvu.as6453.net
 ookla.pye.as6453.net
 ookla.radishnetworks.net
@@ -2492,6 +2494,7 @@ speedtest01.dns-net.de
 speedtest01.dro3.solcon.nl
 speedtest01.ehtel.ca
 speedtest01.imon.net
+speedtest01.mel01.nexthop.net.au
 speedtest01.mel1.spintel.net.au
 speedtest01.netmountains.space
 speedtest01.o-net.ca
@@ -2503,6 +2506,7 @@ speedtest01.srv.dllstx.alticeusa.net
 speedtest01.srv.hcvlny.alticeusa.net
 speedtest01.srv.phnxaz.alticeusa.net
 speedtest01.srv.snjsca.alticeusa.net
+speedtest01.syd01.nexthop.net.au
 speedtest01.syd1.spintel.net.au
 speedtest01.tek.net.tr
 speedtest01.wowrack.com
@@ -2849,6 +2853,7 @@ spt-jfk1.edgeuno.com
 spt-lax1.edgeuno.com
 spt-lon1.edgeuno.com
 spt-mia.edgeuno.com
+spt-noc.umal-nds.com
 spt-nyc.as13786.net
 spt-sjo1.edgeuno.com
 spt.valexcloud.com
