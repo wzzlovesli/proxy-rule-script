@@ -1773,6 +1773,7 @@ speedtest.heuer-und-sack.de
 speedtest.hiboonetworks.com
 speedtest.hivedatacenter.com
 speedtest.hizhosting.com
+speedtest.hk.aixxycode.id
 speedtest.hk.chinamobile.com
 speedtest.hk210.hkg.cn.ctcsci.com
 speedtest.hk212.hkg.cn.nerocloud.io
@@ -2214,6 +2215,7 @@ speedtest.serversistemleri.com
 speedtest.sesfiber.com.br
 speedtest.sewan.es
 speedtest.sewan.fr
+speedtest.sg.aixxycode.id
 speedtest.sg.fdcservers.net
 speedtest.sg.hsp.net.id
 speedtest.sg220.sgp.sg.ctcsci.com

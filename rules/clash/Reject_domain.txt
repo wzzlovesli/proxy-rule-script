@@ -126780,7 +126780,6 @@
 +.live-cams-1.livejasmin.com
 +.live-en.com
 +.live-eu.blushtales.com
-+.live-eu.cryptovot.com
 +.live-eu.familynonstop.com
 +.live-eu.gamesvot.com
 +.live-eu.pornamigo.com
@@ -126800,7 +126799,6 @@
 +.live.careplusvn.com
 +.live.casualreadings.com
 +.live.comunicaciones.jetstereo.com
-+.live.cryptovot.com
 +.live.cxo.name
 +.live.demand.supply
 +.live.ec2.cxo.name
