@@ -923,6 +923,7 @@ speed.dedi.zone
 speed.econett.com.br
 speed.farknet.net
 speed.fgtelecom.com.br
+speed.fiber23.it
 speed.fibraencasa.cr
 speed.flix.net.tr
 speed.flttelecom.com.br
@@ -2081,6 +2082,7 @@ speedtest.numarohost.com
 speedtest.nxt-telecom.com
 speedtest.ny.sptrnd.id
 speedtest.nyc.elcro.digital
+speedtest.oa.net
 speedtest.oc.edu
 speedtest.oceansls.com
 speedtest.octaplus.uk
@@ -2162,6 +2164,7 @@ speedtest.puraknet.com.br
 speedtest.qld.checknetworks.au
 speedtest.qld.edgeix.net.au
 speedtest.quadro.net
+speedtest.quickqc.nl
 speedtest.rackoona.com
 speedtest.raftarnet.com
 speedtest.rajeshcable.com
