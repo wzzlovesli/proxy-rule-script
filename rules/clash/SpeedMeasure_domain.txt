@@ -186,6 +186,7 @@ ch1.chtm.hinet.net
 chd.softechinfosol.com
 chdspd.myinternet.services
 chi-speedtest.net.sangoma.net
+chi-speedtest.northstate.net
 chi-speedtest.shifthosting.com
 chicago1.cabospeed.com
 chich0003ooklaspeedtestserver01.wiline.com
@@ -558,6 +559,7 @@ ookla.a56.as6453.net
 ookla.aeq.as6453.net
 ookla.alcloud.com.br
 ookla.amazoniasat-isp.com.br
+ookla.ams.atharva.co.id
 ookla.apuacom.it
 ookla.araujotelecom.com.br
 ookla.as400442.net
@@ -653,6 +655,7 @@ ooklaspeed.ttron.eu
 ooklaspeedtest-cdv.quebeccloud.com
 ooklaspeedtest-ist1.quickzone.net
 ooklaspeedtest.as198053.net
+ooklaspeedtest.d-pcomm.com
 ooklaspeedtest.wilcowireless.com
 ooklatins.redeconexaonet.com
 ooklay2.skynet360.com
@@ -761,6 +764,7 @@ sp.provedordantasnet.com.br
 sp.tulipgroup.io
 sp.yakshtel.com
 sp01.rbfibra.net.br
+sp1-de.delska.com
 sp1-mum.youbroadband.in
 sp1.adnbroadband.com
 sp1.alcort.es
