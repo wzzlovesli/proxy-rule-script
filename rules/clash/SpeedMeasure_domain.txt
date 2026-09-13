@@ -2051,6 +2051,7 @@ speedtest.netlen.com.tr
 speedtest.netlinkce.com.br
 speedtest.netone.nl
 speedtest.netplus.co.in
+speedtest.netpool.in
 speedtest.netrack.ru
 speedtest.netravo.com
 speedtest.nettvox.com
