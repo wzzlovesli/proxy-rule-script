@@ -695,6 +695,7 @@ rcmt-speedtest-02.brightspeed.com
 redeultramf.net.br
 reflector.aberythmic.com
 reikonteste.reikoninternet.com.br
+reunion3.d2m.c2d.liveservices.fr
 riorancho1.cabospeed.com
 rsghost.rsgsn.com
 rspeed.mi-group.com.tr
@@ -1797,6 +1798,7 @@ speedtest.hostabil.net
 speedtest.hostdzire.com
 speedtest.hostgrap.com
 speedtest.hostimux.com
+speedtest.huxleycommunications.net
 speedtest.hynetwifi.it
 speedtest.hyperwave.uk
 speedtest.hytekcomputers.com
@@ -1914,6 +1916,7 @@ speedtest.leer.jonasdevries.de
 speedtest.lekloud.net
 speedtest.lhr1.uk.as61049.net
 speedtest.lightsource1.com
+speedtest.limericknetworks.com
 speedtest.link.bm
 speedtest.linkamos.com.br
 speedtest.linknetbv.com
@@ -1982,6 +1985,7 @@ speedtest.milaninternet.com
 speedtest.milink1.com
 speedtest.milkywan.fr
 speedtest.miplhr.com
+speedtest.miriquidi-net.works
 speedtest.mirror.digitalpacific.com.au
 speedtest.mirror.serversaustralia.com.au
 speedtest.mismenet.net
@@ -2821,6 +2825,7 @@ speedtestmoh1.airtelbroadband.in
 speedtestmrd1.airtel.in
 speedtestmrt1.airtel.in
 speedtestmulticraft.multifi.in
+speedtestmum.actcorp.in
 speedtestmum.citynet.co.in
 speedtestmum.mahabalnet.in
 speedtestmum.meghbelabroadband.in
