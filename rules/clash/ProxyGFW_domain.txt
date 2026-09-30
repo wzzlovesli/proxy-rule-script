@@ -12987,6 +12987,7 @@
 +.huaren4us.com
 +.huarenav.com
 +.huarenporn.com
++.huarun.win
 +.huashangnews.com
 +.huashundg.com
 +.huasing.org
@@ -16735,6 +16736,7 @@
 +.met-nude.com
 +.meta.ai
 +.meta.com
++.metaaivm.com
 +.metabora.io
 +.metabrainz.org
 +.metacafe.com
@@ -17824,6 +17826,7 @@
 +.muscache.com
 +.muscdn.com
 +.musclegirlflix.com
++.muse.ai
 +.mushroomtrack.com
 +.mushymush.tv
 +.music.amazon.com
@@ -19522,6 +19525,7 @@
 +.openbook.org.tw
 +.opencas.io
 +.openclaw.ai
++.opencode.ai
 +.opencollective.com
 +.opencreate.org
 +.opencritic.com
@@ -29954,6 +29958,8 @@ foxnewsplayer-a.akamaihd.net
 gamedownloads-rockstargames-com.akamaized.net
 gamer-cds.cdn.hinet.net
 gamer2-cds.cdn.hinet.net
+geminiweb-pa.clients.google.com
+geminiweb-pa.clients6.google.com
 gigabyte2.azureedge.net
 github-api.arkoselabs.com
 github-cloud.s3.amazonaws.com

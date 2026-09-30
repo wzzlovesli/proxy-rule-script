@@ -803,6 +803,7 @@ dl.flathub.org
 dl.getaurora.dev
 dl.gl-inet.com
 dl.google.com
+dl.heycue.io
 dl.iina.io
 dl.imobie.com
 dl.l.google.com
@@ -867,6 +868,7 @@ download.hikarifield.co.jp
 download.iboysoft.com
 download.jetbrains.com
 download.kde.org
+download.manus.im
 download.maxmind.com
 download.mersenne.ca
 download.mikrotik.com
