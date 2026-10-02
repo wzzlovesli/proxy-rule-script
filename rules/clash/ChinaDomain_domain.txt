@@ -12362,6 +12362,7 @@
 +.alltobid.com
 +.alltosun.com
 +.alltuu.cc
++.alltuu.cn
 +.alltuu.com
 +.alltuu.site
 +.allvalue.com
@@ -41868,6 +41869,7 @@
 +.guitarq.com
 +.guitongmy.com
 +.guitu18.com
++.guituu.com
 +.guiweilian.com
 +.guixiaozi.com
 +.guixue.com
@@ -75770,6 +75772,8 @@
 +.piscesys.com
 +.pisx.com
 +.pitayaio.com
++.piufoto.com
++.piuphoto.com
 +.piuqiupia.com
 +.pivotacp.com
 +.pivotautomotive.com
@@ -85134,6 +85138,7 @@
 +.showl.com
 +.showmeai.tech
 +.showmebug.com
++.showmephoto.com
 +.showmesse.net
 +.showroomshanghai.com
 +.showse.com
@@ -86067,6 +86072,7 @@
 +.sinf.net
 +.sinflb.net
 +.sinforcon.com
++.singaphoto.com
 +.singapore01.kuaipandata.com
 +.singaporepaya.com
 +.singbon.com
@@ -94866,6 +94872,7 @@
 +.tupian365.com
 +.tupiancunchu.com
 +.tupianyun.com
++.tupianzhibo.com
 +.tupianzj.com
 +.tupu360.com
 +.tuputech.com
@@ -97527,6 +97534,8 @@
 +.vpea.ca
 +.vpgame.com
 +.vpgamecdn.com
++.vphant.cn
++.vphant.com
 +.vpiaotong.com
 +.vpimg1.com
 +.vpimg2.com
@@ -106075,6 +106084,7 @@
 +.xx7z.co
 +.xx8g.com
 +.xxahsk.com
++.xxalbum.com
 +.xxart.net
 +.xxbiquge.com
 +.xxbmm.com
