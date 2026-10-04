@@ -27789,6 +27789,7 @@
 +.wikis.tw
 +.wikisexguide.com
 +.wikisource.org
++.wikispecies.org
 +.wikissl.com
 +.wikiunblocked.org
 +.wikiversity.org
