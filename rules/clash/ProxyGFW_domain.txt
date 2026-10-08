@@ -2399,6 +2399,7 @@
 +.appmedia.jp
 +.appmediagroup.com
 +.approvedusedbmw.com
++.approveit.today
 +.apps.evozi.com
 +.apps5.oingo.com
 +.appshopper.com
@@ -16670,6 +16671,7 @@
 +.mega.co.nz
 +.mega.io
 +.mega.nz
++.megaad.nz
 +.megacamz.com
 +.megaeth.com
 +.megafilmporno.com
@@ -16680,12 +16682,14 @@
 +.megamarket.ru
 +.megamarket.tech
 +.megamon.co.kr
++.megapay.nz
 +.megaphone.fm
 +.megapornfreehd.com
 +.megaporno.com.br
 +.megapornpics.com
 +.megaproxy.com
 +.megarotic.com
++.megas4.com
 +.megasrv.de
 +.megatitsminka.com
 +.megaupload.com
@@ -24315,6 +24319,7 @@
 +.suruga-ya.com
 +.suruga-ya.jp
 +.surugabank.co.jp
++.surveymonkey.com
 +.sushi.ski
 +.susiewildin.com
 +.sustainability.google
@@ -25502,6 +25507,7 @@
 +.transangels.com
 +.transarmuito.com
 +.transcamslive.com
++.transfer.it
 +.transferwise.com
 +.translate.goog
 +.translatetheweb.com
@@ -26412,6 +26418,7 @@
 +.vanityfair.com
 +.vanpeople.com
 +.vansky.com
++.vanta.com
 +.vastenm.com
 +.vaticannews.va
 +.vatn.org

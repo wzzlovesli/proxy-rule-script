@@ -1783,6 +1783,7 @@ release-assets.githubusercontent.com
 release.arcboxcdn.com
 release.runcloud.io
 releases.arc.net
+releases.claude.com
 releases.grapheneos.org
 releases.landrop.app
 releases.obsidian.md
