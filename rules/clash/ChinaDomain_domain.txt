@@ -116278,6 +116278,8 @@ lexuat.download.prss.microsoft.com
 lf16-effectcdn.byteeffecttos-g.com
 lf16-pkgcdn.pitaya-clientai.com
 local.adguard.org
+localhost.weixin.qq.com
+localhost.work.weixin.qq.com
 lv.queniujq.cn
 mam.netease.com
 maps.apple.com
